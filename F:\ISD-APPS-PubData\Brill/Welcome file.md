@@ -9,10 +9,12 @@ Brill's metadata had four issues that rendered invalid XML result documents and 
 1. Included an output statement from the brill.xsl file in order to correct the public-id and system-id provided in the original files sent from the publisher. The files initially were invalid and the transfomration corrects this by using the name attribute "archive-original" and listing utput to correct public-id and system-id.
 *
 
-#### *For example:* The Output Statement
+#### *For example:* 
+*
+a. The Output Statement*
+
  <xsl:output version="1.0" doctype-public="-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN"  
 doctype-system = "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1-mathml3.dtd" encoding="UTF-8" name="archive-original" method="xml" indent="yes"/>
-
 
 <xsl:result-document method="xml" encoding="UTF-8" indent="yes" 
 href="file:///{$workingDir}A-{replace($originalFilename,'(.*/)(.*)(\.xml)' , '$2')}_{position()}.xml" format="archive-original">
@@ -25,6 +27,5 @@ prodcuces valid JATS Journal Publishing files
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDExMTQxMjgsLTE3NjYyMTkyMzddfQ
-==
+eyJoaXN0b3J5IjpbMTYyMzgwMTA0MywtMTc2NjIxOTIzN119
 -->
