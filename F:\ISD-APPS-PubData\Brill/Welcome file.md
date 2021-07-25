@@ -10,11 +10,8 @@ Brill's metadata had four issues that rendered invalid XML result documents and 
 *
 
 #### *For example:* 
-*
-a. The Output Statement*
-
- <xsl:output version="1.0" doctype-public="-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN"  
-doctype-system = "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1-mathml3.dtd" encoding="UTF-8" name="archive-original" method="xml" indent="yes"/>
+ <xsl:output version="1.0" doctype-public="-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN"    
+ doctype-system="http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1-mathml3.dtd" encoding="UTF-8" name="archive-original" method="xml" indent="yes"/>
 
 <xsl:result-document method="xml" encoding="UTF-8" indent="yes" 
 href="file:///{$workingDir}A-{replace($originalFilename,'(.*/)(.*)(\.xml)' , '$2')}_{position()}.xml" format="archive-original">
@@ -26,6 +23,7 @@ prodcuces valid JATS Journal Publishing files
 4.  Matched author[@id] to affiliation[@rid] by using the current( ) function within the xpath to choose affiliation. (The template name that accomplishes this is"brill-author-name-info")
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzgwMTA0MywtMTc2NjIxOTIzN119
+eyJoaXN0b3J5IjpbMzA4ODQxODQ5LC0xNzY2MjE5MjM3XX0=
 -->
