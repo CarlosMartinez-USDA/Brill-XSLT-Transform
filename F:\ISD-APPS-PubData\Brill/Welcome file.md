@@ -10,7 +10,8 @@ Brill's metadata had four issues that rendered invalid XML result documents and 
 *
 
 #### *For example:* The Output Statement
- <xsl:output version="1.0" doctype-public="-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN"  doctype-system="http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1-mathml3.dtd" encoding="UTF-8" name="archive-original" method="xml" indent="yes"/>
+ <xsl:output version="1.0" doctype-public="-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN"  
+doctype-system = "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1-mathml3.dtd" encoding="UTF-8" name="archive-original" method="xml" indent="yes"/>
 
 
 <xsl:result-document method="xml" encoding="UTF-8" indent="yes" 
@@ -24,5 +25,6 @@ prodcuces valid JATS Journal Publishing files
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTUzNzk1NiwtMTc2NjIxOTIzN119
+eyJoaXN0b3J5IjpbLTE4NDExMTQxMjgsLTE3NjYyMTkyMzddfQ
+==
 -->
