@@ -5,8 +5,9 @@ Repository for stylesheet development, split off of https://github.com/isdapps/P
 
 Brill's metadata had four issues that rendered invalid XML result documents and invalid archival copies of the source document. 
 
-### Corrections Summary
-1. Included an output statement from the brill.xsl file in order to correct the public-id and system-id provided in the original files sent from the publisher. The files initially were invalid and the transfomration corrects this by using the name attribute "archive-original" and listing utput to correct public-id and system-id.
+## Customizations
+1. Included an 
+2. Included an output statement from the brill.xsl file in order to correct the public-id and system-id provided in the original files sent from the publisher. 
 
 #### *Output Statement:* 
     <xsl:output version="1.0" encoding="UTF-8" name="archive-original" method="xml" indent="yes"
@@ -28,5 +29,5 @@ prodcuces valid JATS Journal Publishing files
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4MjM4ODA4XX0=
+eyJoaXN0b3J5IjpbMjM3MjcwMzU4XX0=
 -->
