@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Volumetric water control in a large-scale open canal irrigation system with many
+         smallholders: The case of Chancay-Lambayeque in Peru</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart type="given">Jeroen</namePart>
+    <namePart type="family">Vos</namePart>
+    <displayForm>Vos, Jeroen</displayForm>
+    <affiliation>Irrigation and Water Engineering Group, Centre for Water and Climate,
+               Wageningen University, Droevendaalsesteeg 3a, 6708 PB Wageningen, The
+               Netherlands</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Linden</namePart>
+    <namePart type="family">Vincent</namePart>
+    <namePart type="termsOfAddress">Jr.</namePart>
+    <displayForm>Vincent, Linden, Jr.</displayForm>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre>article</genre>
+  <abstract>Volumetric water control (VWC) is widely seen as a means to increase productivity
+         through flexible scheduling and user incentives to apply just enough water. However, the
+         technical and social requirements for VWC are poorly understood. Also, many experts assert
+         that VWC in large-scale open canals with many smallholders is not feasible. This article
+         debates the practice of VWC, drawing on field studies in the arid North Coast of Peru. Here
+         the large-scale Chancay-Lambayeque irrigation system achieved high allocation, distribution
+         and financial performance with on demand delivery to some 22,000 smallholdings, under a VWC
+         approach, with full cost recovery for operation and maintenance. This study shows there are
+         options to promote VWC if its different elements – volumetric allocation, distribution,
+         metering and pricing – are planned together. </abstract>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Agricultural Water Management</title>
+    </titleInfo>
+    <originInfo>
+      <publisher>Elsevier B.V.</publisher>
+    </originInfo>
+    <identifier type="issn">0378-3774</identifier>
+    <part>
+      <detail type="volume">
+        <number>98</number>
+        <caption>v.</caption>
+      </detail>
+      <detail type="issue">
+        <number>4</number>
+        <caption>no.</caption>
+      </detail>
+      <extent unit="pages">
+        <start>705</start>
+        <end>714</end>
+      </extent>
+      <text type="year">2011</text>
+      <text type="month">February</text>
+    </part>
+  </relatedItem>
+  <identifier type="pii">S0378-3774(10)00366-5</identifier>
+  <identifier type="doi">10.1016/j.agwat.2010.11.008</identifier>
+  <location>
+    <url>http://dx.doi.org/10.1016/j.agwat.2010.11.008</url>
+  </location>
+  <extension>
+    <vendorName/>
+    <archiveFile>../sampleXML/Elsevier_pubmed.xml</archiveFile>
+  </extension>
+</mods>

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJSC</journal-id>
+      <journal-title>Indian Journal of Soil Conservation</journal-title>
+      <issn pub-type="ppub">0970-3349</issn>
+      <issn pub-type="epub">0976-1721</issn>
+      <publisher>
+        <publisher-name>Indian Associations of Soil &amp; Water Conservationists</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijsc-47-2-011</article-id>
+      <title-group>
+        <article-title>Assessment of erosion prone areas at hillslope level using WEPP model-A case study in Patiala-ki-Rao watershed of Shivalik foot-hills, India</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sushanth</surname>
+            <given-names>Kallem</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1,</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bhardwaj</surname>
+            <given-names>Anil</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rao</surname>
+            <given-names>B. Krishna</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff001">
+        <sup>1</sup>
+        <instname>Water and Land Management Training and Research Institute</instname>, <instcity>Hyderabad</instcity>-<instpincode>500030</instpincode>, <inststate>Telangana</inststate></aff>
+      <aff id="aff002">
+        <sup>2</sup>
+        <deptname>Department of Soil and Water Engineering</deptname>, <instname>Punjab Agricultural University</instname>, <instcity>Ludhiana</instcity>-<instpincode>141004</instpincode>, <inststate>Punjab</inststate></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding author: (Kallem Sushanth) E-mail: <email>kallemsushi@gmail.com</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 9 April, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>8</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>2</issue>
+      <fpage>186</fpage>
+      <lpage>193</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>Soil erosion is the main reason for land degradation in any watershed, which affects the agricultural productivity to a great extent. Identification of erosion prone areas is important to implement management strategies for conserving natural resources in a watershed. In the present study, critical erosion prone areas have been assessed in Patiala-ki-Rao watershed located in Shivalik foot-hills, using geographic information system (GIS) and water erosion prediction project (WEPP) model. The simulated sediment yield from WEPP model seems to be moderate (16.80 t ha<sup>−1</sup>) at the watershed outlet, although the sediment yields at foot of the hillslopes is quite high ranging between 0.03 and 165.53 t ha-1. Detailed distribution of the seriously eroded areas within the watershed was obtained in the form of different erosion classes by analyzing hillslope level sediment yield information in GIS environment. The results showed that about 35.96% area of Patiala-ki-Rao watershed is under critical erosion zone. Further, assessment about effect of land-use, slope and soil characteristics on sediment yields of different erosion classes showed that built-up, agriculture and fallow lands with high slopes and sand content are more prone to soil erosion. Simulating the sediment yield at hillslope level provided an idea about the critical erosion prone areas within watershed, and thus appropriate management strategies can be planned for sustainable livelihood of the inhabitants in the watershed.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Hillslopes</kwd>
+        <kwd>Sediment yield</kwd>
+        <kwd>Soil erosion</kwd>
+        <kwd>Watershed</kwd>
+        <kwd>WEPP</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="8" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

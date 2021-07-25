@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Detection of Brucella antibodies in selected wild animals and avian species in Pakistan</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Shahzad</namePart>
+      <namePart type="family">Ali</namePart>
+      <displayForm>Ali, Shahzad</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Samra</namePart>
+      <namePart type="family">Saleem</namePart>
+      <displayForm>Saleem, Samra</displayForm>
+      <affiliation>University of Veterinary and Animal Sciences, Lahore, Pakistan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Muhammad</namePart>
+      <namePart type="family">Imran</namePart>
+      <displayForm>Imran, Muhammad</displayForm>
+      <affiliation>University of Veterinary and Animal Sciences, Lahore, Pakistan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Muhammad</namePart>
+      <namePart type="family">Rizwan</namePart>
+      <displayForm>Rizwan, Muhammad</displayForm>
+      <affiliation>University of Veterinary and Animal Sciences, Lahore, Pakistan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Khizar</namePart>
+      <namePart type="family">Iqbal</namePart>
+      <displayForm>Iqbal, Khizar</displayForm>
+      <affiliation>University of Veterinary and Animal Sciences, Lahore, Pakistan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ghulam</namePart>
+      <namePart type="family">Qadir</namePart>
+      <displayForm>Qadir, Ghulam</displayForm>
+      <affiliation>University of Veterinary and Animal Sciences, Lahore, Pakistan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Haroon</namePart>
+      <namePart type="family">Ahmad</namePart>
+      <displayForm>Ahmad, Haroon</displayForm>
+      <affiliation>Department of Biosciences, COMSATS Institute of Information Technology, Park Road, Chak-Shahzad, Islamabad, Pakistan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sajid</namePart>
+      <namePart type="family">Umar</namePart>
+      <displayForm>Umar, Sajid</displayForm>
+      <affiliation>Pir Mehr Ali Shah-Arid Agriculture University, Rawalpindi, Pakistan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Waseem Ahmad</namePart>
+      <namePart type="family">Khan</namePart>
+      <displayForm>Khan, Waseem Ahmad</displayForm>
+      <affiliation>University of Veterinary and Animal Sciences, Lahore, Pakistan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Iahtasham</namePart>
+      <namePart type="family">Khan</namePart>
+      <displayForm>Khan, Iahtasham</displayForm>
+      <affiliation>University of Veterinary and Animal Sciences, Lahore, Pakistan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Heinrich</namePart>
+      <namePart type="family">Neubauer</namePart>
+      <displayForm>Neubauer, Heinrich</displayForm>
+      <affiliation>Institute of Bacterial Infection and Zoonoses, Friedrich-Loeffler-Institute, Jena, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Brucellosis is a zoonotic disease which affects humans, farm animals and wildlife as well. In Pakistan, the status of human and farm animal brucellosis is documented but the information about brucellosis in wildlife is lacking. To access the seroprevalence of Brucella antibodies in avian (turkeys, peafowl, guineafowl, mallard ducks and Indian blue rock pigeon) and selected wild species (reptiles and amphibians), a total of 117 serum samples (reptile = 34, amphibian = 04, avian n = 79) were collected from Karachi and Pattoki regions of Pakistan. Serum samples were screened for Brucella antibodies using Rose Bengal plate test (RBPT) and 11.1% serum samples were found positive. Overall, 2.5% birds, 29.4% reptiles and 25% amphibians were seropositive for Brucella antibodies. This is first report of detection of Brucella antibodies in reptiles and amphibians in Pakistan.</abstract>
+   <subject>
+      <topic>Amphibian</topic>
+   </subject>
+   <subject>
+      <topic>Avian</topic>
+   </subject>
+   <subject>
+      <topic>Brucellosis</topic>
+   </subject>
+   <subject>
+      <topic>Pakistan</topic>
+   </subject>
+   <subject>
+      <topic>Reptiles</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>4</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>478</start>
+            <end>481</end>
+            <total>4</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-4-016</identifier>
+   <identifier type="doi">10.18805/ijar.B-799</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-799</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-4-016</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-4-016.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJSC</journal-id>
+         <journal-title>Indian Journal of Soil Conservation</journal-title>
+         <issn pub-type="ppub">0970-3349</issn>
+         <issn pub-type="epub">0976-1721</issn>
+         <publisher>
+            <publisher-name>Indian Associations of Soil &amp; Water Conservationists</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijsc-47-2-009</article-id>
+         <title-group>
+            <article-title>Energy saving in relation to soil carbon pools and enzymatic activities under different conservation tillages and nutrient management in tropical rice</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Das</surname>
+                  <given-names>Mahasweta</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Dash</surname>
+                  <given-names>P.K.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Bhattacharyya</surname>
+                  <given-names>P.</given-names>
+               </name>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Munda</surname>
+                  <given-names>S.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Padhi</surname>
+                  <given-names>S.R.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Padhi</surname>
+                  <given-names>P.P.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Das</surname>
+                  <given-names>Mrutyunjay</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Nayak</surname>
+                  <given-names>A.K.</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <aff>
+            <instname>ICAR-National Rice Research Institute</instname>, <instcity>Cuttack</instcity>-<instpincode>753006</instpincode>, <inststate>Odisha</inststate>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding author: E-mail: <email>pratap162001@gmail.com</email> (P. Bhattacharyya)</corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 9 April, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>8</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>47</volume>
+         <issue>2</issue>
+         <fpage>172</fpage>
+         <lpage>179</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>Soil energy saving, net carbon gain, soil organic carbon (SOC) pools, soil enzymatic activities and yield were quantified under five RCTs in two rice grown seasons at four crop growth stages. The treatments included conventional practice as control (CC), zero tillage (ZT), dry drill seeded rice with paired row dhaincha (DDS), biochar application (BC) and residue retention and incorporation (RT). SOC pools (microbial biomass carbon, readily mineralizable carbon) and soil enzymatic activities (dehydrogenase, fluorescein di-acetate, urease, β-glucosidase, phosphatase) were studied at active tillering, maximum tillering, panicle initiation and grain filling stages of rice. The energy ratio was highest in ZT practices for both the seasons, however, the net carbon gains were 6.9% and 16.6% higher in RT treatment over CC during kharif and rabi seasons, respectively. Grain yield was also 5.9% and 7.6% more in RT treatment than CC in the two seasons, respectively. There were yield reduction of 18.7% and 2.1% in ZT than CC for two consecutive wet and dry seasons, respectively, but at the same time energy input was lowest in ZT. The soil labile carbon pools as well as enzymatic activities were significantly higher at PI stage of crop growth and were significantly higher under RCTs over conventional control, which signified improvement of soil quality. Therefore, we can conclude that from environmental sustainability point of view, ZT and residue retention/incorporation could be the options to conserve soil carbon and health with initial marginal yield loss in rice-rice cropping system in tropical lowland having heavy textured soil in eastern India.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Energy savings Resource conservation technologies Rice Soil enzymatic activities SOC pools Zero tillage</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="8"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

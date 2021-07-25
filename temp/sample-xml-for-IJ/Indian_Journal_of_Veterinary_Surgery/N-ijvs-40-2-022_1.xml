@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Surgical management of midshaft femoral fracture in an Assamese macaque</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">V.</namePart>
+      <namePart type="family">Lalzawmliana</namePart>
+      <displayForm>Lalzawmliana, V.</displayForm>
+      <affiliation>Assistant Professor, Department of Surgery and Radiology, College of Veterinary Sciences and Animal Husbandry, R.K. Nagar, Agartala-799 008 (West Tripura)</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S. Warson</namePart>
+      <namePart type="family">Monsang</namePart>
+      <displayForm>Monsang, S. Warson</displayForm>
+      <affiliation>Associate Professor, Department of Surgery and Radiology, College of Veterinary Sciences and Animal Husbandry, R.K. Nagar, Agartala-799 008 (West Tripura)</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.</namePart>
+      <namePart type="family">Bhattacharya</namePart>
+      <displayForm>Bhattacharya, S.</displayForm>
+      <affiliation>Assistant Professor, Department of Surgery and Radiology, College of Veterinary Sciences and Animal Husbandry, R.K. Nagar, Agartala-799 008 (West Tripura)</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kajali</namePart>
+      <namePart type="family">Sarkar</namePart>
+      <displayForm>Sarkar, Kajali</displayForm>
+      <affiliation>Assistant Professor, Department of Surgery and Radiology, College of Veterinary Sciences and Animal Husbandry, R.K. Nagar, Agartala-799 008 (West Tripura)</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Justin B.</namePart>
+      <namePart type="family">William</namePart>
+      <displayForm>William, Justin B.</displayForm>
+      <affiliation>Professor, Department of Surgery and Radiology, College of Veterinary Sciences and Animal Husbandry, R.K. Nagar, Agartala-799 008 (West Tripura)</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Veterinary Surgery</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Society for Veterinary Surgery</publisher>
+      </originInfo>
+      <identifier type="issn-p">0254-4105</identifier>
+      <identifier type="issn-e">0973-9726</identifier>
+      <identifier type="issn">0973-9726</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">12</text>
+         <extent unit="pages">
+            <start>145</start>
+            <end>145</end>
+            <total>1</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijvs-40-2-022</identifier>
+   <extension>
+      <archiveFile>ijvs-40-2-022</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/ijvs-40-2-022.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/</workingDirectory>
+   </extension>
+</mods>

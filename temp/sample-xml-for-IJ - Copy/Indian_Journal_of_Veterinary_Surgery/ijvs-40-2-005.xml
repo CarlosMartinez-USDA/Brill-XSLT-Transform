@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJVS</journal-id>
+      <journal-title>Indian Journal of Veterinary Surgery</journal-title>
+      <issn pub-type="ppub">0254-4105</issn>
+      <issn pub-type="epub">0973-9726</issn>
+      <publisher>
+        <publisher-name>Indian Society for Veterinary Surgery</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijvs-40-2-005</article-id>
+      <title-group>
+        <article-title>Clinical evaluation of laparoscopic anterior gastric surface serosa to serosa plication along with ovariectomy in dogs</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tripathi</surname>
+            <given-names>S.D.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1,</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sarkate</surname>
+            <given-names>L.B.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lokhande</surname>
+            <given-names>D.U.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff003">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Khandekar</surname>
+            <given-names>G.S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff003">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dalvi</surname>
+            <given-names>S.H.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff004">
+            <sup>4</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Patil</surname>
+            <given-names>A.D.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff005">
+            <sup>5</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <instname>Maharashtra Animal and Fishery Sciences University</instname>, <instcity>Nagpur</instcity>-<instpincode>440 001</instpincode>, (<inststate>Maharashtra</inststate>)</aff>
+      <aff id="aff001">
+        <sup>1</sup>Assistant Professor, <deptname>Department of Surgery and Radiology</deptname></aff>
+      <aff id="aff003">
+        <sup>3</sup>Professor, <deptname>Department of Surgery and Radiology</deptname></aff>
+      <aff id="aff004">
+        <sup>4</sup>Professor, <deptname>Department of Biochemistry</deptname></aff>
+      <aff id="aff005">
+        <sup>5</sup>Professor, <deptname>Department of Anatomy and Histology</deptname>, <instname>Bombay Veterinary College</instname>, <instcity>Mumbai</instcity></aff>
+      <aff id="aff002">
+        <sup>2</sup>Ex. Professor and Head, Retired Registrar, <instname>MAFSU</instname></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding author; E-mail: <email>savets@rediffmail.com</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 28 May, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>12</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>40</volume>
+      <issue>2</issue>
+      <fpage>98</fpage>
+      <lpage>102</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>Laparoscopic anterior gastric surface serosa to serosa plication along with ovariectomy was done in 8 female dogs under butorphanol sedation and propofol anaesthesia maintained with isoflurane (2.5%). There was reduced intake of food and reduction in body weight for a short period up to day 15; however, the food intake and body weight regained in subsequent intervals. The procedure in itself did not cause any adverse effect on the patients undergoing the surgical procedure.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Dog</kwd>
+        <kwd>Gastric plication</kwd>
+        <kwd>Laparoscopy</kwd>
+        <kwd>Ovariectomy</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="5" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

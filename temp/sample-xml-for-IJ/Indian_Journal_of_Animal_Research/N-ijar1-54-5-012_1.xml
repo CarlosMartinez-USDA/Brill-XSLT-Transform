@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Identification and clinico-gynaecological characterization of reproductive disorders in crossbred cows under field conditions</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">L.J.</namePart>
+      <namePart type="family">Dutta</namePart>
+      <displayForm>Dutta, L.J.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">K.C.</namePart>
+      <namePart type="family">Nath</namePart>
+      <displayForm>Nath, K.C.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">B.C.</namePart>
+      <namePart type="family">Deka</namePart>
+      <displayForm>Deka, B.C.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">D.</namePart>
+      <namePart type="family">Bhuyan</namePart>
+      <displayForm>Bhuyan, D.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">P.</namePart>
+      <namePart type="family">Borah</namePart>
+      <displayForm>Borah, P.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">G.K.</namePart>
+      <namePart type="family">Saikia</namePart>
+      <displayForm>Saikia, G.K.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">D.P.</namePart>
+      <namePart type="family">Bora</namePart>
+      <displayForm>Bora, D.P.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">R.</namePart>
+      <namePart type="family">Deka</namePart>
+      <displayForm>Deka, R.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">D.</namePart>
+      <namePart type="family">Bharali</namePart>
+      <displayForm>Bharali, D.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-05</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The present study was conducted on a total of 909 crossbred cows maintained in various private farms from Kamrup, Darrang and Lakhimpur districts of Assam. Breeding records provided by the farmers and characteristic genital changes detected on per rectum examination of 133 reported infertile cows were analyzed. The study revealed that the incidence of infertility due to different types of reproductive disorders was 14.63 per cent in cross bred cow under field conditions. Common clinically detectable reproductive disorders were repeat breeding with uterine infection, repeat breeding without uterine infection, true anoestrus and silent oestrus with the percentage frequencies of 36.09, 23.30, 20.30 and 17.29 respectively when estimated out of total number of infertile cows. Less frequent reproductive disorders were pyometra, ovarian cyst, infantile genitalia and ovario-bursal adhesion occurring in the frequencies of 36.09, 23.30, 20.30 and 17.29 per cent respectively. Irrespective of type the incidence of anoestrus and repeat breeding was 37.59 and 59.39 per cent respectively. Palpable corpus luteum was present in the ovary of silent oestrous cows but totally absent in cows affected with true anoestrus. Mucopurulent vaginal discharge was a distinct clinically detectable genital characteristic observed in 62.50 per cent repeat breeder cows with uterine infection. Of the infertile cows 53.38 per cent had body condition score between 2.5 and 3.5 and 46.61 per cent had the score less than 2.5. Out of repeat breeder cows with uterine infection 43.66 per cent had good body condition and 27.41 per cent poor body condition. Level of serum calcium, zinc, leptin, ghrelin and IGF-1 did not vary significantly between types of infertility. Level of phosphorus and iron was lower in cows affected with repeat breeding due to infection. Serum oestrogen level remained low in cows affected with silent oestrus and true anoestrus while level of progesterone was higher in cows affected with silent oestrus.</abstract>
+   <subject>
+      <topic>Body condition score</topic>
+   </subject>
+   <subject>
+      <topic>Crossbred cow</topic>
+   </subject>
+   <subject>
+      <topic>Infertility</topic>
+   </subject>
+   <subject>
+      <topic>Reproductive disorder</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>5</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">05</text>
+         <extent unit="pages">
+            <start>593</start>
+            <end>600</end>
+            <total>8</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-5-012</identifier>
+   <identifier type="doi">10.18805/ijar.B-3810</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3810</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-5-012</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-5-012.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

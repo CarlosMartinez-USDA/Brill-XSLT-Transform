@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://ur.usda.gov/xslt/nal-provider-admin.xsd" xmlns:n="http://ur.usda.gov/xslt/nal-provider-admin.xsd">
+  <xs:element name="nal-provider-admin">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="n:description"/>
+        <xs:element ref="n:license"/>
+        <xs:element ref="n:delivery"/>
+        <xs:element ref="n:metadata"/>
+        <xs:element ref="n:processing"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="description">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="n:identifier"/>
+        <xs:element maxOccurs="unbounded" ref="n:name"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="identifier">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:NMTOKEN">
+          <xs:attribute name="type" use="required" type="xs:NCName"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="name">
+    <xs:complexType mixed="true">
+      <xs:attribute name="type" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="license">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="n:status"/>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element ref="n:date"/>
+          <xs:element ref="n:note"/>
+        </xs:choice>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="delivery">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="n:status"/>
+        <xs:element ref="n:mechanism"/>
+        <xs:element ref="n:accountName"/>
+        <xs:element ref="n:date"/>
+        <xs:element maxOccurs="unbounded" ref="n:note"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="mechanism" type="xs:string"/>
+  <xs:element name="accountName" type="xs:NCName"/>
+  <xs:element name="metadata">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="n:status"/>
+        <xs:element ref="n:format"/>
+        <xs:element ref="n:descriptionDoc"/>
+        <xs:element maxOccurs="unbounded" ref="n:date"/>
+        <xs:element maxOccurs="unbounded" ref="n:note"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="descriptionDoc" type="xs:anyURI"/>
+  <xs:element name="processing">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="n:status"/>
+        <xs:element ref="n:date"/>
+        <xs:element maxOccurs="unbounded" ref="n:location"/>
+        <xs:element ref="n:transform"/>
+        <xs:element ref="n:format"/>
+        <xs:element maxOccurs="unbounded" ref="n:note"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="location">
+    <xs:complexType mixed="true">
+      <xs:attribute name="type" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="transform" type="xs:anyURI"/>
+  <xs:element name="status" type="xs:string"/>
+  <xs:element name="date">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:date">
+          <xs:attribute name="type" use="required" type="xs:NCName"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="note" type="xs:string"/>
+  <xs:element name="format" type="xs:string"/>
+</xs:schema>

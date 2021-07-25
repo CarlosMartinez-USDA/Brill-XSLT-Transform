@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Comparative analysis on early growth and development of different egg-laying quails</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Jun Yan</namePart>
+      <namePart type="family">Bai</namePart>
+      <displayForm>Bai, Jun Yan</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Heng</namePart>
+      <namePart type="family">Cao</namePart>
+      <displayForm>Cao, Heng</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shuai</namePart>
+      <namePart type="family">Yang</namePart>
+      <displayForm>Yang, Shuai</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">You Zhi</namePart>
+      <namePart type="family">Pang</namePart>
+      <displayForm>Pang, You Zhi</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Meng Juan</namePart>
+      <namePart type="family">Jiang</namePart>
+      <displayForm>Jiang, Meng Juan</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hong Deng</namePart>
+      <namePart type="family">Fan</namePart>
+      <displayForm>Fan, Hong Deng</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Xue Yan</namePart>
+      <namePart type="family">Fu</namePart>
+      <displayForm>Fu, Xue Yan</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ji Yuan</namePart>
+      <namePart type="family">Zhang</namePart>
+      <displayForm>Zhang, Ji Yuan</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hui Jie</namePart>
+      <namePart type="family">Shi</namePart>
+      <displayForm>Shi, Hui Jie</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-03</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This study was carried out to evaluate growth and development and difference between size and weights of three quail species namely China yellow quail, Beijing white quail and Korea quail. Various parameters in respect of these species like shank length, chest width, chest depth, breastbone length, shank circumference, body length, daily weight gain and weight were recorded under similar feeding conditions. The data so obtained was analysed statistically using SPSS. It was revealed that the body weight, shank length, chest width, chest depth, breastbone length, body length, shank circumference and daily gain of Korea quail are significantly higher (P≦0.05) than those of China yellow quail and Beijing white quail. It was concluded the Korea quail grows fastest, followed by China yellow quail and Beijing white quail, successively.</abstract>
+   <subject>
+      <topic>Beijing white quail</topic>
+   </subject>
+   <subject>
+      <topic>China yellow quail</topic>
+   </subject>
+   <subject>
+      <topic>Growth rate of quails</topic>
+   </subject>
+   <subject>
+      <topic>Korea quail</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">03</text>
+         <extent unit="pages">
+            <start>392</start>
+            <end>395</end>
+            <total>4</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-3-024</identifier>
+   <identifier type="doi">10.18805/ijar.B-1086</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-1086</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-3-024</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-3-024.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

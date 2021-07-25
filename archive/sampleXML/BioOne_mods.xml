@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml/"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:local="http://whatever"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Lichens of Antarctica and South Georgia: A Guide to Their Identification and Ecology</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="family">Friedmann</namePart>
+      <namePart type="given">E. Imre</namePart>
+      <displayForm>Friedmann, E. Imre</displayForm>
+      <affiliation>NASA Ames Research Center Mail code 245-3 Moffett Field, CA 94035</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2003-08-03</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Arctic, Antarctic, and Alpine Research</title>
+      </titleInfo>
+      <identifier type="issn-p">1523-0430</identifier>
+      <identifier type="issn">1523-0430</identifier>
+      <identifier type="vendor">aare</identifier>
+      <part>
+         <detail type="volume">
+            <number>35</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <extent unit="pages">
+            <start>410</start>
+            <end>410</end>
+         </extent>
+         <extent unit="pages">
+            <total>1</total>
+         </extent>
+         <text type="year">2003</text>
+         <text type="month">8</text>
+         <text type="day">3</text>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1657/1523-0430(2003)035[0410:BR]2.0.CO;2</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1657%2F1523-0430%282003%29035%5B0410%3ABR%5D2.0.CO%3B2</url>
+   </location>
+   <extension>
+      <vendorName>BioOne</vendorName>
+      <archiveFile>test.zip</archiveFile>
+      <fileLocation note="nonpublic" usage="primary">file://1523-0430(2003)035[0410:BR]2.0.CO;2.pdf</fileLocation>
+   </extension>
+</mods>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Comparative evaluation of the in-vitro viability of canine and human blood preserved in citrate phosphate dextrose adenine (CPDA)-1 anticoagulated blood bag</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">R.I.</namePart>
+      <namePart type="family">Udegbunam</namePart>
+      <displayForm>Udegbunam, R.I.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">C.S.</namePart>
+      <namePart type="family">Njaka</namePart>
+      <displayForm>Njaka, C.S.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">H.N.</namePart>
+      <namePart type="family">Okereke</namePart>
+      <displayForm>Okereke, H.N.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.O.</namePart>
+      <namePart type="family">Udegbunam</namePart>
+      <displayForm>Udegbunam, S.O.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-05</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Two hundred and fifty millilitres of blood each were drawn from healthy dogs (n=3) and volunteer human donors (n=3) into citrate phosphate dextrose adenine -1 anti-coagulated blood bags and preserved for 21 days. On days 0, 3, 7, 14 and 21, selected hematological and biochemical parameters were evaluated. Red blood cells counts of canine and human blood showed no significant (p&gt;0.05) difference till days 14 and 21 respectively. Mean corpuscular value (MCV) of canine blood on day 21 was significantly (p&lt;0.05) higher than that of human blood. Erythrocyte catalase (CAT) and glutathione (GSH) progressively decreased while plasma potassium ion concentration of canine and human blood progressively increased. On day 21, percentage decrease in canine RBC antioxidants was significantly higher when compared with that of human blood. The progressive decrease in RBC's CAT and GSH suggests increased oxidative stress while progressive increase in K⁺ concentration and MCV suggests RBC membrane damage.</abstract>
+   <subject>
+      <topic>Blood</topic>
+   </subject>
+   <subject>
+      <topic>Catalase</topic>
+   </subject>
+   <subject>
+      <topic>CPDA-1 blood bag</topic>
+   </subject>
+   <subject>
+      <topic>Glutathione</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>5</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">05</text>
+         <extent unit="pages">
+            <start>549</start>
+            <end>552</end>
+            <total>4</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-5-005</identifier>
+   <identifier type="doi">10.18805/ijar.B-1039</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-1039</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-5-005</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-5-005.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

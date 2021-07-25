@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJAR1</journal-id>
+         <journal-title>Indian Journal of Animal Research</journal-title>
+         <issn pub-type="ppub">0367-6722</issn>
+         <issn pub-type="epub">0976-0555</issn>
+         <publisher>
+            <publisher-name>Agricultural Research Communication Centre</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijar1-54-5-014</article-id>
+         <doi-group>
+            <article-doi>
+               <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                         ext-link-type="uri"
+                         xlink:href="http://dx.doi.org/10.18805/ijar.B-3817">10.18805/ijar.B-3817</ext-link>
+            </article-doi>
+         </doi-group>
+         <article-categories>
+            <subj-group>
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Molecular detection of biofilm, virulence and antimicrobial resistance associated genes of <italic>Salmonella</italic> serovars isolated from pig and chicken of Mizoram, India</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Chakraborty</surname>
+                  <given-names>S.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Roychoudhury</surname>
+                  <given-names>P.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Samanta</surname>
+                  <given-names>I.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Subudhi</surname>
+                  <given-names>P.K.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Lalhruaipuii</surname>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Das</surname>
+                  <given-names>M.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>De</surname>
+                  <given-names>A.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Bandyopadhayay</surname>
+                  <given-names>S.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff003">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Joardar</surname>
+                  <given-names>S.N.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff004">
+                  <sup>4</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Mandal</surname>
+                  <given-names>M.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff005">
+                  <sup>5</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Qureshi</surname>
+                  <given-names>A.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff006">
+                  <sup>6</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Dutta</surname>
+                  <given-names>T.K.</given-names>
+               </name>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+         </contrib-group>
+         <aff>
+            <instname>College of Veterinary Sciences and Animal Husbandry</instname>, <instparent>Central Agricultural University Imphal</instparent>, <instaddress>Selesih</instaddress>, <instcity>Aizawl</instcity>-<instpincode>796 015</instpincode>, <inststate>Mizoram</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <aff id="aff001">
+            <sup>1</sup>
+            <deptname>Department of Veterinary Microbiology</deptname>, <instname>West Bengal University of Animal and Fishery Sciences</instname>, <instaddress>Belgachia</instaddress>, <instcity>Kolkata</instcity>-<instpincode>700 037</instpincode>, <inststate>West Bengal</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <aff id="aff002">
+            <sup>2</sup>
+            <instname>ICAR-Reserch Centre for NEH Region</instname>, <instcity>Kolasib</instcity>-<instpincode>796 081</instpincode>, <inststate>Mizoram</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <aff id="aff003">
+            <sup>3</sup>
+            <instname>ICAR-ERS-IVRI</instname>, <instaddress>Belgachia</instaddress>, <instcity>Kolkata</instcity>-<instpincode>700 037</instpincode>, <inststate>West Bengal</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <aff id="aff004">
+            <sup>4</sup>
+            <deptname>Department of Veterinary Microbiology</deptname>, <instname>West Bengal University of Animal and Fishery Sciences</instname>, <instaddress>Belgachia</instaddress>, <instcity>Kolkata</instcity>-<instpincode>700 037</instpincode>, <inststate>West Bengal</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <aff id="aff005">
+            <sup>5</sup>
+            <deptname>Department of Molecular Biology and Biotechnology</deptname>, <instname>Tezpur University</instname>, <instcity>Tezpur</instcity>-<instpincode>784 028</instpincode>, <inststate>Assam</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <aff id="aff006">
+            <sup>6</sup>
+            <deptname>Environmental Biotechnology and Genomics Division</deptname>, <instname>NEERI</instname>, <instcity>Nagpur</instcity>-<instpincode>440 020</instpincode>, <inststate>Maharashtra</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">* Corresponding Author: T.K. Dutta, <deptname>Department of Veterinary Microbiology</deptname>, <instname>Central Agricultural University-Imphal</instname>, <instaddress>Selesih</instaddress>, <instcity>Aizawl</instcity>-<instpincode>796 014</instpincode>, <inststate>Mizoram</inststate>, <instcountry>India</instcountry>, Email: <email>tapandutta@rediffmail.com</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 30 June, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>5</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>54</volume>
+         <issue>5</issue>
+         <fpage>608</fpage>
+         <lpage>613</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>
+               <italic>Salmonella</italic> has emerged as one of the most important food-borne pathogens for humans as well as animals and the ability of biofilm formation by these bacteria has further aided their survival in unfavorable environment. Characterization of these biofilm producing bacteria isolated from pigs and chicken may lead to formulation of strategies for prevention and control of <italic>Salmonella</italic> infections. Therefore, the present study was conducted to isolate <italic>Salmonella</italic> from pigs and poultry of Mizoram, determine their biofilm producing ability by phenotypic and genotypic methods along with their virulence and antimicrobial resistance properties. A total of 15 <italic>Salmonella</italic> spp. (pig=9, poultry=6) was isolated from 100 faecal samples from pigs and 50 cloacal swabs from poultry and biofilm producing ability of the isolates was determined by microtiter plate assay. A total of 10 (66.67%) isolates were found to be biofilm producer. All the biofilm producing bacterial isolates were investigated for antimicrobial sensitivity and distribution of selected biofilm associated genes (<italic>csgA</italic>, <italic>csgD</italic> and <italic>adrA</italic>), virulence genes (<italic>invA, stn</italic> and <italic>sefA</italic>) and antimicrobial resistance (AMR) genes (<italic>bla<sub>TEM</sub>
+               </italic>, <italic>bla<sub>SHV</sub>
+               </italic> and <italic>bla<sub>CTX-M</sub>
+               </italic>). The most prevalent resistance was found against ceftazidime (80%), ceftriaxone (80%), cefixime (70%), cefotaxime (70%), gentamicin (70%), cotrimoxazole (60%) and ampicillin (60%). A total of 7 (70%) isolates were resistant to at least three different classes of antimicrobial agents and considered as multidrug resistant. All the isolates were positive for <italic>adrA</italic> (100%) but negative for <italic>csgA</italic> and <italic>csgD</italic> genes. The most frequent virulence gene was <italic>invA</italic> (100%) and <italic>stn</italic> (100%)<italic>.</italic> Among the AMR genes, <italic>bla<sub>TEM</sub>
+               </italic> (60%) was found to be the major AMR determinants. Moreover, a total of 7 <italic>Salmonella</italic> isolates were positive for at least one of t biofilm associated genes, virulence genes and AMR genes.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Antimicrobial resistance</kwd>
+            <kwd>Biofilm</kwd>
+            <kwd>Pig</kwd>
+            <kwd>Poultry</kwd>
+            <kwd>
+               <italic>Salmonella</italic>
+            </kwd>
+            <kwd>Virulence genes</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="6"/>
+         </counts>
+      </article-meta>
+   </front>
+</article>

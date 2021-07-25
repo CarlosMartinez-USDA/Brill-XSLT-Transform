@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJSC</journal-id>
+      <journal-title>Indian Journal of Soil Conservation</journal-title>
+      <issn pub-type="ppub">0970-3349</issn>
+      <issn pub-type="epub">0976-1721</issn>
+      <publisher>
+        <publisher-name>Indian Associations of Soil &amp; Water Conservationists</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijsc-47-3-004</article-id>
+      <title-group>
+        <article-title>Rainfall-runoff simulation modelling using artificial neural networks in semi-arid middle Gujarat region</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Koradia</surname>
+            <given-names>A.K.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bhalala</surname>
+            <given-names>A.D.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tiwari</surname>
+            <given-names>M.K.</given-names>
+          </name>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <instname>College of Agricultural Engineering and Technology</instname>, <instparent>Anand Agricultural University</instparent>, <instcity>Godhra</instcity>-<instpincode>389001</instpincode>, <inststate>Gujarat</inststate></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding author: E-mail: <email>tiwari.iitkgp@gmail.com</email> (M.K. Tiwari)</corresp>
+        <fn>
+          <p>
+            <bold>Online published on 8 April, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>12</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>3</issue>
+      <fpage>231</fpage>
+      <lpage>238</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>Rainfall-runoff modelling is important for water resources planning, development and management. Water resource managers require information about runoff from a hydrologic catchment area in order to assess runoff potential, reservoir and canal operation, flood and drought management, etc. The present work involves the development of artificial neural network (ANN), principal component analysis (PCA) based ANN (PCA-ANN) and multiple linear regression (MLR) models for establishing rainfall-runoff relationship. In this study, 10 years (2007–2016) of rainfall and runoff data were applied. Arobust ANN model was developed by considering different types of training algorithms such as LM, GDX, BFG, CGF, SCG, BR, CGPand RP. The performance of ANN models was also compared with PCA-ANN and MLR models by using statistical indices. It was found in this study that ANN (ANN-1) model with only one lag data at outlet (Santrod gauging station) is suitable to effectively and precisely predict runoff at one day lead time. It was also observed in this study that performance of ANN model is better than PCA-ANN and MLR models for prediction of one day lead discharge at Santrod. Hence, it is recommended to use ANN-1 model to predict runoff for Santrod gauging station of Panam watershed. It will help the water resource managers and field engineers to take suitable decisions related to reservoir and canal operation, flood and discharge management.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>ANN GIS Gujarat Rainfall Runoff Watershed</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="8" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

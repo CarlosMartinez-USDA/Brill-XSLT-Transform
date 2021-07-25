@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Development and Standardization of Visual Loop Mediated Isothermal Amplification (LAMP) Assay for Specific Diagnosis of Johne's Disease</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Manju</namePart>
+      <namePart type="family">Singh</namePart>
+      <displayForm>Singh, Manju</displayForm>
+      <affiliation>Amity Center for Mycobacterial Disease Research, Amity Institute of Microbial Technology, Amity University Rajasthan, Kant-Kalwar, Jaipur-303 002, Rajasthan, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Saurabh</namePart>
+      <namePart type="family">Gupta</namePart>
+      <displayForm>Gupta, Saurabh</displayForm>
+      <affiliation>Department of Biotechnology, Institute of Applied Sciences and Humanities, GLA University, Mathura-281 406, Uttar Pradesh, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shoor Vir</namePart>
+      <namePart type="family">Singh</namePart>
+      <displayForm>Singh, Shoor Vir</displayForm>
+      <affiliation>Department of Biotechnology, Institute of Applied Sciences and Humanities, GLA University, Mathura-281 406, Uttar Pradesh, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Gururaj</namePart>
+      <namePart type="family">Kumaresan</namePart>
+      <displayForm>Kumaresan, Gururaj</displayForm>
+      <affiliation>Animal Health Division, Central Institute for Research on Goats, Farah, Mathura-281 122, Uttar Pradesh, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Deepansh</namePart>
+      <namePart type="family">Sharma</namePart>
+      <displayForm>Sharma, Deepansh</displayForm>
+      <affiliation>Amity Center for Mycobacterial Disease Research, Amity Institute of Microbial Technology, Amity University Rajasthan, Kant-Kalwar, Jaipur-303 002, Rajasthan, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">G.K.</namePart>
+      <namePart type="family">Aseri</namePart>
+      <displayForm>Aseri, G.K.</displayForm>
+      <affiliation>Amity Center for Mycobacterial Disease Research, Amity Institute of Microbial Technology, Amity University Rajasthan, Kant-Kalwar, Jaipur-303 002, Rajasthan, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Parul</namePart>
+      <namePart type="family">Yadav</namePart>
+      <displayForm>Yadav, Parul</displayForm>
+      <affiliation>Amity Center for Mycobacterial Disease Research, Amity Institute of Microbial Technology, Amity University Rajasthan, Kant-Kalwar, Jaipur-303 002, Rajasthan, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rathnagiri</namePart>
+      <namePart type="family">Polavarapu</namePart>
+      <displayForm>Polavarapu, Rathnagiri</displayForm>
+      <affiliation>Genomix Molecular Diagnostics Pvt. Ltd., Kukatpally, Hyderabad-500 072, Andhra Pradesh, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jagdip Singh</namePart>
+      <namePart type="family">Sohal</namePart>
+      <displayForm>Sohal, Jagdip Singh</displayForm>
+      <affiliation>Amity Center for Mycobacterial Disease Research, Amity Institute of Microbial Technology, Amity University Rajasthan, Kant-Kalwar, Jaipur-303 002, Rajasthan, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-03</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Mycobacterium avium subspecies paratuberculosis (MAP), causative agent of Johne's disease (JD) is chronic granulomatous enteritis affecting domestic and wild ruminants. Since, MAP is not killed by pasteurization, it has been isolated from commercially pasteurized milk and milk products resulting exposure of human population to this pathogen through milk. Control and eradication of JD is considered difficult because of its insidious nature and lack of early, rapid and accurate diagnostic tests. Therefore in present study, a visual loop-mediated isothermal amplification (LAMP) assay method has been developed using a total of six primers including 2 outer (F3 and B3), 2 inner (FIP and BIP) and 2 loop (LF and LB) primers specific for MAP for the first time on ‘S 5 ’strain of Mycobacterium avium subsp. paratuberculosis ‘Indian Bison type ’biotype. After laboratory standardization, final optimized reaction performed at 65°C for 45 min was achieved after titration of incubation time, temperature conditions and the reporter dye calcein. Sensitivity and specificity of the LAMP assay was optimized and compared with traditional IS900 PCR. The sensitivity of LAMP assay was found to detect 10fg (100%) of DNA and 95.7% specificity was recorded with respect to traditional IS900 PCR. Comparison showed that LAMP had 98.6% and 96.1% sensitivity and specificity of 96.1% and 92.3%, with respect to microscopy and culture exhibiting ‘Almost perfect ’strength of agreement. The study concluded that LAMP assay was a reliable and sensitive diagnostic test to detect MAP infection in feces and can also be used for the ‘mass screening ’of the milk samples with the help of less expertise.</abstract>
+   <subject>
+      <topic>Johne's disease (JD)</topic>
+   </subject>
+   <subject>
+      <topic>LAMP PCR</topic>
+   </subject>
+   <subject>
+      <topic>Mycobacterium avium subspecies paratuberculosis (MAP)</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">03</text>
+         <extent unit="pages">
+            <start>293</start>
+            <end>299</end>
+            <total>7</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-3-005</identifier>
+   <identifier type="doi">10.18805/ijar.B-3775</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3775</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-3-005</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-3-005.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

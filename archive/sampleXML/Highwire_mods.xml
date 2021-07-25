@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Widespread Dissemination of CTX-M-15 Genotype Extended-Spectrum-β-Lactamase-Producing Enterobacteriaceae among Patients Presenting to Community Hospitals in the Southeastern United States</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Luke F.</namePart>
+      <namePart type="family">Chen</namePart>
+      <displayForm>Chen, Luke F.</displayForm>
+      <affiliation>Duke University Medical Center, Durham, North Carolina, USA </affiliation>
+      <affiliation>Duke Infection Control Outreach Network, Durham, North Carolina, USA </affiliation>
+      <affiliation>Duke University CDC Prevention Epicenter Program, Durham, North Carolina, USA </affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Joshua T.</namePart>
+      <namePart type="family">Freeman</namePart>
+      <displayForm>Freeman, Joshua T.</displayForm>
+      <affiliation>Department of Clinical Microbiology, Auckland City Hospital, Auckland, New Zealand </affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Brad</namePart>
+      <namePart type="family">Nicholson</namePart>
+      <displayForm>Nicholson, Brad</displayForm>
+      <affiliation>Durham VA Medical Center, Durham, North Carolina, USA </affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Anna</namePart>
+      <namePart type="family">Keiger</namePart>
+      <displayForm>Keiger, Anna</displayForm>
+      <affiliation>Durham VA Medical Center, Durham, North Carolina, USA </affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sarah</namePart>
+      <namePart type="family">Lancaster</namePart>
+      <displayForm>Lancaster, Sarah</displayForm>
+      <affiliation>Durham VA Medical Center, Durham, North Carolina, USA </affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Maria</namePart>
+      <namePart type="family">Joyce</namePart>
+      <displayForm>Joyce, Maria</displayForm>
+      <affiliation>Durham VA Medical Center, Durham, North Carolina, USA </affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Christopher W.</namePart>
+      <namePart type="family">Woods</namePart>
+      <displayForm>Woods, Christopher W.</displayForm>
+      <affiliation>Duke University Medical Center, Durham, North Carolina, USA </affiliation>
+      <affiliation>Duke University CDC Prevention Epicenter Program, Durham, North Carolina, USA </affiliation>
+      <affiliation>Durham VA Medical Center, Durham, North Carolina, USA </affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Evelyn</namePart>
+      <namePart type="family">Cook</namePart>
+      <displayForm>Cook, Evelyn</displayForm>
+      <affiliation>Duke Infection Control Outreach Network, Durham, North Carolina, USA </affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Linda</namePart>
+      <namePart type="family">Adcock</namePart>
+      <displayForm>Adcock, Linda</displayForm>
+      <affiliation>Duke Infection Control Outreach Network, Durham, North Carolina, USA </affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Susan</namePart>
+      <namePart type="family">Louis</namePart>
+      <displayForm>Louis, Susan</displayForm>
+      <affiliation>Duke Infection Control Outreach Network, Durham, North Carolina, USA </affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Andrea L.</namePart>
+      <namePart type="family">Cromer</namePart>
+      <displayForm>Cromer, Andrea L.</displayForm>
+      <affiliation>Duke Infection Control Outreach Network, Durham, North Carolina, USA </affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Daniel J.</namePart>
+      <namePart type="family">Sexton</namePart>
+      <displayForm>Sexton, Daniel J.</displayForm>
+      <affiliation>Duke University Medical Center, Durham, North Carolina, USA </affiliation>
+      <affiliation>Duke Infection Control Outreach Network, Durham, North Carolina, USA </affiliation>
+      <affiliation>Duke University CDC Prevention Epicenter Program, Durham, North Carolina, USA </affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Deverick J.</namePart>
+      <namePart type="family">Anderson</namePart>
+      <displayForm>Anderson, Deverick J.</displayForm>
+      <affiliation>Duke University Medical Center, Durham, North Carolina, USA </affiliation>
+      <affiliation>Duke Infection Control Outreach Network, Durham, North Carolina, USA </affiliation>
+      <affiliation>Duke University CDC Prevention Epicenter Program, Durham, North Carolina, USA </affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2014-02</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Extended-spectrum-β-lactamase (ESBL)-producing organisms are increasingly prevalent. We determined the characteristics of 66 consecutive ESBL-producing isolates from six community hospitals in North Carolina and Virginia from 2010 to 2012. Fifty-three (80%) ESBL-producing isolates contained CTX-M enzymes; CTX-M-15 was found in 68% of Escherichia coli and 73% of Klebsiella isolates. Sequence type 131 (ST131) was the commonest type of E. coli, accounting for 48% of CTX-M-15-producing and 66% of CTX-M-14-producing isolates. In conclusion, the CTX-M genotype and ST131 E. coli were common among ESBL isolates from U.S. community hospitals.</abstract>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Antimicrobial Agents and Chemotherapy</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>American Society for Microbiology</publisher>
+      </originInfo>
+      <identifier type="issn">0066-4804</identifier>
+      <identifier type="vendor">aac</identifier>
+      <part>
+         <detail type="volume">
+            <number>58</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <extent unit="pages">
+            <start>1200</start>
+            <end>1202</end>
+         </extent>
+         <text type="year">2014</text>
+         <text type="month">2</text>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1128/AAC.01099-13</identifier>
+   <location>
+      <url>http://dx.doi.org/10.1128/AAC.01099-13</url>
+   </location>
+   <extension>
+      <vendorName>Highwire</vendorName>
+      <archiveFile>Test.tar.gz</archiveFile>
+   </extension>
+</mods>

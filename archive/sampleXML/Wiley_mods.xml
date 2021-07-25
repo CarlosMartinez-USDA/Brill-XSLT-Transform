@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Phylogenetic clustering increases with elevation for microbes</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart type="given">Jianjun</namePart>
+    <namePart type="family">Wang</namePart>
+    <affiliation> State Key Laboratory of Lake Science and Environment, Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences, Nanjing 210008 China State Key Laboratory of Urban and Regional Ecology, Research Center for Eco‐Environmental Sciences, Chinese Academy of Sciences, Beijing 100085 China Department of Environmental Sciences, PO Box 65, FIN‐00014, University of Helsinki, Finland</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Janne</namePart>
+    <namePart type="family">Soininen</namePart>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Jizheng</namePart>
+    <namePart type="family">He</namePart>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Ji</namePart>
+    <namePart type="family">Shen</namePart>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre>article</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Although phylogenetic approaches are useful for providing insights into the processes underlying biodiversity patterns, the studies of microbial phylogenetic relatedness are rare, especially for elevational gradients. Using high‐throughput pyrosequencing, we examined the biodiversity patterns for biofilm bacterial communities that were scraped from stream stones along an elevational gradient from 1820 to 4050 m in China. The patterns of bacterial species richness and phylogenetic diversity were hollow towards higher elevations. The bacterial communities consisted of closer relatives than expected and displayed increasing terminal phylogenetic clustering towards mountain top. The increasing phylogenetic clustering with elevation contrasts reports for macroorganisms that revealed phylogenetic overdispersion at low or intermediate elevations. Because water temperature showed the strongest correlation with phylogenetic relatedness (r² = 0.516), the elevational pattern in the bacterial phylogenetic structure indicated that environmental filtering possibly due to lower temperature or more frequent temperature fluctuations increased towards higher elevations. Evidence supporting the environmental filtering on bacteria was also reflected by the orderly succession in the relative abundance of different bacterial phyla along the elevational gradient and in the high evenness of bacterial taxa at higher elevations. Overall, our results indicated that ecological processes possibly related to temperature may play a dominant role in structuring bacterial biodiversity along the elevational gradient.</abstract>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Environmental Microbiology Reports</title>
+    </titleInfo>
+    <originInfo>
+      <publisher>Blackwell Publishing Ltd</publisher>
+    </originInfo>
+    <identifier type="issn">1758-2229</identifier>
+    <part>
+      <detail type="volume">
+        <number>4</number>
+        <caption>v.</caption>
+      </detail>
+      <detail type="issue">
+        <number>2</number>
+        <caption>no.</caption>
+      </detail>
+      <extent unit="pages">
+        <start>217</start>
+        <end>226</end>
+      </extent>
+      <text type="year">2012</text>
+      <text type="month">4</text>
+    </part>
+  </relatedItem>
+  <identifier type="doi">10.1111/j.1758-2229.2011.00324.x</identifier>
+  <location>
+    <url>http://dx.doi.org/10.1111/j.1758-2229.2011.00324.x</url>
+  </location>
+  <extension>
+    <vendorName/>
+    <archiveFile>../sampleXML/Wiley_pubmed.xml</archiveFile>
+  </extension>
+</mods>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJVS</journal-id>
+      <journal-title>Indian Journal of Veterinary Surgery</journal-title>
+      <issn pub-type="ppub">0254-4105</issn>
+      <issn pub-type="epub">0973-9726</issn>
+      <publisher>
+        <publisher-name>Indian Society for Veterinary Surgery</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijvs-40-2-obs</article-id>
+      <title-group>
+        <article-title>Association News</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" />
+      </contrib-group>
+      <author-notes>
+        <fn>
+          <p>
+            <bold>Online published on 28 May, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>12</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>40</volume>
+      <issue>2</issue>
+      <fpage />
+      <lpage />
+      <counts>
+        <page-count count="1" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

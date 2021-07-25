@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJAR1</journal-id>
+         <journal-title>Indian Journal of Animal Research</journal-title>
+         <issn pub-type="ppub">0367-6722</issn>
+         <issn pub-type="epub">0976-0555</issn>
+         <publisher>
+            <publisher-name>Agricultural Research Communication Centre</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijar1-54-4-017</article-id>
+         <doi-group>
+            <article-doi>
+               <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                         ext-link-type="uri"
+                         xlink:href="http://dx.doi.org/10.18805/ijar.B-3772">10.18805/ijar.B-3772</ext-link>
+            </article-doi>
+         </doi-group>
+         <article-categories>
+            <subj-group>
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Efficient pollinators of threatened taxa, Sarpagandha (<italic>Rauvolfia serpentina</italic>) under North Indian conditions</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Anoosha</surname>
+                  <given-names>Vadde</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Saini</surname>
+                  <given-names>Sumit</given-names>
+               </name>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Kaushik</surname>
+                  <given-names>H.D.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff001">
+            <sup>1</sup>
+            <deptname>Monitoring of Pesticide Residues at National Level</deptname>, <instname>LBS Building Indian Agricultural Research Institute</instname>, <instaddress>Pusa</instaddress>-<instpincode>110 012</instpincode>, <instcity>New Delhi</instcity>, <instcountry>India</instcountry>
+         </aff>
+         <aff id="aff002">
+            <sup>2</sup>
+            <deptname>Department of Entomology</deptname>, <instname>CCS Haryana Agricultural University</instname>, <instcity>Hisar</instcity>-<instpincode>125 044</instpincode>, <inststate>Haryana</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding Author: Sumit Saini, <instname>Central Insecticide Board and Registration Committee</instname>, <instcity>Faridabad</instcity>-<instpincode>121 001</instpincode>, <inststate>Haryana</inststate>, <instcountry>India</instcountry>. Email: <email>sumit87saini@gmail.com</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 23 May, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>4</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>54</volume>
+         <issue>4</issue>
+         <fpage>482</fpage>
+         <lpage>487</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>An experiment was carried out to investigate the diversity, abundance and pollination efficiency of different insect visitors/pollinators of <italic>Rauvolfia serpentina</italic> (Sarpagandha) during 2014 and 2015. This experiment was conducted at Medicinal Section, Department of G and PB, CCSHAU, Hisar. Sarpagandha flowers attracted wide varieties of insects belonging to 4 orders, 10 families, 16 genera and 17 species. Among them nine belongs to order Lepidoptera, one Coleoptera, two Diptera and two Hymenoptera. Lepidopterans came out to be the most abundant pollinators of this crop. Peak abundance of major insect pollinators was recorded at 1000h-1200h while minimum abundance was recorded at 0600h-0800h. Amegilla zonata had the highest number of loose pollen grains, 23.50 (‘000), sticking to its body followed by Papilio demoleus and <italic>Pieris sp. Papilio demoleus</italic> was reported as most efficient pollinator followed by <italic>Amegilla zonata</italic> and <italic>Pieris sp.</italic> based on the pollination index. Long proboscis of lepidopterans i.e., <italic>Papilio demoleus</italic> and small sized hymenopterans i.e., <italic>Amegilla zonata</italic> plays key role in pollination of Sarpagandha. Conservation of these pollinators in natural ecosystem is must for pollination of these threatened taxa.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Insect pollinators</kwd>
+            <kwd>Pollination efficiency</kwd>
+            <kwd>Pollen grains</kwd>
+            <kwd>Sarpagandha</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="6"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJAR1</journal-id>
+      <journal-title>Indian Journal of Animal Research</journal-title>
+      <issn pub-type="ppub">0367-6722</issn>
+      <issn pub-type="epub">0976-0555</issn>
+      <publisher>
+        <publisher-name>Agricultural Research Communication Centre</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijar1-54-3-021</article-id>
+      <doi-group>
+        <article-doi>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.18805/ijar.B-1174">10.18805/ijar.B-1174</ext-link>
+        </article-doi>
+      </doi-group>
+      <article-categories>
+        <subj-group>
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Factors Affecting Milk Yield and Composition of Indigenous Balkan Goat Breed Reared in Semi Extensive Conditions</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Markovic</surname>
+            <given-names>Bozidarka</given-names>
+          </name>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Markovia</surname>
+            <given-names>M.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Radonjic</surname>
+            <given-names>Dušica</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mirecki</surname>
+            <given-names>S.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Veljic</surname>
+            <given-names>M.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <instname>University of Montenegro</instname>, <deptname>Biotechnical Faculty Department of Livestock Science</deptname>, <instaddress>M. Lalica 1</instaddress>, <instpincode>81000</instpincode>, <instcity>Podgorica</instcity>, <instcountry>Montenegro</instcountry></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding Author: Bozidarka Markovic, <instname>University of Montenegro</instname>, <deptname>Biotechnical Faculty, Department of Livestock Science</deptname>, <instaddress>M. Lalica 1</instaddress>, <instpincode>81000</instpincode>, <instcity>Podgorica</instcity>, <instcountry>Montenegro</instcountry>. Email: <email>bmarkovic@t-com.me</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 8 April, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>3</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>54</volume>
+      <issue>3</issue>
+      <fpage>379</fpage>
+      <lpage>383</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>The aim of this study was to analyze effect of genetic and environmental factors on milk production traits of indigenous Balkan goat breed. The average milk yield of 150.43 kg in lactation that lasted 211.09 days was significantly influenced by flock and lactation, while average daily milk yield (0.724 kg) was additional significantly affected by stage of lactation (P&lt;0.001). Variability of milk components content (fat, protein and solid nonfat-SNF) was under significant effect of flock and stage of lactation, interaction of these two factors and random effect of animal (P&lt;0.001), while strain and lactation did not have significant effect on these traits (P&gt;0.05). Goats of AA genotype of alpha S1 casein had significantly higher fat, protein and SNF content than AF and FF genotype. These results provide important data that could be used as baseline for design of breeding program for improvement of production traits of Balkan goat breed.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Factors</kwd>
+        <kwd>Goat</kwd>
+        <kwd>Milk composition</kwd>
+        <kwd>Milk yield</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="5" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

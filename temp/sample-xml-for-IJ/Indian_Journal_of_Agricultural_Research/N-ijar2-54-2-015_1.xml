@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Present Status of Herbicide and Inorganic Fertilizer use for Sugarcane Farming in Fiji Islands</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">D.M.C. Champathi</namePart>
+      <namePart type="family">Gunathilake</namePart>
+      <displayForm>Gunathilake, D.M.C. Champathi</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.</namePart>
+      <namePart type="family">Prasad</namePart>
+      <displayForm>Prasad, A.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">I.R.</namePart>
+      <namePart type="family">Singh</namePart>
+      <displayForm>Singh, I.R.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Sugar industry is important to Fiji's economy as it contributes 1.1% of GDP. Sugarcane is cultivated as an intensive mono-cropping in Fiji, inorganic fertilizer and herbicides were commonly used. This survey was conducted to evaluate the present status of herbicide and inorganic fertilizer application to sugarcane and assessed the farmer's knowledge and perceptions. As well, this survey evaluated present socioeconomic status of sugarcane farmers. Results revealed that average Fiji sugarcane farm land size was 11.5 acers (4.6 hectares). Diuron (800-900g/kg Diuron), Amine (720g/L 2, 4-D Dimethyl Amine Salt) and Glyphosate (Glyphosate isopropyl amine salts) were the most popular herbicide. The 30% of farmers used Glyphosate together with Amine and Diuron. Most farmer (&lt;80%) were aware about correct application dosage and 81% of farmers use protective equipment during application. Labasa sugarcane farmers used more herbicide and chemical fertilizer than other areas. Most sugarcane farmlands become infertile due long-term use for intensive mono-cropping. At present most farmers heavily depend on inorganic fertilizer. Almost all farmers who participated to this survey aware of environment and health effect of herbicide and chemical fertilizer. The 78% farmers pass 40 years ’age and most of them were not happy about sugarcane farming due its less profit in comparison to past. Therefore, currently, very few selected farmers are farming sugarcane as their livelihood profession.</abstract>
+   <subject>
+      <topic>Herbicide</topic>
+   </subject>
+   <subject>
+      <topic>Inorganic fertilizer</topic>
+   </subject>
+   <subject>
+      <topic>Sugarcane farmers</topic>
+   </subject>
+   <subject>
+      <topic>Survey</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Agricultural Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-8245</identifier>
+      <identifier type="issn-e">0976-058X</identifier>
+      <identifier type="issn">0976-058X</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>222</start>
+            <end>226</end>
+            <total>5</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar2-54-2-015</identifier>
+   <identifier type="doi">10.18805/IJARe.A-469</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/IJARe.A-469</url>
+   </location>
+   <extension>
+      <archiveFile>ijar2-54-2-015</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/ijar2-54-2-015.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Variation in lactoferrin gene affects milk lactoferrin content and somatic cell count in murrah buffaloes</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Arun Pratap</namePart>
+      <namePart type="family">Singh</namePart>
+      <displayForm>Singh, Arun Pratap</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">K.P.</namePart>
+      <namePart type="family">Ramesha</namePart>
+      <displayForm>Ramesha, K.P.</displayForm>
+      <affiliation>Dairy Production Section, Southern Regional Station of Indian           Council of Agricultural Research National Dairy Research Institute,           Bangalore-560 030,           Karnataka, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.A.</namePart>
+      <namePart type="family">Mir</namePart>
+      <displayForm>Mir, M.A.</displayForm>
+      <affiliation>Animal Genetics and Breeding Division, Indian Council of           Agricultural Research National Dairy Research Institute,           Karnal-132 001,           Haryana, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ashwani</namePart>
+      <namePart type="family">Arya</namePart>
+      <displayForm>Arya, Ashwani</displayForm>
+      <affiliation>Krishi Vigyan Kendra, Mahoba-210           423, Uttar Pradesh,         India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.</namePart>
+      <namePart type="family">Isloor</namePart>
+      <displayForm>Isloor, S.</displayForm>
+      <affiliation>Department of Veterinary Microbiology, Veterinary           College, Hebbal,           Bangalore-560 024,           Karnataka, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-03</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Lactoferrin plays an important role in antimicrobial defence and is a potential candidate gene for mastitis resistance. In the present investigation, polymerase chain reaction-single strand conformation polymorphism (PCR-SSCP) studies were carried out in Murrah (Bubalus bubalis) buffaloes to detect single nucleotide polymorphisms (SNPs) of lactoferrin gene and to analyse the association between the observed polymorphisms with milk lactoferrin content and Somatic cell count (SCC). PCR-SSCP analysis revealed a total of 07 different variants in the partial coding region of the lactoferrin gene. PCR-SSCP analysis of exon 10 of lactoferrin gene revealed three and that of exons 4 and 5 revealed two unique patterns each, while all other exons exhibited monomorphic pattern. Comparison of nucleotide sequences of lactoferrin gene of the Murrah buffaloes with taurine reference sequence revealed a total of 14 point mutations, 09 of which were found to be in coding region. Conceptualized translation of nucleotide sequence revealed 07 amino acid changes. SSCP variants of exon 10 (P&lt;0.01) had significant effect on milk SCC. The SSCP variants of exon 4 and exon 5 had significant (P&lt;0.05) effect on lactoferrin content. The SCC and lactoferrin content in Murrah buffaloes was highest in 4th and above parity group. Stage of lactation had highly significant (P&lt;0.01) effect on both milk SCC and lactoferrin content. There was a high and significant (p&lt;0.01) correlation (0.741) between SCC and lactoferrin content in milk. The observed association between SSCP variants in lactoferrin gene with milk SCC and milk lactoferrin content can be used as prognostic markers for selection of animals for high lactoferrin content and low somatic cell count, as well as a marker of susceptibility/resistance to mastitis in Murrah buffaloes.</abstract>
+   <subject>
+      <topic>Lactoferrin gene</topic>
+   </subject>
+   <subject>
+      <topic>Milk lactoferrin content</topic>
+   </subject>
+   <subject>
+      <topic>Murrah buffaloes</topic>
+   </subject>
+   <subject>
+      <topic>PCR-SSCP</topic>
+   </subject>
+   <subject>
+      <topic>Somatic Cell Count</topic>
+   </subject>
+   <subject>
+      <topic>SNPs</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">03</text>
+         <extent unit="pages">
+            <start>265</start>
+            <end>274</end>
+            <total>10</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-3-001</identifier>
+   <identifier type="doi">10.18805/ijar.B-3773</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3773</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-3-001</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-3-001.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

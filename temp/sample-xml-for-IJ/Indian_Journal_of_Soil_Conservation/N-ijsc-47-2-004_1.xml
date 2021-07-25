@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Effect of different mulches on soil moisture conservation and yield of drip irrigated watermelon</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">P.S.</namePart>
+      <namePart type="family">Pawar</namePart>
+      <displayForm>Pawar, P.S.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.S.</namePart>
+      <namePart type="family">Kadale</namePart>
+      <displayForm>Kadale, A.S.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">G.D.</namePart>
+      <namePart type="family">Gadade</namePart>
+      <displayForm>Gadade, G.D.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-08</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The field experiment was conducted on watermelon (Citrullus lanatus) cv. Kiran in summer season during two consecutive years viz., 2015 and 2016. The field experiment was laid out in split plot design, wherein main plots were assigned to three irrigation levels based on daily pan evaporation data (I1-drip irrigation at 60% of pan evaporation, I2-drip irrigation at 80% of pan evaporation and I 3-drip irrigation at 100% of pan evaporation) and sub plots to four mulches (BPM-Black polythene mulch, TPM-Transparent polythene mulch, SSM-Soybean straw mulch and C-Control, without mulch). Among the mulches, BPM was found to be more effective for conserving soil moisture (9.27% and 11.27%) followed by TPM (6.52% and 9.96%) and SSM (4.81% and 5.33%) over the control in 2015 and 2016, respectively. The total seasonal water use of drip-irrigated watermelon varied from 515.5 mm to 780.5 mm in 2015, and 525.8 mm to 798.8 mm in 2016. Yield of watermelon in BPM was 28.90 t ha⁻¹, which was significantly higher (P &lt; 0.05) as compared to other mulches and no mulch. As regard to mulches, the highest B: C ratio (2.07 and 1.71) was observed in BPM treatment followed by TPM (1.81 and 1.49) and SSM (1.73 and 1.46) during 2015 and 2016, respectively. The lowest B: C ratio (1.65 and 1.28) was observed in control. In conclusion, drip irrigation in combination with plastic mulch, especially black mulch, is recommended as more effective method in improving water use efficiency (WUE) and increasing crop yield of watermelon in Marathwada region.</abstract>
+   <subject>
+      <topic>Drip irrigation Soil moisture Straw mulch Mulching Watermelon</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Soil Conservation</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Associations of Soil &amp; Water Conservationists</publisher>
+      </originInfo>
+      <identifier type="issn-p">0970-3349</identifier>
+      <identifier type="issn-e">0976-1721</identifier>
+      <identifier type="issn">0976-1721</identifier>
+      <part>
+         <detail type="volume">
+            <number>47</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">08</text>
+         <extent unit="pages">
+            <start>134</start>
+            <end>142</end>
+            <total>9</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijsc-47-2-004</identifier>
+   <extension>
+      <archiveFile>ijsc-47-2-004</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/ijsc-47-2-004.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/</workingDirectory>
+   </extension>
+</mods>

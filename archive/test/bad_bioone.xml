@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.2 20060430//EN" "nlm-dtd2.2/archivearticle.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.2" xml:lang="EN">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">aare</journal-id>
+			<journal-title>Arctic, Antarctic, and Alpine Research</journal-title>
+			<issn pub-type="ppub">1523-0430</issn>
+			<issn pub-type="active">1523-0430</issn>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1657/1523-0430(2004)036[0281:CIAER]2.0.CO;2</article-id>
+			<article-id pub-id-type="other"></article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Introduction</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Challenges in Arctic-Alpine Environmental Research</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" xlink:type="simple">
+					<name name-style="western">
+						<given-names>Jon B&oslash;ørre</given-names><x xml:space="preserve"> </x>
+						<surname>&Oslash;Ørb&aelig;æk</surname>
+					</name>
+					<xref ref-type="aff" rid="aff1"></xref><x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<name name-style="western">
+						<given-names>Ingunn</given-names><x xml:space="preserve"> </x>
+						<surname>Tombre</surname>
+					</name>
+					<xref ref-type="aff" rid="aff2"></xref><x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<name name-style="western">
+						<given-names>Roland</given-names><x xml:space="preserve"> </x>
+						<surname>Kallenborn</surname>
+					</name>
+					<xref ref-type="aff" rid="aff3"></xref>
+				</contrib>
+				<aff id="aff1">
+					<label><sup>a</sup></label>Norwegian Polar Institute, Postbox 505, N-9171 Longyearbyen, Svalbard, Norway. 
+					<email xlink:href="mailto:jonbo@npolar.no" xlink:type="simple">jonbo&commat;@npolar.no</email>
+				</aff>
+				<aff id="aff2">
+					<label><sup>b</sup></label>Norwegian Institute for Nature Research, Polar Environmental Center, N-9296 Troms&oslash;ø, Norway
+				</aff>
+				<aff id="aff3">
+					<label><sup>c</sup></label>Norwegian Institute for Air Research, Postbox 100, N-2027 Kjeller, Norway
+				</aff>
+			</contrib-group>
+			<pub-date pub-type="ppub">
+				<month>08</month>
+				<year>2004</year>
+				<string-date>200408</string-date>
+			</pub-date>
+			<volume>36</volume>
+			<issue>3</issue>
+			<fpage>281</fpage>
+			<lpage>283</lpage>
+			<history>
+				<date date-type="submitted">
+					<day>1</day>
+					<month>February</month>
+					<year>2004</year>
+					<string-date>February 1, 2004</string-date>
+				</date>
+			</history>
+			<copyright-statement>Institute of Arctic and Alpine Research (INSTAAR), University of Colorado</copyright-statement>
+			<copyright-year>2004</copyright-year>
+			<related-article related-article-type="pdf" xlink:href="1523-0430(2004)036[0281:CIAER]2.0.CO;2.pdf" xlink:type="simple"></related-article>
+			<counts>
+				<page-count count="3"></page-count>
+			</counts>
+		</article-meta>
+	</front>
+	
+	
+</article>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJAR2</journal-id>
+         <journal-title>Indian Journal of Agricultural Research</journal-title>
+         <issn pub-type="ppub">0367-8245</issn>
+         <issn pub-type="epub">0976-058X</issn>
+         <publisher>
+            <publisher-name>Agricultural Research Communication Centre</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijar2-54-2-018</article-id>
+         <doi-group>
+            <article-doi>
+               <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                         ext-link-type="uri"
+                         xlink:href="http://dx.doi.org/10.18805/IJARe.A-5277">10.18805/IJARe.A-5277</ext-link>
+            </article-doi>
+         </doi-group>
+         <article-categories>
+            <subj-group>
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Correlation and Path Coefficient Analysis in Rice (<italic>Oryza sativa</italic> L.) Genotypes under Normal and Cold Condition</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Sofiya</surname>
+                  <given-names>M.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Eswaran</surname>
+                  <given-names>R.</given-names>
+               </name>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Silambarasan</surname>
+                  <given-names>V.</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <aff>
+            <deptname>Department of Genetics and Plant Breeding, Faculty of Agriculture</deptname>, <instname>Annamalai University</instname>, <instcity>Annamalai Nagar</instcity>-<instpincode>608 002</instpincode>, <inststate>Tamil Nadu</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding Author: R. Eswaran, <deptname>Department of Genetics and Plant Breeding, Faculty of Agriculture</deptname>, <instname>Annamalai University</instname>, <instcity>Annamalai Nagar</instcity>-<instpincode>608 002</instpincode>, <inststate>Tamil Nadu</inststate>, <instcountry>India</instcountry>, Email: <email>eswargene@gmail.com</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 23 May, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>4</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>54</volume>
+         <issue>2</issue>
+         <fpage>237</fpage>
+         <lpage>241</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>An experiment was conducted with the objective of determining the magnitude of association between seedling vigour index and its component characters. Fifty rice genotypes were evaluated in completely randomized design with three replications. Correlation coefficient analysis of vigour index showed positive and significant association with total seedling length, root length, total seedling dry weight, root dry weight, shoot length, germination percentage and first leaf area under normal condition. Germination percentage, total seedling length, root length, shoot length and first leaf area showed strong and significant positive association with seedling vigour index under cold condition. Thus, these traits could play pivotal role in developing cold tolerant rice. Separation of correlation coefficients into direct and indirect effects of component traits for vigour index revealed that the traits total seedling length and root dry weight exerted maximum positive direct and indirect effect respectively on vigour under normal condition. Under cold stress the traits shoot length and root length exerted maximum positive direct and indirect effects respectively for vigour index. These characters, therefore, are required to be considered during selection for vigour improvement in rice under normal and cold condition in rice.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Cold stress</kwd>
+            <kwd>Correlation</kwd>
+            <kwd>Path analysis</kwd>
+            <kwd>Rice</kwd>
+            <kwd>Seedling vigour index</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="5"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

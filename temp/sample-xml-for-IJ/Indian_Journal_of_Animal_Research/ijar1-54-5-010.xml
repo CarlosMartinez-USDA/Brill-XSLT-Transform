@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJAR1</journal-id>
+      <journal-title>Indian Journal of Animal Research</journal-title>
+      <issn pub-type="ppub">0367-6722</issn>
+      <issn pub-type="epub">0976-0555</issn>
+      <publisher>
+        <publisher-name>Agricultural Research Communication Centre</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijar1-54-5-010</article-id>
+      <doi-group>
+        <article-doi>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.18805/ijar.B-956">10.18805/ijar.B-956</ext-link>
+        </article-doi>
+      </doi-group>
+      <article-categories>
+        <subj-group>
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Effect of dietary copper levels on the growth performance and nutrient utilization in fattening pigs</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Adams</surname>
+            <given-names>Seidu</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hongjiao</surname>
+            <given-names>Meng</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Che</surname>
+            <given-names>Dongsheng</given-names>
+          </name>
+          <xref ref-type="corresp" rid="cor001">*,</xref>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hailong</surname>
+            <given-names>Jiang</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rui</surname>
+            <given-names>Han</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bao</surname>
+            <given-names>Zhao</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Danquah</surname>
+            <given-names>Kofi</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Guixin</surname>
+            <given-names>Qin</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff001">
+        <sup>1</sup>
+        <instname>College of Animal Science and Technology</instname>, <instparent>Jilin Agricultural University</instparent>, <instcity>Changchun</instcity>, <instcountry>China</instcountry>, <instpincode>130 118</instpincode></aff>
+      <aff id="aff002">
+        <sup>2</sup>
+        <instname>School of Allied Health Sciences</instname>, <deptname>Department of Nutritional Sciences</deptname>, <instparent>University for Development Studies</instparent>, <instcountry>Ghana</instcountry>, <instpincode>1350</instpincode></aff>
+      <author-notes>
+        <corresp id="cor001">* Corresponding Author: Dongsheng Che, <instname>College of Animal Science and Technology</instname>, <instparent>Jilin Agricultural University</instparent>, <instcity>Changchun</instcity>, <instcountry>China</instcountry>, <instpincode>130 118</instpincode>, Email: <email>chedongsheng@163.com</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 30 June, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>5</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>54</volume>
+      <issue>5</issue>
+      <fpage>573</fpage>
+      <lpage>577</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>The present study was conducted to investigate the effect of dietary copper supplementation on the growth performance, nutrient digestibility and copper metabolism in fattening pigs. A total of 24 pigs (Landrace X Large White X Duroc) with an average initial BW of 30±1.05 kg, the pigs were divided into four treatment groups, with three replicates per treatment and two pigs per replicate, in accordance with a completely randomized design based on the BW. The results indicated that dietary copper supplementation increased the growth performance, CP and EE digestibility. However, there was no significant increase in the DM and OM digestibility. In addition, copper deposition increased with the increase in dietary copper supplementation, while copper absorption, increased with the decrease in dietary copper levels. In conclusion, fattening pigs with 30–60 kg BW can utilize 45–135 mg/kg Cu and porkers at BW of 60–120 kg can also utilize 10–45 mg/kg Cu as CuSO<sub>4</sub> for an increased copper utilization and a decreased in copper deposition.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Copper</kwd>
+        <kwd>Digestibility</kwd>
+        <kwd>Metabolism</kwd>
+        <kwd>Performance</kwd>
+        <kwd>Pig</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="5" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

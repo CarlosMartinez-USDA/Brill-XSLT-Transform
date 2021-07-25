@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/archiving/3.0/archivearticle3.dtd">
+<article article-type="research-article">
+<!--
+TFJA_to_NLM3Header.xsl version: 1.3.0
+-->
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">batc20</journal-id>
+<journal-id journal-id-type="archive">BATC</journal-id>
+<journal-title-group>
+<journal-title>Critical Reviews in Analytical Chemistry</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">1040-8347</issn>
+<issn pub-type="epub">1547-6510</issn>
+<publisher>
+<publisher-name>Taylor &amp; Francis Group</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">523589</article-id>
+<article-id pub-id-type="doi">10.1080/10408347.2010.523589</article-id>
+<article-id pub-id-type="coden">Critical Reviews in Analytical Chemistry, Vol. 41, No. 1, January-March 2011, pp. 36&#x2013;69</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Original Articles</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Fitting Straight Lines with Replicated Observations by Linear Regression. IV. Transforming Data</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<string-name>
+<given-names>Agustin<x> </x>G.</given-names>
+<x> </x>
+<surname>Asuero</surname>
+</string-name>
+<xref rid="AF0001" ref-type="aff">
+<sup>a</sup>
+</xref>
+<email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="asuero@us.es">asuero@us.es</email>
+<x> &amp; </x>
+</contrib>
+<contrib contrib-type="author">
+<string-name>
+<given-names>Julia<x> </x>
+<x> </x>Martin</given-names>
+<x> </x>
+<surname>Bueno</surname>
+</string-name>
+<xref rid="AF0002" ref-type="aff">
+<sup>b</sup>
+</xref>
+</contrib>
+<aff id="AF0001">
+<x>
+<sup>a</sup> </x>
+<institution>
+<named-content content-type="dept">Department of Analytical Chemistry, Faculty of Pharmacy</named-content>
+<x>, </x>The University of Seville</institution>
+<x>, </x>
+<named-content content-type="city">Seville</named-content>
+<x>, </x>
+<country>Spain</country>
+</aff>
+<aff id="AF0002">
+<x>
+<sup>b</sup> </x>
+<institution>
+<named-content content-type="dept">Department of Analytical Chemistry, Higher Polytechnic School</named-content>
+<x>, </x>The University of Seville</institution>
+<x>, </x>
+<named-content content-type="city">Seville</named-content>
+<x>, </x>
+<country>Spain</country>
+</aff>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>31</day>
+<month>1</month>
+<year>2011</year>
+<string-date>January-March 2011</string-date>
+</pub-date>
+<volume>41</volume>
+<issue>1</issue>
+<fpage seq="4">36</fpage>
+<lpage>69</lpage>
+<permissions>
+<copyright-statement>Copyright Taylor and Francis Group, LLC</copyright-statement>
+<copyright-year>2011</copyright-year>
+</permissions>
+<abstract>
+<p>By transforming variables it is possible to introduce non-linear terms to the mathematical framework of linear regression. The purpose of this article is to stress the importance of transforming data in the context of linear regression analysis. However, often problems arise when people unfamiliar with mathematical statistics attempt to put this theory into practice for a certain application. Reasons for making transformations, probability plots and normality, transformations to simplify relationships, and weighting transformation data are covered in this paper. Special attention has also been paid to the Box-Cox method, i.e., transformation based on sample data observations, which is very easy to apply in practice despite its mathematical background. Statistical measurements are also re-expressed after data transformation, and a number of applications concerning the use of transformation and variance stabilization in analytical chemistry are given in tabular form. The analytical, pharmaceutical, biochemical, and clinical literature has been thoroughly revised. Variance analysis and applications on fitting straight lines with replicated observations by linear regression will be the subject of the later paper of the series.</p>
+</abstract>
+</article-meta>
+</front>
+</article>

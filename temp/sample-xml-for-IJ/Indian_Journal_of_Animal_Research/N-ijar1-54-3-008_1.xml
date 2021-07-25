@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Comparison of fertilization prototype on biofloc development and its characteristics in GIFT Tilapia Culture</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">M.</namePart>
+      <namePart type="family">Menaga</namePart>
+      <displayForm>Menaga, M.</displayForm>
+      <affiliation>Department of Aquaculture, Dr. M.G.R. Fisheries College and Research Institute, Ponneri-601 204, Tamil Nadu, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.</namePart>
+      <namePart type="family">Felix</namePart>
+      <displayForm>Felix, S.</displayForm>
+      <affiliation>Tamil Nadu Dr. J. Jayalalithaa Fisheries University, Nagapattinam, 611 002, Tamil Nadu, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.</namePart>
+      <namePart type="family">Charulatha</namePart>
+      <displayForm>Charulatha, M.</displayForm>
+      <affiliation>Department of Aquaculture, Dr. M.G.R. Fisheries College and Research Institute, Ponneri-601 204, Tamil Nadu, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">C.</namePart>
+      <namePart type="family">Mohanasundari</namePart>
+      <displayForm>Mohanasundari, C.</displayForm>
+      <affiliation>Department of Aquaculture, Dr. M.G.R. Fisheries College and Research Institute, Ponneri-601 204, Tamil Nadu, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.</namePart>
+      <namePart type="family">Gopalakannan</namePart>
+      <displayForm>Gopalakannan, A.</displayForm>
+      <affiliation>Department of Aquaculture, Dr. M.G.R. Fisheries College and Research Institute, Ponneri-601 204, Tamil Nadu, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-03</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>A study was conducted to evaluate the effect of different fertilizers in GIFT Tilapia culture using biofloc technology. Animals (5±0.23g) were stocked at a density of 30m-3 in 500 litres FRP tanks and spentwash was used as a carbon source to maintain a C: N ratio of 10: 1 for 42 days. The experimental group includes fertilization using ammonia sulphate alone (T1) and fertilization using different inorganic fertilizers (T2). No significant differences in FCR, specific growth rate, weight gain and survival of animals were found between the treatments. Proximate composition and fatty acid profile of floc were comparatively rich in T2. Increased solid concentrations with higher Floc volume index and floc sizes were recorded in T2. The rapid floc development along with multiplication of heterotrophic bacteria and decreased vibrio population was observed in T2. The present study confirmed the influence of fertilizers on the physical and nutritional quality of biofloc in GIFT tilapia culture.</abstract>
+   <subject>
+      <topic>Biofloc</topic>
+   </subject>
+   <subject>
+      <topic>Fertilizers</topic>
+   </subject>
+   <subject>
+      <topic>GIFT Tilapia</topic>
+   </subject>
+   <subject>
+      <topic>Heterotrophic bacteria</topic>
+   </subject>
+   <subject>
+      <topic>Spent wash</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">03</text>
+         <extent unit="pages">
+            <start>310</start>
+            <end>316</end>
+            <total>7</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-3-008</identifier>
+   <identifier type="doi">10.18805/ijar.B-3776</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3776</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-3-008</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-3-008.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

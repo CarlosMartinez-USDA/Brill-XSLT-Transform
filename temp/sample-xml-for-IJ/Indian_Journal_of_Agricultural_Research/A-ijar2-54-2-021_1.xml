@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJAR2</journal-id>
+         <journal-title>Indian Journal of Agricultural Research</journal-title>
+         <issn pub-type="ppub">0367-8245</issn>
+         <issn pub-type="epub">0976-058X</issn>
+         <publisher>
+            <publisher-name>Agricultural Research Communication Centre</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijar2-54-2-021</article-id>
+         <doi-group>
+            <article-doi>
+               <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                         ext-link-type="uri"
+                         xlink:href="http://dx.doi.org/10.18805/IJARe.A-450">10.18805/IJARe.A-450</ext-link>
+            </article-doi>
+         </doi-group>
+         <article-categories>
+            <subj-group>
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The Effect of Leguminous Cover Crops on Growth and Yield of Garden Eggs</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Boateng</surname>
+                  <given-names>S.K.</given-names>
+               </name>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Tetteh</surname>
+                  <given-names>R.</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <aff>
+            <instname>CSIR-Plant Genetic Resources Research Institute</instname>, <instaddress>P.O. Box 7</instaddress>, <instcity>Bunso</instcity>, <instaddress>Eastern Region</instaddress>, <instcountry>Ghana</instcountry>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding Author: S.K. Boateng, <instname>CSIR-Plant Genetic Resources Research Institute</instname>, <instaddress>P.O. Box 7</instaddress>, <instcity>Bunso</instcity>, <instaddress>Eastern Region</instaddress>, <instcountry>Ghana</instcountry>. Email: <email>bkwasi16@yahoo.com</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 23 May, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>4</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>54</volume>
+         <issue>2</issue>
+         <fpage>252</fpage>
+         <lpage>255</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>The use of cover crops is a way of sustainable agriculture in which nutrients are recycled and the use of inorganic fertilizer is reduced. Leguminous cover crops for instance are known to enrich the soil through the fixing of nitrogen in the form of nitrates in the soil for plant use. The objective of the study was to determine the effect of some leguminous cover crops on growth and yield of garden eggs. The study consisted of five treatments, namely Bare ground (control), fertilizer (NPK 15: 15: 15), <italic>Mucuna pruriens</italic>, <italic>Glycine max</italic> and <italic>Phaseolus lunatus</italic> laid in a randomized complete block design with 3 replicates. Data collected were on vegetative growth and yield parameters. Results showed that plant height of garden eggs was highest in <italic>Phaseolus</italic> treated plots and this was followed by the <italic>Glycine max</italic> plots. <italic>Phaseolus</italic> treated plots had the highest yield in terms of the number of fruits harvested and weight of fruits harvested.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Cover crops</kwd>
+            <kwd>Garden eggs</kwd>
+            <kwd>
+               <italic>Mucuna</italic> treated plots</kwd>
+            <kwd>
+               <italic>Phaseolus</italic> treated plots</kwd>
+            <kwd>Yield</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="4"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

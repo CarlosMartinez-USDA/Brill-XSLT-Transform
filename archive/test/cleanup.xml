@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Potential use of Bioagents in the control of postharvest rot in melon</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">D.</namePart>
+      <namePart type="family">Terao</namePart>
+      <displayForm>Terao, D.</displayForm>
+      <affiliation>Embrapa SemiÃ¡rido/Embrapa Meio ambiente, Petrolina, PE, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">C.</namePart>
+      <namePart type="family">Forner</namePart>
+      <displayForm>Forner, C.</displayForm>
+      <affiliation>Universidade Estadual Paulista â&#x80;&#x9c;JÃºlio de Mesquita Filhoâ&#x80;&#x9d; - UNESP, Botucatu, SP, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A. de</namePart>
+      <namePart type="family">H. N. Maia</namePart>
+      <displayForm>H. N. Maia, A. de</displayForm>
+      <affiliation>Embrapa Meio Ambiente, JaguariÃºna, SP, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">W.</namePart>
+      <namePart type="family">Bettiol</namePart>
+      <displayForm>Bettiol, W.</displayForm>
+      <affiliation>Embrapa Meio Ambiente, JaguariÃºna, SP, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2014-08-20</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Rot caused by Fusarium pallidoroseum has had a severely negative impact on the export of melons from Brazil. Uncertainty regarding the health of the fruit due to the quiescent infection of the pathogen has led producers to use fungicides in the postharvest treatment of the fruit, thereby causing contamination and risking the health of consumers. Consequently, there is a demand for clean and safe natural technologies for the postharvest treatment of melons, including biological control. The present study aimed at evaluating bioagents for use in controlling Fusarium rot in â&#x80;&#x98;Galiaâ&#x80;&#x99; melon. The following bioagents were evaluated: two isolates of Bacillus subtilis, B. licheniformis and a mixture of B. subtilis and B. licheniformis, as well as the yeasts Sporidiobolus pararoseus, Pichia spp., Pichia membranifaciens, P. guilliermondii, Sporobolomyces roseus, Debaryomyces hansenii and Rhodotorula mucilagenosa. Treatment with imazalil and water were used as controls. Two experiments were conducted in a completely randomised design with 10 replicates per treatment with four fruit per replicate; the disease incidence was evaluated in the first experiment, and the disease severity was evaluated in the second. Similarity analysis of the temporal evolution profiles of rot incidence caused by F. pallidoroseum allowed the evaluated treatments to be clustered into four groups. In the first experiment, the yeasts P. membranifaciens and D. hansenii produced results similar to that of the fungicide imazalil. The second experiment highlighted the yeasts P. guilliermondii and R. mucilaginosa. Electron microscopy studies confirmed that once applied to the fruit, the yeasts colonised the skin and damaged the pathogen mycelium; the action of the yeasts affected the mycelium of F. pallidoroseum, which had infected wounds on the fruitâ&#x80;&#x99;s surface. Bacillus spp. did not provide good disease control. These results demonstrated that yeasts have the potential to control postharvest rot caused by F. pallidoroseum in â&#x80;&#x98;Galiaâ&#x80;&#x99; melon.</abstract>
+   <subject authority="atg">
+      <topic>Bacillus subtilis</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>Debaryomyces hansenii</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>Fusarium incarnatum</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>Pichia membranifaciens</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>Rhodotorula</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>Sporidiobolus</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>Sporobolomyces</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>biological control</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>disease control</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>disease incidence</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>disease severity</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>electron microscopy</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>exports</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>imazalil</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>melons</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>mycelium</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>pathogens</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>postharvest diseases</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>postharvest treatment</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>uncertainty</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>yeasts</topic>
+   </subject>
+   <subject authority="atg">
+      <geographic>Brazil</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Acta horticulturae</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>International Society for Horticultural Science.</publisher>
+      </originInfo>
+      <identifier type="issn">0567-7572</identifier>
+      <identifier type="local">Journal:jnl46289</identifier>
+      <part>
+         <detail type="issue">
+            <number>1053</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2014</text>
+         <text type="month">Oct</text>
+         <text type="day">20</text>
+         <extent unit="pages">
+            <start>65</start>
+            <end>74</end>
+         </extent>
+         <detail type="volume">
+            <caption>v.</caption>
+         </detail>
+      </part>
+   </relatedItem>
+   <location>
+      <url>http://www.actahort.org/books/1053/1053_4.htm</url>
+   </location>
+   <note>Paper presented at the II International Symposium on Discovery and Development of Innovative Strategies for Postharvest Disease Management held April 28-May 2  2013, Kusadasi (Turkey)</note>
+   <extension>
+      <note type="note">Batch:752 annotated on 2014-12-10T12:01:57Z</note>
+      <note type="note">Batch:752 reviewed on 2015-01-20T16:00:02Z</note>
+      <note type="note">Batch:752 reviewed on 2015-01-21T04:00:02Z</note>
+   </extension>
+</mods>

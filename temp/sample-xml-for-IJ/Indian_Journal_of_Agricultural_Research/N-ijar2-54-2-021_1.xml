@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>The Effect of Leguminous Cover Crops on Growth and Yield of Garden Eggs</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">S.K.</namePart>
+      <namePart type="family">Boateng</namePart>
+      <displayForm>Boateng, S.K.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">R.</namePart>
+      <namePart type="family">Tetteh</namePart>
+      <displayForm>Tetteh, R.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The use of cover crops is a way of sustainable agriculture in which nutrients are recycled and the use of inorganic fertilizer is reduced. Leguminous cover crops for instance are known to enrich the soil through the fixing of nitrogen in the form of nitrates in the soil for plant use. The objective of the study was to determine the effect of some leguminous cover crops on growth and yield of garden eggs. The study consisted of five treatments, namely Bare ground (control), fertilizer (NPK 15: 15: 15), Mucuna pruriens, Glycine max and Phaseolus lunatus laid in a randomized complete block design with 3 replicates. Data collected were on vegetative growth and yield parameters. Results showed that plant height of garden eggs was highest in Phaseolus treated plots and this was followed by the Glycine max plots. Phaseolus treated plots had the highest yield in terms of the number of fruits harvested and weight of fruits harvested.</abstract>
+   <subject>
+      <topic>Cover crops</topic>
+   </subject>
+   <subject>
+      <topic>Garden eggs</topic>
+   </subject>
+   <subject>
+      <topic>Mucuna treated plots</topic>
+   </subject>
+   <subject>
+      <topic>Phaseolus treated plots</topic>
+   </subject>
+   <subject>
+      <topic>Yield</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Agricultural Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-8245</identifier>
+      <identifier type="issn-e">0976-058X</identifier>
+      <identifier type="issn">0976-058X</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>252</start>
+            <end>255</end>
+            <total>4</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar2-54-2-021</identifier>
+   <identifier type="doi">10.18805/IJARe.A-450</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/IJARe.A-450</url>
+   </location>
+   <extension>
+      <archiveFile>ijar2-54-2-021</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/ijar2-54-2-021.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/</workingDirectory>
+   </extension>
+</mods>

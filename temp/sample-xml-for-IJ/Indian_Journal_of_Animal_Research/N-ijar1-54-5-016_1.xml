@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Surgical treatment of prolapse of the third eyelid gland in dogs using modified morgan pocket technique</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">R.</namePart>
+      <namePart type="family">Yaygingul</namePart>
+      <displayForm>Yaygingul, R.</displayForm>
+      <affiliation>Adnan Menderes University, Veterinary Faculty Department of Surgery-09016-Isikli-Aydin-Turkey</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Z.</namePart>
+      <namePart type="family">Bozkan</namePart>
+      <displayForm>Bozkan, Z.</displayForm>
+      <affiliation>Adnan Menderes University, Veterinary Faculty Department of Surgery-09016-Isikli-Aydin-Turkey</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Z. Bilgen</namePart>
+      <namePart type="family">Sen</namePart>
+      <displayForm>Sen, Z. Bilgen</displayForm>
+      <affiliation>Adnan Menderes University, Veterinary Faculty Department of Surgery-09016-Isikli-Aydin-Turkey</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">B. Kibar</namePart>
+      <namePart type="family">Kurt</namePart>
+      <displayForm>Kurt, B. Kibar</displayForm>
+      <affiliation>Adnan Menderes University, Veterinary Faculty Department of Surgery-09016-Isikli-Aydin-Turkey</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">O.</namePart>
+      <namePart type="family">Bulut</namePart>
+      <displayForm>Bulut, O.</displayForm>
+      <affiliation>Mugla Sytky Kocman University, Veterinary Faculty Department of Surgery, 48200, Mugla, Turkey</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.</namePart>
+      <namePart type="family">Belge</namePart>
+      <displayForm>Belge, A.</displayForm>
+      <affiliation>Adnan Menderes University, Veterinary Faculty Department of Surgery-09016-Isikli-Aydin-Turkey</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-05</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The aim of this retrospective study was to evaluate the clinical outcome, complications, recurrence rate, and results of the pocket technique in the treatment of prolapse of the third eyelid gland, cherry eye namely. Thirty eyes of 26 dogs diagnosed with prolapse of the third eyelid gland were included the study. Conjunctivitis and ocular discharges were noticed in the affected eyes. The four cases were (15%) bilateral and twenty-two (85%) were unilateral. Of the dogs with unilateral disease, the affected eye was on the left side in 10 (45%) dogs and the right side in 12 (55%). Eighteen dogs were male and eight were female. Twenty-six dogs, 30 eyes with protrusion of the third eyelid gland were treated using Modified Morgan's pocket technique. In the postoperative period, the dogs were controlled 3 times with 7 day intervals and no clinical problem was detected. Modified Morgan pocket technique was used with 96.1 percent success rate for the re-positioning of prolapsed gland of the third eyelid in dogs.</abstract>
+   <subject>
+      <topic>Dog</topic>
+   </subject>
+   <subject>
+      <topic>Modified technique</topic>
+   </subject>
+   <subject>
+      <topic>Prolapse</topic>
+   </subject>
+   <subject>
+      <topic>Surgery</topic>
+   </subject>
+   <subject>
+      <topic>Third eyelid gland</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>5</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">05</text>
+         <extent unit="pages">
+            <start>619</start>
+            <end>622</end>
+            <total>4</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-5-016</identifier>
+   <identifier type="doi">10.18805/ijar.B-1131</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-1131</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-5-016</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-5-016.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

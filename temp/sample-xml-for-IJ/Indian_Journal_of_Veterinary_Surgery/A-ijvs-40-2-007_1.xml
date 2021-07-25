@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJVS</journal-id>
+         <journal-title>Indian Journal of Veterinary Surgery</journal-title>
+         <issn pub-type="ppub">0254-4105</issn>
+         <issn pub-type="epub">0973-9726</issn>
+         <publisher>
+            <publisher-name>Indian Society for Veterinary Surgery</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijvs-40-2-007</article-id>
+         <title-group>
+            <article-title>Designing and development of external prosthetic limbs and their biomechanical evaluation for partially amputated dogs</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Shiyad</surname>
+                  <given-names>Md. K.K.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Malik</surname>
+                  <given-names>V.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2,</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+         </contrib-group>
+         <aff>
+            <instname>U.P. Pandit Deen Dayal Upadhayay Pashu-Chikitsa Vigyan Vishwavidyalaya Evam Go-Anusandhan Sansthan (DUVASU)</instname>, <instcity>Mathura</instcity>-<instpincode>281 001</instpincode> (<inststate>UP</inststate>)</aff>
+         <aff id="aff001">
+            <sup>1</sup>Veterinary Practitioner, <deptname>Department of Veterinary Surgery and Radiology</deptname>, <instname>College of Veterinary and Animal Science</instname>, <instparent>SVPUA&amp;T</instparent>, <instcity>Meerut</instcity>-<instpincode>250 110</instpincode> (<inststate>UP</inststate>)</aff>
+         <aff id="aff002">
+            <sup>2</sup>Associate Professor, <deptname>Department of Veterinary Surgery and Radiology</deptname>, <instname>College of Veterinary and Animal Science</instname>, <instparent>SVPUA&amp;T</instparent>, <instcity>Meerut</instcity>-<instpincode>250 110</instpincode> (<inststate>UP</inststate>)</aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding author; E-mail: <email>oallaviverma@yahoo.com</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 28 May, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>12</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>40</volume>
+         <issue>2</issue>
+         <fpage>107</fpage>
+         <lpage>111</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>The present study was carried out on six dogs of either sex, belonging to various breeds and age groups. Improved stump socket prosthesis for six dogs of different breeds were developed. The prosthesis was fabricated using aluminium U-channel and hollow pipes of different sizes (U channel 9 mm, hollow pipe 9 mm, U channel 6 mm) and stainless steel springs of three different sizes (A, B and C). In-vitro biomechanical testing of the prosthetic limb proved that the 6 mm aluminium U channel could be used for construction of prosthetic limb for animals weighing 5–35 kg, hollow pipe (9 mm) could be used for animals weighing 35–55 kg and 9 mm U channel could be used for animals weighing 55–75 kg. Biomechanical tests of springs with G of 80000 mega Pascal showed that spring A can bear a weight of up to 4.1 kg and can deflect about 10 mm. Spring B can deflect up to 15 mm safely and can carry a load of 8.6 kg, whereas, spring C can bear a load of 21.1 kg and could deflect up to 50 mm without damage. The results indicate that the stump socket prosthesis developed in this study is a feasible and cost effective modality and it can be used to improve the quality of life of the amputee dogs.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Biomechanical study</kwd>
+            <kwd>Dogs</kwd>
+            <kwd>Prosthetic limbs</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="5"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Expression of cardiac specific cell marker in Ex Vivo differentiated canine ipsc</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Purnima</namePart>
+      <namePart type="family">Singh</namePart>
+      <displayForm>Singh, Purnima</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tanmay</namePart>
+      <namePart type="family">Mondal</namePart>
+      <displayForm>Mondal, Tanmay</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kuldeep</namePart>
+      <namePart type="family">Kumar</namePart>
+      <displayForm>Kumar, Kuldeep</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kinsuk</namePart>
+      <namePart type="family">Das</namePart>
+      <displayForm>Das, Kinsuk</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">N.</namePart>
+      <namePart type="family">Mahalakshmi</namePart>
+      <displayForm>Mahalakshmi, N.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.P.</namePart>
+      <namePart type="family">Madhusoodan</namePart>
+      <displayForm>Madhusoodan, A.P.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sadhan</namePart>
+      <namePart type="family">Bag</namePart>
+      <displayForm>Bag, Sadhan</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-05</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Induced Pluripotent stem cells (iPSC) have a high ability to renew and differentiate themselves into various lineages and as vehicles of cell based therapy. Stem cell can differentiate under appropriate in vitro and in vivo conditions into different cell types. This study described the establishment of condition for in vitro expression of alpha MHC gene in cardiac differentiated canine iPSC (ciPSC). In vitro differentiation of canine iPSCs via embryoid bodies (EBs) were produced by ‘Hanging Drop’ method. EB's were differentiated by using IMDM differentiation media: FBS - 10%, NEAA (100X) - 0.5%, β-Mercaptoethanol- 100mM, Gentamycin- 5μg/ml supplemented with Azacytidine- 0.5μM. During differentiation, EBs were collected on day 4, 6, 8, 12, 16, 20 and 24 for characterization of cardiomyocytes specific marker expression. Total RNA from EBs were extracted by using Trizol method and subsequently cDNA were synthesized. The differentiated cells expressed cardiac specific gene (Alpha MHC) which started from day 6 of differentiation upto day 24 Immunocytochemistry and relative expression of cardiac specific genes revealed that ciPSC have the potential to differentiate into cardiomyocytes which can be used for cardiac tissue regeneration and as disease models for pharmaceutical testing.</abstract>
+   <subject>
+      <topic>Canine iPSC</topic>
+   </subject>
+   <subject>
+      <topic>Cardiac</topic>
+   </subject>
+   <subject>
+      <topic>Differentiation</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>5</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">05</text>
+         <extent unit="pages">
+            <start>553</start>
+            <end>557</end>
+            <total>5</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-5-006</identifier>
+   <identifier type="doi">10.18805/ijar.B-3829</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3829</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-5-006</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-5-006.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

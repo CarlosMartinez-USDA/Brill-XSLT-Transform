@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJVS</journal-id>
+      <journal-title>Indian Journal of Veterinary Surgery</journal-title>
+      <issn pub-type="ppub">0254-4105</issn>
+      <issn pub-type="epub">0973-9726</issn>
+      <publisher>
+        <publisher-name>Indian Society for Veterinary Surgery</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijvs-40-2-013</article-id>
+      <title-group>
+        <article-title>Surgical management of supracondylar femur fracture using reconstruction bone plate in dogs</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kumar</surname>
+            <given-names>Amit</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1,</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tyagi</surname>
+            <given-names>SP</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kumar</surname>
+            <given-names>Adarsh</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Negi</surname>
+            <given-names>Arvind</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff003">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kumar</surname>
+            <given-names>Rohit</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff003">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Singh</surname>
+            <given-names>Sukhpreet</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff003">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <instname>CSK Himachal Pradesh Krishi Vishvavidyalaya</instname>, <instcity>Palampur</instcity>-<instpincode>176 062</instpincode> (<inststate>HP</inststate>)</aff>
+      <aff id="aff001">
+        <sup>1</sup>Assistant Professor, <deptname>Department of Veterinary Surgery and Radiology</deptname>, <instname>Dr GC Negi College of Veterinary and Animal Sciences</instname>, <instcity>Palampur</instcity></aff>
+      <aff id="aff002">
+        <sup>2</sup>Professor, <deptname>Department of Veterinary Surgery and Radiology</deptname>, <instname>Dr GC Negi College of Veterinary and Animal Sciences</instname>, <instcity>Palampur</instcity></aff>
+      <aff id="aff003">
+        <sup>3</sup>MVSc Scholar, <deptname>Department of Veterinary Surgery and Radiology</deptname>, <instname>Dr GC Negi College of Veterinary and Animal Sciences</instname>, <instcity>Palampur</instcity></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding author; E-mail: <email>drasingla@gmail.com</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 28 May, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>12</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>40</volume>
+      <issue>2</issue>
+      <fpage>131</fpage>
+      <lpage>133</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>The study was conducted on five dogs affected with supracondylar femur fractures. In all the five cases, the fracture was stabilized with reconstruction bone plate. Postoperative radiographs showed excellent facture reduction and fixation. All the animals showed good to excellent weight bearing by day 15 of fracture repair and the affected limb showed normal functional range of motion without any joint stiffness. Reconstruction bone plates were well tolerated by all the animals and this technique provided stable bone fixation with little external callus formation at the fracture site in small dogs weighing less than 20 kg.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Bone plate</kwd>
+        <kwd>dog</kwd>
+        <kwd>Femur</kwd>
+        <kwd>Reconstruction plate</kwd>
+        <kwd>Supracondylar fracture</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="3" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

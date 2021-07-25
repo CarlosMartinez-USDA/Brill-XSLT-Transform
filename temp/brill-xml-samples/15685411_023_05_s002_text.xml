@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" xml:lang="eng" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="eissn">1568-5411</journal-id>
+<journal-id journal-id-type="publisher-id">NEMY</journal-id>
+<journal-title-group><journal-title>Nematology</journal-title><journal-subtitle>International Journal of Fundamental and Applied Nematological Research</journal-subtitle><abbrev-journal-title abbrev-type="ltwa">Nematol.</abbrev-journal-title></journal-title-group>
+<issn publication-format="print">1388-5545</issn><issn publication-format="online">1568-5411</issn>
+<publisher>
+<publisher-name>Brill</publisher-name><publisher-loc>Leiden|Boston</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1163/15685411-bja10055</article-id>
+<article-categories><subj-group subj-group-type="toc-heading">
+<subject>Articles</subject></subj-group></article-categories>
+<title-group>
+<article-title>Description of <italic>Aporcella minor</italic> sp. n. (Dorylaimida: Aporcelaimidae) from Iran, with an updated taxonomy of the genus</article-title><alt-title alt-title-type="toc">Description of <italic>Aporcella minor</italic> sp. n. (Dorylaimida: Aporcelaimidae) from Iran, with an updated taxonomy of the genus</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western"><surname>Vazifeh</surname><given-names>Nasir</given-names></name><xref ref-type="aff" rid="AFF000001">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western"><surname>Niknam</surname><given-names>Gholamreza</given-names></name><xref ref-type="aff" rid="AFF000001">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western"><surname>Naghavi</surname><given-names>Arezoo</given-names></name><xref ref-type="aff" rid="AFF000002">2</xref>
+</contrib>
+<contrib contrib-type="author" corresp="yes">
+<name name-style="western"><surname>Jabbari</surname><given-names>Habibeh</given-names></name><xref ref-type="aff" rid="AFF000003">3</xref><xref ref-type="fn" rid="FN000001">*</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western"><surname>Peña-Santiago</surname><given-names>Reyes</given-names></name><xref ref-type="aff" rid="AFF000004">4</xref>
+</contrib>
+<aff id="AFF000001"><institution content-type="dept">Department of Plant Protection, Faculty of Agriculture</institution>, <institution>University of Tabriz</institution>, <addr-line>Tabriz</addr-line>, <country>Iran</country></aff>
+<aff id="AFF000002"><institution content-type="dept">Department of Plant Pathology, College of Agriculture</institution>, <institution>Lorestan University</institution>, <addr-line>Khoramabad</addr-line>, <country>Iran</country></aff>
+<aff id="AFF000003"><institution content-type="dept">Department of Plant Protection, Faculty of Agriculture</institution>, <institution>University of Maragheh</institution>, <addr-line>Maragheh</addr-line>, <country>Iran</country></aff>
+<aff id="AFF000004"><institution content-type="dept">Departamento de Biología Animal, Biología Vegetal y Ecología</institution>, <institution>Universidad de Jaén</institution>, <addr-line>Campus ‘Las Lagunillas’ s/n, Edificio B3, 23071-Jaén</addr-line>, <country>Spain</country></aff>
+</contrib-group>
+<pub-date publication-format="online" date-type="article"><day>30</day><month>09</month><year>2020</year></pub-date><pub-date publication-format="online" date-type="issue"><day>26</day><month>05</month><year>2021</year></pub-date><volume content-type="number">23</volume><volume content-type="year">2021</volume><issue>5</issue><fpage specific-use="PDF" seq="2">495</fpage><lpage>506</lpage><history><date date-type="received"><day>11</day><month>06</month><year>2020</year></date><date date-type="rev-recd"><day>06</day><month>08</month><year>2020</year></date><date date-type="accepted"><day>06</day><month>08</month><year>2020</year></date><date date-type="pub"><day>30</day><month>09</month><year>2020</year></date></history>
+<permissions><copyright-statement>Copyright 2021 by Koninklijke Brill NV, Leiden, The Netherlands</copyright-statement><copyright-year>2021</copyright-year><copyright-holder>Koninklijke Brill NV</copyright-holder>
+<license license-type="ccc">
+<license-p>This work is published by Koninklijke Brill NV. Koninklijke Brill NV incorporates the imprints Brill, Brill Hes &amp; De Graaf, Brill Nijhoff, Brill Rodopi, Brill Sense, Hotei Publishing, mentis Verlag, Verlag Ferdinand Schöningh and Wilhelm Fink Verlag. Koninklijke Brill NV reserves the right to protect the publication against unauthorized use and to authorize dissemination by means of offprints, legitimate photocopies, microform editions, reprints, translations, and secondary information sources, such as abstracting and indexing services including databases. Requests for commercial re-use, use of parts of the publication, and/or translations must be addressed to Koninklijke Brill NV.</license-p></license></permissions>
+<self-uri content-type="pdf" xlink:href="15685411_023_05_s002_text.pdf"/>
+<abstract>
+<title>Summary</title>
+<p>A new species belonging to the genus <italic>Aporcella</italic>, collected in cultivated soils of East Azarbaijan province, Iran, is described and illustrated. The new species is characterised by its 1.08 (1.05-1.15) mm long body, two-layered cuticle, lip region offset by constriction and 12 (11-13) <italic>μ</italic>m broad, odontostyle 13.0 (12.5-14.0) <italic>μ</italic>m long or nearly equal to lip region diam., neck 310 (293-325) <italic>μ</italic>m long, pharyngeal expansion 137 (128-144) <italic>μ</italic>m long, occupying 43-45% of the total neck length, female genital system didelphic-amphidelphic, uterus simple, 34-48 <italic>μ</italic>m long, vulva transverse (V = 59 (58-61)), tail conical with finely rounded terminus (30 (29-33) <italic>μ</italic>m long, c = 34 (33-36), c′ = 1.5 (1.4-1.6)), and male absent. Molecular analyses, using Bayesian inference based on partial LSU sequences, confirm the monophyly of <italic>Aporcella</italic> as well as its clustering with other dorylaimid taxa characterised by the absence of <italic>pars refringens vaginae</italic>. The taxonomy of the genus is updated, with an emended diagnosis, list of species, key to their identification, and a compendium of the main morphometrics of species/populations described since the last available revision.</p>
+</abstract>
+<kwd-group kwd-group-type="uncontrolled">
+<title>Keywords</title>
+<kwd>Bayesian inference</kwd>
+<kwd>free-living nematode</kwd>
+<kwd>key</kwd>
+<kwd>LSU D2-D3</kwd>
+<kwd>molecular</kwd>
+<kwd>morphology</kwd>
+<kwd>morphometrics</kwd>
+<kwd>new species</kwd>
+</kwd-group>
+<custom-meta-group><custom-meta><meta-name>version</meta-name><meta-value>fulltext</meta-value></custom-meta></custom-meta-group>
+</article-meta>
+</front>
+<body>
+<p>This is the third contribution devoted to characterising the members of the Iranian fauna belonging to <italic>Aporcella</italic> Andrássy, 2002. In two previous papers, the authors (Naghavi <italic>et al</italic>., 2019, 2020) provided descriptions and molecular data of two new species (<italic>A. malekimilanii</italic> Naghavi, Niknam, Vazifeh &amp; Peña-Santiago, 2019 and <italic>A. talebii</italic> Naghavi, Niknam, Vazifeh &amp; Peña-Santiago, 2020) as well as two described forms, namely <italic>A. vitrinus</italic> (Thorne &amp; Swanger, 1936) Álvarez-Ortega, Subbotin &amp; Peña-Santiago, 2013 and <italic>A. simplex</italic> (Thorne &amp; Swanger, 1936) Álvarez-Ortega, Subbotin &amp; Peña-Santiago, 2013.</p>
+<p>A general nematode survey, conducted in 2016-2017 to study the dorylaimid fauna of the East Azarbaijan province in northwest Iran, yielded additional material of <italic>Aporcella</italic>. Its study revealed a population representing a third previously unknown Iranian species of the genus, whose characterisation is the main aim of this work.</p>
+<p>After the new concept proposed for <italic>Aporcella</italic> by Álvarez-Ortega <italic>et al</italic>. (2013), several papers (Andrássy, 2012; Álvarez-Ortega &amp; Peña-Santiago, 2013a, b, 2016; Naghavi <italic>et al</italic>., 2019, 2020) dealing with new species and/or populations of the genus have appeared. As a result, a revision of the taxonomy is advisable, this being the second objective of the present contribution.</p>
+<sec id="S000001" sec-type="heading-1">
+<title>Materials and methods</title>
+<sec id="S000002" sec-type="heading-2">
+<title>Nematode collection and extraction</title>
+<p>Several soil samples were collected from depths ranging from 5 to 30 cm in the active plant root zone in East Azarbaijan province, northwest Iran, during 2016-2017 and processed at the Nematology Laboratory, University of Tabriz, Tabriz, Iran. Nematodes were extracted from soil using a tray method (Whitehead &amp; Hemming, 1965) and subsequently killed, fixed and transferred to anhydrous glycerin according to De Grisse (1969). Morphometric data were made by using a drawing tube attached to an Olympus BX41 light microscope. Photographs were taken using DP50 digital camera connected to the microscope. Raw photographs were edited using Adobe<sup>®</sup> Photoshop<sup>®</sup> CS. Drawings were made by using CorelDRAW<sup>®</sup>, software version 12.</p>
+</sec>
+<sec id="S000003" sec-type="heading-2">
+<title>Molecular identification</title>
+<p>For the molecular phylogenetic studies, two females were selected, studied individually on temporary slides, transferred to a small drop of distilled water or worm lysis buffer on a clean slide and crushed by a sterilised scalpel. The suspension was transferred to an Eppendorf tube containing 25.65 <italic>μ</italic>l ddH<sub>2</sub>O, 2.85 <italic>μ</italic>l 10× PCR buffer and 1.5 <italic>μ</italic>l proteinase K (600 <italic>μ</italic>g ml<sup>−1</sup>) (Promega). DNA samples were stored at −20°C until used as a polymerase chain reaction (PCR) template. The primers used for amplification of the D2-D3 expansion domains of the LSU rDNA were the forward D2A (5′-ACAAGTACCGTGAGGGAAAGTTG-3′) and the reverse D3B (5′ TCGGAAGGAACCAGCTACTA-3′) (Nunn, 1992). The 25 <italic>μ</italic>l PCR reaction mixture was composed of 10 <italic>μ</italic>l ddH<sub>2</sub>O, 12.5 <italic>μ</italic>l PCR master mix (Ampilliqon), 0.75 <italic>μ</italic>l of each forward and reverse primers and 1 <italic>μ</italic>l of DNA template. The process was done using a BIO RAD Thermocycler Machine in accordance with Archidona-Yuste <italic>et al</italic>. (2016). The thermal cycling program for amplification was as follows: denaturation at 94°C for 2 min, 35 cycles of denaturation at 94°C for 30 s, annealing of primers at 55°C for 45 s and extension at 72°C for 3 min followed by a final elongation step at 72°C for 10 min. The PCR products were purified and sequenced in an Applied Biosystems<sup>®</sup> 3730/3730xl DNA Analyzer in South Korea. The newly generated sequences were deposited in the GenBank database under the accession number presented in the phylogenetic tree.</p>
+</sec>
+<sec id="S000004" sec-type="heading-2">
+<title>Phylogenetic analyses</title>
+<p>The newly obtained sequences were aligned using MEGA6 (Tamura <italic>et al</italic>., 2013) and compared with those of other <italic>Aporcella</italic> species available in GenBank using the Nblast homology search program. Out-group taxa for dataset were chosen according to Álvarez-Ortega &amp; Peña-Santiago (2016) and Peña-Santiago &amp; Varela (2017). The appropriate model of base substitution was selected using MrModeltest 2.3 (Nylander, 2004) with the Akaike-supported model in conjunction with PAUP* v4.0b10 (Swofford, 2003). The sequence dataset was analysed with Bayesian inference algorithm implemented in MrBayes 3.1.2 (Ronquist &amp; Huelsenbeck, 2003) under the general time-reversible model, with invariable sites and a gamma-shaped distribution (SYM + I + G), was selected and used in the phylogenetic analyses. The Markov chain Monte Carlo (MCMC) method within a BI analysis was used to estimate the posterior probabilities of the phylogenetic trees using the 50% majority rule. After discarding burn-in samples and evaluating convergence, the remaining samples were retained for further analyses. Bayesian posterior probability (BPP) were given on appropriate clades. The tree was visualised using the program Figtree 1.4.3 v.</p>
+</sec>
+</sec>
+<sec id="S000005" sec-type="heading-1">
+<title>Results</title>
+</sec>
+<sec id="S000006" sec-type="heading-1">
+<title><italic>Aporcella minor</italic><xref ref-type="fn" rid="FN000002"><sup>*</sup></xref> sp. n. (Figs 1, 2)</title>
+<fig id="IMG000001" orientation="portrait" position="float" fig-type="graphic">
+<label>Fig. 1.</label>
+<caption>
+<p><italic>Aporcella minor</italic> sp. n. (female). A: Neck region; B: Anterior end; C: Entire body; D: Amphidial pouch; E: Anterior genital branch; F: Posterior end; G: Lateral chord.</p>
+</caption>
+<graphic xlink:href="15685411_023_05_s002_i0001.jpg"/>
+</fig>
+<fig id="IMG000002" orientation="portrait" position="float" fig-type="graphic">
+<label>Fig. 2.</label>
+<caption>
+<p><italic>Aporcella minor</italic> sp. n. (female, LM). A: Anterior end; B: Vagina; C: Pharyngeal expansion and pharyngo-intestinal junction; D: Amphidial pouch; E: Posterior genital branch; F: Posterior end; G: Entire body; H: Lateral chord. (Scale bars: A-F, H = 10 <italic>μ</italic>m; G = 37 <italic>μ</italic>m.).</p>
+</caption>
+<graphic xlink:href="15685411_023_05_s002_i0002.jpg"/>
+</fig>
+<fig id="IMG000003" orientation="portrait" position="float" fig-type="graphic">
+<label>Table 1.</label>
+<caption>
+<p>Morphometrics of <italic>Aporcella minor</italic> sp. n. All measurements are in <italic>μ</italic>m, except for L in mm, and in the form: mean ± s.d. (range).</p>
+</caption>
+<graphic xlink:href="15685411_023_05_s002_i0003.jpg"/>
+</fig>
+<sec id="S000007" sec-type="heading-2">
+<title>Material examined</title>
+<p>Eight females from one location; in general, in good state of preservation.</p>
+</sec>
+<sec id="S000008" sec-type="heading-2">
+<title>Measurements</title>
+<p>See Table 1.</p>
+</sec>
+<sec id="S000009" sec-type="heading-2">
+<title>Description</title>
+<sec id="S000010" sec-type="heading-3">
+<title>Female</title>
+<p>Moderately slender to slender (a = 27-32) nematodes of medium size, 1.05-1.15 mm long. Body cylindrical, visibly tapering towards both ends, but more so towards posterior extremity as tail is conical. Habitus slightly curved ventrad after fixation, to an open C-shape. Cuticle two-layered, 1.5-2 <italic>μ</italic>m thick at anterior region and along most of body and 3.0-3.5 <italic>μ</italic>m on tail, outer layer thin, with constant thickness throughout body and bearing fine transverse striation, inner layer thicker than outer one. Cervical lacunae absent. Lateral chord 7-10 <italic>μ</italic>m broad or occupying 17-24% of mid-body diam., bearing glandular bodies throughout body: 9-11 in pharyngeal region, 12-13 from pharynx base to vulva, 16-18 from vulva to anus, and 1 in caudal region. Body pores, if present, obscure. Lip region offset by constriction, 2.3-3.1 times as broad as high and 31-35% of body diam. at neck base, with slightly angular and separate lips, and weakly protruding labial and cephalic papillae. Amphid fovea funnel-shaped, its aperture 6.5-8 <italic>μ</italic>m or 35-48% of lip region diam. Cheilostom a truncate cone, lacking any differentiation. Odontostyle typical of genus, comparatively short and robust, nearly equal (1.0-1.1 times) to lip region diam., and 1.0-1.3% of body length; aperture 8-9.5 <italic>μ</italic>m long or occupying up to two-thirds (53-64%) its length. Guiding ring simple and somewhat plicate, located at 0.4-0.6 of lip region diam. from anterior end. Odontophore rod-like, 1.2-1.6 times odontostyle length long. Pharynx entirely muscular, gradually enlarging into basal expansion occupying 43-45% of total neck length, gland nuclei located as follows: DN = 62-67, S<sub>1</sub>N<sub>1</sub> = 72-76, S<sub>1</sub>N<sub>2</sub> = 76-84, S<sub>2</sub>N = 86-94. Nerve ring located at 108-113 <italic>μ</italic>m from anterior end. Cardia rounded, conoid, 9-10 × 7-8 <italic>μ</italic>m. Genital system didelphic-amphidelphic, both branches well and equally developed, anterior 163-205 <italic>μ</italic>m long or 14-19% of total body length, posterior 168-196 <italic>μ</italic>m long or 15-18% of total body length. Ovaries reflexed, variably developed, anterior 44-66 <italic>μ</italic>m, posterior 55-66 <italic>μ</italic>m long, with oocytes arranged first in two or more rows, then in a single row. Oviduct consisting of slender part and developed <italic>pars dilatata</italic> with distinct lumen, joining ovary subterminally. Oviduct-uterus junction marked by a distinct sphincter. Uterus a simple tube-like structure 34-48 <italic>μ</italic>m long or 0.8-1.3 corresponding body diam. Vagina extending inwards for 14-18 <italic>μ</italic>m or up to one-half (40-50%) of body diam., with <italic>pars proximalis</italic> 9-12 × 10-11 <italic>μ</italic>m and surrounded by a weak musculature, <italic>pars refringens vaginae</italic> absent, and <italic>pars distalis</italic> 2.5-5 <italic>μ</italic>m long. Vulva a transverse slit. Prerectum 1.8-3.1, rectum 0.8-1.4 anal body diam. long. Tail conical with finely rounded terminus, ventrally straight, dorsally convex with a very weak (occasionally nearly inconspicuous) dorsal concavity at tip, inner core not reaching tail tip due to a short hyaline portion occupying about one-fifth of total tail length, two pairs of caudal pores at middle of tail, one pair subdorsal, one sublateral.</p>
+</sec>
+<sec id="S000011" sec-type="heading-3">
+<title>Male</title>
+<p>Unknown, and females not containing sperm cells in their genital tracts.</p>
+</sec>
+</sec>
+<sec id="S000012" sec-type="heading-2">
+<title>Type locality and habitat</title>
+<p>The new species was collected in Iran, East Azarbaijan province, Sufiyan, Roodghat area, Mazraeh village (GPS coordinates: 38°15′49″ N, 46°09′18″ E, altitude 1542 m a.s.l.), from the rhizosphere of wheat (<italic>Triticum aestivum</italic> L.).</p>
+</sec>
+<sec id="S000013" sec-type="heading-2">
+<title>Type material</title>
+<p>Female holotype and five female paratypes deposited at the Nematode Collection of the Department of Plant Protection, Faculty of Agriculture, University of Tabriz, Tabriz, Iran. Two female paratypes deposited with the Nematode Collection of the University of Jaén, Spain.</p>
+</sec>
+<sec id="S000014" sec-type="heading-2">
+<title>Diagnosis and relationships</title>
+<p>The new species is characterised by its 1.08 (1.05-1.15) mm long body, two-layered cuticle, lip region 12 (11-13) <italic>μ</italic>m broad and offset by a constriction, odontostyle 13 (12.5-14.0) <italic>μ</italic>m long or nearly equal to lip region diam., neck 310 (293-325) <italic>μ</italic>m long, pharyngeal expansion 137 (128-144) <italic>μ</italic>m long and occupying 43-45% of the total neck length, female genital system didelphic-amphidelphic, uterus simple and 34-48 <italic>μ</italic>m long, vulva transverse (V = 59 (58-61)), tail conical with finely rounded terminus, (30 (29-33) <italic>μ</italic>m, c = 34 (33-36), c′ = 1.5 (1.4-1.6)), and male absent.</p>
+<p>Within <italic>Aporcella</italic>, and in having short odontostyle (up to 17 <italic>μ</italic>m long) and comparatively stout body (a ⩽ 37), <italic>A. minor</italic> sp. n. belongs to a group of very similar species, including <italic>A. adriaani</italic> (Botha &amp; Heyns, 1990) Álvarez-Ortega, Subbotin &amp; Peña-Santiago, 2013, <italic>A. capitulum</italic> (Shahina, Musarrat &amp; Siddiqi, 2005) Álvarez-Ortega, Subbotin &amp; Peña-Santiago, 2013, <italic>A. charidemiensis</italic> Álvarez-Ortega &amp; Peña-Santiago, 2016, <italic>A. talebii</italic> and <italic>A. vitrinus</italic>. It can, however, be easily distinguished from all by its smaller general size (L = 1.08 (1.05-1.15) <italic>vs</italic> &gt; 1.20 mm, neck 310 (293-325) <italic>vs</italic> more than 320 <italic>μ</italic>m long) and comparatively longer female tail (c′ = 1.5 (1.4-1.6) <italic>vs</italic> up to 1.4). It differs from <italic>A. adriaani</italic>, a species only known from South Africa, by its shorter odontostyle (13.0 (12.5-14.0) <italic>vs</italic> 15 (14-16) <italic>μ</italic>m), more posterior vulva (V = 59 (58-61) <italic>vs</italic> = 55 (53-57)), and female tail shape (conical <italic>vs</italic> rounded to convex conoid); from <italic>A. capitulum</italic>, from Pakistan, by its narrower lip region (12 (11-13) <italic>vs</italic> 14-20 <italic>μ</italic>m), and absence of males (<italic>vs</italic> as frequent as females); from <italic>A. charidemiensis</italic>, from Spain, by its narrower lip region (12 (11-13) <italic>vs</italic> 16.3 (16-17) <italic>μ</italic>m), female tail shape (conical <italic>vs</italic> rounded to convex conoid), and the absence (<italic>vs</italic> presence) of males; from <italic>A. talebii</italic>, another Iranian species, by its narrower lip region (12 (11-13) <italic>vs</italic> 15-17 <italic>μ</italic>m, two populations), shorter odontostyle (13.0 (12.5-14.0) <italic>vs</italic> 14-18 <italic>μ</italic>m), and somewhat more posterior vulva (V = 59 (58-61) <italic>vs</italic> = 52-59); and from <italic>A. vitrinus</italic> by its more posterior vulva (V = 59 (58-61) <italic>vs</italic> = 48-56, several populations).</p>
+<fig id="IMG000004" orientation="portrait" position="float" fig-type="graphic">
+<label>Fig. 3.</label>
+<caption>
+<p>Consensus 50% majority rule Bayesian phylogenetic tree of <italic>Aporcella minor</italic> sp. n. based on 28S rDNA D2-D3 sequences under the SYM + I + G model. Posterior probabilities more than 50% are given for appropriate clades. The newly obtained sequence is in bold.</p>
+</caption>
+<graphic xlink:href="15685411_023_05_s002_i0004.jpg"/>
+</fig>
+<p>As derived from the molecular analyses, using Bayesian Inference based on partial LSU sequences, the evolutionary relationships of <italic>A. minor</italic> sp. n. are shown in Figure 3. The new species forms a highly supported (93%) clade with other <italic>Aporcella</italic> sequences, including <italic>A. charidemiensis</italic> from Spain and other sequences of several Iranian species/ populations. <italic>Aporcella simplex</italic> sequences are also clustered with the remaining <italic>Aporcella</italic> sequences in a larger clade, but with lower support (78%). Thus, the general topology of the inferred phylogeny in this study is similar to those provided in previous studies (Álvarez-Ortega <italic>et al</italic>., 2013; Álvarez-Ortega &amp; Peña-Santiago, 2016; Naghavi <italic>et al</italic>., 2019, 2020), supporting the monophyly of the genus. In addition, the results obtained also confirm a close relationship between <italic>Aporcella</italic> and other dorylaimid genera that lack a distinct <italic>pars refringens vaginae</italic>, namely members of the Qudsianematidae Jairajpuri, 1965 and Tylencholaimidae Filipjev, 1934. Nevertheless, the evolutionary relationships within this clade are still not satisfactorily resolved, so that further morphological and molecular studies, using additional DNA markers, such as internal transcribed spacer (ITS) regions of rDNA, and non-genomic markers, such as mitochondrial cytochrome <italic>c</italic> oxidase subunit I gene (<italic>COI</italic> mtDNA), are necessary to elucidate this matter.</p>
+<p>The new species also resembles some species belonging to other genera that lack <italic>pars refringens vaginae</italic>, a complex group with intricate taxonomy (see below). For instance, it is similar to <italic>Metaporcelaimus cylindricus</italic> Ahmad, 1995 in the measurements of the lip region and odontostyle (Ahmad, 1995), and is very similar to <italic>Moshajia idiophora</italic> Siddiqi, 1982 in its general appearance and morphometrics (Siddiqi, 1982 and see recent data by Imran <italic>et al</italic>., 2019). Nevertheless, it can be easily separated from <italic>M. cylindricus</italic> by its smaller general female size (L = 1.08 (1.05-1.15) <italic>vs</italic> 1.63-1.68) and short uterus (34-48 <italic>vs</italic> 90-115 <italic>μ</italic>m) among other relevant traits. It can also be distinguished by the nature of its cuticle (dorylaimoid <italic>vs</italic> tylencholaimoid), more posterior vulva (V = 59-61 <italic>vs</italic> very occasionally exceeding 57, several populations), and different morphology of the tail inner core (not reaching the tail tip as there is a hyaline portion occupying one-fifth of total tail length <italic>vs</italic> nearly always reaching the tail tip with no hyaline portion according to Fig. 2M-Q in Imran <italic>et al</italic>., 2019), the latter representing a small yet remarkable difference.</p>
+</sec>
+<sec id="S000015" sec-type="heading-2">
+<title>Molecular characterisation</title>
+<p>After sequencing and editing, a 705 bp long sequence of the D2-D3 region of 28S rDNA (GenBank accession MT079124) was obtained for the new species. The evolutionary relationships of the new species are presented in Figure 3.</p>
+</sec>
+</sec>
+<sec id="S000016" sec-type="heading-1">
+<title>Taxonomy</title>
+<p>As mentioned in the introductory section, since the last revision of the genus by Álvarez-Ortega <italic>et al</italic>. (2013), several relevant novelties affecting the taxonomy of the genus have appeared, either through descriptions of new species/populations (Andrássy, 2012; Álvarez-Ortega &amp; Peña-Santiago, 2013a, 2016; Naghavi <italic>et al</italic>., 2019, 2020) or transference of species from other genera (Andrássy, 2012; Álvarez-Ortega &amp; Peña-Santiago, 2013b). Thus, an updated diagnosis and relationships, list of species and key to their identification are provided hereunder. Table 2 presents a compendium of the main morphometrics corresponding to those species/populations described since 2013.</p>
+<fig id="IMG000005" orientation="portrait" position="float" fig-type="graphic">
+<label>Table 2.</label>
+<caption>
+<p>Main morphometrics and distribution data of recently (since 2013) described populations and/or transferred species of the genus <italic>Aporcella</italic> Andrássy, 2002. All measurements are in <italic>μ</italic>m, except for L, in mm.</p>
+</caption>
+<graphic xlink:href="15685411_023_05_s002_i0005.jpg"/>
+</fig>
+<sec id="S000017" sec-type="heading-2">
+<title>Diagnosis (emended)</title>
+<p>Aporcelaimidae, Aporcelaiminae. Moderately slender to slender nematodes of medium to large size (1.05-5.00) mm long. Cuticle two or three-layered, layers with similar or dissimilar refraction. Lip region offset either by an expansion or a more or less distinct constriction. Odontostyle short and robust, with aperture occupying more than half its length. Guiding ring simple, plicate. Odontophore rod-like. Pharynx enlarging gradually, basal expansion occupying <italic>ca</italic> one-half (43-60%) of total neck length; S<sub>1</sub>N<sub>1</sub> at about middle of DN-S<sub>1</sub>N<sub>2</sub> distance. Female genital system didelphic-amphidelphic, uterus a simple tube, only exceptionally more complex (tripartite in <italic>A. rotundicaudata</italic>), <italic>pars refringens vaginae</italic> absent, vulva a median transverse slit (V = 45-62). Tail similar in both sexes, short, hemispherical to conical, occasionally with a weak dorsal concavity. Spicules dorylaimoid. Ventromedian supplements 3-17 in number, hiatus (precloacal space) present.</p>
+</sec>
+<sec id="S000018" sec-type="heading-2">
+<title>Relationships</title>
+<p>The emended diagnosis of <italic>Aporcella</italic> includes some novelties (variations) observed in recently described species but does not substantially modify its concept nor its separation from its closest relatives within Aporcelaimidae Heyns, 1965. Thus, it differs from <italic>Aporcelaimellus</italic> Heyns, 1965 in lacking <italic>pars refringens vaginae</italic>, an apparently minor feature that might have more evolutionary interest than previously assumed, as repeatedly shown by molecular analyses (see above). From <italic>Metaporcelaimus</italic> Lordello, 1965 it can be distinguished by tail morphology (rounded to conical with regular inner core <italic>vs</italic> invariably conical with distinctly irregular or notched inner core). Some <italic>Aporcella</italic> species, in particular those with a comparatively small size, also resemble some representatives of other genera lacking <italic>pars refringens vaginae</italic>, for instance <italic>Discolaimium</italic> Thorne, 1939 (Qudsianematidae, Discolaiminae) or <italic>Moshajia</italic> Siddiqi, 1982 (Qudsianematidae, Lordellonematinae). Molecular analyses based on both LSU (Álvarez-Ortega &amp; Peña-Santiago, 2016; Naghavi <italic>et al</italic>., 2020; present results) and SSU (Imran <italic>et al</italic>., 2019) genes show that these taxa form a monophyletic group whose internal taxonomy needs further studies for its elucidation.</p>
+</sec>
+<sec id="S000019" sec-type="heading-2">
+<title>Remarks</title>
+<p>Álvarez-Ortega <italic>et al</italic>. (2013) redefined the genus <italic>Aporcella</italic> on the basis of the morphological and molecular characterisation of <italic>A. simplex</italic> from the USA. One of the novelties of their emended diagnosis of the genus was the three-layered nature of its cuticle, later confirmed in other species such as <italic>A. vitrinus</italic> and <italic>A. charidemiensis</italic>, both from Spain (Álvarez-Ortega &amp; Peña-Santiago, 2013a, 2016). Nevertheless, the three new Iranian species recently described (Naghavi <italic>et al</italic>., 2019, 2020; present contribution) display a two-layered cuticle. There is, therefore, a remarkable intrageneric variability in this character, as mentioned in the new diagnosis of the genus provided above. Unfortunately, older (and some not so old…) descriptions did not pay too much attention to this trait, which should be a matter for deeper analyses.</p>
+</sec>
+<sec id="S000020" sec-type="heading-2">
+<title>Type species</title>
+<p><italic>A. gibberocaudata</italic> Andrássy, 2002</p>
+</sec>
+<sec id="S000021" sec-type="heading-2">
+<title>Other species</title>
+<p><italic>A. adriaani</italic> (Botha &amp; Heyns, 1990) Álvarez-Ortega, Subbotin &amp; Peña-Santiago, 2013</p>
+<p>= <italic>Aporcelaimellus adriaani</italic> Botha &amp; Heyns, 1990</p>
+<p><italic>A. capitulum</italic> (Shahina, Musarrat &amp; Siddiqi, 2005) Álvarez-Ortega, Subbotin &amp; Peña-Santiago, 2013</p>
+<p>= <italic>Discolaimium capitulum</italic> Shahina, Musarrat &amp; Siddiqi, 2005</p>
+<p><italic>A. charidemiensis</italic> Álvarez-Ortega &amp; Peña-Santiago, 2016</p>
+<p><italic>A. debruinae</italic> Álvarez-Ortega, Subbotin &amp; Peña-Santiago, 2013</p>
+<p>= <italic>Aporcelaimellus papillatus apud</italic> De Bruin &amp; Heyns (1992), <italic>nec</italic> Bastian (1865)</p>
+<p><italic>A. loosi</italic> (Álvarez-Ortega &amp; Peña-Santiago, 2011) Álvarez-Ortega, Subbotin &amp; Peña-Santiago, 2013</p>
+<p>= <italic>Aporcelaimellus loosi</italic> Álvarez-Ortega &amp; Peña- Santiago, 2011</p>
+<p><italic>A. magna</italic> Andrássy, 2012</p>
+<p><italic>A. malekimilanii</italic> Naghavi, Niknam, Vazifeh &amp; Peña-Santiago, 2019</p>
+<p><italic>A. maxima</italic> (Rahman, Jairajpuri, Ahmad &amp; Ahmad, 1986) Álvarez-Ortega &amp; Peña-Santiago, 2013b</p>
+<p>= <italic>Aporcelaimellus maximus</italic> Rahman, Jairajpuri, Ahmad &amp; Ahmad, 1986</p>
+<p><italic>A. minor</italic> sp. n.</p>
+<p><italic>A. papillata</italic> (Bastian, 1865) Álvarez-Ortega, Subbotin &amp; Peña-Santiago, 2013</p>
+<p>= <italic>Dorylaimus papillatus</italic> Bastian, 1865</p>
+<p>= <italic>Eudorylaimus papillatus</italic> (Bastian, 1865) Andrássy, 1959</p>
+<p>= <italic>Aporcelaimellus papillatus</italic> (Bastian, 1865) Baqri &amp; Khera, 1975</p>
+<p>= <italic>Aporcelaimus papillatus</italic> (Bastian, 1865) Andrássy, 1986</p>
+<p><italic>A. parapapillata</italic> (Botha &amp; Heyns, 1990) Andrássy, 2009</p>
+<p>= <italic>Aporcelaimellus parapapillatus</italic> Botha &amp; Heyns, 1990</p>
+<p><italic>A. pseudospiralis</italic> (Botha &amp; Heyns, 1990) Andrássy, 2012</p>
+<p>= <italic>Aporcelaimus pseudospiralis</italic> Botha &amp; Heyns, 1990</p>
+<p>= <italic>Aporcelaimus spiralis apud</italic> Thorne &amp; Swanger (1936), <italic>nec</italic> Cobb (1893)</p>
+<p><italic>A. rotundicaudata</italic> (Baniyamuddin &amp; Ahmad, 2007) Álvarez-Ortega, Subbotin &amp; Peña-Santiago, 2013</p>
+<p>= <italic>Aporcelaimellus rotundicaudatus</italic> Baniyamuddin &amp; Ahmad, 2007</p>
+<p><italic>A. salsa</italic> (Andrássy, 2010) Álvarez-Ortega, Subbotin &amp; Peña-Santiago, 2013</p>
+<p>= <italic>Aporcelaimellus salsus</italic> Andrássy, 2010</p>
+<p><italic>A. simplex</italic> (Thorne &amp; Swanger, 1936) Álvarez-Ortega, Subbotin &amp; Peña-Santiago, 2013</p>
+<p>= <italic>Dorylaimus simplex</italic> Thorne &amp; Swanger, 1936</p>
+<p>= <italic>Eudorylaimus simplex</italic> (Thorne &amp; Swanger, 1936) Andrássy, 1959</p>
+<p>= <italic>Aporcelaimellus simplex</italic> (Thorne &amp; Swanger, 1936) Loof &amp; Coomans, 1970</p>
+<p>= <italic>Metaporcelaimus simplex</italic> (Thorne &amp; Swanger, 1936) Andrássy, 2001</p>
+<p><italic>A. talebii</italic> Naghavi, Niknam, Vazifeh &amp; Peña-Santiago, 2020</p>
+<p><italic>A. taylori</italic> (Yeates, 1967) Álvarez-Ortega, Subbotin &amp; Peña-Santiago, 2013</p>
+<p>= <italic>Aporcelaimellus taylori</italic> Yeates, 1967</p>
+<p><italic>A. tropica</italic> (Jana &amp; Baqri, 1981) Álvarez-Ortega, Subbotin &amp; Peña-Santiago, 2013</p>
+<p>= <italic>Aporcelaimellus tropicus</italic> Jana &amp; Baqri, 1981</p>
+<p>= <italic>Takamangai tropica</italic> (Jana &amp; Baqri, 1981) Andrássy, 1991</p>
+<p>= <italic>Aporcelaimellus adriaani apud</italic> De Bruin &amp; Heyns (1992), <italic>nec</italic> Bastian (1865)</p>
+<p><italic>A. vitrinus</italic> (Thorne &amp; Swanger, 1936) Álvarez-Ortega, Subbotin &amp; Peña-Santiago, 2013</p>
+<p>= <italic>Dorylaimus vitrinus</italic> Thorne &amp; Swanger, 1936</p>
+<p>= <italic>Eudorylaimus vitrinus</italic> (Thorne &amp; Swanger, 1936) Andrássy, 1959</p>
+<p>= <italic>Aporcelaimellus vitrinus</italic> (Thorne &amp; Swanger, 1936) Baqri &amp; Khera, 1975</p>
+</sec>
+</sec>
+<sec id="S000022" sec-type="heading-1">
+<title>Key to species</title>
+<list list-type="simple">
+<list-item id="x1-22001x-x">
+<label>1.</label>
+<p>Lip region 23-26 <italic>μ</italic>m diam.; odontostyle, 23-29 <italic>μ</italic>m long .................... 2</p>
+</list-item>
+<list-item id="x1-22002x-x">
+<p>Lip region ⩽ 23 <italic>μ</italic>m diam.; odontostyle ⩽ 24 <italic>μ</italic>m long .................... 4</p>
+</list-item>
+<list-item id="x1-22003x-x">
+<label>2.</label>
+<p>Medium-sized nematodes, L = 2.13-2.21 mm .................... <italic>gibberocaudata</italic></p>
+</list-item>
+<list-item id="x1-22004x-x">
+<p>Large-sized nematodes, L ⩾ 3.5 mm .................... 3</p>
+</list-item>
+<list-item id="x1-22005x-x">
+<label>3.</label>
+<p>L = 4.48-5.00 mm, slender (a = 37-44), female tail rounded conoid .................... <italic>magna</italic></p>
+</list-item>
+<list-item id="x1-22006x-x">
+<p>L = 3.64-4.42 mm, slender (a = 31-35), female tail more conical .................... <italic>pseudospiralis</italic></p>
+</list-item>
+<list-item id="x1-22007x-x">
+<label>4.</label>
+<p>Odontostyle up to 17 <italic>μ</italic>m long (including <italic>A. talebii</italic>, 14-18 <italic>μ</italic>m long) .................... 5</p>
+</list-item>
+<list-item id="x1-22008x-x">
+<p>Odontostyle &gt; 17 <italic>μ</italic>m long (including <italic>A. simplex</italic>, 15-22 <italic>μ</italic>m long) .................... 13</p>
+</list-item>
+<list-item id="x1-22009x-x">
+<label>5.</label>
+<p>Female body slender (a ⩾ 39, including <italic>A. malekimilanii</italic>, a = 32-55) .................... 6</p>
+</list-item>
+<list-item id="x1-22010x-x">
+<p>Female body stout (a ⩽ 37) .................... 8</p>
+</list-item>
+<list-item id="x1-22011x-x">
+<label>6.</label>
+<p>Pharyngeal expansion occupying 58-63% of total neck length .................... <italic>malekimilanii</italic></p>
+</list-item>
+<list-item id="x1-22012x-x">
+<p>Pharyngeal expansion occupying up to 54% of total neck length .................... 7</p>
+</list-item>
+<list-item id="x1-22013x-x">
+<label>7.</label>
+<p>L = 1.44-1.88 mm; lip region 11-13 <italic>μ</italic>m diam.; odontostyle 11-14 <italic>μ</italic>m long; V = 54-62; spicules 42-47 <italic>μ</italic>m long .................... <italic>tropica</italic></p>
+</list-item>
+<list-item id="x1-22014x-x">
+<p>L = 2.12-2.23 mm; lip region 15-17 <italic>μ</italic>m diam.; odontostyle 14-16 <italic>μ</italic>m long; V = 49-50; spicules 57-61 <italic>μ</italic>m long .................... <italic>debruinae</italic></p>
+</list-item>
+<list-item id="x1-22015x-x">
+<label>8.</label>
+<p>Smaller general size (L = 1.05-1.15 mm, neck 293-325 <italic>μ</italic>m long) but comparatively longer female tail (c′ = 1.4-1.6) .................... <italic>minor</italic> sp. n.</p>
+</list-item>
+<list-item id="x1-22016x-x">
+<p>Larger general size (L ⩾ 1.20 mm, neck &gt; 320 <italic>μ</italic>m long) but comparatively shorter female tail (c′ ⩽ 1.4) .................... 9</p>
+</list-item>
+<list-item id="x1-22017x-x">
+<label>9.</label>
+<p>Longer female tail (40-50 <italic>μ</italic>m, c′ = 1.1-1.4) with a weak dorsal concavity at end .................... <italic>talebii</italic></p>
+</list-item>
+<list-item id="x1-22018x-x">
+<p>Shorter female tail (⩽40 <italic>μ</italic>m, c′ ⩽ 1.1, very exceptionally more), lacking any dorsal concavity at end .................... 10</p>
+</list-item>
+<list-item id="x1-22019x-x">
+<label>10.</label>
+<p>Lip region of female ⩾ 16 <italic>μ</italic>m diam.; male as frequent as female; spicules 59-72 <italic>μ</italic>m long .................... 11</p>
+</list-item>
+<list-item id="x1-22020x-x">
+<p>Lip region of female ⩽ 15 <italic>μ</italic>m diam., males very rare, if present; spicules 43 <italic>μ</italic>m long .................... 12</p>
+</list-item>
+<list-item id="x1-22021x-x">
+<label>11.</label>
+<p>Lip region 17.5-20 <italic>μ</italic>m diam.; tail conical with rounded terminus; spicules 70-72 <italic>μ</italic>m long .................... <italic>capitulum</italic></p>
+</list-item>
+<list-item id="x1-22022x-x">
+<p>Lip region 16-17 <italic>μ</italic>m diam.; tail convex conoid with rounded terminus; spicules 59-63 <italic>μ</italic>m long .................... <italic>charidemiensis</italic></p>
+</list-item>
+<list-item id="x1-22023x-x">
+<label>12.</label>
+<p>Odontostyle 11-14 <italic>μ</italic>m long .................... <italic>vitrinus</italic></p>
+</list-item>
+<list-item id="x1-22024x-x">
+<p>Odontostyle 14-16 <italic>μ</italic>m long .................... <italic>adriaani</italic></p>
+</list-item>
+<list-item id="x1-22025x-x">
+<label>13.</label>
+<p>L = 3.37-3.96 mm .................... <italic>maxima</italic></p>
+</list-item>
+<list-item id="x1-22026x-x">
+<p>L = ⩽3.08 mm .................... 14</p>
+</list-item>
+<list-item id="x1-22027x-x">
+<label>14.</label>
+<p>Female tail conical, comparatively long (c′ = 1.1-1.4) .................... 15</p>
+</list-item>
+<list-item id="x1-22028x-x">
+<p>Female tail conoid, rounded conoid or rounded, comparatively short (c′ ⩽ 1.1) .................... 17</p>
+</list-item>
+<list-item id="x1-22029x-x">
+<label>15.</label>
+<p>Lip region offset by expansion .................... <italic>simplex</italic></p>
+</list-item>
+<list-item id="x1-22030x-x">
+<p>Lip region offset by constriction .................... 16</p>
+</list-item>
+<list-item id="x1-22031x-x">
+<label>16.</label>
+<p>L = 1.54-1.88 mm long; male absent .................... <italic>salsa</italic></p>
+</list-item>
+<list-item id="x1-22032x-x">
+<p>L = 2.11-2.25 mm long; male present .................... <italic>taylori</italic></p>
+</list-item>
+<list-item id="x1-22033x-x">
+<label>17.</label>
+<p>L ⩾ 2.1 mm; neck &gt; 500 <italic>μ</italic>m long .................... 18</p>
+</list-item>
+<list-item id="x1-22034x-x">
+<p>L ⩽ 1.9 mm; neck &lt; 500 <italic>μ</italic>m long .................... 19</p>
+</list-item>
+<list-item id="x1-22035x-x">
+<label>18.</label>
+<p>Vulva more anterior (V = 45-50); eight regularly spaced ventromedian supplements, posteriormost lying within range of spicules .................... <italic>papillata</italic></p>
+</list-item>
+<list-item id="x1-22036x-x">
+<p>Vulva more posterior (V = 52-56); 10-17 nearly contiguous ventromedian supplements, posteriormost outside range of spicules .................... <italic>parapapillata</italic></p>
+</list-item>
+<list-item id="x1-22037x-x">
+<label>19.</label>
+<p>L = 1.52-1.71 mm, more obese (a = 25); vulva more posterior (V = 55-56); male absent .................... <italic>loosi</italic></p>
+</list-item>
+<list-item id="x1-22038x-x">
+<p>L = 1.75-1.84 mm, more slender (a = 30-37); vulva more anterior (V = 51-54); male present .................... <italic>rotundicaudata</italic></p>
+</list-item>
+</list>
+</sec>
+</body>
+<back>
+<fn-group><fn id="FN000001"><label>*</label>
+<p>Corresponding author, e-mail: <email xlink:href="mailto:jabbari@maragheh.ac.ir">jabbari@maragheh.ac.ir</email></p></fn><fn id="FN000002"><label>*</label>
+<p>The specific epithet is from the Latin word <italic>minor</italic> = smaller, and referring to the general size of the new species.</p></fn></fn-group>
+<ack>
+<title>Acknowledgements</title>
+<p>The Spanish author is grateful for the support received from research action ‘PAIJUA 2019/2020: EI_RNM02_2019’ of the University of Jaén, Spain, for his scientific work.</p></ack>
+<ref-list>
+<title>References</title>
+<ref id="R000001">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ahmad</surname>, <given-names>W.</given-names></string-name></person-group> (<date><year>1995</year></date>). <article-title>Studies on the genus <italic>Aporcelaimellus</italic> Heyns, 1965 (Dorylaimida: Aporcelaimidae) from India</article-title>. <source>Fundamental and Applied Nematology</source> <volume>18</volume>, <fpage>219</fpage>-<lpage>225</lpage>.</mixed-citation>
+</ref>
+<ref id="R000002">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Álvarez-Ortega</surname>, <given-names>S.</given-names></string-name> &amp; <string-name><surname>Peña-Santiago</surname>, <given-names>R.</given-names></string-name></person-group> (<date><year>2011</year></date>). <article-title>Studies on the genus <italic>Aporcelaimellus</italic> Heyns, 1965 (Dorylaimida: Aporcelaimidae). Species from Sri Lanka originally studied by Loos</article-title>. <source>Nematology</source> <volume>13</volume>, <fpage>193</fpage>-<lpage>209</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/138855410X513213" xlink:type="simple">10.1163/138855410X513213</ext-link></mixed-citation>
+</ref>
+<ref id="R000003">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Álvarez-Ortega</surname>, <given-names>S.</given-names></string-name> &amp; <string-name><surname>Peña-Santiago</surname>, <given-names>R.</given-names></string-name></person-group> (<date><year>2013</year></date>a). <article-title>Characterization of European populations of <italic>Aporcella vitrinus</italic> (Thorne &amp; Swanger, 1936) with SEM observations and first report of its male (Nematoda: Dorylaimida: Aporcelaimidae)</article-title>. <source>Annales Zoologici</source> <volume>63</volume>, <fpage>163</fpage>-<lpage>170</lpage>.</mixed-citation>
+</ref>
+<ref id="R000004">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Álvarez-Ortega</surname>, <given-names>S.</given-names></string-name> &amp; <string-name><surname>Peña-Santiago</surname>, <given-names>R.</given-names></string-name></person-group> (<date><year>2013</year></date>b). <article-title>Taxonomy of the genus <italic>Aporcelaimellus</italic> Heyns, 1965 (Nematoda, Dorylaimida, Aporcelaimidae)</article-title>. <source>Zootaxa</source> <volume>3669</volume>, <fpage>243</fpage>-<lpage>260</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.11646/zootaxa.3669.3.3" xlink:type="simple">10.11646/zootaxa.3669.3.3</ext-link></mixed-citation>
+</ref>
+<ref id="R000005">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Álvarez-Ortega</surname>, <given-names>S.</given-names></string-name> &amp; <string-name><surname>Peña-Santiago</surname>, <given-names>R.</given-names></string-name></person-group> (<date><year>2016</year></date>). <article-title><italic>Aporcella charidemiensis</italic> sp. n. (Dorylaimida: Aporcelaimidae) from the southern Iberian Peninsula, with comments on the phylogeny of the genus</article-title>. <source>Nematology</source> <volume>18</volume>, <fpage>811</fpage>-<lpage>821</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/15685411-00002995" xlink:type="simple">10.1163/15685411-00002995</ext-link></mixed-citation>
+</ref>
+<ref id="R000006">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Álvarez-Ortega</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Subbotin</surname>, <given-names>S.A.</given-names></string-name> &amp; <string-name><surname>Peña-Santiago</surname>, <given-names>R.</given-names></string-name></person-group> (<date><year>2013</year></date>). <article-title>Morphological and molecular characterisation of <italic>Aporcelaimellus simplex</italic> (Thorne &amp; Swanger, 1936) Loof &amp; Coomans, 1970 and a new concept for <italic>Aporcella</italic> Andrássy, 2002 (Dorylaimida: Aporcelaimidae)</article-title>. <source>Nematology</source> <volume>15</volume>, <fpage>165</fpage>-<lpage>178</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/156854112X651320" xlink:type="simple">10.1163/156854112X651320</ext-link></mixed-citation>
+</ref>
+<ref id="R000007">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Andrássy</surname>, <given-names>I.</given-names></string-name></person-group> (<date><year>1959</year></date>). <article-title>Taxonomische Übersicht der Dorylaimen (Nematoda). I</article-title>. <source>Acta Zoologica Hungarica</source> <volume>5</volume>, <fpage>191</fpage>-<lpage>240</lpage>.</mixed-citation>
+</ref>
+<ref id="R000008">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Andrássy</surname>, <given-names>I.</given-names></string-name></person-group> (<date><year>1986</year></date>). <article-title>The genus <italic>Eudorylaimus</italic> Andrássy, 1959 and the present status of its species (Nematoda: Qudsianematidae)</article-title>. <source>Opuscula Zoologica Budapestinensis</source> <volume>22</volume>, <fpage>1</fpage>-<lpage>42</lpage>.</mixed-citation>
+</ref>
+<ref id="R000009">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Andrássy</surname>, <given-names>I.</given-names></string-name></person-group> (<date><year>1991</year></date>). <article-title>The superfamily Dorylaimoidea (Nematoda) – a review. Family Qudsianematidae, II</article-title>. <source>Opuscula Zoologica Budapestinensis</source> <volume>24</volume>, <fpage>3</fpage>-<lpage>55</lpage>.</mixed-citation>
+</ref>
+<ref id="R000010">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Andrássy</surname>, <given-names>I.</given-names></string-name></person-group> (<date><year>2001</year></date>). <article-title>A taxonomic review of the genera <italic>Aporcelaimus</italic> Thorne &amp; Swanger, 1936 and <italic>Metaporcelaimus</italic> Lordello, 1965 (Nematoda, Aporcelaimidae)</article-title>. <source>Opuscula Zoologica Budapestinensis</source> <volume>33</volume>, <fpage>7</fpage>-<lpage>47</lpage>.</mixed-citation>
+</ref>
+<ref id="R000011">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Andrássy</surname>, <given-names>I.</given-names></string-name></person-group> (<date><year>2002</year></date>). <article-title>New genera and species of nematodes from southern Chile</article-title>. <source>Opuscula Zoologica Budapestensis</source> <volume>34</volume>, <fpage>5</fpage>-<lpage>22</lpage>.</mixed-citation>
+</ref>
+<ref id="R000012">
+<mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Andrássy</surname>, <given-names>I.</given-names></string-name></person-group> (<date><year>2009</year></date>). <source>Free-living nematodes of Hungary III (Nematoda errantia)</source>. <series>Pedozoologica Hungarica 5</series> (Series Editors: <person-group person-group-type="editor"><string-name><surname>Csuzdi</surname>, <given-names>C.</given-names></string-name> &amp; <string-name><surname>Mahunka</surname>, <given-names>S.</given-names></string-name></person-group>). <publisher-loc>Budapest, Hungary</publisher-loc>, <publisher-name>Hungarian Natural History Museum and Systematic Zoology Research Group of the Hungarian Academy of Sciences</publisher-name>.</mixed-citation>
+</ref>
+<ref id="R000013">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Andrássy</surname>, <given-names>I.</given-names></string-name></person-group> (<date><year>2010</year></date>). <article-title>Two new species of <italic>Aporcelaimellus</italic> (Nematoda: Dorylaimida) from the Americas</article-title>. <source>Acta Zoologica Academiae Scientiarum Hungaricae</source> <volume>56</volume>, <fpage>1</fpage>-<lpage>8</lpage>.</mixed-citation>
+</ref>
+<ref id="R000014">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Andrássy</surname>, <given-names>I.</given-names></string-name></person-group> (<date><year>2012</year></date>). <article-title>Two new species of the family Aporcelaimidae (Nematoda. Dorylaimida)</article-title>. <source>Genus</source> <volume>23</volume>, <fpage>189</fpage>-<lpage>199</lpage>.</mixed-citation>
+</ref>
+<ref id="R000015">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Archidona-Yuste</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Navas-Cortés</surname>, <given-names>J.A.</given-names></string-name>, <string-name><surname>Cantalapiedra-Navarrete</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Palomares-Rius</surname>, <given-names>J.E.</given-names></string-name> &amp; <string-name><surname>Castillo</surname>, <given-names>P.</given-names></string-name></person-group> (<date><year>2016</year></date>). <article-title>Cryptic diversity and species delimitation in the <italic>Xiphinema americanum</italic>-group complex (Nematoda: Longidoridae) as inferred from morphometric and molecular markers</article-title>. <source>Zoological Journal of the Linnean Society</source> <volume>176</volume>, <fpage>231</fpage>-<lpage>265</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1111/zoj.12316" xlink:type="simple">10.1111/zoj.12316</ext-link></mixed-citation>
+</ref>
+<ref id="R000016">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Baniyamuddin</surname>, <given-names>M.</given-names></string-name> &amp; <string-name><surname>Ahmad</surname>, <given-names>W.</given-names></string-name></person-group> (<date><year>2007</year></date>). <article-title>Some new and known species of Dorylaimoidea (Dorylaimida: Nematoda) from natural forest of Arunachal Pradesh, India</article-title>. <source>Journal of Nematode Morphology and Systematics</source> <volume>10</volume>, <fpage>75</fpage>-<lpage>95</lpage>.</mixed-citation>
+</ref>
+<ref id="R000017">
+<mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Baqri</surname>, <given-names>Q.H.</given-names></string-name> &amp; <string-name><surname>Khera</surname>, <given-names>S.</given-names></string-name></person-group> (<date><year>1975</year></date>). <chapter-title>Two new species of the genus <italic>Aporcelaimellus</italic> Heyns, 1965 with some remarks on the relationship of <italic>Aporcelaimellus</italic> with <italic>Eudorylaimus</italic> Andrássy, 1959 (Dorylaimoidea: Nematoda)</chapter-title>. In: <source>Dr B.S. Chauhan Commemorative Volume</source>, pp. <fpage>171</fpage>-<lpage>180</lpage>.</mixed-citation>
+</ref>
+<ref id="R000018">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bastian</surname>, <given-names>H.C.</given-names></string-name></person-group> (<date><year>1865</year></date>). <article-title>Monograph of the Anguillulidae, or free nematoids, marine, land and freshwater; with descriptions of 100 new species</article-title>. <source>Transactions of the Linnean Society of London-Zoology</source> <volume>25</volume>, <fpage>73</fpage>-<lpage>184</lpage>.</mixed-citation>
+</ref>
+<ref id="R000019">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Botha</surname>, <given-names>A.</given-names></string-name> &amp; <string-name><surname>Heyns</surname>, <given-names>J.</given-names></string-name></person-group> (<date><year>1990</year></date>). <article-title>Aporcelaimidae (Nematoda: Dorylaimida) from the Kruger National Park</article-title>. <source>Koedoe</source> <volume>33</volume>, <fpage>27</fpage>-<lpage>46</lpage>.</mixed-citation>
+</ref>
+<ref id="R000020">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Cobb</surname>, <given-names>N.A.</given-names></string-name></person-group> (<date><year>1893</year></date>). <article-title>Nematodes mostly Australian and Fijian</article-title>. <source>Macleay Memorial Volume Linnean Society of New South Wales</source> <volume>13</volume>, <fpage>1</fpage>-<lpage>59</lpage>.</mixed-citation>
+</ref>
+<ref id="R000021">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>De Bruin</surname>, <given-names>S.</given-names></string-name> &amp; <string-name><surname>Heyns</surname>, <given-names>J.</given-names></string-name></person-group> (<date><year>1992</year></date>). <article-title>Dorylaimida (Nematoda) from Botswana</article-title>. <source>South African Journal of Zoology</source> <volume>27</volume>, <fpage>156</fpage>-<lpage>172</lpage>.</mixed-citation>
+</ref>
+<ref id="R000022">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>De Grisse</surname>, <given-names>A.T.</given-names></string-name></person-group> (<date><year>1969</year></date>). <article-title>Redescription ou modification de quelques techniques utilisées dans l’étude des nématodes phytoparasitaires</article-title>. <source>Mededelingen Rijksfakulteit Landbowwetenschappen Gent</source> <volume>34</volume>, <fpage>351</fpage>-<lpage>369</lpage>.</mixed-citation>
+</ref>
+<ref id="R000023">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Filipjev</surname>, <given-names>I.N.</given-names></string-name></person-group> (<date><year>1934</year></date>). <article-title>The classification of the free-living nematodes and their relation to the parasitic nematodes</article-title>. <source>Smithsonian Miscellaneous Collections</source> <volume>89</volume>, <fpage>1963</fpage>.</mixed-citation>
+</ref>
+<ref id="R000024">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Heyns</surname>, <given-names>J.</given-names></string-name></person-group> (<date><year>1965</year></date>). <article-title>On the morphology and taxonomy of the Aporcelaimidae, a new family of dorylaimoid nematodes</article-title>. <source>Entomology Memoirs, Department of Agricultural Technical Services, Republic of South Africa</source> <volume>10</volume>, <fpage>1</fpage>-<lpage>51</lpage>.</mixed-citation>
+</ref>
+<ref id="R000025">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Imran</surname>, <given-names>Z.</given-names></string-name>, <string-name><surname>Abolafia</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Peña-Santiago</surname>, <given-names>R.</given-names></string-name> &amp; <string-name><surname>Ahmad</surname>, <given-names>W.</given-names></string-name></person-group> (<date><year>2019</year></date>). <article-title>Morphological and molecular characterisation of <italic>Moshajia idiofora</italic> Siddiqi, 1982 (Dorylaimida: Qudsianematidae), with new insights into the phylogeny of the enigmatic Lordellonematinae</article-title>. <source>Nematology</source> <volume>21</volume>, <fpage>349</fpage>-<lpage>360</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/15685411-00003218" xlink:type="simple">10.1163/15685411-00003218</ext-link></mixed-citation>
+</ref>
+<ref id="R000026">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Jairajpuri</surname>, <given-names>M.S.</given-names></string-name></person-group> (<date><year>1965</year></date>). <article-title><italic>Qudsianema amabilis</italic> n. gen., n. sp. (Nematoda: Dorylaimoidea) from India</article-title>. <source>Proceedings of the Helminthological Society of Washington</source> <volume>32</volume>, <fpage>72</fpage>-<lpage>73</lpage>.</mixed-citation>
+</ref>
+<ref id="R000027">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Jana</surname>, <given-names>A.</given-names></string-name> &amp; <string-name><surname>Baqri</surname>, <given-names>Q.H.</given-names></string-name></person-group> (<date><year>1981</year></date>). <article-title>On the species of <italic>Aporcelaimellus</italic> Heyns, 1965 from West Bengal (Aporcelaimidae: Nematoda)</article-title>. <source>Bulletin of the Zoological Survey, India</source> <volume>3</volume>, <fpage>221</fpage>-<lpage>225</lpage>.</mixed-citation>
+</ref>
+<ref id="R000028">
+<mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Loof</surname>, <given-names>P.A.A.</given-names></string-name> &amp; <string-name><surname>Coomans</surname>, <given-names>A.</given-names></string-name></person-group> (<date><year>1970</year></date>). <chapter-title>On the development and location of the oesophageal gland nuclei in Dorylaimina</chapter-title>. In: <source>Proceedings of the IX International Nematology Symposium (Warsaw, Poland, 1967)</source>, pp. <fpage>79</fpage>-<lpage>161</lpage>.</mixed-citation>
+</ref>
+<ref id="R000029">
+<mixed-citation publication-type="other"><person-group person-group-type="author"><string-name><surname>Lordello</surname>, <given-names>L.G.E.</given-names></string-name></person-group> (<date><year>1965</year></date>). <italic>Contribuçao para o conhecimento dos nematóides brasileiros da família Dorylaimidae</italic>. Tese Escola Superior de Agricultura ‘Luiz de Queiroz’, Piracicaba, Brazil.</mixed-citation>
+</ref>
+<ref id="R000030">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Naghavi</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Niknam</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Vazifeh</surname>, <given-names>N.</given-names></string-name> &amp; <string-name><surname>Peña-Santiago</surname>, <given-names>R.</given-names></string-name></person-group> (<date><year>2019</year></date>). <article-title>Morphological and molecular characterisation of two species of <italic>Aporcella</italic> Andrássy, 2002 (Nematoda: Dorylaimida: Aporcelaimidae) from Iran, with new insights into the phylogeny of the genus</article-title>. <source>Nematology</source> <volume>21</volume>, <fpage>655</fpage>-<lpage>665</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/15685411-00003243" xlink:type="simple">10.1163/15685411-00003243</ext-link></mixed-citation>
+</ref>
+<ref id="R000031">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Naghavi</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Niknam</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Vazifeh</surname>, <given-names>N.</given-names></string-name> &amp; <string-name><surname>Peña-Santiago</surname>, <given-names>R.</given-names></string-name></person-group> (<date><year>2020</year></date>). <article-title>Study on two species, one new and one known, of the genus <italic>Aporcella</italic> Andrássy, 2002 (Dorylaimida, Aporcelaimidae) from Iran, with a note of its phylogeny</article-title>. <source>Journal of Helminthology</source> <volume>94</volume>, <elocation-id>e164</elocation-id>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1017/S0022149X20000413" xlink:type="simple">10.1017/S0022149X20000413</ext-link></mixed-citation>
+</ref>
+<ref id="R000032">
+<mixed-citation publication-type="other"><person-group person-group-type="author"><string-name><surname>Nunn</surname>, <given-names>G.B.</given-names></string-name></person-group> (<date><year>1992</year></date>). <italic>Nematode molecular evolution</italic>. Ph.D. Thesis, University of Nottingham, Nottingham, UK.</mixed-citation>
+</ref>
+<ref id="R000033">
+<mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Nylander</surname>, <given-names>J.A.A.</given-names></string-name></person-group> (<date><year>2004</year></date>). <source>MrModeltest v2. Program distributed by the author</source>. <publisher-loc>Uppsala University, Sweden</publisher-loc>, <publisher-name>Evolutionary Biology Centre</publisher-name>.</mixed-citation>
+</ref>
+<ref id="R000034">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Peña-Santiago</surname>, <given-names>R.</given-names></string-name> &amp; <string-name><surname>Varela</surname>, <given-names>I.</given-names></string-name></person-group> (<date><year>2017</year></date>). <article-title>Taxonomy and systematics of the genus <italic>Makatinus</italic> Heyns, 1965 (Nematoda: Dorylaimida: Aporcelaimidae)</article-title>. <source>Journal of Nematology</source> <volume>49</volume>, <fpage>245</fpage>-<lpage>253</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.21307/jofnem-2017-070" xlink:type="simple">10.21307/jofnem-2017-070</ext-link></mixed-citation>
+</ref>
+<ref id="R000035">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Rahman</surname>, <given-names>M.F.</given-names></string-name>, <string-name><surname>Jairajpuri</surname>, <given-names>M.S.</given-names></string-name>, <string-name><surname>Ahmad</surname>, <given-names>W.</given-names></string-name> &amp; <string-name><surname>Ahmad</surname>, <given-names>I.</given-names></string-name></person-group> (<date><year>1986</year></date>). <article-title>Three new species of dorylaim nematodes from the northeastern region of India</article-title>. <source>Indian Journal of Nematology</source> <volume>16</volume>(<issue>1986</issue>), <fpage>197</fpage>-<lpage>204</lpage>.</mixed-citation>
+</ref>
+<ref id="R000036">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ronquist</surname>, <given-names>F.</given-names></string-name> &amp; <string-name><surname>Huelsenbeck</surname>, <given-names>J.P.</given-names></string-name></person-group> (<date><year>2003</year></date>). <article-title>MRBAYES: Bayesian inference of phylogenetic trees</article-title>. <source>Bioinformatics</source> <volume>19</volume>, <fpage>1572</fpage>-<lpage>1574</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1093/bioinformatics/17.8.754" xlink:type="simple">10.1093/bioinformatics/17.8.754</ext-link></mixed-citation>
+</ref>
+<ref id="R000037">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Shahina</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Musarrat</surname>, <given-names>A.R.</given-names></string-name> &amp; <string-name><surname>Siddiqi</surname>, <given-names>M.R.</given-names></string-name></person-group> (<date><year>2005</year></date>). <article-title><italic>Discolaimium capitulum</italic> sp. n., and observation on <italic>D. brachyurum</italic> Siddiqi and <italic>D. upum</italic> Baqri &amp; Jairajpuri (Nematoda: Dorylaimida)</article-title>. <source>Pakistan Journal of Nematology</source> <volume>23</volume>, <fpage>29</fpage>-<lpage>40</lpage>.</mixed-citation>
+</ref>
+<ref id="R000038">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Siddiqi</surname>, <given-names>M.R.</given-names></string-name></person-group> (<date><year>1982</year></date>). <article-title><italic>Sicorinema</italic> gen. n. and <italic>Moshajia</italic> gen. n. (Dorylaimida: Crateronematidae) with description of four new species</article-title>. <source>Nematologia Mediterranea</source> <volume>10</volume>, <fpage>157</fpage>-<lpage>166</lpage>.</mixed-citation>
+</ref>
+<ref id="R000039">
+<mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Swofford</surname>, <given-names>D.L.</given-names></string-name></person-group> (<date><year>2003</year></date>). <source>PAUP*: phylogenetic analysis using parsimony (*and other methods), version 4.0b 10</source>. <publisher-loc>Sunderland, MA, USA</publisher-loc>, <publisher-name>Sinauer Associates</publisher-name>.</mixed-citation>
+</ref>
+<ref id="R000040">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Tamura</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Stecher</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Peterson</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Filipski</surname>, <given-names>A.</given-names></string-name> &amp; <string-name><surname>Kumar</surname>, <given-names>S.</given-names></string-name></person-group> (<date><year>2013</year></date>). <article-title>MEGA6: molecular evolutionary genetics analysis version 6.0</article-title>. <source>Molecular Biology and Evolution</source> <volume>30</volume>, <fpage>2725</fpage>-<lpage>2729</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1093/molbev/mst197" xlink:type="simple">10.1093/molbev/mst197</ext-link></mixed-citation>
+</ref>
+<ref id="R000041">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Thorne</surname>, <given-names>G.</given-names></string-name></person-group> (<date><year>1939</year></date>). <article-title>A monograph of the nematodes of the superfamily Dorylaimoidea</article-title>. <source>Capita Zoologica</source> <volume>8</volume>, <fpage>1</fpage>-<lpage>261</lpage>.</mixed-citation>
+</ref>
+<ref id="R000042">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Thorne</surname>, <given-names>G.</given-names></string-name> &amp; <string-name><surname>Swanger</surname>, <given-names>H.H.</given-names></string-name></person-group> (<date><year>1936</year></date>). <article-title>A monograph of the nematode genera <italic>Dorylaimus</italic> Dujardin, <italic>Aporcelaimus</italic> n. g., <italic>Dorylaimoides</italic> n. g. and <italic>Pungentus</italic> n. g.</article-title> <source>Capita Zoologica</source> <volume>6</volume>, <fpage>1</fpage>-<lpage>223</lpage>.</mixed-citation>
+</ref>
+<ref id="R000043">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Whitehead</surname>, <given-names>A.G.</given-names></string-name> &amp; <string-name><surname>Hemming</surname>, <given-names>J.R.</given-names></string-name></person-group> (<date><year>1965</year></date>). <article-title>A comparison of some quantitative methods of extracting small vermiform nematodes from soil</article-title>. <source>Annals of Applied Biology</source> <volume>55</volume>, <fpage>25</fpage>-<lpage>38</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1111/j.1744-7348.1965.tb07864.x" xlink:type="simple">10.1111/j.1744-7348.1965.tb07864.x</ext-link></mixed-citation>
+</ref>
+<ref id="R000044">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Yeates</surname>, <given-names>G.W.</given-names></string-name></person-group> (<date><year>1967</year></date>). <article-title>Studies on nematodes from dune sands. 6. Dorylaimoidea</article-title>. <source>New Zealand Journal of Science</source> <volume>10</volume>, <fpage>752</fpage>-<lpage>784</lpage>.</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

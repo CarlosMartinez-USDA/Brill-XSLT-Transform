@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJAR1</journal-id>
+         <journal-title>Indian Journal of Animal Research</journal-title>
+         <issn pub-type="ppub">0367-6722</issn>
+         <issn pub-type="epub">0976-0555</issn>
+         <publisher>
+            <publisher-name>Agricultural Research Communication Centre</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijar1-54-5-019</article-id>
+         <doi-group>
+            <article-doi>
+               <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                         ext-link-type="uri"
+                         xlink:href="http://dx.doi.org/10.18805/ijar.B-976">10.18805/ijar.B-976</ext-link>
+            </article-doi>
+         </doi-group>
+         <article-categories>
+            <subj-group>
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Glanders in horses in some selected areas of Bangladesh and comparison between CFT and Immunoblot used for the screening of glanders</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Rahman</surname>
+                  <given-names>Md. Siddiqur</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1,</sup>
+               </xref>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2,</sup>
+               </xref>
+               <xref ref-type="aff" rid="aff003">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Bhattacharjee</surname>
+                  <given-names>Palash Kumar</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Sarker</surname>
+                  <given-names>Roma Rani</given-names>
+               </name>
+               <xref ref-type="corresp" rid="cor001">*,</xref>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1,</sup>
+               </xref>
+               <xref ref-type="aff" rid="aff003">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Parvin</surname>
+                  <given-names>Mst. Sonia</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Tasnin</surname>
+                  <given-names>Sayra</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Sarker</surname>
+                  <given-names>M.A.S.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Neubauer</surname>
+                  <given-names>Heinrich</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Khatun</surname>
+                  <given-names>Fahima</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff003">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Wares</surname>
+                  <given-names>Md. Abdul</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff003">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Nishidate</surname>
+                  <given-names>Izumi</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff003">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Elschner</surname>
+                  <given-names>Mandy C.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff001">
+            <sup>1</sup>
+            <deptname>Department of Medicine, Faculty of Veterinary Science</deptname>, <instname>Bangladesh Agricultural University</instname>, <instcity>Mymensingh</instcity>-<instpincode>2202</instpincode>, <instcountry>Bangladesh</instcountry>
+         </aff>
+         <aff id="aff002">
+            <sup>2</sup>
+            <deptname>OIE and National Reference Laboratory for Glanders</deptname>, <instname>Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health</instname>, <instparent>Institute of Bacterial Infections and Zoonoses</instparent>, <instaddress>Naumburger Strasse 96a</instaddress>, <instpincode>07743</instpincode>, <instcity>Jena</instcity>, <instcountry>Germany</instcountry>
+         </aff>
+         <aff id="aff003">
+            <sup>3</sup>
+            <instname>Graduate School of Bio-Application and Systems Engineering</instname>, <instparent>Tokyo University of Agriculture and Technology</instparent>, <instaddress>2-24-16, Naka-cho, Koganei</instaddress>, <instcity>Tokyo</instcity>, <instpincode>184–8588</instpincode>, <instcountry>Japan</instcountry>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">* Corresponding Author: Roma Rani Sarker, <deptname>Department of Medicine, Faculty of Veterinary Science</deptname>, <instname>Bangladesh Agricultural University</instname>, <instcity>Mymensingh</instcity>-<instpincode>2202</instpincode>, <instcountry>Bangladesh</instcountry>, Email: <email>romasarker.bau@gmail.com</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 30 June, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>5</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>54</volume>
+         <issue>5</issue>
+         <fpage>631</fpage>
+         <lpage>634</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>Glanders is a fatal infectious and notifiable zoonotic disease of equines caused by the Gram-negative non-motile bacterium <italic>Burkholderia</italic> (<italic>B.</italic>) <italic>mallei</italic>, which is responsible for chronic suppurative lesions of the skin and mucous membranes, pneumonia and septicemia in equines. Glanders in horses is worldwide distributed and reported from many countries. But no prevalence study was done in Bangladesh so far. Therefore, this preliminary study was conducted to determine the seroprevalence of glanders in horses using CFT and immunoblot assay. A total of 301 serum samples from horses were collected for the detection of glanders antibodies from Mymensingh, Tangail and Jamalpur districts in Bangladesh. By CFT 105 samples were found positive and 23 samples were suspicious. The immunoblot confirmed 26 of these samples but 3 remained suspicious. The overall seroprevalence of glanders was 34.9% based on CFT and 24.8% based on immunoblot. Higher prevalence was found in Jamalpur (11.81%). CFT is considered to be a suitable screening test for the diagnosis of glanders in field conditions in Bangladesh.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>CFT</kwd>
+            <kwd>Glanders</kwd>
+            <kwd>Horse</kwd>
+            <kwd>Immunoblot</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="4"/>
+         </counts>
+      </article-meta>
+   </front>
+</article>

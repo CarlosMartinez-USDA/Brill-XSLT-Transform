@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Clinical study on the ultrasonographic features, prognostic indicators and outcome of caecal dilatation in bovine</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Balreet</namePart>
+      <namePart type="family">Singh</namePart>
+      <displayForm>Singh, Balreet</displayForm>
+      <affiliation>MVSc Student, Department of Veterinary Surgery and Radiology</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ashwani</namePart>
+      <namePart type="family">Kumar</namePart>
+      <displayForm>Kumar, Ashwani</displayForm>
+      <affiliation>Asistant Prfessor, Department of Veterinary Surgery and Radiology</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">P.K.</namePart>
+      <namePart type="family">Udehiya</namePart>
+      <displayForm>Udehiya, P.K.</displayForm>
+      <affiliation>Asistant Prfessor, Department of Veterinary Surgery and Radiology</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vandana</namePart>
+      <namePart type="family">Sangwan</namePart>
+      <displayForm>Sangwan, Vandana</displayForm>
+      <affiliation>Asistant Prfessor, Department of Veterinary Surgery and Radiology</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.K.</namePart>
+      <namePart type="family">Mahajan</namePart>
+      <displayForm>Mahajan, S.K.</displayForm>
+      <affiliation>Professor, Department of Veterinary Surgery and Radiology</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Neeraj</namePart>
+      <namePart type="family">Kashyap</namePart>
+      <displayForm>Kashyap, Neeraj</displayForm>
+      <affiliation>Assistant Professor, Biostatists, Department of Animal Genetics and Breeding, College of Veterinary Science</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The study was carried out on 16 adult bovines (6 cattle and 10 buffaloes) suffering from caecal dilatation. The animals were presented with the history of partial or complete anorexia, depression, cessation of defecation, fever, tympany, abdominal distension and pain. Per-rectal examination revealed distended viscus on the mid to dorsal right side of the abdomen. Ultrasonographic examination revealed dilated caecum and/or colon extending from the right flank up to the 11th intercostal space or further cranially. Serum biochemistry revealed hypochloraemic, hypokalemic uncompensated metabolic alkalosis. 9/16 patients responded to either conservative or surgical treatment and 7 animals either died during the therapy or euthanised. Rectal temperature, respiratory rate, rumen motility, packed cell volume, haemoglobin and differential leukocytic count did not differ significantly between survivors and non-survivors but heart rate was markedly high in nonsurvivors. Total leukocyte count and serum lactate were significantly (P&lt;0.05) higher in non-survivors than survivors. In conclusion, ultrasonography was found to be a valuable diagnostic aid for caecal dilatation. Clinical studies involving more number of cases may be useful to identify ultrasonographic and other biochemical based prognostic indicators in animals suffering from caecal dilatation.</abstract>
+   <subject>
+      <topic>Cattle</topic>
+   </subject>
+   <subject>
+      <topic>Caecal dilatation</topic>
+   </subject>
+   <subject>
+      <topic>Buffalo</topic>
+   </subject>
+   <subject>
+      <topic>Diagnostic imaging</topic>
+   </subject>
+   <subject>
+      <topic>Large intestinal surgery</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Veterinary Surgery</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Society for Veterinary Surgery</publisher>
+      </originInfo>
+      <identifier type="issn-p">0254-4105</identifier>
+      <identifier type="issn-e">0973-9726</identifier>
+      <identifier type="issn">0973-9726</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">12</text>
+         <extent unit="pages">
+            <start>103</start>
+            <end>106</end>
+            <total>4</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijvs-40-2-006</identifier>
+   <extension>
+      <archiveFile>ijvs-40-2-006</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/ijvs-40-2-006.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/</workingDirectory>
+   </extension>
+</mods>

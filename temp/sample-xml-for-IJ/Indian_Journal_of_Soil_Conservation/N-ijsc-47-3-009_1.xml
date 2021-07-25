@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Leased farming degrading the farmlands? Analysis of farmers ’perceptions in Andaman and Nicobar Islands, India</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Subhash</namePart>
+      <namePart type="family">Chand</namePart>
+      <displayForm>Chand, Subhash</displayForm>
+      <affiliation>ICAR-National Institute of Agricultural Economics and Policy Research, Pusa, New Delhi</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Babulal</namePart>
+      <namePart type="family">Meena</namePart>
+      <displayForm>Meena, Babulal</displayForm>
+      <affiliation>ICAR-Central Soil Salinity Research Institute, Karnal, Haryana</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ghoshal</namePart>
+      <namePart type="family">Chaudhary</namePart>
+      <displayForm>Chaudhary, Ghoshal</displayForm>
+      <affiliation>ICAR-Central Island Agricultural Research Institute, Port Blair, Andaman and Nicobar Islands</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">R.C.</namePart>
+      <namePart type="family">Srivastava</namePart>
+      <displayForm>Srivastava, R.C.</displayForm>
+      <affiliation>Central Agricultural University, Samastipur, Bihar</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Khyali Ram</namePart>
+      <namePart type="family">Chaudhary</namePart>
+      <displayForm>Chaudhary, Khyali Ram</displayForm>
+      <affiliation>ICAR-National Institute of Agricultural Economics and Policy Research, Pusa, New Delhi</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This study was undertaken in Andaman and Nicobar Islands by conducting primary survey of leased-in and non-leased land cultivators. Total agriculture land of the islands decreased due to massive tsunami followed by earthquake during 2004. Due to various biotic and abiotic factors, land degradation in these islands is high, and land leasing practice aggravates it. The leased rent varies from 17, 500 ha⁻¹ annum⁻¹ to 26, 500 ha⁻¹ annum⁻¹, and both cash and crop sharing mechanisms are practiced. Our analysis indicated that soils of leased land are degraded, and were categorized from moderate to severe level of degradation. The main reasons observed were that leasedin farmers mostly cultivate vegetables wherein more cultural working is required, which leads to loosening of soil and permits soil erosion at higher rate. Since, these islands receive more than 2800 mm rainfall annually with high intensity, it leads to faster erosion of soils. As the conservation measures need high investment, leased-in farmers are hesitant to invest due to short time lease of agreement (1 to 2 years). Thus, the study highlights that there should be clear cut policy for leased land to protect the limited and fragile agri-ecosystem of Andaman and Nicobar Islands. The findings will provide information for future research and policy decisions on leased land practices.</abstract>
+   <subject>
+      <topic>Island ecosystem Leased farming Soil degradation Soil health</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Soil Conservation</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Associations of Soil &amp; Water Conservationists</publisher>
+      </originInfo>
+      <identifier type="issn-p">0970-3349</identifier>
+      <identifier type="issn-e">0976-1721</identifier>
+      <identifier type="issn">0976-1721</identifier>
+      <part>
+         <detail type="volume">
+            <number>47</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">12</text>
+         <extent unit="pages">
+            <start>273</start>
+            <end>279</end>
+            <total>7</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijsc-47-3-009</identifier>
+   <extension>
+      <archiveFile>ijsc-47-3-009</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/ijsc-47-3-009.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/</workingDirectory>
+   </extension>
+</mods>

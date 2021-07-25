@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJSC</journal-id>
+         <journal-title>Indian Journal of Soil Conservation</journal-title>
+         <issn pub-type="ppub">0970-3349</issn>
+         <issn pub-type="epub">0976-1721</issn>
+         <publisher>
+            <publisher-name>Indian Associations of Soil &amp; Water Conservationists</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijsc-47-3-012</article-id>
+         <title-group>
+            <article-title>Estimation of crop water requirement, demands and supplies in D-51 distributary command of Sri Ram Sagar project in Telangana state for conjunctive use planning</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Sravya</surname>
+                  <given-names>V.S.S.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1,</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Rao</surname>
+                  <given-names>B. Krishna</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Khalkho</surname>
+                  <given-names>D.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Sailaja</surname>
+                  <given-names>A.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Goud</surname>
+                  <given-names>A. Srinivas</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff001">
+            <sup>1</sup>
+            <instname>Indira Gandhi Krishi Vishwa Vidyalaya</instname>, <instcity>Raipur</instcity>-<instpincode>492012</instpincode>, <inststate>Chhattisgarh</inststate>
+         </aff>
+         <aff id="aff002">
+            <sup>2</sup>
+            <instname>Water and Land Management Training and Research Institute</instname>, <instcity>Himayathsagar</instcity>, <instcity>Hyderabad</instcity>-<instpincode>500 030</instpincode>, <inststate>Telangana</inststate>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding author: E-mail: <email>sravyavishnumolakala49@gmail.com</email> (V.S.S. Sravya)</corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 8 April, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>12</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>47</volume>
+         <issue>3</issue>
+         <fpage>294</fpage>
+         <lpage>297</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>In view of increasing water demand in agriculture and for other allied sectors, there is a need to use irrigation water efficiently. Weekly irrigation water requirements of major crops were estimated in the selected D-51 distributary of Sri Ram Sagar project during the years 2015 to 2018. In the present study, reference evapotranspiration (ETo) were calculated by using FAO Penmen-Monteith method. The weekly supplies data of canal water during the years 2015–16 to 2017–18 were collected, analysed and compared to estimated demands of crops in the distributary command. From the study, it was found that the average gross irrigation requirements of paddy in rabi and kharif, maize in rabi and sesame in rabi were found as 2245 mm, 1855 mm, 694 mm and 202 mm, respectively. During 2015–16, there was a surplus of water available due to more rainfall, and a severe deficit of water during the years 2016–17 to 2017–18 due to less amount of rainfall. This study concluded that effective rainfall, actual crop water requirements can be considered to reduce the gap between canal water demands and supplies in command areas.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Command area Gross irrigation requirement Canal water demands and supplies</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="4"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

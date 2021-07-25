@@ -1,0 +1,1569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.1//EN" "http://www.ncbi.nlm.nih.gov:80/entrez/query/static/PubMed.dtd">
+<ArticleSet>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Phytotoxic activity of Cachrys pungens Jan, a mediterranean species: separation, identification and quantification of potential allelochemicals</ArticleTitle>
+      <FirstPage>1071</FirstPage>
+      <LastPage>1083</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Fabrizio</FirstName>
+            <LastName>Araniti</LastName>
+            <Affiliation>Dipartimento di AGRARIA, Facoltà di Agraria-Salita Melissari, Università degli Studi “Mediterranea” di Reggio Calabria, 89124, Reggio Calabria, RC, Italy, </Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Mariangela</FirstName>
+            <LastName>Marrelli</LastName>
+         </Author>
+         <Author>
+            <FirstName>Antonio</FirstName>
+            <LastName>Lupini</LastName>
+         </Author>
+         <Author>
+            <FirstName>Francesco</FirstName>
+            <LastName>Mercati</LastName>
+         </Author>
+         <Author>
+            <FirstName>Giancarlo</FirstName>
+            <MiddleName>Antonio</MiddleName>
+            <LastName>Statti</LastName>
+         </Author>
+         <Author>
+            <FirstName>Maria</FirstName>
+            <MiddleName>Rosa</MiddleName>
+            <LastName>Abenavoli</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-013-1482-8</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>8</Month>
+            <Day>11</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>31</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>27</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>12</Day>
+         </PubDate>
+      </History>
+      <Abstract>In continuous research for bioactive compounds obtained from plants to use for weed control in sustainable agriculture, the aerial parts of Cachrys pungens Jan (Umbelliferae) were extracted with methanol and then fractionated using hexane, chloroform (CHCl<inf>3</inf>) and ethyl acetate (AcOEt). The potential phytotoxicity of total methanolic extract and each fraction was assayed in vitro on seed germination and root elongation of lettuce (Lactuca sativa L.) and the most active fractions were assayed on three of the most common weeds (Lolium perenne, Amaranthus retroflexus, Echinochloa crus-galli). Non linear regression that allowed to obtain the ED<inf>50</inf> index for both physiological processes was applied. The fraction bioassays indicated the following hierarchy of phytotoxicity for both processes: CHCl<inf>3</inf> ≥ AcOEt &gt; hexane. Moreover, in the present work was chemically characterized for the first time (through HPTLC) the polar fraction of this species pointing out the high presence of flavonoids and phenolic acids. In particular six of them have been chemically characterized and quantified (naringin, quercetin, catechin, caffeic acid, ferulic acid and gallic acid). These results make C. pungens Jan a potential source of natural compounds employable for an eco-friendly agriculture.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Transcriptional regulation of Arabidopsis thaliana
+              WRKY genes under interaction with beneficial fungus Trichoderma atroviride
+            </ArticleTitle>
+      <FirstPage>1085</FirstPage>
+      <LastPage>1093</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Jorge</FirstName>
+            <LastName>Sáenz-Mata</LastName>
+            <Affiliation>Facultad de Ciencias Biológicas, Universidad Juárez del Estado de Durango, Av. Universidad S/N, Fracc. Filadelfia, C.P. 35010, Gómez Palacio, Durango, México, jsaenz_mata@ujed.mx</Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Fatima</FirstName>
+            <MiddleName>Berenice</MiddleName>
+            <LastName>Salazar-Badillo</LastName>
+         </Author>
+         <Author>
+            <FirstName>Juan</FirstName>
+            <MiddleName>Francisco</MiddleName>
+            <LastName>Jiménez-Bremont</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-013-1483-7</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>7</Month>
+            <Day>8</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>31</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>11</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>12</Day>
+         </PubDate>
+      </History>
+      <Abstract>
+Plants are associated with a wide range of microorganisms, and these interactions induce changes in both the plant and microorganism. Transcription factors play an important role in the regulation of large numbers of genes associated to plant–microbe response. WRKY transcription factors have been involved in the responses to plant–pathogen interactions, but little is known about WRKY transcription factors in beneficial plant–microbe interactions. In this study, the expression patterns of Arabidopsis thaliana
+                WRKY genes were evaluated during the interaction with the beneficial fungus Trichoderma atroviride. Eight WRKY genes, AtWRKY8, AtWRKY33, AtWRKY38, AtWRKY42, AtWRKY54, AtWRKY57, AtWRKY60 and AtWRKY70, were analyzed by quantitative RT-PCR. These WRKY genes were found differentially expressed in a time-dependent manner during T. atroviride interaction. Our data suggest that T. atroviride induces the expression of positive regulators in jasmonic acid-mediated pathway such as AtWRKY8, AtWRKY33, AtWRKY38, AtWRKY42 and AtWRKY60, while salicylic acid pathway regulated by AtWRKY70 and AtWRKY54, could be activated at later stages of the interaction, when the fungus is fully established in the plant roots. In addition, Trichoderma treatment regulates the expression of WRKY genes such as AtWRKY57, AtWRKY60 and AtWRKY33 related to response to abiotic stresses. In this sense, WRKY transcription factors regulation suggests a complex signaling network in this beneficial plant–microbe interaction.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Effect and mechanism of endophytic bacteria on growth and secondary metabolite synthesis in Salvia miltiorrhiza hairy roots</ArticleTitle>
+      <FirstPage>1095</FirstPage>
+      <LastPage>1105</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Yan</FirstName>
+            <LastName>Yan</LastName>
+            <Affiliation>College of Life Science, Northwest A&amp;F University, Yangling, 712100, Shaanxi, People’s Republic of China, yanyan86929@gmail.com</Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Shuncang</FirstName>
+            <LastName>Zhang</LastName>
+         </Author>
+         <Author>
+            <FirstName>Jiayi</FirstName>
+            <LastName>Zhang</LastName>
+         </Author>
+         <Author>
+            <FirstName>Pengda</FirstName>
+            <LastName>Ma</LastName>
+         </Author>
+         <Author>
+            <FirstName>Jiali</FirstName>
+            <LastName>Duan</LastName>
+         </Author>
+         <Author>
+            <FirstName>Zongsuo</FirstName>
+            <LastName>Liang</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1484-1</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>8</Month>
+            <Day>26</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>2</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>31</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>11</Day>
+         </PubDate>
+      </History>
+      <Abstract>Our study found that except Novosphingobium resinovorum (B5) Salvia miltiorrhiza root endophytic bacteria Pseudomonas brassicacearum sub sp. neoaurantiaca (B1), Rhizobium radiobacter (B2), Pseudomonas thivervalensis (B3), Pseudomonas frederiksbergensis (B4) significantly improved the activity of key enzymes 3-hydroxy-3-methyglutary1-CoA reductase and 1-deoxy-D-xylulose-5-phosphate synthase in the biosynthetic pathway of tanshinones. Specifically, HMGR activity with B1 treatment increased 2.1-fold that of control, 1-deoxy-D-xylulose-5-phosphate synthase activity with B2 treatment increased 5.0-fold that of control, which caused a significant increase in tanshinone content in the hairy roots. The dihydrotanshinone I and cryptotanshinone content under B1 treatment increased 19.2-fold and 11.3-fold, respectively, and total tanshinone content increased 3.7-fold that of control. The five endophytic bacteria B1, B2, B3, B4 and B5 all significantly decreased phenylalanine ammonia-lyase and tyrosine aminotransferase activity in hairy roots, of which, B3 treatment decreased phenylalanine ammonia-lyase activity by 46.2 %, and B2 treatment decreased tyrosine aminotransferase activity by 44.7 % compared with the control. Each of the five endophytic bacteria decomposed rosmarinic acid and salvianolic acid B, which caused a significant decrease in rosmarinic acid and salvianolic acid B content in hairy roots, with B2 treatment decreasing rosmarinic acid and salvianolic acid B content by 94.5 and 89.0 %, respectively, compared with the control. The five endophytic bacteria also inhibited the growth of S. miltiorrhiza hairy roots, of which, B2 and B4 treatment decreased hairy root biomass by 55.2 and 51.3 %, respectively, compared with the control, while hairy roots promoted the growth of B4 and B5 and inhibited the growth of B1 and B3.
+</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Comparative analysis of essential oil compositions in seven populations of Bakhtiarian savory in natural and field conditions</ArticleTitle>
+      <FirstPage>1107</FirstPage>
+      <LastPage>1114</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Hossein</FirstName>
+            <LastName>Salehi-Arjmand</LastName>
+            <Affiliation>Department of Medicinal and Aromatic Plants, Faculty of Agriculture and Natural Resources, Arak University, 38156-8-8349, Arāk, Iran, </Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Javad</FirstName>
+            <LastName>Hadian</LastName>
+         </Author>
+         <Author>
+            <FirstName>Abdollah</FirstName>
+            <LastName>Khadivi-Khub</LastName>
+         </Author>
+         <Author>
+            <FirstName>Morteza</FirstName>
+            <LastName>Akramian</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1485-0</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>14</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>2</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>30</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>10</Day>
+         </PubDate>
+      </History>
+      <Abstract>Bakhtiarian savory (Satureja bachtiarica Bunge) is an endemic herb growing wild in Iran with interesting pharmacological and biological properties. In this research, the variability of essential oil content and phytochemical compositions among seven populations of this species was studied in both natural and field conditions. There was a wide interpopulation variability in phytochemical variation of studied populations under both natural and field conditions, indicating the existence of different chemotypes. Six chemical compositions showed high value in studied plants so that carvacrol and thymol were known as major compounds and confirmed by principal component analysis. Ilam population had the highest thymol in both field (77.10 %) and natural (42.32 %) conditions and was known as a thymol chemotype. Beside, Yazd and Shahrekord populations, respectively, showed the highest carvacrol percentages in both field (84.83 and 63.81 %) and natural (72.50 and 58.05 %) conditions and were known as carvacrol chemotypes. In other populations, carvacrol and thymol were the main components and showed partly equal percentage and these populations were known as carvacrol/thymol chemotypes. According to Pearson correlation analysis, carvacrol was negatively correlated with p-cymene, γ-terpinene and thymol (r = −0.61, −0.70 and −0.98, respectively), indicating very high reverse correlation between carvacrol and thymol. In conclusion, the high value of the essential oil compositions in studied S. bachtiarica populations could provide useful information for conservation and selection of cross parents in breeding programs to develop improved cultivars.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>An improved micropropagation and assessment of genetic stability of micropropagated Salvadora oleoides using RAPD and ISSR markers</ArticleTitle>
+      <FirstPage>1115</FirstPage>
+      <LastPage>1122</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Mahendra</FirstName>
+            <LastName>Phulwaria</LastName>
+            <Affiliation>Biotechnology Unit, Department of Botany, Jai Narain Vyas University, Jodhpur, 342 001, Rajasthan, India, mahendraphulwaria@gmail.com</Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Ashok</FirstName>
+            <MiddleName>Kumar</MiddleName>
+            <LastName>Patel</LastName>
+         </Author>
+         <Author>
+            <FirstName>Jitendra</FirstName>
+            <MiddleName>Singh</MiddleName>
+            <LastName>Rathore</LastName>
+         </Author>
+         <Author>
+            <FirstName>Kheta</FirstName>
+            <LastName>Ram</LastName>
+         </Author>
+         <Author>
+            <FirstName>N.</FirstName>
+            <MiddleName>S.</MiddleName>
+            <LastName>Shekhawat</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1486-z</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>20</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>2</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>31</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>16</Day>
+         </PubDate>
+      </History>
+      <Abstract>An improved micropropagation method has been developed for Salvadora oleoides, a valuable tree species of alkaline and arid regions. Nodal explant obtained from a mature tree (30- to 35-year-old) responded optimally (80.0 %) on BAP (2.0 mg l<sup>−1</sup>) and produced (4.56 ± 0.52) shoots. Shoots were further multiplied by subculturing the in vitro excised shoots and transferring them to MS medium containing either BAP (0.0–2.0 mg l<sup>−1</sup>) alone or in combination with lower concentrations of an auxin (IAA or NAA 0.05–0.4 mg l<sup>−1</sup>). Among all the PGRs combination tested, MS medium supplemented with BAP (0.5 mg l<sup>−1</sup>) and IAA (0.1 mg l<sup>−1</sup>) formed the maximum number of shoots (68.40 ± 2.74 per culture bottle) with an average height (6.59 ± 0.30 cm), after 6 weeks of culture. Rooting in regenerated shoots was achieved by ex vitro methods and about 92.5 % of shoots were rooted with 5.25 ± 0.64 roots per shoot and an average length of 2.76 ± 0.53 cm after 3 weeks of incubation in the green house. More than (80 %) of hardened plantlets survived in the field conditions. Genetic stability of the discussed protocol was confirmed by two DNA-based fingerprinting techniques i.e. RAPD and ISSR. Of the 10 RAPD primers finally selected, a total of 42 bands (out of 43) were monomorphic and one polymorphic, whereas from 10 ISSR primers selected, all the 43 bands were monomorphic revealing a high level of genetic homogeneity in the regenerated plants and the donor plant. In the present investigation, we achieved significantly more number of shoots during multiplication, which are higher than all previous reports and further evaluated the genetic fidelity of protocol for the first time in S. oleoides, which concludes the clonal (true-to-type) nature of micropropagated plantlets.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Isolation of a WD40-repeat gene regulating anthocyanin biosynthesis in storage roots of purple-fleshed sweet potato</ArticleTitle>
+      <FirstPage>1123</FirstPage>
+      <LastPage>1132</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Wei</FirstName>
+            <LastName>Dong</LastName>
+            <Affiliation>Guangdong Key Lab of Biotechnology for Plant Development, School of Life Sciences, South China Normal University, Guangzhou, 510631, People’s Republic of China, dongwei198411@163.com</Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Liangliang</FirstName>
+            <LastName>Niu</LastName>
+         </Author>
+         <Author>
+            <FirstName>Jintao</FirstName>
+            <LastName>Gu</LastName>
+         </Author>
+         <Author>
+            <FirstName>Feng</FirstName>
+            <LastName>Gao</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1487-y</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>8</Month>
+            <Day>12</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>2</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>31</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>12</Day>
+         </PubDate>
+      </History>
+      <Abstract>Many transcriptional factors including the R2R3-MYB domain, basic helix-loop-helix (bHLH) domain and WD40 repeat proteins, which regulate flavonoid biosynthesis, have been identified in various plant species. However, there is little information on WD40 proteins in underground organs. In this study, a WD40-repeat protein gene was isolated from purple-fleshed sweet potato (Ipomoea batatas (L.) Lam. cv. Yamakawamurasaki) (IbWD40). The expression patterns of this gene were positively correlated with anthocyanin accumulation in different sweet potato cultivars. An IbWD40-GFP fusion protein was observed only in the nucleus of onion epidermal cells, which was consistent with its role as a transcriptional regulator. Stable transformation analysis revealed that IbWD40 was up-regulated in Arabidopsis thaliana seedlings, which accumulated anthocyanins, with possible additional effects on the formation of other flavonoid compounds in other tissues. These results suggest that in storage roots of purple-fleshed sweet potato the activity of IbWD40 plays a critical role in the regulation of anthocyanin biosynthesis.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>The occurrence of chloroplast peripheral reticulum in grasses: a matter of phylogeny or a matter of function?</ArticleTitle>
+      <FirstPage>1133</FirstPage>
+      <LastPage>1142</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Jarosław</FirstName>
+            <LastName>Szczepanik</LastName>
+            <Affiliation>Department of Plant Molecular Ecophysiology, Faculty of Biology, University of Warsaw, ul. Miecznikowa 1, 02-096, Warsaw, Poland, jarossz@biol.uw.edu.pl</Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Paweł</FirstName>
+            <LastName>Sowiński</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1488-x</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>5</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>7</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>23</Day>
+         </PubDate>
+      </History>
+      <Abstract>The chloroplast peripheral reticulum (PR) is a structure of unknown function. Some authors postulated that it is a characteristic feature of C<inf>4</inf> plants, although it was reported from C<inf>3</inf> species as well. It is unknown whether the occurrence of PR follows a phylogenetic (it is found in clades containing C<inf>4</inf> species, regardless of the photosynthetic type) or functional (photosynthetic pathway dependent) pattern. Here, we present a phylogenetically controlled analysis of the occurrence, form and functional aspects of PR in grasses. The occurrence of the PR follows a functional and not a phylogenetic pattern. Its most elaborated form (PR type I) is a unique feature of C<inf>4</inf> species. Although PR was found in some of the studied C<inf>3</inf> grasses, it was always less developed than PR in the chloroplasts of Kranz mesophyll cells of C<inf>4</inf> species. The size of PR in C<inf>4</inf> plants was found to increase when the plants were grown under low light intensity. Additional observations, such as a negative correlation between PR size and chloroplast surface and PR occurrence in vicinity of mitochondria or plasmodesmata, suggest that PR may play some role in C<inf>4</inf> metabolism.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Physiological mechanism of drought tolerance in transgenic rice plants expressing Capsicum annuum methionine sulfoxide reductase B2 (CaMsrB2) gene</ArticleTitle>
+      <FirstPage>1143</FirstPage>
+      <LastPage>1153</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Zamin</FirstName>
+            <MiddleName>Shaheed</MiddleName>
+            <LastName>Siddiqui</LastName>
+            <Affiliation>National Academy of Agricultural Sciences, Rural Development Administration, Suwon, 441-707, Republic of Korea, zaminss@uok.edu.pk</Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Jung-Il</FirstName>
+            <LastName>Cho</LastName>
+         </Author>
+         <Author>
+            <FirstName>Taek-Ryoun</FirstName>
+            <LastName>Kwon</LastName>
+         </Author>
+         <Author>
+            <FirstName>Byung-Ok</FirstName>
+            <LastName>Ahn</LastName>
+         </Author>
+         <Author>
+            <FirstName>Kang-Seob</FirstName>
+            <LastName>Lee</LastName>
+         </Author>
+         <Author>
+            <FirstName>Mi-Jeong</FirstName>
+            <LastName>Jeong</LastName>
+         </Author>
+         <Author>
+            <FirstName>Tae-Hun</FirstName>
+            <LastName>Ryu</LastName>
+         </Author>
+         <Author>
+            <FirstName>Seong-Kon</FirstName>
+            <LastName>Lee</LastName>
+         </Author>
+         <Author>
+            <FirstName>Soo-Chul</FirstName>
+            <LastName>Park</LastName>
+         </Author>
+         <Author>
+            <FirstName>Sung-Han</FirstName>
+            <LastName>Park</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1489-9</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>8</Month>
+            <Day>23</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>8</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>4</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>25</Day>
+         </PubDate>
+      </History>
+      <Abstract>The methionine sulfoxide reductase B2 (MsrB2) gene catalyzes the reduction of free and protein-bound methionine sulfoxide to methionine and is known to provide tolerance to biotic and abiotic environmental stresses. There are yet to be any reports that MsrB2 enhances drought tolerance. Two drought-tolerant transgenic rice lines, L-8 (single copy) and L-23 (two copy), expressing the Capsicum annuum MsrB2 (CaMsrB2) gene were selected for stress tolerance phenotyping under drought stress conditions. CaMsrB2 enhanced relative water content, maintained substantial quantum yield (F
+                <inf>v</inf>
+                /F
+                <inf>m</inf> ratio), and subsequently improved photosynthetic pigments. Interestingly, L-23, carrying two-copy T-DNA insertion, showed greater drought tolerance through more effective stomatal regulation, carotenoid concentration, and osmotic potential than the wild type. High-tech infrared technology (FLIR SC620) was used for the selection of stress-tolerant physiotypes. Later, the IR results were correlated with other tested physiological parameters. The IR images, average plant temperature, and physiological parameters of the treated plants are discussed in detail.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Plasma membrane and cell wall properties of an aspen hybrid (Populus tremula × tremuloides) parenchyma cells under the influence of salt stress</ArticleTitle>
+      <FirstPage>1155</FirstPage>
+      <LastPage>1165</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Aleksandra</FirstName>
+            <LastName>Muszyńska</LastName>
+            <Affiliation>Laboratory of Cell Biology, University of Silesia, ul. Jagiellońska 28, 40-032, Katowice, Poland, </Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Katarzyna</FirstName>
+            <LastName>Jarocka</LastName>
+         </Author>
+         <Author>
+            <FirstName>Ewa</FirstName>
+            <MiddleName>U.</MiddleName>
+            <LastName>Kurczynska</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1490-3</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>1</Month>
+            <Day>8</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>8</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>5</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>30</Day>
+         </PubDate>
+      </History>
+      <Abstract>
+The effect of salinity on cell turgor, plasma membrane permeability and cell wall elasticity has been measured in petioles of an aspen hybrid using the cell pressure probe. Control plants were grown in soil without the addition of NaCl and treated plants were grown in soil with 50 mM of NaCl for 1, 2, 3 and 4 weeks. In parenchyma cells from Populus tremula × tremuloides petioles with an increased level of NaCl in the soil: (a) turgor pressure was reduced after 1 week of treatment but afterward it was similar to untreated plants, (b) the value of elastic modulus of the cell walls increased, and (c) hydraulic conductivity of the plasma membrane of treated plants decreased in comparison to untreated ones. No histological differences and distribution of JIM5 antibody between the petioles of plants grown under salinity and the untreated were found. In cell walls of parenchyma and collenchyma from plants grown under salinity, the presence of pectic epitopes recognized by JIM7 antibodies was increased in comparison to the control plants. The obtained results indicate that under salt stress the permeability of water through plasma membrane is disturbed, cell walls became more rigid but the turgor pressure did not change.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Potassium deficiency in plants: effects and signaling cascades</ArticleTitle>
+      <FirstPage>1055</FirstPage>
+      <LastPage>1070</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Chokri</FirstName>
+            <LastName>Hafsi</LastName>
+            <Affiliation>Laboratoire des Plantes Extrêmophiles, Centre de Biotechnologie à la Technopole de Borj Cédria, BP 901, Hammam-Lif, 2050, Tunisie, hafsichokri@yahoo.fr</Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Ahmed</FirstName>
+            <LastName>Debez</LastName>
+         </Author>
+         <Author>
+            <FirstName>Chedly</FirstName>
+            <LastName>Abdelly</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1491-2</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>2</Month>
+            <Day>16</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>8</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>3</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>24</Day>
+         </PubDate>
+      </History>
+      <Abstract>
+Potassium (K<sup>+</sup>) is an important macronutrient for plant growth and productivity. It fulfills important functions and it is widely included in fertilization management strategies to increase crop production. Although K<sup>+</sup> is one of the most abundant elements of the earth crust, its availability to plants is usually limited leading to severe reduction in plant growth and yield. In plants, K<sup>+</sup> shortage induces several responses at different levels: morphological, physiological, biochemical, and molecular. Activation of signaling cascades including reactive oxygen species, phytohormones (ethylene, auxin, and jasmonic acid), Ca<sup>2+</sup>, and phosphatidic acid is also triggered. In this review, we summarize the main of these adaptive responses evolved by plants to cope with K<sup>+</sup> deficiency in the rhizosphere.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Effect of penconazole and drought stress on the essential oil composition and gene expression of Mentha
+              pulegium L. (Lamiaceae) at flowering stage</ArticleTitle>
+      <FirstPage>1167</FirstPage>
+      <LastPage>1175</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Halimeh</FirstName>
+            <LastName>Hassanpour</LastName>
+            <Affiliation>Astronautics Research Institute, Iranian Space Research Center, Tehran, Iran, hassanpour@ari.ac.ir</Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Ramazan</FirstName>
+            <MiddleName>Ali</MiddleName>
+            <LastName>Khavari-Nejad</LastName>
+         </Author>
+         <Author>
+            <FirstName>Vahid</FirstName>
+            <LastName>Niknam</LastName>
+         </Author>
+         <Author>
+            <FirstName>Khadijeh</FirstName>
+            <LastName>Razavi</LastName>
+         </Author>
+         <Author>
+            <FirstName>Farzaneh</FirstName>
+            <LastName>Najafi</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1492-1</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>5</Month>
+            <Day>3</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>2</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2013</Year>
+            <Month>9</Month>
+            <Day>8</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>28</Day>
+         </PubDate>
+      </History>
+      <Abstract>Effect of penconazole (PEN) on the expression level of two genes in the biosynthesis pathway of monoterpenes, isopiperitenone reductase (iPR) and pulegone reductase (PR), and essential oil (EO) compounds were studied at flowering stage of Mentha
+                pulegium L. under drought stress. Plants were grown with different levels of field capacity (100 and 50 %) with or without PEN (15 mg l<sup>−1</sup>). Results showed that drought stress decreased the growth and productivity parameters. PEN treatment to drought-stressed plants decreased the negative effects of drought stress on these parameters. The EO yield increased by about 1.6 times under drought stress, and the highest amount of EO was obtained in drought-stressed with PEN. Drought stress increased pulegone and decreased menthone percentage, and the highest pulegone percentage (78.2 % of total constituents) was obtained in drought-stressed with PEN treatment. Semi-quantitative RT-PCR showed drought stress increased the expression level of iPR and PR genes. PEN treatment promoted the impact of drought stress on iPR gene expression and repressed PR gene expression. Our results suggest that PEN may be a useful tool for the regulation of monoterpene metabolism in M. pulegium under stress condition.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Diversity among wild accessions of Bacopa monnieri (L.) Wettst. and their morphogenetic potential</ArticleTitle>
+      <FirstPage>1177</FirstPage>
+      <LastPage>1186</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Mahima</FirstName>
+            <LastName>Bansal</LastName>
+            <Affiliation>Department of Biotechnology, TIFAC-Center of Relevance and Excellence in Agro and Industrial Biotechnology (CORE), Thapar University, Patiala, 147004, India, </Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Anil</FirstName>
+            <LastName>Kumar</LastName>
+         </Author>
+         <Author>
+            <FirstName>M.</FirstName>
+            <LastName>Sudhakara Reddy</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1493-0</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>7</Month>
+            <Day>26</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>14</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>7</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>30</Day>
+         </PubDate>
+      </History>
+      <Abstract>Biochemical and molecular diversity among 14 accessions of Bacopa monnieri (L.) Wettst. collected from various locations of India was investigated. A significant variation was recorded in bacoside A contents of these accessions. A scatter plot of principle component analysis based on bacoside A contents clubbed these populations into two major groups and accession BM14 was placed separately. Similarly, about 35 % variations were detected in these populations based on combined data of random amplified polymorphic DNA (RAPD) and inter simple sequence repeat (ISSR). Individually, ISSR markers detected higher variation (44.9 %) as compared to RAPD markers (23 %). Clustering based on molecular marker data grouped these accessions into two major groups and also placed accession BM14 as an out group. The shoot organogenic potential of leaf explants taken from microshoots and rooting of microshoots also varied among accessions. Maximum shoot organogenic potential was observed in accession BM5 and maximum rooting potential was observed in accessions BM1, BM2, BM7, BM10 and BM14. Present study is an important step for developing long-term strategy for conservation of this important medicinal herb.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Quantification of arabinogalactan proteins during in vitro morphogenesis induced by β-D-glucosyl Yariv reagent in Centaurium erythraea root culture</ArticleTitle>
+      <FirstPage>1187</FirstPage>
+      <LastPage>1195</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Milana</FirstName>
+            <LastName>Trifunović</LastName>
+            <Affiliation>Institute for Biological Research “Siniša Stanković”, University of Belgrade, Bulevar despota Stefana 142, 11060, Belgrade, Serbia, milanag@ibiss.bg.ac.rs</Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Vojin</FirstName>
+            <LastName>Tadić</LastName>
+         </Author>
+         <Author>
+            <FirstName>Marija</FirstName>
+            <LastName>Petrić</LastName>
+         </Author>
+         <Author>
+            <FirstName>Danijela</FirstName>
+            <LastName>Jontulović</LastName>
+         </Author>
+         <Author>
+            <FirstName>Slađana</FirstName>
+            <LastName>Jevremović</LastName>
+         </Author>
+         <Author>
+            <FirstName>Angelina</FirstName>
+            <LastName>Subotić</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1495-y</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>11</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>22</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>21</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>2</Month>
+            <Day>8</Day>
+         </PubDate>
+      </History>
+      <Abstract>Arabinogalactan proteins (AGPs) are a family of highly glycosylated cell surface proteins located at the plasma membrane and plant cell wall. AGPs play important roles in plant growth and development. Yariv phenylglycoside (βGlcY), synthetic red-brown dye that specifically binds and precipitates AGPs, has been used for detection and quantification of AGPs in plant tissue. Graded concentrations of βGlcY (0–75 μM) were used to investigate the effect of this synthetic dye on induction of in vitro morphogenesis in Centaurium erythraea root culture on two nutrient media: ½MS and ½MS + IBA 1.0 μM. Regeneration of C. erythraea shoots on root explants was stimulated on both media supplemented with 25 μM βGlcY after 8 weeks in culture. Quantification of AGPs in different tissues of C. erythraea was determinate with single radial diffusion method. This work emphasizes clear effect of βGlcY on induction of morphogenesis in vitro in C. erythraea root culture.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Comparative proteomic analysis of cold-induced sweetening in potato (Solanum tuberosum L.) tuber</ArticleTitle>
+      <FirstPage>1197</FirstPage>
+      <LastPage>1210</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Lixiang</FirstName>
+            <LastName>Cheng</LastName>
+            <Affiliation>Gansu Key Laboratory of Crop Improvement and Germplasm Enhancement/Gansu Provincial Key Laboratory of Aridland Crop Science, Research and Testing Center, Gansu Agricultural University, Lanzhou, 730070, China, </Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Xin</FirstName>
+            <LastName>Zhang</LastName>
+         </Author>
+         <Author>
+            <FirstName>Qingxia</FirstName>
+            <LastName>Zhao</LastName>
+         </Author>
+         <Author>
+            <FirstName>Huijun</FirstName>
+            <LastName>Li</LastName>
+         </Author>
+         <Author>
+            <FirstName>Yuping</FirstName>
+            <LastName>Wang</LastName>
+         </Author>
+         <Author>
+            <FirstName>Dongxia</FirstName>
+            <LastName>Wang</LastName>
+         </Author>
+         <Author>
+            <FirstName>Di</FirstName>
+            <LastName>Wang</LastName>
+         </Author>
+         <Author>
+            <FirstName>Feng</FirstName>
+            <LastName>Zhang</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1496-x</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>1</Month>
+            <Day>30</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>28</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>4</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>2</Month>
+            <Day>20</Day>
+         </PubDate>
+      </History>
+      <Abstract>Cold-induced sweetening is one of the major factors limiting the quality of fried potato products. To understand the mechanisms of protein regulation for cold-induced sweetening in potato tubers, a comparative proteomic approach was used to analyse the differentially expressed proteins both during control (25 °C, 30 days) and cold treatment (4 °C, 30 days) using two-dimensional gel electrophoresis. Quantitative image analyses indicated that there were 25 protein spots with their intensities significantly altered more than twofold. Of these proteins, 9 were up-regulated, 13 were down-regulated, 2 were absent, and 1 was induced in the cold-stored tubers. The MALDI-TOF/TOF MS analyses led to the identification of differentially expressed proteins that are involved in several processes and might work cooperatively to maintain metabolic homeostasis in tubers during low-temperature storage. The preponderance of metabolic proteins reflects the inhibition of starch re-synthesis and the accumulation of sugars in carbon fluxes, linking starch–sugar conversion. The respiration-related proteins suggest the transfer of respiratory activity from aerobic respiration to anaerobic respiration in the cold-stored tubers. The proteins associated with defence appear to protect the tuber cells from low-temperature stress. Some heat shock proteins that act as chaperones also displayed a differential expression pattern, suggesting a potentially important role in cold-stored tubers, although their exact contribution remains to be investigated. The proposed hypothetical model might explain the interaction of these differentially expressed proteins that are associated with cold-induced sweetening in tubers.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Effect of two plant growth retardants on steviol glycosides content and antioxidant capacity in Stevia (Stevia rebaudiana Bertoni)</ArticleTitle>
+      <FirstPage>1211</FirstPage>
+      <LastPage>1219</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Mojtaba</FirstName>
+            <LastName>Karimi</LastName>
+            <Affiliation>Department of Agronomy and Plant Breeding, University College of Agriculture and Natural Resources, University of Tehran, Karaj, Iran, </Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Ali</FirstName>
+            <LastName>Ahmadi</LastName>
+         </Author>
+         <Author>
+            <FirstName>Javad</FirstName>
+            <LastName>Hashemi</LastName>
+         </Author>
+         <Author>
+            <FirstName>Alireza</FirstName>
+            <LastName>Abbasi</LastName>
+         </Author>
+         <Author>
+            <FirstName>Luciana</FirstName>
+            <MiddleName>G.</MiddleName>
+            <LastName>Angelini</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1498-8</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>11</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>2</Month>
+            <Day>3</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>2</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>2</Month>
+            <Day>14</Day>
+         </PubDate>
+      </History>
+      <Abstract>Two greenhouse experiments were conducted to study the effect of two plant growth retardants, Chlorocholine chloride (CCC) and Paclobutrazol (PBZ), on growth, Steviol glycosides (SVglys) content and antioxidant capacity in Stevia (Stevia rebaudiana Bertoni). Five concentrations of CCC (0, 250, 500, 750 and 1,000 ppm) and PBZ (0, 6, 12, 18 and 24 ppm) with three replications were applied to Stevia plants as treatments based on completely randomized design. CCC was sprayed on Stevia shoots, but PBZ was applied as a drench. The obtained results showed that CCC reduced plant height but improved leaf and stem dry weight, especially with 750 ppm concentration. Total SVgly content and consequently SVglys yield were significantly reduced by CCC application, and 1,000 ppm of CCC concentration was more effective than other treatments. PBZ had no effect on Stevia height while it significantly enhanced stem and dry weight at 12 ppm. Moreover, PBZ remarkably increased total SVglys contents, SVglys yield, and Rebaudioside A/Stevioside ratio. Total antioxidant capacity significantly varied with CCC and PBZ and the highest activity was obtained with 1,000 and 12 ppm of CCC and PBZ, respectively. The results of these experiments indicated that, although CCC and PBZ are plant growth retardants and act as anti-gibberellins, only CCC reduced plant height and SVglys production in Stevia. On the contrary, PBZ at 12 ppm concentration, improved Stevia growth, SVglys production, and antioxidant capacity.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Cloning and functional analysis of two flavanone-3-hydroxylase genes from Reaumuria trigyna
+            </ArticleTitle>
+      <FirstPage>1221</FirstPage>
+      <LastPage>1229</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Huirong</FirstName>
+            <LastName>Zhang</LastName>
+            <Affiliation>Key Laboratory of Herbage and Endemic Crop Biotechnology and College of Life Sciences, Inner Mongolia University, Hohhot, 010020, People’s Republic of China, </Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Lixia</FirstName>
+            <LastName>Zhao</LastName>
+         </Author>
+         <Author>
+            <FirstName>Jia</FirstName>
+            <LastName>Wang</LastName>
+         </Author>
+         <Author>
+            <FirstName>Linlin</FirstName>
+            <LastName>Zheng</LastName>
+         </Author>
+         <Author>
+            <FirstName>Zhenhua</FirstName>
+            <LastName>Dang</LastName>
+         </Author>
+         <Author>
+            <FirstName>Yingchun</FirstName>
+            <LastName>Wang</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1499-7</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>29</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>2</Month>
+            <Day>4</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>12</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>3</Month>
+            <Day>28</Day>
+         </PubDate>
+      </History>
+      <Abstract>
+                Reaumuria trigyna is a highly xeric small shrub and is a rare wild plant in Mediterranean areas. The flavonoid biosynthesis pathway in R. trigyna is strongly activated under salt stress, and many genes related to this pathway showed significant differences in transcript abundance under salt stress in a previous transcriptomic profiling analysis. The F3H gene, which encodes flavanone-3-hydroxylase, is an essential gene in the flavonoid biosynthetic pathway. The transcript levels of two F3H genes, RtF3H1 and RtF3H2, were increased in R. trigyna not only under salt stress but also under drought and cold stresses, and by abscisic acid. We measured the transcript levels of the two genes in different organs. There were high transcript levels of RtF3H1 in stems, and high transcript levels of RtF3H2 in roots and stems. The full-length cDNAs for RtF3H1 (Accession No. AB850638) and RtF3H2 (Accession No. AB850639) were cloned and were found to encode 353- and 358-amino-acid proteins, respectively. Escherichia coli overexpressing RtF3H1 or RtF3H2 showed better growth than that of a control E. coli line under various stress treatments. The survival rate of the recombinant E. coli strain expressing RtF3H2 was higher than that of the strain expressing RtF3H1 under salt and drought stresses.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>
+              Penicillium oxalicum directed systemic resistance in tomato against Alternaria alternata
+            </ArticleTitle>
+      <FirstPage>1231</FirstPage>
+      <LastPage>1240</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Aqeel</FirstName>
+            <LastName>Ahmad</LastName>
+            <Affiliation>Institute of Agricultural Sciences, University of the Punjab, Lahore, Pakistan, aqeelahmad1@gmail.com</Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Sobiya</FirstName>
+            <LastName>Shafique</LastName>
+         </Author>
+         <Author>
+            <FirstName>Shazia</FirstName>
+            <LastName>Shafique</LastName>
+         </Author>
+         <Author>
+            <FirstName>Waheed</FirstName>
+            <LastName>Akram</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1500-5</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>3</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>2</Month>
+            <Day>4</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2014</Year>
+            <Month>2</Month>
+            <Day>2</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>2</Month>
+            <Day>19</Day>
+         </PubDate>
+      </History>
+      <Abstract>Enhanced yield of tomato has ever been an important issue due to its nutritional value and various dietary consumption forms. But, efficient yield increase can never be achieved without using environmentally safe means e.g. innate resistance. In present study, tomato innate antifungal resistance has been boosted up using Penicillium oxalicum, and then various aspects of resistance modulation have been explored in details. Two tomato varieties of differential antifungal resistance (Dinaar and Red Tara) were treated with six P. oxalicum strains which screened the best inducer strain (Pn 5); which remarkably controlled disease incidence (DI) of Alternaria alternata. Inducer was not only responsible for almost two times production of phenolics, alkaloids and terpenoids in Red Tara, but it also non-significantly triggered same biochemicals in Dinaar. Hemicellulose showed only 40 % increase in variety of least antifungal resistance. During quantification assays of peroxidase (POD), phenyl ammonia lyase and polyphenol oxidase, more or less the same doubling trend was recorded in susceptible variety, while only POD had significant enhancement in resistant variety under the influence of fungal inducer. It was also recorded that inducer not only modulated quantity of enzyme (glucanase), but its isozyme package was also altered. Colorimetric quantifications of lignin, cellulose and pectins proved that biotic inducer strengthened the physical structure of plant cells by increasing these contents from 30 to 120 %. The above investigation collectively comes with the recommendation of an efficient and environmentally safe inducer (P. oxalicum); which, can be used to control fungal pathogens.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Physiological and biochemical responses of Phoebe bournei seedlings to water stress and recovery</ArticleTitle>
+      <FirstPage>1241</FirstPage>
+      <LastPage>1250</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Yongjin</FirstName>
+            <LastName>Ge</LastName>
+            <Affiliation>School of Forestry, Beijing Forestry University, Beijing, 100083, China, </Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Xiaoyong</FirstName>
+            <LastName>He</LastName>
+         </Author>
+         <Author>
+            <FirstName>Junfeng</FirstName>
+            <LastName>Wang</LastName>
+         </Author>
+         <Author>
+            <FirstName>Bo</FirstName>
+            <LastName>Jiang</LastName>
+         </Author>
+         <Author>
+            <FirstName>Ronghua</FirstName>
+            <LastName>Ye</LastName>
+         </Author>
+         <Author>
+            <FirstName>Xinchun</FirstName>
+            <LastName>Lin</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1502-3</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>1</Month>
+            <Day>3</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>2</Month>
+            <Day>12</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>22</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>3</Month>
+            <Day>1</Day>
+         </PubDate>
+      </History>
+      <Abstract>
+                Phoebe bournei commonly called nanmu is an important and endemic wood species in China, and its planting, nursing, and preserving are often affected by drought stress. Two-year-old P. bournei seedlings were subjected to water stress and recovery treatment to study their physiological and biochemical responses. Physiological and biochemical indices did not change when seedlings were subjected to mild water stress (&lt;15 days of water withholding). As drought stress intensified (&gt;20 days of water withholding), malondialdehyde and electrolyte leakage increased, and chlorophyll and soluble protein decreased, indicating an increased oxidative stress induced by water deficit. Enhanced activities of superoxide dismutase (SOD) and peroxidase (POX), accumulation of free proline and total soluble sugar contribute to plant protection against the oxidative stress. However, SOD and POX decreased when seedlings were subjected to an extended drought. After 5 days of recovery, physiological and biochemical indices were not restored to the control level values except for leaf relative water content when the seedlings were subjected to more than 20 days water stress. These results demonstrate that P. bournei could enhance their ability to mitigate water stress effects by up-regulating antioxidant system and osmotic adjustment, but these two protective mechanisms were limited when seedlings were subjected to moderate and severe water stress. The threshold of water deficit to P. bournei seedlings is 15–20 days, and permanent damage will be induced if water status is not improved before this threshold. The results will provide some theoretical and practical guidance for nanmu afforestation and production.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Effect of water restriction on total phenolics and antioxidant properties of Amburana cearensis (Fr. Allem) A.C. Smith cotyledons during seed imbibition</ArticleTitle>
+      <FirstPage>1293</FirstPage>
+      <LastPage>1297</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Erica</FirstName>
+            <MiddleName>P. L.</MiddleName>
+            <LastName>Pereira</LastName>
+            <Affiliation>Laboratório de Bioquímica, Biotecnologia e Bioprodutos, Departamento de Biofunção, Instituto de Ciências da Saúde, Universidade Federal da Bahia, Salvador, Brazil, </Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Paulo</FirstName>
+            <MiddleName>R.</MiddleName>
+            <LastName>Ribeiro</LastName>
+         </Author>
+         <Author>
+            <FirstName>Marta</FirstName>
+            <MiddleName>B.</MiddleName>
+            <LastName>Loureiro</LastName>
+         </Author>
+         <Author>
+            <FirstName>Renato</FirstName>
+            <MiddleName>D.</MiddleName>
+            <LastName>de Castro</LastName>
+         </Author>
+         <Author>
+            <FirstName>Luzimar</FirstName>
+            <MiddleName>G.</MiddleName>
+            <LastName>Fernandez</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1503-2</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>5</Month>
+            <Day>30</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>2</Month>
+            <Day>12</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>6</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>3</Month>
+            <Day>6</Day>
+         </PubDate>
+      </History>
+      <Abstract>
+                Amburana cearensis (Fr. Allem) AC Smith is a native Caatinga species commonly found in the semiarid region of North East of Brazil, which possesses resistance to temperature and drought stress and is widely used in the folk medicine. This study aimed at a better understanding of seed imbibition and germination as well as to evaluate the effect of water restriction on total phenolics and antioxidant properties in cotyledons of A. cearensis (Fr. Allem) A.C. Smith. Seeds were imbibed in water (control) or PEG 8000 solution (−1.2 and −1.4 MPa). Germinability was evaluated up to 180 h of seed imbibition, whereas cotyledons were collected at 0, 24, 48, 72 and 96 h of imbibition. The radical scavenging ability was enhanced in response to the water restriction after 96 h of imbibition as compared to the control. Water restriction affected water uptake and seed germinability while inducing a faster response in terms of biosynthesis of phenolic compounds, although total phenolic content decreased as compared to control. There is a high correlation between total phenolics and antioxidant activity for the seeds subjected to the water restriction conditions. These findings provide insights into the mechanisms underlying plant adaptation to harsh environmental conditions during germination, which would be very helpful to develop germination and seedling production protocols aimed at strategies for the sustainable exploitation of A. cearensis by local folk communities under the typical harsh conditions of the Brazilian Caatinga and semiarid regions.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Molecular characterization and expression patterns of sucrose transport-related genes in sweet sorghum under defoliation</ArticleTitle>
+      <FirstPage>1251</FirstPage>
+      <LastPage>1259</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Xiaoxia</FirstName>
+            <LastName>Li</LastName>
+            <Affiliation>Key Laboratory of Plant Resources, Institute of Botany, Chinese Academy of Sciences, Beijing, 100093, People’s Republic of China, </Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Man</FirstName>
+            <LastName>Su</LastName>
+         </Author>
+         <Author>
+            <FirstName>Xiaofeng</FirstName>
+            <LastName>Li</LastName>
+         </Author>
+         <Author>
+            <FirstName>Liqin</FirstName>
+            <LastName>Cheng</LastName>
+         </Author>
+         <Author>
+            <FirstName>Dongmei</FirstName>
+            <LastName>Qi</LastName>
+         </Author>
+         <Author>
+            <FirstName>Shuangyan</FirstName>
+            <LastName>Chen</LastName>
+         </Author>
+         <Author>
+            <FirstName>Gongshe</FirstName>
+            <LastName>Liu</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1505-0</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>9</Month>
+            <Day>27</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>2</Month>
+            <Day>14</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>9</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>3</Month>
+            <Day>9</Day>
+         </PubDate>
+      </History>
+      <Abstract>Sucrose is the principal form of photosynthesis products, and long-distance transport of sucrose requires sucrose transporters (SUTs) to perform loading and unloading functions. SUTs play an important role in plant growth, development and reproduction. In this study, five unique sucrose transporter (SbSUT) genes that contain full-length cDNA sequences were cloned from sweet sorghum, and these SbSUT genes were clustered into four different clades: SUT1, SUT3, SUT4 and SUT5. Heterologous expression of SbSUTs in yeast demonstrated that they were functional sucrose transporters. Tissue-specific expression profiles showed that sorghum SUT genes had different tissue-specific expression patterns, suggesting that sorghum SUT genes may play an important role in plant growth and developmental processes. After defoliation, expression patterns of SbSUT1, SbSUT2 and SbSUT4 were different in leaf sheaths, leaves and roots. Taken together, the results indicate that the above mentioned five unique sucrose transporter genes may play important roles in performing sucrose loading and unloading functions and that they exhibit different expression in response to leaf blade removal.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>The influence of salinity on cell ultrastructures and photosynthetic apparatus of barley genotypes differing in salt stress tolerance</ArticleTitle>
+      <FirstPage>1261</FirstPage>
+      <LastPage>1269</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Jabeen</FirstName>
+            <LastName>Zahra</LastName>
+            <Affiliation>Agronomy Department, Key Laboratory of Crop Germplasm Resource of Zhejiang Province, Institute of Crop Science, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou, 310058, China, </Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Hussain</FirstName>
+            <LastName>Nazim</LastName>
+         </Author>
+         <Author>
+            <FirstName>Shengguan</FirstName>
+            <LastName>Cai</LastName>
+         </Author>
+         <Author>
+            <FirstName>Yong</FirstName>
+            <LastName>Han</LastName>
+         </Author>
+         <Author>
+            <FirstName>Dezhi</FirstName>
+            <LastName>Wu</LastName>
+         </Author>
+         <Author>
+            <FirstName>Binlin</FirstName>
+            <LastName>Zhang</LastName>
+         </Author>
+         <Author>
+            <FirstName>Shamsi</FirstName>
+            <MiddleName>Imran</MiddleName>
+            <LastName>Haider</LastName>
+         </Author>
+         <Author>
+            <FirstName>Guoping</FirstName>
+            <LastName>Zhang</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1506-z</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>21</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>2</Month>
+            <Day>20</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>19</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>3</Month>
+            <Day>4</Day>
+         </PubDate>
+      </History>
+      <Abstract>A hydroponic experiment was conducted to elucidate the difference in growth and cell ultrastructure between Tibetan wild and cultivated barley genotypes under moderate (150 mM NaCl) and high (300 mM NaCl) salt stress. The growth of three barley genotypes was reduced significantly under salt stress, but the wild barley XZ16 (tolerant) was less affected relative to cultivated barley Yerong (moderate tolerant) and Gairdner (sensitive). Meanwhile, XZ16 had lower Na<sup>+</sup> and higher K<sup>+</sup> concentrations in leaves than other two genotypes. In terms of photosynthetic and chlorophyll fluorescence parameters, salt stress reduced maximal photochemical efficiency (F
+                <inf>v</inf>/F
+                <inf>m</inf>), net photosynthetic rate (Pn), stomatal conductance (Gs), and intracellular CO<inf>2</inf> concentration (Ci). XZ16 showed relatively smaller reduction in comparison with the two cultivated barley genotypes. The observation of transmission electron microscopy found that fundamental cell ultrastructure changes happened in both leaves and roots of all barley genotypes under salt NaCl stress, with chloroplasts being most changed. Moreover, obvious difference could be detected among the three genotypes in the damage of cell ultrastructure under salt stress, with XZ16 and Gairdner being least and most affected, respectively. It may be concluded that high salt tolerance in XZ16 is attributed to less Na<sup>+</sup> accumulation and K<sup>+</sup> reduction in leaves, more slight damage in cell ultrastructure, which in turn caused less influence on chloroplast function and photosynthesis.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>PEG-mediated transient gene expression and silencing system in maize mesophyll protoplasts: a valuable tool for signal transduction study in maize</ArticleTitle>
+      <FirstPage>1271</FirstPage>
+      <LastPage>1281</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Jianmei</FirstName>
+            <LastName>Cao</LastName>
+            <Affiliation>College of Life Sciences, Nanjing Agricultural University, Nanjing, 210095, China, </Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Dongmei</FirstName>
+            <LastName>Yao</LastName>
+         </Author>
+         <Author>
+            <FirstName>Fan</FirstName>
+            <LastName>Lin</LastName>
+         </Author>
+         <Author>
+            <FirstName>Mingyi</FirstName>
+            <LastName>Jiang</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1508-x</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>8</Month>
+            <Day>18</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>2</Month>
+            <Day>25</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2014</Year>
+            <Month>2</Month>
+            <Day>24</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>3</Month>
+            <Day>16</Day>
+         </PubDate>
+      </History>
+      <Abstract>Polyethylene glycol (PEG)-mediated transient gene expression and silencing in protoplasts is widely applied in model plants such as Arabidopsis thaliana and rice. Here, we developed an efficient transient gene expression system based on the PEG-mediated method both in etiolated and green maize mesophyll protoplasts. The results showed that both yellow fluorescent protein encoding gene and glucuronidase encoding gene were efficiently expressed in maize protoplasts. More importantly, double-stranded RNAs (dsRNAs) can also be transfected into maize protoplasts by the PEG-mediated method to specifically silence exogenous and endogenous genes. Our results showed that dsRNA can be used to knockdown both exogenous and endogenous gene expression. Furthermore, bimolecular fluorescence complementation system for the detection of protein–protein interactions in maize protoplasts was developed. We also overexpressed and knockdowned the mitogen-activated protein kinase encoding gene ZmMPK5 to investigate the role of ZmMPK5 in abscisic acid (ABA)-induced antioxidant defense in maize protoplasts. This method here we reported will be valuable for signal transduction study in maize.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>MiR393-targeted TIR1-like (F-box) gene in response to inoculation to R. Solani in Zea mays
+            </ArticleTitle>
+      <FirstPage>1283</FirstPage>
+      <LastPage>1291</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Mao</FirstName>
+            <LastName>Luo</LastName>
+            <Affiliation>Research Center for Drug Discovery of Luzhou Medical College, Luzhou, Sichuan, China, </Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Jian</FirstName>
+            <LastName>Gao</LastName>
+         </Author>
+         <Author>
+            <FirstName>Hua</FirstName>
+            <LastName>Peng</LastName>
+         </Author>
+         <Author>
+            <FirstName>Guangtang</FirstName>
+            <LastName>Pan</LastName>
+         </Author>
+         <Author>
+            <FirstName>Zhiming</FirstName>
+            <LastName>Zhang</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-014-1509-9</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>9</Month>
+            <Day>25</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2014</Year>
+            <Month>3</Month>
+            <Day>4</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2014</Year>
+            <Month>2</Month>
+            <Day>24</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>3</Month>
+            <Day>21</Day>
+         </PubDate>
+      </History>
+      <Abstract>MicroRNAs (miRNAs) are a class of small non-coding RNAs that negatively regulate special target mRNAs at the post-transcriptional level by directing target mRNA cleavage or translational inhibition. Plant miRNAs regulate gene expression mainly by guiding cleavage of target mRNAs and subsequently play important roles in
+ diverse developmental processes, nutrient homeostasis and responses to biotic and abiotic stresses. MiRNA393 plays important and diverse roles in defense against bacterial pathogens by negatively targeting transport inhibitor response 1 (TIR1) in plant development. It will be essential for understanding complex feedback regulations in the development pathway by unraveling the miR393 network in a temporal and spatial manner. Here, we report that Zma-miR393b down-regulates its putative target TIR1-like (F-box) gene by guiding the cleavage of their mRNAs in development of leaf sheaths in response to R. Solani infection, Zma-miR393b and its putative target gene TIR1 were confirmed through Q-PCR and the spatial expression of Zma-miR393b was further analyzed by in situ hybridization. These findings suggested that, as a negative feedback regulation of TIR1-like (F-box) gene, Zma-miR393b plays an important role in defense against R. Solani infection.</Abstract>
+   </Article>
+
+</ArticleSet>

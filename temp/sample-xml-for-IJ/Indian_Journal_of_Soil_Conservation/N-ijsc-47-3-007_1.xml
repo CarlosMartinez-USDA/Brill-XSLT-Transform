@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Fertility capability classification of semi-arid upland soils of Palani block, Tamil Nadu for sustainable soil management</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">B.</namePart>
+      <namePart type="family">Kalaiselvi</namePart>
+      <displayForm>Kalaiselvi, B.</displayForm>
+      <affiliation>ICAR-National Bureau of Soil Survey and Land Use Planning, Regional Centre, Bangalore-560 024, Karnataka</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.</namePart>
+      <namePart type="family">Lalitha</namePart>
+      <displayForm>Lalitha, M.</displayForm>
+      <affiliation>ICAR-National Bureau of Soil Survey and Land Use Planning, Regional Centre, Bangalore-560 024, Karnataka</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.</namePart>
+      <namePart type="family">Dharumarajan</namePart>
+      <displayForm>Dharumarajan, S.</displayForm>
+      <affiliation>ICAR-National Bureau of Soil Survey and Land Use Planning, Regional Centre, Bangalore-560 024, Karnataka</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">R.</namePart>
+      <namePart type="family">Srinivasan</namePart>
+      <displayForm>Srinivasan, R.</displayForm>
+      <affiliation>ICAR-National Bureau of Soil Survey and Land Use Planning, Regional Centre, Bangalore-560 024, Karnataka</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rajendra</namePart>
+      <namePart type="family">Hegde</namePart>
+      <displayForm>Hegde, Rajendra</displayForm>
+      <affiliation>ICAR-National Bureau of Soil Survey and Land Use Planning, Regional Centre, Bangalore-560 024, Karnataka</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">K.S. Anil</namePart>
+      <namePart type="family">Kumar</namePart>
+      <displayForm>Kumar, K.S. Anil</displayForm>
+      <affiliation>ICAR-National Bureau of Soil Survey and Land Use Planning, Regional Centre, Bangalore-560 024, Karnataka</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.K.</namePart>
+      <namePart type="family">Singh</namePart>
+      <displayForm>Singh, S.K.</displayForm>
+      <affiliation>ICAR-National Bureau of Soil Survey and Land Use Planning, Nagpur-440 033, Maharshtra</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Fertility capability classification (FCC) is a technical soil classification system that focuses quantitatively on the physical and chemical properties of soils that are important towards soil fertility management. The present study is an attempt to classify soils of Palani block located leeward down of Palani hill ranges representing semi-arid region of Tamil Nadu uplands. Fifteen soils were identified at 1: 10000 scale, out of which typifying pedons were analyzed and taxonomically classified. FCC classifica-tion was applied for these identified major soils. Condition modifiers in FCC system illustrate the soil fertility related constraints. The major limitations are dry soil moisture (d), gravelliness (r+), basic reaction (b), vertic clay (v), low soil organic matter (m), low nutrient retention (k), and low cation exchange capacity (e). The condition modifier d (100%) dominates in most of the soils followed by m (71%), k (50%), b (50%), r+ (43%), and e (33%). Among the soils identified, Kk Fine Typic Haplustalfs (KkFTH), Kvp Coarse loamy Typic Rhodustalfs (KvpCTR), Ayk Fine Vertic Haplusterts (AykFVHrt) and AnP Coarse Loamy Typic Haplustepts (AnPCLTHt) soils have high soil constraints or conditional modifiers like low cation exchange capacity (e), low nutrient reserve (k), low organic carbon content (m) and gravelliness (r). Thus, FCC helps in rectifying the limitations of these different soil types by adopting appropriate management options considering the extent and severity of each limitation to achieve better soil and crop productivity of upland system.</abstract>
+   <subject>
+      <topic>Condition modifier Crop productivity Fertility capability Soil and crop fertility Tamil Nadu uplands</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Soil Conservation</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Associations of Soil &amp; Water Conservationists</publisher>
+      </originInfo>
+      <identifier type="issn-p">0970-3349</identifier>
+      <identifier type="issn-e">0976-1721</identifier>
+      <identifier type="issn">0976-1721</identifier>
+      <part>
+         <detail type="volume">
+            <number>47</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">12</text>
+         <extent unit="pages">
+            <start>255</start>
+            <end>262</end>
+            <total>8</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijsc-47-3-007</identifier>
+   <extension>
+      <archiveFile>ijsc-47-3-007</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/ijsc-47-3-007.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/</workingDirectory>
+   </extension>
+</mods>

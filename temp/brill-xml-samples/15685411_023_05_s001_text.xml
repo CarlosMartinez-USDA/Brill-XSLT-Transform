@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" xml:lang="eng" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="eissn">1568-5411</journal-id>
+<journal-id journal-id-type="publisher-id">NEMY</journal-id>
+<journal-title-group><journal-title>Nematology</journal-title><journal-subtitle>International Journal of Fundamental and Applied Nematological Research</journal-subtitle><abbrev-journal-title abbrev-type="ltwa">Nematol.</abbrev-journal-title></journal-title-group>
+<issn publication-format="print">1388-5545</issn><issn publication-format="online">1568-5411</issn>
+<publisher>
+<publisher-name>Brill</publisher-name><publisher-loc>Leiden|Boston</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1163/15685411-bja10054</article-id>
+<article-categories><subj-group subj-group-type="toc-heading">
+<subject>Articles</subject></subj-group></article-categories>
+<title-group>
+<article-title>Occurrence of two species of <italic>Bursaphelenchus</italic> (Nematoda: Aphelenchoididae) in the reproductive organs of <italic>Monochamus saltuarius</italic> (Coleoptera: Cerambycidae)</article-title><alt-title alt-title-type="toc">Occurrence of two species of <italic>Bursaphelenchus</italic> (Nematoda: Aphelenchoididae) in the reproductive organs of <italic>Monochamus saltuarius</italic> (Coleoptera: Cerambycidae)</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<name name-style="western"><surname>Ozawa</surname><given-names>Sota</given-names></name><xref ref-type="aff" rid="AFF000001">1</xref><xref ref-type="fn" rid="FN000001">*</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western"><surname>Maehara</surname><given-names>Noritoshi</given-names></name><xref ref-type="aff" rid="AFF000002">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western"><surname>Aikawa</surname><given-names>Takuya</given-names></name><xref ref-type="aff" rid="AFF000001">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western"><surname>Yanagisawa</surname><given-names>Kenichi</given-names></name><xref ref-type="aff" rid="AFF000003">3</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western"><surname>Nakamura</surname><given-names>Katsunori</given-names></name><xref ref-type="aff" rid="AFF000001">1</xref>
+</contrib>
+<aff id="AFF000001"><institution content-type="dept">Tohoku Research Center</institution>, <institution>Forestry and Forest Products Research Institute</institution>, <addr-line>92-25 Nabeyashiki, Shimo-Kuriyagawa, Morioka, Iwate 020-0123</addr-line>, <country>Japan</country></aff>
+<aff id="AFF000002"><institution content-type="dept">Department of Forest Entomology</institution>, <institution>Forestry and Forest Products Research Institute</institution>, <addr-line>1 Matsunosato, Tsukuba, Ibaraki 305-8687</addr-line>, <country>Japan</country></aff>
+<aff id="AFF000003"><institution>Nagano Prefecture Forestry Research Center</institution>, <addr-line>5739 Kataoka, Shiojiri, Nagano 399-0711</addr-line>, <country>Japan</country></aff>
+</contrib-group>
+<pub-date publication-format="online" date-type="article"><day>30</day><month>09</month><year>2020</year></pub-date><pub-date publication-format="online" date-type="issue"><day>26</day><month>05</month><year>2021</year></pub-date><volume content-type="number">23</volume><volume content-type="year">2021</volume><issue>5</issue><fpage specific-use="PDF" seq="1">485</fpage><lpage>494</lpage><history><date date-type="received"><day>24</day><month>05</month><year>2020</year></date><date date-type="rev-recd"><day>06</day><month>08</month><year>2020</year></date><date date-type="accepted"><day>06</day><month>08</month><year>2020</year></date><date date-type="pub"><day>30</day><month>09</month><year>2020</year></date></history>
+<permissions><copyright-statement>Copyright 2021 by Koninklijke Brill NV, Leiden, The Netherlands</copyright-statement><copyright-year>2021</copyright-year><copyright-holder>Koninklijke Brill NV</copyright-holder>
+<license license-type="ccc">
+<license-p>This work is published by Koninklijke Brill NV. Koninklijke Brill NV incorporates the imprints Brill, Brill Hes &amp; De Graaf, Brill Nijhoff, Brill Rodopi, Brill Sense, Hotei Publishing, mentis Verlag, Verlag Ferdinand Schöningh and Wilhelm Fink Verlag. Koninklijke Brill NV reserves the right to protect the publication against unauthorized use and to authorize dissemination by means of offprints, legitimate photocopies, microform editions, reprints, translations, and secondary information sources, such as abstracting and indexing services including databases. Requests for commercial re-use, use of parts of the publication, and/or translations must be addressed to Koninklijke Brill NV.</license-p></license></permissions>
+<self-uri content-type="pdf" xlink:href="15685411_023_05_s001_text.pdf"/>
+<abstract>
+<title>Summary</title>
+<p>To clarify the species composition and residency of <italic>Bursaphelenchus</italic> nematodes in the bodies of <italic>Monochamus saltuarius</italic> adults, we dissected 70 adults that had emerged from cut pine bolts set at two locations at the frontline of pine wilt disease spread in Nagano Prefecture, Japan. Fourth-stage dispersal juveniles of <italic>Bursaphelenchus</italic> nematodes were detected in 39 insects; PCR-based identification showed that the insects mainly harboured <italic>B. mucronatus</italic>, but could sometimes harbour <italic>B. xylophilus</italic> or both. Detailed dissection of 17 insects revealed that hundreds of <italic>Bursaphelenchus</italic> nematodes were often found in the reproductive organs of both sexes, including the inner parts such as the internal sac and the ejaculatory ducts in males. Thus, the residence of <italic>Bursaphelenchus</italic> nematodes in the reproductive organs of their vectors is not an accidental invasion but indicative of the phoretic nature of the nematodes.</p>
+</abstract>
+<kwd-group kwd-group-type="uncontrolled">
+<title>Keywords</title>
+<kwd><italic>Bursaphelenchus mucronatus</italic></kwd>
+<kwd><italic>Bursaphelenchus xylophilus</italic></kwd>
+<kwd>dissection</kwd>
+<kwd>Japan</kwd>
+<kwd>phoresy</kwd>
+<kwd>pine wilt disease</kwd>
+<kwd><italic>Pinus densiflora</italic></kwd>
+<kwd>vector insect</kwd>
+</kwd-group>
+<custom-meta-group><custom-meta><meta-name>version</meta-name><meta-value>fulltext</meta-value></custom-meta></custom-meta-group>
+</article-meta>
+</front>
+<body>
+<p>The pine wood nematode, <italic>Bursaphelenchus xylophilus</italic> (Steiner &amp; Buhrer) Nickle, is the causal agent of pine wilt disease (Kiyohara &amp; Tokushige, 1971; Mamiya, 1983) and has caused heavy damage to pine forests in East Asia and Europe by its strong virulence (Futai, 2013). <italic>Bursaphelenchus xylophilus</italic> is native to North America (Dwinell &amp; Nickle, 1989) and <italic>Pinus</italic> trees distributed in the eastern part of the North American continent are resistant (Kiyohara &amp; Tokushige, 1971; Futai &amp; Furuno, 1979). By contrast, <italic>B. mucronatus</italic> Mamiya &amp; Enda, a species closely related to <italic>B. xylophilus</italic> (Mamiya &amp; Enda, 1979), is widely distributed in the Eurasian continent (Braasch <italic>et al.</italic>, 2011) and shows almost no virulence to <italic>Pinus</italic> trees (Braasch, 2000; Kanzaki &amp; Futai, 2006; Kanzaki <italic>et al.</italic>, 2012). Both <italic>B. xylophilus</italic> and <italic>B. mucronatus</italic> are known to be vectored by cerambycid beetles of the genus <italic>Monochamus</italic> (Akbulut &amp; Stamps, 2012).</p>
+<p>There are two ways of transmission by which <italic>Bursaphelenchus</italic> nematodes, harboured by their <italic>Monochamus</italic> vector, enter pine trees. One is <italic>via</italic> feeding wounds made by <italic>Monochamus</italic> adults on healthy pine twigs (Mamiya &amp; Enda, 1972; Morimoto &amp; Iwasaki, 1972; Linit, 1990; Jikumaru &amp; Togashi, 2001), and the other is <italic>via</italic> oviposition wounds along with the oviposition behaviour of female adults on declining or recently killed pine trees (Wingfield, 1983; Wingfield &amp; Blanchette, 1983; Linit, 1988; Schroeder &amp; Magnusson, 1992; Ishiguro &amp; Aikawa, 2016). The latter pathway could be of critical importance for the maintenance of the nematode population, especially when they are not virulent to the trees, because such avirulent nematodes transmitted <italic>via</italic> beetle feeding wounds would not be able to overcome resistance from healthy pine trees and fail to establish.</p>
+<p><italic>Bursaphelenchus</italic> nematodes infesting a dead host tree transfer to the body of a <italic>Monochamus</italic> beetle when the beetle ecloses to an adult in the pupal chamber (Maehara &amp; Futai, 2001) and are carried with the insect following the emergence of the adult beetle (Kobayashi <italic>et al.</italic>, 1984; Linit, 1988; Aikawa, 2008). When carried by an adult beetle, <italic>Bursaphelenchus</italic> nematodes are mainly held in the respiratory system (Kobayashi <italic>et al.</italic>, 1984; Linit, 1988; Aikawa, 2008; Naves <italic>et al.</italic>, 2015). On the other hand, Arakawa &amp; Togashi (2004) showed that <italic>B. xylophilus</italic> invades the reproductive system of female adults of <italic>M. alternatus</italic> Hope in an experiment in which they demonstrated the transfer of nematodes between paired male and female beetles reared in plastic containers. It would be advantageous for <italic>Bursaphelenchus</italic> nematodes to stay in the reproductive organs of the <italic>Monochamus</italic> vectors as the transmission pathway <italic>via</italic> the oviposition scar is potentially critical for the survival of the nematodes, especially when they are not virulent to host trees, and the nematodes harboured in and around the reproductive organs are likely to be involved in such a transmission. However, the distribution of <italic>Bursaphelenchus</italic> nematodes in the reproductive organs of <italic>Monochamus</italic> beetles has not been well explored and information is scarce.</p>
+<p>In Japan, <italic>B. xylophilus</italic> is almost exclusively vectored by <italic>M. alternatus</italic> (Mamiya &amp; Enda, 1972; Morimoto &amp; Iwasaki, 1972). The congeneric species, <italic>M. saltuarius</italic> (Gebler), exhibits segregated distribution in high-altitude pine forests (Iwata, 1992) and is often associated with <italic>B. mucronatus</italic> (Jikumaru &amp; Togashi, 1995, 2001). <italic>Monochamus saltuarius</italic>, however, is also known to carry <italic>B. xylophilus</italic> when pine wilt disease becomes prevalent in their habitat (Yoshida &amp; Kondo, 1991; Taketsune, 1992; Shin, 2008). This study was done to investigate the species composition of <italic>Bursaphelenchus</italic> nematodes carried by <italic>M. saltuarius</italic> in areas where pine wilt disease is spreading into this habitat and to elucidate the transport locations of nematodes in the beetle vector. We confirmed that <italic>Bursaphelenchus</italic> nematodes were frequently found in the reproductive organs of <italic>M. saltuarius</italic> under field conditions. Further, we report the detection of the simultaneous occurrence of <italic>B. xylophilus</italic> and <italic>B. mucronatus</italic> in <italic>M. saltuarius</italic> adults, which provides evidence for the invasion process of <italic>B. xylophilus</italic> that is currently underway.</p>
+<sec id="S000001" sec-type="heading-1">
+<title>Materials and methods</title>
+<sec id="S000002" sec-type="heading-2">
+<title>Origin of the insects</title>
+<p>We used <italic>M. saltuarius</italic> adults that had emerged from bait logs set at two locations of <italic>Pinus densiflora</italic> Sieb. &amp; Zucc. stands in high-altitude forests in Nagano Prefecture, Japan; one stand is in Sakuho Town (980 m a.s.l.) and the other in Matsumoto City (945 m a.s.1.). These stands were located at the frontline of pine wilt disease spread in Nagano Prefecture. No pine wilt damage was found around the stands, whereas substantial damage was present in the adjacent low-altitude areas.</p>
+<p>For both stands, bait logs were prepared by cutting live <italic>P. densiflora</italic> trees of about 20 cm DBH (diam. at breast height) into bolts, approximately 1 m long, just before setting. The bolts were sealed with a commercial caulking compound (Silicone Sealant 8060 PRO, SR066, Cemedine Co., Ltd) at the cut ends to prevent drying. Three sets of bolts, <italic>ca</italic> 0.1 m<sup>3</sup> vol, were placed on the ground with a distance of 100 m at the edge of each stand, on 22 and 23 May 2017, in Matsumoto and Sakuho, respectively. <italic>Monochamus</italic> beetles are strongly attracted to the volatiles emitted by weakened or newly killed pine trees (Ikeda <italic>et al.</italic>, 1980, 1986; Yamasaki <italic>et al.</italic>, 1980; Allison <italic>et al.</italic>, 2001) and therefore bolts of freshly felled pine trees are often used as bait to attract and serve as oviposition sites for <italic>Monochamus</italic> beetles (Wingfield, 1983; Aikawa <italic>et al.</italic>, 2020).</p>
+<p>The bolts were left in the field for approximately 2 months and then transported to the Nagano Prefecture Forest Research Center, Shiojiri, Nagano, Japan. Bolts from both stands were placed separately in outdoor cages. The cages were checked for newly emerged <italic>Monochamus</italic> adults from the bolts every 2 or 3 days from May-July 2018. A total of 90 adults of <italic>M. saltuarius</italic> – 45 from Sakuho and 45 from Matsumoto – were collected from 17 May to 12 June; ten <italic>M. alternatus</italic> adults emerged from the Matsumoto logs. A total of 70 (40 males and 30 females) out of the 90 <italic>M. saltuarius</italic> adults were transported to Tohoku Research Center of Forestry and Forest Products Research Institute, Morioka, Iwate, Japan – 35 adults from Sakuho (25 males and ten females) and 35 adults from Matsumoto (15 males and 20 females). These insects were individually placed into plastic cups (72 mm high, 38 mm diam.) and kept at 5°C in the dark until dissected.</p>
+</sec>
+<sec id="S000003" sec-type="heading-2">
+<title>Distribution of <italic>Bursaphelenchus</italic> nematodes in the insect body</title>
+<p>To clarify the presence and distribution of <italic>Bursaphelenchus</italic> nematodes in the body of the <italic>M. saltuarius</italic> adult, all 70 insects were dissected and checked for nematodes in various parts of the insect body.</p>
+<fig id="IMG000001" orientation="portrait" position="float" fig-type="graphic">
+<label>Fig. 1.</label>
+<caption>
+<p>Reproductive organs of male and female <italic>Monochamus saltuarius</italic>. A: Male; B: Female.</p>
+</caption>
+<graphic xlink:href="15685411_023_05_s001_i0001.jpg"/>
+</fig>
+<p>Each insect was measured for elytron length and fresh weight using an electronic calliper and a precision balance, respectively. The insect was individually placed on a Syracuse watch glass and dissected under a stereo microscope in accordance with the following procedure. Elytra and hind wings were cut from the body. The exposed dorsal surface of the abdomen was washed with distilled water to distinguish between nematodes on the body surface and those harboured in the tracheal system and internal organs. The main part of the insect was then transferred to a different watch glass. The membrane of the abdominal tergum was cut to check for the presence of <italic>Bursaphelenchus</italic> nematodes in the haemocoel and the reproductive organs were excised, rinsed with distilled water and moved to another watch glass where they were dissected using tweezers to confirm the presence of the nematodes. As the inspection of the dissected insects progressed, it became clearer that <italic>Bursaphelenchus</italic> nematodes commonly occurred in the reproductive organs of the insects; thus we added a detailed dissection of the organs as described in the following section, this being applied to the remaining 17 insects. The remaining part of the insect body was carefully shredded using tweezers and checked for the presence of nematodes in the intestinal organs and tracheal system.</p>
+<p>The contents of three watch glasses per insect were placed together in a Baermann funnel (Hooper, 1986) and kept overnight to extract the nematodes. The harvested nematodes were observed under a stereo microscope (8-100×) and <italic>Bursaphelenchus</italic> nematodes were counted. When the nematodes were too abundant to count, the nematode suspension was diluted and the total number of nematodes was estimated.</p>
+</sec>
+<sec id="S000004" sec-type="heading-2">
+<title>Distribution of nematodes in reproductive organs</title>
+<p>In the dissection procedure described in the previous section, an additional detailed inspection of the reproductive organs was conducted using 17 insects. The reproductive organs excised from each insect were divided into (groups of) organs as follows and individually dissected to reveal and count the nematodes within.</p>
+<p>Male reproductive organs were separated into three groups (Fig. 1A): median lobe combined with tegmen, internal sac, and ejaculatory ducts. The internal sac is a membranous structure from the median orifice to the ejaculatory ducts. Ejaculatory ducts are a pair of tubes derived from the testes. Female reproductive organs were separated into five, as follows (Fig. 1B): coxite, paraproct, vagina, bursa copulatrix, and spermatheca. The coxite and paraproct are separated by the valvifer. The vagina is a membranous structure, excluding the bursa copulatrix and spermatheca, in the region behind the paraproct. The morphology of the reproductive organs was identified with reference to Saito &amp; Saito (1992).</p>
+</sec>
+<sec id="S000005" sec-type="heading-2">
+<title>Molecular identification of the nematode from the insects</title>
+<p>Molecular identification of <italic>Bursaphelenchus</italic> nematodes isolated from insects is necessary as it is impossible to discriminate among species depending on the morphology of fourth-stage dispersal juveniles carried by the vectors. Identification of the nematode species was performed by species-specific PCR primer pairs.</p>
+<p>Nematode DNA was prepared from ten nematodes arbitrarily picked from the nematode suspensions extracted from the insects by the Baermann method mentioned above. After the nematodes were lysed by incubation at 55°C for 1 h in 30 <italic>μ</italic>l of extraction buffer, supplied with the <italic>B. xylophilus</italic> detection kit (Nippon Gene), the lysate was incubated from 95-100°C for 10 min.</p>
+<p>Species-specific primer pairs for <italic>B. mucronatus</italic> and <italic>B. xylophilus</italic>, described by Matsunaga &amp; Togashi (2004), were used for nematode identification. PCR amplification was performed in a total volume of 22 <italic>μ</italic>l: 2 <italic>μ</italic>l of extracted DNA solution, 10 pmol of each primer pair for the two species, and 10 <italic>μ</italic>l of GoTaq<sup>®</sup> G2 Hot Start Green Master Mix, 2× (Promega). GoTaq<sup>®</sup> G2 Hot Start Green Master Mix is a premixed ready-to-use solution containing GoTaq<sup>®</sup> G2 Hot Start Polymerase, dNTPs and MgCl<sub>2</sub>. PCR amplification was performed under the following conditions: initial denaturation at 95°C for 2 min, 35 cycles of denaturation at 94°C for 30 s, annealing at 55.9°C for 30 s, and extension at 72°C for 1 min, followed by a final incubation at 72°C for 2 min. The PCR products were resolved by electrophoresis in a 1% agarose gel using 0.5× TAE buffer at pH 8.0 and stained with ethidium bromide. The band pattern was photographed under UV light.</p>
+</sec>
+<sec id="S000006" sec-type="heading-2">
+<title>Statistical analysis</title>
+<p>Elytron length and fresh weight of <italic>M. saltuarius</italic> adults were compared by two-way ANOVA by sex and stand of origin. The ratio of insects carrying <italic>Bursaphelenchus</italic> nematodes to those not carrying the nematodes in the Sakuho and Matsumoto populations, and in males and females in both populations, were compared according to Fisher’s exact test. The number of nematodes extracted from the insects showed a wide variation; therefore, the Kruskal-Wallis test was used for evaluating differences in nematode load between different sexes and stands of different origin. The relationship between the number of nematodes found in the reproductive organs of <italic>M. saltuarius</italic> adults used in the detailed examination and the total number of nematodes harboured by the insects were analysed by Spearman’s rank correlation. All statistical analyses were performed by R statistical software (ver. 3.6.1).</p>
+<fig id="IMG000002" orientation="portrait" position="float" fig-type="graphic">
+<label>Table 1.</label>
+<caption>
+<p>Number of dissected adults of <italic>Monochamus saltuarius</italic> and their body size.</p>
+</caption>
+<graphic xlink:href="15685411_023_05_s001_i0002.jpg"/>
+</fig>
+</sec>
+</sec>
+<sec id="S000007" sec-type="heading-1">
+<title>Results</title>
+<sec id="S000008" sec-type="heading-2">
+<title>Distribution of <italic>Bursaphelenchus</italic> nematodes in the insect body</title>
+<p>Elytron length and fresh weight were larger in female insects than in males from both the Sakuho and Matsumoto stands, and were larger in Sakuho than in Matsumoto (Table 1). Two-way ANOVA showed a significant difference between the sexes (<inline-formula><mml:math>
+<mml:mi mathvariant="italic">F</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>22.49</mml:mn></mml:math></inline-formula>, df = 1, <inline-formula><mml:math>
+<mml:mi mathvariant="italic">P</mml:mi>
+<mml:mo mathvariant="normal">&lt;</mml:mo>
+<mml:mn>0.001</mml:mn></mml:math></inline-formula> for elytron length; <inline-formula><mml:math>
+<mml:mi mathvariant="italic">F</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>5.95</mml:mn></mml:math></inline-formula>, df = 1, <inline-formula><mml:math>
+<mml:mi mathvariant="italic">P</mml:mi>
+<mml:mo mathvariant="normal">&lt;</mml:mo>
+<mml:mn>0.05</mml:mn></mml:math></inline-formula> for fresh weight) and between stands (<inline-formula><mml:math>
+<mml:mi mathvariant="italic">F</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>11.50</mml:mn></mml:math></inline-formula>, df = 1, <inline-formula><mml:math>
+<mml:mi mathvariant="italic">P</mml:mi>
+<mml:mo mathvariant="normal">&lt;</mml:mo>
+<mml:mn>0.01</mml:mn></mml:math></inline-formula> for elytron length; <inline-formula><mml:math>
+<mml:mi mathvariant="italic">F</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>11.73</mml:mn></mml:math></inline-formula>, df = 1, <inline-formula><mml:math>
+<mml:mi mathvariant="italic">P</mml:mi>
+<mml:mo mathvariant="normal">&lt;</mml:mo>
+<mml:mn>0.01</mml:mn></mml:math></inline-formula> for fresh weight), but not for the interaction (<inline-formula><mml:math>
+<mml:mi mathvariant="italic">F</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.23</mml:mn></mml:math></inline-formula>, df = 1, <inline-formula><mml:math>
+<mml:mi mathvariant="italic">P</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.64</mml:mn></mml:math></inline-formula> for elytron length; <inline-formula><mml:math>
+<mml:mi mathvariant="italic">F</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.05</mml:mn></mml:math></inline-formula>, df = 1, <inline-formula><mml:math>
+<mml:mi mathvariant="italic">P</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.83</mml:mn></mml:math></inline-formula> for fresh weight).</p>
+<fig id="IMG000003" orientation="portrait" position="float" fig-type="graphic">
+<label>Table 2.</label>
+<caption>
+<p>Number of <italic>Bursaphelenchus</italic> nematodes isolated from the dissected adults of <italic>Monochamus saltuarius</italic>.</p>
+</caption>
+<graphic xlink:href="15685411_023_05_s001_i0003.jpg"/>
+</fig>
+<p><italic>Bursaphelenchus</italic> nematodes were found in 16 out of 35 (45.7%) and 23 out of 35 (65.7%) insects from Sakuho and Matsumoto, respectively. The percentage of insects carrying <italic>Bursaphelenchus</italic> nematodes was significantly different between males and females in Sakuho (Fisher’s exact test, <inline-formula><mml:math>
+<mml:mi mathvariant="italic">P</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.022</mml:mn></mml:math></inline-formula>), but there was no significant difference either in Matsumoto or between the stands (Fisher’s exact test, <inline-formula><mml:math>
+<mml:mi mathvariant="italic">P</mml:mi>
+<mml:mo mathvariant="normal">&gt;</mml:mo>
+<mml:mn>0.05</mml:mn></mml:math></inline-formula>) (Table 2). The mean number of <italic>Bursaphelenchus</italic> nematodes carried by the insects was 3728 ± 8502 and 659 ± 1588 in Sakuho and Matsumoto, respectively (Table 2). The Kruskal-Wallis test showed that the difference in the number of nematodes carried by males and females was significant in Sakuho (<inline-formula><mml:math>
+<mml:msup>
+<mml:mrow>
+<mml:mi mathvariant="italic">χ</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msup>
+<mml:mo>=</mml:mo>
+<mml:mn>4.98</mml:mn></mml:math></inline-formula>, df = 1, <inline-formula><mml:math>
+<mml:mi mathvariant="italic">P</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.03</mml:mn></mml:math></inline-formula>), but this difference was not significant either in Matsumoto (<inline-formula><mml:math>
+<mml:msup>
+<mml:mrow>
+<mml:mi mathvariant="italic">χ</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msup>
+<mml:mo>=</mml:mo>
+<mml:mn>1.54</mml:mn></mml:math></inline-formula>, df = 1, <inline-formula><mml:math>
+<mml:mi mathvariant="italic">P</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.21</mml:mn></mml:math></inline-formula>) or between the stands (<inline-formula><mml:math>
+<mml:msup>
+<mml:mrow>
+<mml:mi mathvariant="italic">χ</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msup>
+<mml:mo>=</mml:mo>
+<mml:mn>0.0003</mml:mn></mml:math></inline-formula>, df = 1, <inline-formula><mml:math>
+<mml:mi mathvariant="italic">P</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.99</mml:mn></mml:math></inline-formula>) (Table 2). For the Sakuho population, a higher percentage of females carried certain numbers of <italic>Bursaphelenchus</italic> nematodes, whereas some males carried extremely high numbers (11 150-40 550). This caused a statistical difference between males and females in the Kruskal-Wallis test, despite the small difference in the mean number of nematodes carried by the insects (Table 2).</p>
+<p><italic>Bursaphelenchus</italic> nematodes isolated from the insects of the two stands were identified as fourth-stage dispersal juveniles by morphological observations under a stereo microscope. The nematodes were mostly found in the tracheal system of the insect body; however, several were found inside the reproductive organ(s). Not one <italic>Bursaphelenchus</italic> nematode was found in the haemocoel and intestinal organs.</p>
+</sec>
+<sec id="S000009" sec-type="heading-2">
+<title>Distribution of nematodes in reproductive organs</title>
+<p>A detailed examination of the reproductive organs showed clear evidence of the presence of <italic>Bursaphelenchus</italic> nematodes in those organs of the vector insects (Fig. 2).</p>
+<fig id="IMG000004" orientation="portrait" position="float" fig-type="graphic">
+<label>Fig. 2.</label>
+<caption>
+<p><italic>Bursaphelenchus</italic> nematodes in the reproductive organs of both sexes of <italic>Monochamus saltuarius</italic>. A: <italic>Bursaphelenchus</italic> nematodes in internal sac of a male insect (oval); B: <italic>Bursaphelenchus</italic> nematode in ejaculatory duct of a male insect (arrows); C: <italic>Bursaphelenchus</italic> nematodes packed in vagina of a female insect (circle); D: <italic>Bursaphelenchus</italic> nematodes released from cut wall of spermatheca of a female insect.</p>
+</caption>
+<graphic xlink:href="15685411_023_05_s001_i0004.jpg"/>
+</fig>
+<fig id="IMG000005" orientation="portrait" position="float" fig-type="graphic">
+<label>Table 3.</label>
+<caption>
+<p><italic>Bursaphelenchus</italic> nematodes carried in the reproductive organs of the insects from detailed examination of 17 <italic>Monochamus saltuarius</italic> adults.</p>
+</caption>
+<graphic xlink:href="15685411_023_05_s001_i0005.jpg"/>
+</fig>
+<p>Twelve out of 17 insects used in the detailed examinations carried <italic>Bursaphelenchus</italic> nematodes and a proportion of those nematodes were harboured in the reproductive organs of the insect except for a female (♀-2) having no nematodes in its reproductive organs (Table 3). In male insects, <italic>Bursaphelenchus</italic> nematodes were found in the median lobe combined with the tegmen, internal sac, and ejaculatory ducts (Fig. 2A, B). In most cases, the number of nematodes found in the organs was more than 100, and this was also true when we focused on the inner parts, like the internal sac and ejaculatory ducts. Two female insects were found to carry <italic>Bursaphelenchus</italic> nematodes in their reproductive organs. One (♀-3) held 183 nematodes in the vagina (Vag) (Fig. 2C), 54 in the spermatheca (St) (Fig. 2D), and small numbers in the coxite (Cx) and paraproct (Pp). In the other (♀-4), nematodes were only found in the spermatheca and totalled 56. The frequency, number, and distribution of the <italic>Bursaphelenchus</italic> nematodes found in the insect’s reproductive organs was unlikely to have resulted from an accidental invasion of the nematodes.</p>
+<p>The number of nematodes found in the reproductive organs accounted for 0.0-75.7% of the total number of nematodes isolated from the insects (Table 3). There was no significant correlation between the number of nematodes from the reproductive organs and the total number of nematodes (Spearman’s rank correlation coefficient, <inline-formula><mml:math>
+<mml:msub>
+<mml:mrow>
+<mml:mi mathvariant="italic">r</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mi mathvariant="normal">s</mml:mi>
+</mml:mrow>
+</mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mn>0.53</mml:mn></mml:math></inline-formula>, <inline-formula><mml:math>
+<mml:mi mathvariant="italic">P</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0.07</mml:mn></mml:math></inline-formula>) (Fig. 3).</p>
+<fig id="IMG000006" orientation="portrait" position="float" fig-type="graphic">
+<label>Fig. 3.</label>
+<caption>
+<p>Relationship between number of nematodes found in the reproductive organs of <italic>Monochamus saltuarius</italic> adults used in the detailed examination and the total number of nematodes harboured by the insects. Black circles represent the Sakuho insect population; white triangles the Matsumoto insect population.</p>
+</caption>
+<graphic xlink:href="15685411_023_05_s001_i0006.jpg"/>
+</fig>
+</sec>
+<sec id="S000010" sec-type="heading-2">
+<title>Molecular identification of the nematode from the insects</title>
+<p>PCR amplification with the two primer pairs produced species-specific DNA fragments for each of the two <italic>Bursaphelenchus</italic> species, <italic>B. mucronatus</italic> and <italic>B. xylophilus</italic>. The nematode species detected in the insects were shown in Table 4. All 15 insects from Sakuho were proven to harbour only <italic>B. mucronatus</italic>, no <italic>B. xylophilus</italic> being detected. By contrast, <italic>B. xylophilus</italic> was detected in ten out of 23 insects from Matsumoto, three of which also harboured <italic>B. mucronatus</italic>, although 13 insects harboured <italic>B. mucronatus</italic> only (Table 4).</p>
+<fig id="IMG000007" orientation="portrait" position="float" fig-type="graphic">
+<label>Table 4.</label>
+<caption>
+<p>Identification of <italic>Bursaphelenchus</italic> nematodes isolated from adults of <italic>Monochamus saltuarius</italic> by PCR.</p>
+</caption>
+<graphic xlink:href="15685411_023_05_s001_i0007.jpg"/>
+</fig>
+</sec>
+</sec>
+<sec id="S000011" sec-type="heading-1">
+<title>Discussion</title>
+<p>Most nematode species belonging to the <italic>Bursaphelenchus</italic> have a phoretic relationship with insects (Ryss <italic>et al.</italic>, 2005; Kanzaki &amp; Giblin-Davis, 2018) and are found in various parts of the bodies of the vector insects, including the reproductive organs (Giblin <italic>et al.</italic>, 1981; Giblin &amp; Kaya, 1983; Giblin, 1985; Giblin-Davis <italic>et al.</italic>, 2006; Cardoza <italic>et al.</italic>, 2006; Kanzaki <italic>et al.</italic>, 2008, 2010; Tanaka <italic>et al.</italic>, 2014; Tomalak &amp; Filipiak, 2019). Among them, the <italic>B. xylophilus</italic> group (Braasch <italic>et al.</italic>, 2009) are known to be held exclusively in the tracheae of their <italic>Monochamus</italic> vectors (Kobayashi <italic>et al.</italic>, 1984; Linit, 1988; Aikawa, 2008; Naves <italic>et al.</italic>, 2015). In the present study, we revealed that nematodes of the <italic>B. xylophilus</italic> group are also harboured in the reproductive organs of both sexes of <italic>M. saltuarius</italic>.</p>
+<p>There were some differences in body size (Table 1) and nematode load (Table 2) of the <italic>M. saltuarius</italic> adults used in this study, depending on the sex or the stand of origin, which might be due to the condition of the pine logs used for oviposition and rearing of the insects and the environmental factors of the site where the logs were set. Despite the differences in body size and nematode load, <italic>Bursaphelenchus</italic> nematodes were commonly found in the reproductive organs of the insects examined.</p>
+<p>The invasion of <italic>B. xylophilus</italic> into the spermathecae of <italic>M. alternatus</italic> females along with copulation under laboratory conditions was reported by Arakawa &amp; Togashi (2004). In their study, however, the location of the nematodes in the female reproductive organs, apart from the spermathecae, and in the male insects was not clarified. In this study, we demonstrated that <italic>Bursaphelenchus</italic> nematodes were commonly found in the reproductive organs of both male and female adults of <italic>M. saltuarius</italic> (Table 3). These adults had not copulated as they were captured just after emergence; thus, our results indicate that nematode invasion into the reproductive organs can occur without copulation. These results suggest that <italic>Bursaphelenchus</italic> nematodes vectored by <italic>Monochamus</italic> beetles utilise the reproductive organs as one of the phoretic transport sites.</p>
+<p>Residence in the reproductive organs of the female insects would be beneficial for <italic>Bursaphelenchus</italic> nematodes that need to be transferred to a dead tree as a new habitat as the insect’s oviposition in such a tree would facilitate their transmission. Nematodes held at and around the genitalia of male insects would have a high chance of transferring to the female genitalia during copulation and then reaching host trees during subsequent oviposition. Thus, we consider that the invasion of the reproductive organs of the vector insects could represent part of the phoretic ecology of <italic>Bursaphelenchus</italic> nematodes. On the other hand, the occurrence of <italic>Bursaphelenchus</italic> nematodes in the reproductive organs can be a burden on the reproductive performance of the vector insects (Arakawa &amp; Togashi, 2004).</p>
+<p><italic>Monochamus saltuarius</italic> mainly associates with <italic>B. mucronatus</italic> in Japan, but can also be a vector of <italic>B. xylophilus</italic> (Kishi, 1995; Sato <italic>et al.</italic>, 1987). The molecular identification of the nematodes isolated from <italic>M. saltuarius</italic> adults in the present study showed that the insects from Sakuho had only <italic>B. mucronatus</italic>, whereas insects from Matsumoto had both <italic>B. mucronatus</italic> and <italic>B. xylophilus</italic>. In three insects from Matsumoto we confirmed that <italic>B. mucronatus</italic> and <italic>B. xylophilus</italic> occurred together in the nematode assemblage originating from a single insect. To our knowledge, this is the first report of both <italic>B. mucronatus</italic> and <italic>B. xylophilus</italic> being isolated from a single vector insect in the field. Pine wilt disease is becoming prevalent in Nagano Prefecture, which means that the <italic>B. xylophilus-M. alternatus</italic> association is penetrating into the area where the <italic>B. mucronatus</italic>-<italic>M. saltuarius</italic> association has been distributed. The disease expansion was quicker in Matsumoto than in Sakuho, thus the bait logs set at the stand in Matsumoto could attract <italic>M. alternatus</italic> carrying <italic>B. xylophilus</italic>, as well as <italic>M. saltuarius</italic> carrying <italic>B. mucronatus</italic> and be inhabited by both nematode species transmitted <italic>via</italic> the oviposition of the beetles. As a consequence, both nematode species could take passage in some of the <italic>M. saltuarius</italic> adults eclosed in the log and then emerge, as suggested by Yanagisawa <italic>et al.</italic> (2019).</p>
+<p>In this study, we identified two <italic>Bursaphelenchus</italic> species, <italic>i.e.</italic>, <italic>B. mucronatus</italic> and <italic>B. xylophilus</italic>, from <italic>M. saltuarius</italic> adults (Table 4); however, we did not closely examine the nematode species in the reproductive organs of the insects (Table 3). Further studies are needed to reveal the ways in which <italic>B. mucronatus</italic> and <italic>B. xylophilus</italic> enter the reproductive organs of <italic>M. saltuarius</italic> and <italic>M. alternatus</italic> so as to clarify the invasion process of the <italic>B. xylophilus</italic>-<italic>M. alternatus</italic> association into an area where the <italic>B. mucronatus</italic>-<italic>M. saltuarius</italic> association has been established.</p>
+</sec>
+</body>
+<back>
+<fn-group><fn id="FN000001"><label>*</label>
+<p>Corresponding author, e-mail: <email xlink:href="mailto:sozawa@ffpri.affrc.go.jp">sozawa@ffpri.affrc.go.jp</email></p></fn></fn-group>
+<ack>
+<title>Acknowledgements</title>
+<p>We sincerely thank Ms N. Kawamura, Tohoku Research Center, FFPRI, for her assistance in conducting the experiments, and Mr K. Tanaka and Mr S. Saito, Nagano Prefecture Forestry Research Center, for their help in setting the bait logs and collecting the adult beetles. This work was supported in part by Grants-in-Aid for Scientific Research (C) (No. JP17K07860) from the Japan Society for the Promotion of Science to NM, and Grants-in-Aid for Scientific Research (B) (Nos JP16H04944 and JP19H03004) to TA.</p></ack>
+<ref-list>
+<title>References</title>
+<ref id="R000001">
+<mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Aikawa</surname>, <given-names>T.</given-names></string-name></person-group> (<date><year>2008</year></date>). <chapter-title>Transmission biology of <italic>Bursaphelenchus xylophilus</italic> in relation to its insect vector</chapter-title>. In: <person-group person-group-type="editor"><string-name><surname>Zhao</surname>, <given-names>B.G.</given-names></string-name>, <string-name><surname>Futai</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Sutherland</surname>, <given-names>J.R.</given-names></string-name> &amp; <string-name><surname>Takeuchi</surname>, <given-names>Y.</given-names></string-name></person-group> (Eds). <source>Pine wilt disease</source>. <publisher-loc>Tokyo, Japan</publisher-loc>, <publisher-name>Springer</publisher-name>, pp. <fpage>123</fpage>-<lpage>138</lpage>.</mixed-citation>
+</ref>
+<ref id="R000002">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Aikawa</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Ozawa</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Maehara</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Masuya</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Nakamura</surname>, <given-names>K.</given-names></string-name> &amp; <string-name><surname>Kanzaki</surname>, <given-names>N.</given-names></string-name></person-group> (<date><year>2020</year></date>). <article-title>Discovery of a phoretic association between <italic>Bursaphelenchus doui</italic> (Nematoda: Aphelenchoididae) and <italic>Monochamus saltuarius</italic> and <italic>Acalolepta sejuncta</italic> (Coleoptera: Cerambycidae)</article-title>. <source>Nematology</source> <volume>22</volume>, <fpage>713</fpage>-<lpage>722</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/15685411-00003334" xlink:type="simple">10.1163/15685411-00003334</ext-link></mixed-citation>
+</ref>
+<ref id="R000003">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Akbulut</surname>, <given-names>S.</given-names></string-name> &amp; <string-name><surname>Stamps</surname>, <given-names>W.T.</given-names></string-name></person-group> (<date><year>2012</year></date>). <article-title>Insect vectors of the pinewood nematode: a review of the biology and ecology of <italic>Monochamus</italic> species</article-title>. <source>Forest Pathology</source> <volume>42</volume>, <fpage>89</fpage>-<lpage>99</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1111/j.1439-0329.2011.00733.x" xlink:type="simple">10.1111/j.1439-0329.2011.00733.x</ext-link></mixed-citation>
+</ref>
+<ref id="R000004">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Allison</surname>, <given-names>J.D.</given-names></string-name>, <string-name><surname>Borden</surname>, <given-names>J.H.</given-names></string-name>, <string-name><surname>McIntosh</surname>, <given-names>R.L.</given-names></string-name>, <string-name><surname>de Groot</surname>, <given-names>P.</given-names></string-name> &amp; <string-name><surname>Gries</surname>, <given-names>R.</given-names></string-name></person-group> (<date><year>2001</year></date>). <article-title>Kairomonal response by four <italic>Monochamus</italic> species (Coleoptera: Cerambycidae) to bark beetle pheromones</article-title>. <source>Journal of Chemical Ecology</source> <volume>27</volume>, <fpage>633</fpage>-<lpage>646</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1023/A:1010353315939" xlink:type="simple">10.1023/A:1010353315939</ext-link></mixed-citation>
+</ref>
+<ref id="R000005">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Arakawa</surname>, <given-names>Y.</given-names></string-name> &amp; <string-name><surname>Togashi</surname>, <given-names>K.</given-names></string-name></person-group> (<date><year>2004</year></date>). <article-title>Presence of the pine wood nematode, <italic>Bursaphelenchus xylophilus</italic>, in the spermatheca of female <italic>Monochamus alternatus</italic></article-title>. <source>Nematology</source> <volume>6</volume>, <fpage>157</fpage>-<lpage>159</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/156854104323073044" xlink:type="simple">10.1163/156854104323073044</ext-link></mixed-citation>
+</ref>
+<ref id="R000006">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Braasch</surname>, <given-names>H.</given-names></string-name></person-group> (<date><year>2000</year></date>). <article-title>Influence of temperature and water supply on mortality of 3-year-old pines inoculated with <italic>Bursaphelenchus xylophilus</italic> and <italic>B. mucronatus</italic></article-title>. <source>Nachrichtenblatt des Deutschen Pflanzenschutzdienstes</source> <volume>52</volume>, <fpage>244</fpage>-<lpage>249</lpage>.</mixed-citation>
+</ref>
+<ref id="R000007">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Braasch</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Burgermeister</surname>, <given-names>W.</given-names></string-name> &amp; <string-name><surname>Gu</surname>, <given-names>J.</given-names></string-name></person-group> (<date><year>2009</year></date>). <article-title>Revised intra-generic grouping of <italic>Bursaphelenchus</italic> Fuchs, 1937 (Nematoda: Aphelenchoididae)</article-title>. <source>Journal of Nematode Morphology and Systematics</source> <volume>12</volume>, <fpage>65</fpage>-<lpage>88</lpage>.</mixed-citation>
+</ref>
+<ref id="R000008">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Braasch</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Gu</surname>, <given-names>J.</given-names></string-name> &amp; <string-name><surname>Burgermeister</surname>, <given-names>W.</given-names></string-name></person-group> (<date><year>2011</year></date>). <article-title><italic>Bursaphelenchus mucronatus kolymensis</italic> comb. n. – new definition of the “European type” of <italic>B. mucronatus</italic></article-title>. <source>Journal of Nematode Morphology and Systematics</source> <volume>14</volume>, <fpage>77</fpage>-<lpage>90</lpage>.</mixed-citation>
+</ref>
+<ref id="R000009">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Cardoza</surname>, <given-names>Y.J.</given-names></string-name>, <string-name><surname>Paskewitz</surname>, <given-names>S.</given-names></string-name> &amp; <string-name><surname>Raffa</surname>, <given-names>K.F.</given-names></string-name></person-group> (<date><year>2006</year></date>). <article-title>Travelling through time and space on wings of beetles: a tripartite insect-fungi-nematode association</article-title>. <source>Symbiosis</source> <volume>41</volume>, <fpage>71</fpage>-<lpage>79</lpage>.</mixed-citation>
+</ref>
+<ref id="R000010">
+<mixed-citation publication-type="other"><person-group person-group-type="author"><string-name><surname>Dwinell</surname>, <given-names>L.D.</given-names></string-name> &amp; <string-name><surname>Nickle</surname>, <given-names>W.R.</given-names></string-name></person-group> (<date><year>1989</year></date>). <italic>An overview of the pine wood nematode ban in North America</italic>. General Technical Report SE-55. Asheville, NC, USA, Southeastern Forest Experiment Station, Forest Service, United States Department of Agriculture. DOI: <ext-link ext-link-type="doi" xlink:href="10.2737/SE-GTR-55" xlink:type="simple">10.2737/SE-GTR-55</ext-link></mixed-citation>
+</ref>
+<ref id="R000011">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Futai</surname>, <given-names>K.</given-names></string-name></person-group> (<date><year>2013</year></date>). <article-title>Pine wood nematode, <italic>Bursaphelenchus xylophilus</italic></article-title>. <source>Annual Review of Phytopathology</source> <volume>51</volume>, <fpage>61</fpage>-<lpage>83</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1146/annurev-phyto-081211-172910" xlink:type="simple">10.1146/annurev-phyto-081211-172910</ext-link></mixed-citation>
+</ref>
+<ref id="R000012">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Futai</surname>, <given-names>K.</given-names></string-name> &amp; <string-name><surname>Furuno</surname>, <given-names>T.</given-names></string-name></person-group> (<date><year>1979</year></date>). [<article-title>The variety of resistances among pine-species to pine wood nematode, <italic>Bursaphelenchus lignicolus</italic></article-title>.] <source>Bulletin of the Kyoto University Forests</source> <volume>51</volume>, <fpage>23</fpage>-<lpage>36</lpage>.</mixed-citation>
+</ref>
+<ref id="R000013">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Giblin</surname>, <given-names>R.M.</given-names></string-name></person-group> (<date><year>1985</year></date>). <article-title>Association of <italic>Bursaphelenchus</italic> sp. (Nematoda: Aphelenchoididae) with nitidulid beetles (Coleoptera: Nitidulidae)</article-title>. <source>Revue de Nématologie</source> <volume>8</volume>, <fpage>369</fpage>-<lpage>375</lpage>.</mixed-citation>
+</ref>
+<ref id="R000014">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Giblin</surname>, <given-names>R.M.</given-names></string-name> &amp; <string-name><surname>Kaya</surname>, <given-names>H.K.</given-names></string-name></person-group> (<date><year>1983</year></date>). <article-title><italic>Bursaphelenchus seani</italic> n. sp. (Nematoda: Aphelenchoididae), a phoretic associate of <italic>Anthophora bomboides stanfordiana</italic> Cockerell, 1904 (Hymenoptera: Anthophoridae)</article-title>. <source>Revue de Nématologie</source> <volume>6</volume>, <fpage>39</fpage>-<lpage>50</lpage>.</mixed-citation>
+</ref>
+<ref id="R000015">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Giblin</surname>, <given-names>R.M.</given-names></string-name>, <string-name><surname>Kaya</surname>, <given-names>H.K.</given-names></string-name> &amp; <string-name><surname>Brooks</surname>, <given-names>R.W.</given-names></string-name></person-group> (<date><year>1981</year></date>). <article-title>Occurrence of <italic>Huntaphelenchoides</italic> sp. (Aphelenchoididae) and <italic>Acrostichus</italic> sp. (Diplogasteridae) in the reproductive tracts of soil nesting bees (Hymenoptera: Apoidea)</article-title>. <source>Nematologica</source> <volume>27</volume>, <fpage>20</fpage>-<lpage>27</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/187529281X00034" xlink:type="simple">10.1163/187529281X00034</ext-link></mixed-citation>
+</ref>
+<ref id="R000016">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Giblin-Davis</surname>, <given-names>R.M.</given-names></string-name>, <string-name><surname>Kanzaki</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Ye</surname>, <given-names>W.</given-names></string-name>, <string-name><surname>Mundo-Ocampo</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Baldwin</surname>, <given-names>J.G.</given-names></string-name> &amp; <string-name><surname>Thomas</surname>, <given-names>W.K.</given-names></string-name></person-group> (<date><year>2006</year></date>). <article-title>Morphology and description of <italic>Bursaphelenchus platzeri</italic> n. sp. (Nematoda: Parasitaphelenchidae), an associate of nitidulid beetles</article-title>. <source>Journal of Nematology</source> <volume>38</volume>, <fpage>150</fpage>-<lpage>157</lpage>.</mixed-citation>
+</ref>
+<ref id="R000017">
+<mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Hooper</surname>, <given-names>D.J.</given-names></string-name></person-group> (<date><year>1986</year></date>). <chapter-title>Extraction of nematodes from plant material</chapter-title>. In: <person-group person-group-type="editor"><string-name><surname>Southey</surname>, <given-names>J.F.</given-names></string-name></person-group> (Ed.). <source>Laboratory methods for work with plant and soil nematodes</source>. <publisher-loc>London, UK</publisher-loc>, <publisher-name>Her Majesty’s Stationery Office</publisher-name>, pp. <fpage>51</fpage>-<lpage>58</lpage>.</mixed-citation>
+</ref>
+<ref id="R000018">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ikeda</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Enda</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Yamane</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Oda</surname>, <given-names>K.</given-names></string-name> &amp; <string-name><surname>Toyoda</surname>, <given-names>T.</given-names></string-name></person-group> (<date><year>1980</year></date>). <article-title>Attractants for the Japanese pine sawyer, <italic>Monochamus alternatus</italic> Hope (Coleoptera: Cerambycidae)</article-title>. <source>Applied Entomology and Zoology</source> <volume>15</volume>, <fpage>358</fpage>-<lpage>361</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1303/aez.15.358" xlink:type="simple">10.1303/aez.15.358</ext-link></mixed-citation>
+</ref>
+<ref id="R000019">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ikeda</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Yamane</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Enda</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Oda</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Makihara</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Ito</surname>, <given-names>K.</given-names></string-name> &amp; <string-name><surname>Ôkochi</surname>, <given-names>I.</given-names></string-name></person-group> (<date><year>1986</year></date>). [<article-title>Attractiveness of volatile components of felled pine trees for <italic>Monochamus alternatus</italic> (Coleoptera: Cerambycidae)</article-title>.] <source>Journal of the Japanese Forestry Society</source> <volume>68</volume>, <fpage>15</fpage>-<lpage>19</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.11519/jjfs1953.68.1_15" xlink:type="simple">10.11519/jjfs1953.68.1_15</ext-link></mixed-citation>
+</ref>
+<ref id="R000020">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ishiguro</surname>, <given-names>H.</given-names></string-name> &amp; <string-name><surname>Aikawa</surname>, <given-names>T.</given-names></string-name></person-group> (<date><year>2016</year></date>). [<article-title>Invasion of <italic>Bursaphelenchus xylophilus</italic> into dead <italic>Pinus densiflora</italic> tree through oviposition wounds made by <italic>Monochamus alternatus</italic></article-title>.] <source>Journal of the Japanese Forest Society</source> <volume>98</volume>, <fpage>124</fpage>-<lpage>127</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.4005/jjfs.98.124" xlink:type="simple">10.4005/jjfs.98.124</ext-link></mixed-citation>
+</ref>
+<ref id="R000021">
+<mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Iwata</surname>, <given-names>R.</given-names></string-name></person-group> (<date><year>1992</year></date>). [<chapter-title>Genus <italic>Monochamus</italic> Guérin-Méneville</chapter-title>.] In: <person-group person-group-type="editor"><string-name><surname>Ohbayashi</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Sato</surname>, <given-names>M.</given-names></string-name> &amp; <string-name><surname>Kojima</surname>, <given-names>K.</given-names></string-name></person-group> (Eds). <source>An illustrated guide to identification of longicorn beetles of Japan</source>. <publisher-loc>Tokyo, Japan</publisher-loc>, <publisher-name>Tokai University Press</publisher-name>, pp. <fpage>579</fpage>-<lpage>583</lpage>.</mixed-citation>
+</ref>
+<ref id="R000022">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Jikumaru</surname>, <given-names>S.</given-names></string-name> &amp; <string-name><surname>Togashi</surname>, <given-names>K.</given-names></string-name></person-group> (<date><year>1995</year></date>). <article-title>A weak deleterious effect of the avirulent pinewood nematode, <italic>Bursaphelenchus mucronatus</italic> (Nematoda: Aphelenchoididae), on the longevity of its vector, <italic>Monochamus saltuarius</italic> (Coleoptera: Cerambycidae)</article-title>. <source>Applied Entomology and Zoology</source> <volume>30</volume>, <fpage>9</fpage>-<lpage>16</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1303/aez.30.9" xlink:type="simple">10.1303/aez.30.9</ext-link></mixed-citation>
+</ref>
+<ref id="R000023">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Jikumaru</surname>, <given-names>S.</given-names></string-name> &amp; <string-name><surname>Togashi</surname>, <given-names>K.</given-names></string-name></person-group> (<date><year>2001</year></date>). <article-title>Transmission of <italic>Bursaphelenchus mucronatus</italic> (Nematoda: Aphelenchoididae) through feeding wounds by <italic>Monochamus saltuarius</italic> (Coleoptera: Cerambycidae)</article-title>. <source>Nematology</source> <volume>3</volume>, <fpage>325</fpage>-<lpage>333</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/156854101317020240" xlink:type="simple">10.1163/156854101317020240</ext-link></mixed-citation>
+</ref>
+<ref id="R000024">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kanzaki</surname>, <given-names>N.</given-names></string-name> &amp; <string-name><surname>Futai</surname>, <given-names>K.</given-names></string-name></person-group> (<date><year>2006</year></date>). <article-title>Is <italic>Bursaphelenchus mucronatus</italic> a weak pathogen to the Japanese red pine?</article-title> <source>Nematology</source> <volume>8</volume>, <fpage>485</fpage>-<lpage>489</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/156854106778613994" xlink:type="simple">10.1163/156854106778613994</ext-link></mixed-citation>
+</ref>
+<ref id="R000025">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kanzaki</surname>, <given-names>N.</given-names></string-name> &amp; <string-name><surname>Giblin-Davis</surname>, <given-names>R.M.</given-names></string-name></person-group> (<date><year>2018</year></date>). <article-title>Diversity and plant pathogenicity of <italic>Bursaphelenchus</italic> and related nematodes in relation to their vector bionomics</article-title>. <source>Current Forestry Reports</source> <volume>4</volume>, <fpage>85</fpage>-<lpage>100</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1007/s40725-018-0074-7" xlink:type="simple">10.1007/s40725-018-0074-7</ext-link></mixed-citation>
+</ref>
+<ref id="R000026">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kanzaki</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Giblin-Davis</surname>, <given-names>R.M.</given-names></string-name>, <string-name><surname>Cardoza</surname>, <given-names>Y.J.</given-names></string-name>, <string-name><surname>Ye</surname>, <given-names>W.</given-names></string-name>, <string-name><surname>Raffa</surname>, <given-names>K.F.</given-names></string-name> &amp; <string-name><surname>Center</surname>, <given-names>B.J.</given-names></string-name></person-group> (<date><year>2008</year></date>). <article-title><italic>Bursaphelenchus rufipennis</italic> n. sp. (Nematoda: Parasitaphelenchinae) and redescription of <italic>Ektaphelenchus obtusus</italic> (Nematoda: Ektaphelenchinae), associates from nematangia on the hind wings of <italic>Dendroctonus rufipennis</italic> (Coleoptera: Scolytidae)</article-title>. <source>Nematology</source> <volume>10</volume>, <fpage>925</fpage>-<lpage>955</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/156854108786161517" xlink:type="simple">10.1163/156854108786161517</ext-link></mixed-citation>
+</ref>
+<ref id="R000027">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kanzaki</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Kawaguchi</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Aikawa</surname>, <given-names>T.</given-names></string-name> &amp; <string-name><surname>Maehara</surname>, <given-names>N.</given-names></string-name></person-group> (<date><year>2010</year></date>). <article-title>On <italic>Bursaphelenchus yongensis</italic> Gu, Braasch, Burgermeister, Brandstetter &amp; Zhang, 2006 in Japan</article-title>. <source>Nematology</source> <volume>12</volume>, <fpage>803</fpage>-<lpage>806</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/138855410X499067" xlink:type="simple">10.1163/138855410X499067</ext-link></mixed-citation>
+</ref>
+<ref id="R000028">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kanzaki</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Tanaka</surname>, <given-names>R.</given-names></string-name> &amp; <string-name><surname>Sahashi</surname>, <given-names>N.</given-names></string-name></person-group> (<date><year>2012</year></date>). <article-title>Mortality of shaded pine trees inoculated with virulent and less-virulent isolates of pine wood nematodes</article-title>. <source>Environmental Entomology</source> <volume>41</volume>, <fpage>828</fpage>-<lpage>832</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1603/EN12031" xlink:type="simple">10.1603/EN12031</ext-link></mixed-citation>
+</ref>
+<ref id="R000029">
+<mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Kishi</surname>, <given-names>Y.</given-names></string-name></person-group> (<date><year>1995</year></date>). <source>The pine wood nematode and the Japanese pine sawyer</source>. <publisher-loc>Tokyo, Japan</publisher-loc>, <publisher-name>Thomas Company Limited</publisher-name>.</mixed-citation>
+</ref>
+<ref id="R000030">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kiyohara</surname>, <given-names>T.</given-names></string-name> &amp; <string-name><surname>Tokushige</surname>, <given-names>Y.</given-names></string-name></person-group> (<date><year>1971</year></date>). [<article-title>Inoculation experiments of a nematode, <italic>Bursaphelenchus</italic> sp., onto pine trees</article-title>.] <source>Journal of the Japanese Forestry Society</source> <volume>53</volume>, <fpage>210</fpage>-<lpage>218</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.11519/jjfs1953.53.7_210" xlink:type="simple">10.11519/jjfs1953.53.7_210</ext-link></mixed-citation>
+</ref>
+<ref id="R000031">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kobayashi</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Yamane</surname>, <given-names>A.</given-names></string-name> &amp; <string-name><surname>Ikeda</surname>, <given-names>T.</given-names></string-name></person-group> (<date><year>1984</year></date>). <article-title>The Japanese pine sawyer beetle as the vector of pine wilt disease</article-title>. <source>Annual Review of Entomology</source> <volume>29</volume>, <fpage>115</fpage>-<lpage>135</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1146/annurev.en.29.010184.000555" xlink:type="simple">10.1146/annurev.en.29.010184.000555</ext-link></mixed-citation>
+</ref>
+<ref id="R000032">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Linit</surname>, <given-names>M.J.</given-names></string-name></person-group> (<date><year>1988</year></date>). <article-title>Nematode-vector relationships in the pine wilt disease system</article-title>. <source>Journal of Nematology</source> <volume>20</volume>, <fpage>227</fpage>-<lpage>235</lpage>.</mixed-citation>
+</ref>
+<ref id="R000033">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Linit</surname>, <given-names>M.J.</given-names></string-name></person-group> (<date><year>1990</year></date>). <article-title>Transmission of pinewood nematode through feeding wounds of <italic>Monochamus carolinensis</italic> (Coleoptera: Cerambycidae)</article-title>. <source>Journal of Nematology</source> <volume>22</volume>, <fpage>231</fpage>-<lpage>236</lpage>.</mixed-citation>
+</ref>
+<ref id="R000034">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Maehara</surname>, <given-names>N.</given-names></string-name> &amp; <string-name><surname>Futai</surname>, <given-names>K.</given-names></string-name></person-group> (<date><year>2001</year></date>). <article-title>Presence of the cerambycid beetles <italic>Psacothea hilaris</italic> and <italic>Monochamus alternatus</italic> affecting the life cycle strategy of <italic>Bursaphelenchus xylophilus</italic></article-title>. <source>Nematology</source> <volume>3</volume>, <fpage>455</fpage>-<lpage>461</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/156854101753250782" xlink:type="simple">10.1163/156854101753250782</ext-link></mixed-citation>
+</ref>
+<ref id="R000035">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Mamiya</surname>, <given-names>Y.</given-names></string-name></person-group> (<date><year>1983</year></date>). <article-title>Pathology of the pine wilt disease caused by <italic>Bursaphelenchus xylophilus</italic></article-title>. <source>Annual Review of Phytopathology</source> <volume>21</volume>, <fpage>201</fpage>-<lpage>220</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1146/annurev.py.21.090183.001221" xlink:type="simple">10.1146/annurev.py.21.090183.001221</ext-link></mixed-citation>
+</ref>
+<ref id="R000036">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Mamiya</surname>, <given-names>Y.</given-names></string-name> &amp; <string-name><surname>Enda</surname>, <given-names>N.</given-names></string-name></person-group> (<date><year>1972</year></date>). <article-title>Transmission of <italic>Bursaphelenchus lignicolus</italic> (Nematoda: Aphelenchoididae) by <italic>Monochamus alternatus</italic> (Coleoptera: Cerambycidae)</article-title>. <source>Nematologica</source> <volume>18</volume>, <fpage>159</fpage>-<lpage>162</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/187529272X00395" xlink:type="simple">10.1163/187529272X00395</ext-link></mixed-citation>
+</ref>
+<ref id="R000037">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Mamiya</surname>, <given-names>Y.</given-names></string-name> &amp; <string-name><surname>Enda</surname>, <given-names>N.</given-names></string-name></person-group> (<date><year>1979</year></date>). <article-title><italic>Bursaphelenchus mucronatus</italic> n. sp. (Nematoda: Aphelenchoididae) from pine wood and its biology and pathogenicity to pine trees</article-title>. <source>Nematologica</source> <volume>25</volume>, <fpage>353</fpage>-<lpage>361</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/187529279X00091" xlink:type="simple">10.1163/187529279X00091</ext-link></mixed-citation>
+</ref>
+<ref id="R000038">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Matsunaga</surname>, <given-names>K.</given-names></string-name> &amp; <string-name><surname>Togashi</surname>, <given-names>K.</given-names></string-name></person-group> (<date><year>2004</year></date>). <article-title>A simple method for discriminating <italic>Bursaphelenchus xylophilus</italic> and <italic>B. mucronatus</italic> by species-specific polymerase chain reaction primer pairs</article-title>. <source>Nematology</source> <volume>6</volume>, <fpage>273</fpage>-<lpage>277</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/1568541041217960" xlink:type="simple">10.1163/1568541041217960</ext-link></mixed-citation>
+</ref>
+<ref id="R000039">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Morimoto</surname>, <given-names>K.</given-names></string-name> &amp; <string-name><surname>Iwasaki</surname>, <given-names>A.</given-names></string-name></person-group> (<date><year>1972</year></date>). [<article-title>Role of <italic>Monochamus alternatus</italic> (Coleoptera: Cerambycidae) as a vector of <italic>Bursaphelenchus lignicolus</italic> (Nematoda: Aphelenchoididae)</article-title>.] <source>Journal of the Japanese Forestry Society</source> <volume>54</volume>, <fpage>177</fpage>-<lpage>183</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.11519/jjfs1953.54.6_177" xlink:type="simple">10.11519/jjfs1953.54.6_177</ext-link></mixed-citation>
+</ref>
+<ref id="R000040">
+<mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Naves</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Bonifacio</surname>, <given-names>L.</given-names></string-name> &amp; <string-name><surname>Sousa</surname>, <given-names>E.</given-names></string-name></person-group> (<date><year>2015</year></date>). <chapter-title>Nematode-vector</chapter-title>. In: <person-group person-group-type="editor"><string-name><surname>Sousa</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Vale</surname>, <given-names>F.</given-names></string-name> &amp; <string-name><surname>Abrantes</surname>, <given-names>I.</given-names></string-name></person-group> (Eds). <source>Pine wilt disease in Europe: biological interactions and integrated management</source>. <publisher-loc>Lisbon, Portugal</publisher-loc>, <publisher-name>Federação Nacional das Associações de Proprietários Florestais</publisher-name>, pp. <fpage>81</fpage>-<lpage>121</lpage>.</mixed-citation>
+</ref>
+<ref id="R000041">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ryss</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Vieira</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Mota</surname>, <given-names>M.</given-names></string-name> &amp; <string-name><surname>Kulinich</surname>, <given-names>O.</given-names></string-name></person-group> (<date><year>2005</year></date>). <article-title>A synopsis of the genus <italic>Bursaphelenchus</italic> Fuchs, 1937 (Aphelenchida: Parasitaphelenchidae) with keys to species</article-title>. <source>Nematology</source> <volume>7</volume>, <fpage>393</fpage>-<lpage>458</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/156854105774355581" xlink:type="simple">10.1163/156854105774355581</ext-link></mixed-citation>
+</ref>
+<ref id="R000042">
+<mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Saito</surname>, <given-names>S.</given-names></string-name> &amp; <string-name><surname>Saito</surname>, <given-names>A.</given-names></string-name></person-group> (<date><year>1992</year></date>). [<chapter-title>Morphology of male and female genitalia</chapter-title>.] In: <person-group person-group-type="editor"><string-name><surname>Ohbayashi</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Sato</surname>, <given-names>M.</given-names></string-name> &amp; <string-name><surname>Kojima</surname>, <given-names>K.</given-names></string-name></person-group> (Eds). <source>An illustrated guide to identification of longicorn beetles of Japan</source>. <publisher-loc>Tokyo, Japan</publisher-loc>, <publisher-name>Tokai University Press</publisher-name>, pp. <fpage>71</fpage>-<lpage>74</lpage>.</mixed-citation>
+</ref>
+<ref id="R000043">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Sato</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Sakuyama</surname>, <given-names>T.</given-names></string-name> &amp; <string-name><surname>Kobayashi</surname>, <given-names>M.</given-names></string-name></person-group> (<date><year>1987</year></date>). [<article-title>Transmission of <italic>Bursaphelenchus xylophilus</italic> (Steiner et Buhrer) Nickle (Nematoda, Aphelenchoididae) by <italic>Monochamus saltuarius</italic> (Gebler) (Coleoptera, Cerambycidae)</article-title>.] <source>Journal of the Japanese Forestry Society</source> <volume>69</volume>, <fpage>492</fpage>-<lpage>496</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.11519/jjfs1953.69.12_492" xlink:type="simple">10.11519/jjfs1953.69.12_492</ext-link></mixed-citation>
+</ref>
+<ref id="R000044">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Schroeder</surname>, <given-names>L.M.</given-names></string-name> &amp; <string-name><surname>Magnusson</surname>, <given-names>C.</given-names></string-name></person-group> (<date><year>1992</year></date>). <article-title>Transmission of <italic>Bursaphelenchus mucronatus</italic> (Nematoda) to branches and bolts of <italic>Pinus sylvestris</italic> and <italic>Picea abies</italic> by the cerambycid beetle <italic>Monochamus sutor</italic></article-title>. <source>Scandinavian Journal of Forest Research</source> <volume>7</volume>, <fpage>107</fpage>-<lpage>112</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1080/02827589209382702" xlink:type="simple">10.1080/02827589209382702</ext-link></mixed-citation>
+</ref>
+<ref id="R000045">
+<mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Shin</surname>, <given-names>S.-C.</given-names></string-name></person-group> (<date><year>2008</year></date>). <chapter-title>Pine wilt disease in Korea</chapter-title>. In: <person-group person-group-type="editor"><string-name><surname>Zhao</surname>, <given-names>B.G.</given-names></string-name>, <string-name><surname>Futai</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Sutherland</surname>, <given-names>J.R.</given-names></string-name> &amp; <string-name><surname>Takeuchi</surname>, <given-names>Y.</given-names></string-name></person-group> (Eds). <source>Pine wilt disease</source>. <publisher-loc>Tokyo, Japan</publisher-loc>, <publisher-name>Springer</publisher-name>, pp. <fpage>26</fpage>-<lpage>32</lpage>.</mixed-citation>
+</ref>
+<ref id="R000046">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Taketsune</surname>, <given-names>A.</given-names></string-name></person-group> (<date><year>1992</year></date>). [<article-title>Distribution and ecology of <italic>Monochamus saltuarius</italic> Gebler (Coleoptera, Cerambycidae) in northern part of Hiroshima Prefecture (II). The disease development of pine trees and the parasitism of <italic>M. saltuarius</italic> containing the pine wood nematode</article-title>.] <source>Transactions of the Kansai Branch of the Japanese Forestry Society</source> <volume>1</volume>, <fpage>273</fpage>-<lpage>275</lpage>.</mixed-citation>
+</ref>
+<ref id="R000047">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Tanaka</surname>, <given-names>S.E.</given-names></string-name>, <string-name><surname>Tanaka</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Akiba</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Aikawa</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Maehara</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Takeuchi</surname>, <given-names>Y.</given-names></string-name> &amp; <string-name><surname>Kanzaki</surname>, <given-names>N.</given-names></string-name></person-group> (<date><year>2014</year></date>). <article-title><italic>Bursaphelenchus niphades</italic> n. sp. (Tylenchina: Aphelenchoididae) amensally associated with <italic>Niphades variegatus</italic> (Roelofs) (Coleoptera: Curculionidae)</article-title>. <source>Nematology</source> <volume>16</volume>, <fpage>259</fpage>-<lpage>281</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/15685411-00002763" xlink:type="simple">10.1163/15685411-00002763</ext-link></mixed-citation>
+</ref>
+<ref id="R000048">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Tomalak</surname>, <given-names>M.</given-names></string-name> &amp; <string-name><surname>Filipiak</surname>, <given-names>A.</given-names></string-name></person-group> (<date><year>2019</year></date>). <article-title><italic>Bursaphelenchus michalskii</italic> sp. n. (Nematoda: Aphelenchoididae), a nematode associate of the large elm bark beetle, <italic>Scolytus scolytus</italic> Fabr. (Coleoptera: Curculionidae), in Dutch elm disease-affected elm, <italic>Ulmus laevis</italic> Pall</article-title>. <source>Nematology</source> <volume>21</volume>, <fpage>301</fpage>-<lpage>318</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1163/15685411-00003215" xlink:type="simple">10.1163/15685411-00003215</ext-link></mixed-citation>
+</ref>
+<ref id="R000049">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Wingfield</surname>, <given-names>M.J.</given-names></string-name></person-group> (<date><year>1983</year></date>). <article-title>Transmission of pine wood nematode to cut timber and girdled trees</article-title>. <source>Plant Disease</source> <volume>67</volume>, <fpage>35</fpage>-<lpage>37</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1094/PD-67-35" xlink:type="simple">10.1094/PD-67-35</ext-link></mixed-citation>
+</ref>
+<ref id="R000050">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Wingfield</surname>, <given-names>M.J.</given-names></string-name> &amp; <string-name><surname>Blanchette</surname>, <given-names>R.A.</given-names></string-name></person-group> (<date><year>1983</year></date>). <article-title>The pine wood nematode, <italic>Bursaphelenchus xylophilus</italic> in Minnesota and Wisconsin: insect associates and transmission studies</article-title>. <source>Canadian Journal of Forest Research</source> <volume>13</volume>, <fpage>1068</fpage>-<lpage>1076</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.1139/x83-143" xlink:type="simple">10.1139/x83-143</ext-link></mixed-citation>
+</ref>
+<ref id="R000051">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Yamasaki</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Hata</surname>, <given-names>K.</given-names></string-name> &amp; <string-name><surname>Okamoto</surname>, <given-names>H.</given-names></string-name></person-group> (<date><year>1980</year></date>). [<article-title>Luring of Japanese pine sawyer <italic>Monochamus alternatus</italic> Hope by paraquat-treated pine trees (I). The effect of paraquat and ethephon on pine trees</article-title>.] <source>Journal of the Japanese Forestry Society</source> <volume>62</volume>, <fpage>99</fpage>-<lpage>102</lpage>. DOI: <ext-link ext-link-type="doi" xlink:href="10.11519/jjfs1953.62.3_99" xlink:type="simple">10.11519/jjfs1953.62.3_99</ext-link></mixed-citation>
+</ref>
+<ref id="R000052">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Yanagisawa</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Ozawa</surname>, <given-names>S.</given-names></string-name> &amp; <string-name><surname>Aikawa</surname>, <given-names>T.</given-names></string-name></person-group> (<date><year>2019</year></date>). [<article-title>Distribution and retention nematode species of <italic>Monochamus saltuarius</italic> in Nagano Prefecture</article-title>.] <source>Chubu Forestry Research</source> <volume>67</volume>, <fpage>49</fpage>-<lpage>50</lpage>.</mixed-citation>
+</ref>
+<ref id="R000053">
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Yoshida</surname>, <given-names>T.</given-names></string-name> &amp; <string-name><surname>Kondo</surname>, <given-names>S.</given-names></string-name></person-group> (<date><year>1991</year></date>). [<article-title>Ecology of <italic>Monochamus saltuarius</italic> in Kyoto Prefecture: emergence from pine-wilt damaged trees and transmission of the pinewood nematode by the adult insects</article-title>.] <source>Forest Pests</source> <volume>40</volume>, <fpage>102</fpage>-<lpage>106</lpage>.</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>

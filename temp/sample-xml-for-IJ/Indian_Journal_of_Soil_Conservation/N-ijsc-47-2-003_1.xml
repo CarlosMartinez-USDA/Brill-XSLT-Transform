@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Rainfall-runoff modelling using SWAT for Ong river basin</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Souranshu Prasad</namePart>
+      <namePart type="family">Sahoo</namePart>
+      <displayForm>Sahoo, Souranshu Prasad</displayForm>
+      <affiliation>Department of Farm Engineering, Institute of Agricultural Sciences, BHU, Varanasi, Uttar Pradesh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Anupam Kumar</namePart>
+      <namePart type="family">Nema</namePart>
+      <displayForm>Nema, Anupam Kumar</displayForm>
+      <affiliation>Department of Farm Engineering, Institute of Agricultural Sciences, BHU, Varanasi, Uttar Pradesh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Prabhash Kumar</namePart>
+      <namePart type="family">Mishra</namePart>
+      <displayForm>Mishra, Prabhash Kumar</displayForm>
+      <affiliation>Water Resources Systems Division, National Institute of Hydrology, Roorkee, Uttarakhand</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-08</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The Ong basin, covering major portions of western Odisha in India, has been repeatedly facing threats of hydro-meteorological calamities such as floods, droughts and cyclones in the recent times. In order to understand the different hydrological processes occurring in Ong basin, which covers about 5, 128 km² area with a very diverse hydrological variability, hydrological analysis of the basin has been carried out utilizing Soil and Water Assessment Tool (SWAT). Digital Elevation Model (DEM), soil map, land use (LU)/land cover (LC) map, climatic data, streamflow data etc. have been used. A total of 52 hydrologic response units (HRUs) were created in the 11 subbasins by applying 5% threshold value of both land use and slope and 10% in soil classes. The calibration process was carried out using SWAT-Calibration and Uncertainty Procedures (SWAT-CUP) tool with SUFI-2 algorithm. Observed monthly stream-flow data at Salebhata (only existing G&amp;D site) of the Ong basin for a period of 16 years (1983 to 1998) were given as input through auto calibration tool which gives Nash-Sutcliffe Efficiency (NSE) of 0.81, R² value 0.856, PBIAS of 16.55%, RSR value of 0.43. The validation was also carried out by using the monthly stream-flow data of 13 years (1999 to 2011) which gives NSE of 0.85, R² value 0.859, PBIAS of 10.07%, RSR value of 0.39 indicating a decent model performance. Sensitivity analysis was also performed using LH-OAT technique, and out of 10 calibrated parameters 3 parameters viz., effective hydraulic conductivity in main channel alluvium, initial SCS runoff curve number II, and available water capacity factor were found to be highly sensitive. Aclose observation of these sensitive parameters revealed that the flow characteristics of this area were affected by both surface water and groundwater flow properties. In uncertainty analysis, the P-factor was 0.36 and Rfactor was 0.27 for calibration and validation, so calibration and validation can be considered satisfactory for this study.</abstract>
+   <subject>
+      <topic>SWAT SWAT-CUP Rainfall-runoff modeling Sensitivity analysis Uncertainty analysis</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Soil Conservation</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Associations of Soil &amp; Water Conservationists</publisher>
+      </originInfo>
+      <identifier type="issn-p">0970-3349</identifier>
+      <identifier type="issn-e">0976-1721</identifier>
+      <identifier type="issn">0976-1721</identifier>
+      <part>
+         <detail type="volume">
+            <number>47</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">08</text>
+         <extent unit="pages">
+            <start>126</start>
+            <end>133</end>
+            <total>8</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijsc-47-2-003</identifier>
+   <extension>
+      <archiveFile>ijsc-47-2-003</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/ijsc-47-2-003.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/</workingDirectory>
+   </extension>
+</mods>

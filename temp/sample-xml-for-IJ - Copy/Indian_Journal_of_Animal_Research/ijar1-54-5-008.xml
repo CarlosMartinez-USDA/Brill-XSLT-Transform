@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJAR1</journal-id>
+      <journal-title>Indian Journal of Animal Research</journal-title>
+      <issn pub-type="ppub">0367-6722</issn>
+      <issn pub-type="epub">0976-0555</issn>
+      <publisher>
+        <publisher-name>Agricultural Research Communication Centre</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijar1-54-5-008</article-id>
+      <doi-group>
+        <article-doi>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.18805/ijar.B-3814">10.18805/ijar.B-3814</ext-link>
+        </article-doi>
+      </doi-group>
+      <article-categories>
+        <subj-group>
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Effect of biofilm of <italic>Aeromonas hydrophila</italic> oral vaccine on growth performance and histopathological changes in various tissues of striped catfish, <italic>Pangasianodon hypophthalmus</italic> (sauvage 1878)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mamun</surname>
+            <given-names>M.A.A.</given-names>
+          </name>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nasren</surname>
+            <given-names>S.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Abhiman</surname>
+            <given-names>P.B.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rathore</surname>
+            <given-names>S.S.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sowndarya</surname>
+            <given-names>N.S.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ramesh</surname>
+            <given-names>K.S.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shankar</surname>
+            <given-names>K.M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <deptname>Laboratory of Aquatic Animal Health Management, Department of Aquaculture</deptname>, <instname>College of Fisheries</instname>, <instparent>Karnataka Veterinary Animal and Fisheries Science University</instparent>, <instcity>Mangalore</instcity>-<instpincode>575 002</instpincode>, <inststate>Karnataka</inststate>, <instcountry>India</instcountry></aff>
+      <aff id="aff001">
+        <sup>1</sup>
+        <instname>Veterinary College</instname>, <instparent>Karnataka Veterinary Animal and Fisheries Science University</instparent>, <instcity>Shivamogga</instcity>-<instpincode>577 204</instpincode>, <inststate>Karnataka</inststate>, <instcountry>India</instcountry></aff>
+      <author-notes>
+        <corresp id="cor001">* Corresponding Author: M.A.A. Mamun, <deptname>Laboratory of Aquatic Animal Health Management, Department of Aquaculture</deptname>, <instname>College of Fisheries</instname>, <instparent>Karnataka Veterinary Animal and Fisheries Science University</instparent>, <instcity>Mangalore</instcity>-<instpincode>575 002</instpincode>, <inststate>Karnataka</inststate>, <instcountry>India</instcountry>, Email: <email>mamunff@gmail.com</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 30 June, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>5</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>54</volume>
+      <issue>5</issue>
+      <fpage>563</fpage>
+      <lpage>569</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>Biofilm of <italic>Aeromonas hydrophila</italic> oral vaccine was evaluated on growth and histopathological features of striped catfish, <italic>Pangasianodon hypophthalmus</italic>. Fish were fed with feed incorporating biofilm (BF) or free cell (FC) of <italic>A. hydrophila</italic> vaccine at 1010 cells/fish/day for 20 days and basal feed for 60 days. From 30th day onwards, till end of the trial, the mean weight gain (g/fish) was significantly higher (P&lt;0.05) in BF treated group than both FC and control group. At the end of the study, histopathological changes in gills, liver and kidney were evaluated using haematoxylin eosin technique. The histopathological findings, in BF fed <italic>P. hypophthalmus</italic>, showed normal architechture of the gills, liver and kidney. However, fishes fed on FC and control group, resulted several histopathological abnormalities in all the organs.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>
+          <italic>Aeromonas hydrophila</italic>
+        </kwd>
+        <kwd>Biofilm based oral vaccines</kwd>
+        <kwd>Growth</kwd>
+        <kwd>Histopathology</kwd>
+        <kwd>Striped catfish</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="7" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

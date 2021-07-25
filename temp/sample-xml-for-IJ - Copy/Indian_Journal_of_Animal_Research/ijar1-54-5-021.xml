@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJAR1</journal-id>
+      <journal-title>Indian Journal of Animal Research</journal-title>
+      <issn pub-type="ppub">0367-6722</issn>
+      <issn pub-type="epub">0976-0555</issn>
+      <publisher>
+        <publisher-name>Agricultural Research Communication Centre</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijar1-54-5-021</article-id>
+      <doi-group>
+        <article-doi>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.18805/ijar.B-1034">10.18805/ijar.B-1034</ext-link>
+        </article-doi>
+      </doi-group>
+      <article-categories>
+        <subj-group>
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Influence of breed on behavioral preferences of pigs</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhuchaev</surname>
+            <given-names>K.V.</given-names>
+          </name>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Suetov</surname>
+            <given-names>N.V.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kaufmann</surname>
+            <given-names>O.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kochneva</surname>
+            <given-names>M.L.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <instname>Novosibirsk State Agrarian University</instname>, <instcity>Novosibirsk</instcity>, <instpincode>630039</instpincode>, <instaddress>Russian Federation</instaddress>, <instcountry>Russia</instcountry></aff>
+      <aff id="aff001">
+        <sup>1</sup>
+        <instname>Humboldt University</instname>, <instcity>Berlin</instcity>, <instpincode>10099</instpincode>, <instcountry>Germany</instcountry></aff>
+      <author-notes>
+        <corresp id="cor001">* Corresponding Author: K.V. Zhuchaev, <instname>Novosibirsk State Agrarian University</instname>, <instcity>Novosibirsk</instcity>, <instpincode>630039</instpincode>, <instaddress>Russian Federation</instaddress>, <instcountry>Russia</instcountry> Email: <email>zhuchaev-kv@mail.ru</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 30 June, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>5</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>54</volume>
+      <issue>5</issue>
+      <fpage>642</fpage>
+      <lpage>646</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>Behavioral preferences of Duroc and Pietrain piglets aged 2.5 - 5.5 months were explored. An experimental ground equipped with different types of toys for stimulation of play behavior was established, which piglets could access at any time. No significant differences were observed in the piglets’ activity related to consumption of food and water. The statistical data showed that social activity of Duroc piglets was significantly higher than that of Pietrain breed as they were more aggressive and initiated fights. However, with time (i.e. at the end of the experiment) the aggression level went down due to settlement of hierarchical relations among the piglets and introduction of toys to stimulate play behaviour. No significant differences were observed in frequencies of piglets’ visitation to the experimental ground and duration of their stay in it. The piglets preferred toys allowing for digging activity. Overall, Duroc piglets engaged with various play motivators significantly more than those of Pietrain breed.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Activity</kwd>
+        <kwd>Behavioral preferences</kwd>
+        <kwd>Pig</kwd>
+        <kwd>Play motivation</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="5" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

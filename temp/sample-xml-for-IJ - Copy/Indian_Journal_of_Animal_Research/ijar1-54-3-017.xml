@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJAR1</journal-id>
+      <journal-title>Indian Journal of Animal Research</journal-title>
+      <issn pub-type="ppub">0367-6722</issn>
+      <issn pub-type="epub">0976-0555</issn>
+      <publisher>
+        <publisher-name>Agricultural Research Communication Centre</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijar1-54-3-017</article-id>
+      <doi-group>
+        <article-doi>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.18805/ijar.B-960">10.18805/ijar.B-960</ext-link>
+        </article-doi>
+      </doi-group>
+      <article-categories>
+        <subj-group>
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Hepatorenal arterial resistive and pulsatility indexes in dogs with ascites</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gonul</surname>
+            <given-names>Remzi</given-names>
+          </name>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Koenhemsi</surname>
+            <given-names>Lora</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bayrakal</surname>
+            <given-names>Alper</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yildiz</surname>
+            <given-names>Kutay</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bahceci</surname>
+            <given-names>Taner</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Or</surname>
+            <given-names>Mehmet Erman</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Uysal</surname>
+            <given-names>Abdülkadir</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <instname>Istanbul University</instname>, <deptname>Faculty of Veterinary Medicine, Department of Internal Medicine</deptname>, <instpincode>34890</instpincode>, <instaddress>Avcilar</instaddress>, <instcity>Istanbul</instcity>, <instcountry>Turkey</instcountry></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding Author: Remzi Gonul, <instname>Istanbul University</instname>, <deptname>Faculty of Veterinary Medicine, Department of Internal Medicine</deptname>, <instpincode>34890</instpincode>, <instaddress>Avcilar</instaddress>, <instcity>Istanbul</instcity>, <instcountry>Turkey</instcountry>. Email: <email>remzigonul@gmail.com</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 8 April, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>3</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>54</volume>
+      <issue>3</issue>
+      <fpage>359</fpage>
+      <lpage>362</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>Ascites is one of the complications in cirrhosis. Prognosis depends on systemic hemodynamics. This study was designed for determination of the liver and kidney hemodynamics in dogs with ascites via Doppler Ultrasonography (USG). 20 dogs with ascites and 10 healthy dogs were included. CBC, biochemical profile, USG and Doppler measurement were taken. Increased hepatic and renal RI and PI were statistically significant (p&lt;0, 01-0, 001). There were positive correlations between ALP and hepatic PI, between urea and renal RI, negative correlations between ALP and renal RI, between creatinine and hepatic and renal PI values (p&lt;0, 05-0, 01). In conclusion, liver and kidney Doppler findings will help determination of the prognosis and implementation of effective treatment.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Ascites</kwd>
+        <kwd>Dog</kwd>
+        <kwd>Pulsatility index</kwd>
+        <kwd>Resistive index</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="4" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

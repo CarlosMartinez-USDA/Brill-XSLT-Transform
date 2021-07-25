@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Predicting Total Digestible Nutrient Losses From Heat Damaged Hays and Haylages with NIR</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Yan, Rong</namePart>
+    <displayForm>Yan, Rong</displayForm>
+  </name>
+  <name type="personal">
+    <namePart>Undersander, Dan</namePart>
+    <displayForm>Undersander, Dan</displayForm>
+  </name>
+  <name type="personal">
+    <namePart>Coblentz, Wayne</namePart>
+    <displayForm>Coblentz, Wayne</displayForm>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="">Internet resource-AgSpace</genre>
+  <originInfo>
+    <dateIssued encoding="marc">2011</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <form authority="gmd">electronic resource</form>
+    <extent>5 p.</extent>
+  </physicalDescription>
+  <abstract>During the storage of hay or haylage, heating damage may occur and lead to losses of available protein and digestible nutrients. The objectives of this study were to establish a near-infrared reflectance spectroscopy (NIRS) model to estimate losses of total digestible nutrients (TDN) caused by heating damage during storage, to test the model on farmer samples obtained from commercial forage testing laboratories, and then to determine the frequency with which significant losses of TDN occurred within these producer samples.</abstract>
+  <note type="bibliography">Includes references</note>
+  <subject authority="atg">
+    <topic>nutritive value</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>hay</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>haylage</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>temperature</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>postharvest losses</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>nutrients</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>storage conditions</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>frequency</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>sampling</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>near-infrared reflectance spectroscopy</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>digestible protein</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>models</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>estimation</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>prediction</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>model validation</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>calibration</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>heat injury</topic>
+  </subject>
+  <subject>
+    <topic>total digestible nutrients</topic>
+  </subject>
+  <subject authority="agricola">
+    <topic>R100</topic>
+  </subject>
+  <subject authority="agricola">
+    <topic>R300</topic>
+  </subject>
+  <location>
+    <physicalLocation>DNAL</physicalLocation>
+    <shelfLocator>SF84.82 .F67</shelfLocator>
+  </location>
+  <location>
+    <url displayLabel="Available in NAL's Digital Repository">http://hdl.handle.net/10113/49771</url>
+  </location>
+  <location>
+    <url displayLabel="Available from publisher's Web site" usage="primary">http://dx.doi.org/10.1094/FG-2011-0208-01-RS</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Forage and grazinglands</title>
+    </titleInfo>
+    <identifier type="issn">1547-4631</identifier>
+    <part>
+      <text>2011</text>
+    </part>
+  </relatedItem>
+  <identifier type="control">4590326</identifier>
+  <identifier type="agricola">IND44590326</identifier>
+  <extension>
+    <submissionSource>USDA/ARS</submissionSource>
+    <note type="saleTape">20110802 20110902 00000000</note>
+    <note type="indexer">IND LYN 2011/07/29</note>
+    <note type="publicationSource">Other US</note>
+  </extension>
+  <recordInfo>
+    <recordContentSource authority="marcorg">AGL</recordContentSource>
+    <recordCreationDate encoding="marc">110616</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20110902212029.0</recordChangeDate>
+    <recordIdentifier>4590326</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.95 2014/04/23)</recordOrigin>
+  </recordInfo>
+</mods>

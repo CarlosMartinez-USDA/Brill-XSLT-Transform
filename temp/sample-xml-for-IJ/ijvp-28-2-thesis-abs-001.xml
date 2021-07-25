@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.1">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">ijvp</journal-id>
+      <journal-id journal-id-type="nlm-ta">ijvp</journal-id>
+      <journal-id journal-id-type="publisher-id">ijvp</journal-id>
+      <journal-title-group>
+        <journal-title>Indian Journal of Veterinary Pathology</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0250-4758</issn>
+      <issn pub-type="epub">0973-970X</issn>
+      <publisher>
+        <publisher-name>Indian Association of Veterinary Pathologists</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijvp-28-2-thesis-abs-001</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>THESIS ABSTRCT</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Immune response of broiler chicks to Ranikhet disease vaccine under single vaccination strategies and immunomodulation.</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="author-1">
+          <name>
+            <surname>Basu</surname>
+            <given-names>S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib id="author-2">
+          <name>
+            <surname>Singh</surname>
+            <given-names>S.D.</given-names>
+          </name>
+          <role>Dr.</role>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <sup>1</sup>Degree/Year: M.V.Sc./2001 College/University: <instname>Deemed University, Indan Veterinary Research Institute</instname>, <instcity>Izatnagar</instcity></aff>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2004-12-1">
+        <day>1</day>
+        <month>12</month>
+        <year iso-8601-date="2004">2004</year>
+      </pub-date>
+      <volume>28</volume>
+      <issue>2</issue>
+      <fpage>146</fpage>
+      <lpage>146</lpage>
+      <permissions>
+        <copyright-statement>© IndianJournals.com</copyright-statement>
+        <copyright-year>2004</copyright-year>
+        <copyright-holder>IndianJournals.com</copyright-holder>
+      </permissions>
+      <self-uri content-type="pdf" href="ijvp-28-2-thesis-abs-001" />
+      <counts>
+        <fig-count count="0" />
+        <table-count count="0" />
+        <ref-count count="0" />
+        <page-count count="1" />
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <p>Immune response of broiler-chickens to Ranikhet disease vaccines was studied under single vaccination strategies with Live (RDF), Live (RDF)-in-oil and Live (RDF) + Killed (R<sub>2</sub>B)-in-oil vaccines alongwith two promising immunomodulators, i.e. Levamisole and Stresroak (a herbal product).</p>
+    <p>The efficacy of these 3 vaccines was assessed at different time intervals following vaccination at day 7 by determining humoral and cellular immune responses, protection indices, pathological and histopathological changes in tissues of vaccine groups following challenge and refractivity of tissues to virus multiplications.</p>
+    <p>Humoral immune response, as monitored by HI- and ELISA revealed the superiority of Live (RDF)-in-oil and Live (RDF)+Killed (R<sub>2</sub>B) in-oil vaccines compared to Live RDF vaccine groups in terms of consistently higher and longlasting antibody levels. In cellular immune response as analyzed by lymphocyte proliferation assay and delayed type hypersensitivity reaction with skin reactive factor, all the vaccinated groups showed better response compared to the control group suggesting involvement of CMI in RD vaccination. Here also, better CMI response was recorded from oiladjuvanted groups. Levamisole and Stresroak were found to enhance both the humoral and CMI response compared to ‘vaccine alone’ groups.</p>
+    <p>On challenge, the live RDF vaccine groups with inmmunomodulators protected the birds completely at 4 week of vaccination but not satisfactorily till marketing (6–8 weeks of age). While the oil-adjuvanted vaccines offered a complete protection against virulent RD virus till 8 week of age and also revealed a satisfactory refractivity to multiplication of virulent virus in the birds. Among the oil-adjuvanted groups, ‘Live (RDF)-in-oil vaccine alone’, because of its less virus content per dose and economy of production, appeared best choice for single vaccination strategy against Ranikhet disease.</p>
+  </body>
+</article>

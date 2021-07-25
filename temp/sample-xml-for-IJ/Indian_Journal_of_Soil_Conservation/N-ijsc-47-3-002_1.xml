@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Assessment of groundwater quality for irrigation and drinking purpose in Jaisamand catchment using geographical information system</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Pravin</namePart>
+      <namePart type="family">Dahiphale</namePart>
+      <displayForm>Dahiphale, Pravin</displayForm>
+      <affiliation>Lovely Professional University, Phagwara-144411, Punjab</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">P.K.</namePart>
+      <namePart type="family">Singh</namePart>
+      <displayForm>Singh, P.K.</displayForm>
+      <affiliation>College of Technology and Engineering, Maharana Pratap University of Agriculture and Technology, Udaipur-313001, Rajasthan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">K.K.</namePart>
+      <namePart type="family">Yadav</namePart>
+      <displayForm>Yadav, K.K.</displayForm>
+      <affiliation>College of Technology and Engineering, Maharana Pratap University of Agriculture and Technology, Udaipur-313001, Rajasthan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>In order to evaluate quality of groundwater in selected study area for its suitability for irrigation and drinking purpose, 109 groundwater samples were collected during premonsoon and post monsoon period. Different physicochemical parameters such as pH, electrical conductivity (EC), total dissolved solids (TDS), calcium (Ca+), magnesium (Mg+), sodium (Na+), potassium (K+), bicarbonate (HCO₃), carbonate (CO₃), chloride (Cl-), and sulphate (SO₄) present in pre and post monsoon samples of the study area were determined using standard methods. Spatio-temporal variations of water quality parameters in the study area were analyzed by using GIS techniques. The suitability of groundwater quality for irrigation purpose was determined on the basis of sodium adsorption ratio (SAR), Kelly's ratio (KR), soluble sodium percentage (SSP), permeability index (PI) and EC. As per analysis, the SAR values were less than 10 for all the samples during both pre and post-monsoon, and therefore it is graded as excellent for irrigation use. On the basis of permeability index it was observed that about 84.65% of Jaisamand lake catchment area has good quality water for irrigation purposes in pre-monsoon period, and 96.17% area in post monsoon period. The drinking water quality was also determined by estimating water quality index. The results showed that in the pre-monsoon period, the 22.40% area has good quality water for drinking purpose, 61.62% area has poor quality, and 15.98% area has very poor quality groundwater for drinking purpose. The 40.30% catchment area has good quality groundwater and 59.70% area has poor quality groundwater for drinking purpose in post-monsoon. The good quality water is mainly available in east and middle portions of catchment area.</abstract>
+   <subject>
+      <topic>Water quality index GIS Groundwater Jaisamand Spatio temporal</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Soil Conservation</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Associations of Soil &amp; Water Conservationists</publisher>
+      </originInfo>
+      <identifier type="issn-p">0970-3349</identifier>
+      <identifier type="issn-e">0976-1721</identifier>
+      <identifier type="issn">0976-1721</identifier>
+      <part>
+         <detail type="volume">
+            <number>47</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">12</text>
+         <extent unit="pages">
+            <start>213</start>
+            <end>221</end>
+            <total>9</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijsc-47-3-002</identifier>
+   <extension>
+      <archiveFile>ijsc-47-3-002</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/ijsc-47-3-002.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/</workingDirectory>
+   </extension>
+</mods>

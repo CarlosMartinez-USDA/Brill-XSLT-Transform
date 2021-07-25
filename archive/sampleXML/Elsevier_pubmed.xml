@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.4//EN" "http://www.ncbi.nlm.nih.gov:80/entrez/query/static/PubMed.dtd">
+<ArticleSet>
+   <Article>
+      <Journal>
+         <PublisherName>Elsevier B.V.</PublisherName>
+         <JournalTitle>Agricultural Water Management</JournalTitle>
+         <Issn>0378-3774</Issn>
+         <Volume>98</Volume>
+         <Issue>4</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2011</Year>
+            <Month>February</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Volumetric water control in a large-scale open canal irrigation system with many
+         smallholders: The case of Chancay-Lambayeque in Peru</ArticleTitle>
+      <FirstPage>705</FirstPage>
+      <LastPage>714</LastPage>
+      <AuthorList>
+         <Author>
+            <FirstName>Jeroen</FirstName>
+            <LastName>Vos</LastName>
+            <Affiliation>Irrigation and Water Engineering Group, Centre for Water and Climate,
+               Wageningen University, Droevendaalsesteeg 3a, 6708 PB Wageningen, The
+               Netherlands</Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Linden</FirstName>
+            <LastName>Vincent</LastName>
+            <Suffix>Jr.</Suffix>
+         </Author>
+      </AuthorList>
+      <PublicationType> </PublicationType>
+      <ArticleIdList>
+         <ArticleId IdType="pii">S0378-3774(10)00366-5</ArticleId>
+         <ArticleId IdType="doi">10.1016/j.agwat.2010.11.008</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2010</Year>
+            <Month>May</Month>
+            <Day>26</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2010</Year>
+            <Month>November</Month>
+            <Day>15</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2010</Year>
+            <Month>November</Month>
+            <Day>17</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2010</Year>
+            <Month>December</Month>
+            <Day>16</Day>
+         </PubDate>
+      </History>
+      <Abstract>Volumetric water control (VWC) is widely seen as a means to increase productivity
+         through flexible scheduling and user incentives to apply just enough water. However, the
+         technical and social requirements for VWC are poorly understood. Also, many experts assert
+         that VWC in large-scale open canals with many smallholders is not feasible. This article
+         debates the practice of VWC, drawing on field studies in the arid North Coast of Peru. Here
+         the large-scale Chancay-Lambayeque irrigation system achieved high allocation, distribution
+         and financial performance with on demand delivery to some 22,000 smallholdings, under a VWC
+         approach, with full cost recovery for operation and maintenance. This study shows there are
+         options to promote VWC if its different elements – volumetric allocation, distribution,
+         metering and pricing – are planned together. </Abstract>
+      <CopyrightInformation>Copyright Â© 2010 Elsevier B.V. All rights
+         reserved.</CopyrightInformation>
+   </Article>
+</ArticleSet>

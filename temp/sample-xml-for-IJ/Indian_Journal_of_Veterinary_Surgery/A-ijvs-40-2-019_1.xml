@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJVS</journal-id>
+         <journal-title>Indian Journal of Veterinary Surgery</journal-title>
+         <issn pub-type="ppub">0254-4105</issn>
+         <issn pub-type="epub">0973-9726</issn>
+         <publisher>
+            <publisher-name>Indian Society for Veterinary Surgery</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijvs-40-2-019</article-id>
+         <title-group>
+            <article-title>Ovarian remnant syndrome in a female Labrador retriever</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Singh</surname>
+                  <given-names>C.K.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Verma</surname>
+                  <given-names>P.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2,</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Mohindroo</surname>
+                  <given-names>J.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff003">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Singh</surname>
+                  <given-names>T.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff004">
+                  <sup>4</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Gupta</surname>
+                  <given-names>A.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff005">
+                  <sup>5</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Udehiya</surname>
+                  <given-names>Rahul</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff>
+            <instname>Guru Angad Dev Veterinary and Animal Sciences University</instname>, <instcity>Ludhiana</instcity>-<instpincode>141 001</instpincode> (<inststate>Punjab</inststate>)</aff>
+         <aff id="aff001">
+            <sup>1</sup>PhD scholar, <deptname>Department of Surgery and Radiology</deptname>
+         </aff>
+         <aff id="aff002">
+            <sup>2</sup>Assistant Professor, <deptname>Department of Surgery and Radiology</deptname>
+         </aff>
+         <aff id="aff003">
+            <sup>3</sup>Professor and Head, <deptname>Department of Surgery and Radiology</deptname>
+         </aff>
+         <aff id="aff004">
+            <sup>4</sup>Assistant Scientist, <deptname>Department of Surgery and Radiology</deptname>
+         </aff>
+         <aff id="aff005">
+            <sup>5</sup>Associate Professor, <instname>Department of Anatomy and Histology</instname>, <instname>College of Veterinary Science</instname>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding author; E-mail: <email>pallaviverma@yahoo.com</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 28 May, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>12</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>40</volume>
+         <issue>2</issue>
+         <fpage>142</fpage>
+         <lpage>142</lpage>
+         <counts>
+            <page-count count="1"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

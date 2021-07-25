@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Efficacy of contour bunds and vegetative barriers in resource conservation on sloping agricultural land in Bundelkhand region</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Dev</namePart>
+      <namePart type="family">Narayan</namePart>
+      <displayForm>Narayan, Dev</displayForm>
+      <affiliation>ICAR-Indian Institute of Soil and Water Conservation (ICAR-IISWC), Research Centre, Datia-475 661, Madhya Pradesh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">H.</namePart>
+      <namePart type="family">Biswas</namePart>
+      <displayForm>Biswas, H.</displayForm>
+      <affiliation>ICAR-IISWC, Research Centre, Bellary-583 104, Karnataka</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Pramod</namePart>
+      <namePart type="family">Kumar</namePart>
+      <displayForm>Kumar, Pramod</displayForm>
+      <affiliation>ICAR-Indian Institute of Soil and Water Conservation (ICAR-IISWC), Research Centre, Datia-475 661, Madhya Pradesh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>A field experiment was conducted during rainy seasons of 2005 to 2007 at ICAR-Indian Institute of Soil and Water Conservation, Research Centre, Datia, Madhya Pradesh to evaluate the efficacy of contour bunds and vegetative barriers in resource conservation on sloping agricultural land in Bundelkhand region. The treatments consisted farmer's practice (up and down cultivation without contour or vegetative barrier), earthen contour bund at 0.7 m vertical interval (VI), earthen contour bund at 0.9-m VI, vegetative barrier (VB) of Cenchrus ciliaris at 0.7 m VI, and VB of Heteropogon contortus at 0.7 m VI in runoff plots of 80 m x 20 m having 3% slope. Results of 3 years indicated that the time of starting of runoff was delayed most (ranging from 9 to 72 min) under contour bunds at 0.7 m VI followed by contour bunds at 0.9 m VI (ranging from 6 to 27 min) and followed by VB treatments (VB of C. ciliaris: from 1 to 31 min, and VB of H. contortus: from 2 to 39 min). Similarly, the time to peak by runoff was delayed highest under contour bunds at 0.7 m VI (from 5 to 474 min) followed by contour bunds at 0.9 m VI (from 4 to 384 min) and VB treatments (VB of C. ciliaris: from 1 to 19 min and VB of H. contortus: from 1 to 32 min) over farmer's practice. Among different treatments, contour bund at 0.7 m VI was found as a superior rainwater conservation measure for sloping agricultural lands in red soils of Bundelkhand region in Central India.</abstract>
+   <subject>
+      <topic>Bundelkhand Contour bund Peak runoff rate Runoff characteristics Vegetative barrier</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Soil Conservation</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Associations of Soil &amp; Water Conservationists</publisher>
+      </originInfo>
+      <identifier type="issn-p">0970-3349</identifier>
+      <identifier type="issn-e">0976-1721</identifier>
+      <identifier type="issn">0976-1721</identifier>
+      <part>
+         <detail type="volume">
+            <number>47</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">12</text>
+         <extent unit="pages">
+            <start>280</start>
+            <end>285</end>
+            <total>6</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijsc-47-3-010</identifier>
+   <extension>
+      <archiveFile>ijsc-47-3-010</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/ijsc-47-3-010.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/</workingDirectory>
+   </extension>
+</mods>

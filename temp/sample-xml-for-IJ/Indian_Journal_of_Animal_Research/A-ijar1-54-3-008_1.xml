@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJAR1</journal-id>
+         <journal-title>Indian Journal of Animal Research</journal-title>
+         <issn pub-type="ppub">0367-6722</issn>
+         <issn pub-type="epub">0976-0555</issn>
+         <publisher>
+            <publisher-name>Agricultural Research Communication Centre</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijar1-54-3-008</article-id>
+         <doi-group>
+            <article-doi>
+               <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                         ext-link-type="uri"
+                         xlink:href="http://dx.doi.org/10.18805/ijar.B-3776">10.18805/ijar.B-3776</ext-link>
+            </article-doi>
+         </doi-group>
+         <article-categories>
+            <subj-group>
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Comparison of fertilization prototype on biofloc development and its characteristics in GIFT Tilapia Culture</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Menaga</surname>
+                  <given-names>M.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Felix</surname>
+                  <given-names>S.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1,</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Charulatha</surname>
+                  <given-names>M.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Mohanasundari</surname>
+                  <given-names>C.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Gopalakannan</surname>
+                  <given-names>A.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff001">
+            <sup>1</sup>
+            <instname>Tamil Nadu Dr. J. Jayalalithaa Fisheries University</instname>, <instcity>Nagapattinam</instcity>, <instpincode>611 002</instpincode>, <inststate>Tamil Nadu</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <aff id="aff002">
+            <sup>2</sup>
+            <deptname>Department of Aquaculture</deptname>, <instname>Dr. M.G.R. Fisheries College and Research Institute</instname>, <instcity>Ponneri</instcity>-<instpincode>601 204</instpincode>, <inststate>Tamil Nadu</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding Author: S. Felix, <instname>Tamil Nadu Dr. J. Jayalalithaa Fisheries University</instname>, <instcity>Nagapattinam</instcity>-<instpincode>611 002</instpincode>, <inststate>Tamil Nadu</inststate>, <instcountry>India</instcountry>. Email: <email>felix@tnfu.ac.in</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 8 April, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>3</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>54</volume>
+         <issue>3</issue>
+         <fpage>310</fpage>
+         <lpage>316</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>A study was conducted to evaluate the effect of different fertilizers in GIFT Tilapia culture using biofloc technology. Animals (5±0.23g) were stocked at a density of 30m-3 in 500 litres FRP tanks and spentwash was used as a carbon source to maintain a C: N ratio of 10: 1 for 42 days. The experimental group includes fertilization using ammonia sulphate alone (T1) and fertilization using different inorganic fertilizers (T2). No significant differences in FCR, specific growth rate, weight gain and survival of animals were found between the treatments. Proximate composition and fatty acid profile of floc were comparatively rich in T2. Increased solid concentrations with higher Floc volume index and floc sizes were recorded in T2. The rapid floc development along with multiplication of heterotrophic bacteria and decreased vibrio population was observed in T2. The present study confirmed the influence of fertilizers on the physical and nutritional quality of biofloc in GIFT tilapia culture.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Biofloc</kwd>
+            <kwd>Fertilizers</kwd>
+            <kwd>GIFT Tilapia</kwd>
+            <kwd>Heterotrophic bacteria</kwd>
+            <kwd>Spent wash</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="7"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

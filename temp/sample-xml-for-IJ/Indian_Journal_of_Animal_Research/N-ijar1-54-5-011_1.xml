@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Prognostic factors associated with successful outcome of metacarpal and metatarsal fractures repaired using external coaptation in bovines</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Ganga Prasad</namePart>
+      <namePart type="family">Yadav</namePart>
+      <displayForm>Yadav, Ganga Prasad</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vandana</namePart>
+      <namePart type="family">Sangwan</namePart>
+      <displayForm>Sangwan, Vandana</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ashwani</namePart>
+      <namePart type="family">Kumar</namePart>
+      <displayForm>Kumar, Ashwani</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shashi Kant</namePart>
+      <namePart type="family">Mahajan</namePart>
+      <displayForm>Mahajan, Shashi Kant</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Anuradha</namePart>
+      <namePart type="family">Gupta</namePart>
+      <displayForm>Gupta, Anuradha</displayForm>
+      <affiliation>Department of Veterinary Anatomy, College of Veterinary Science, Guru Angad Dev Veterinary and Animal Sciences University, Ludhiana-141 004, Punjab, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-05</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The objective of this study was to evaluate the various prognostic factors affecting outcome of metacarpal and metatarsal fracture repaired using external coaptation (straight or ‘U’ shaped aluminium splints and fibreglass cast) in bovine. The study investigated 100 bovines (37 buffaloes and 63 cattle) with 103 fractures (3 cattle with bilateral metacarpal fracture) presented during one year of study. Out of these, 10 were euthanized prior to the treatment, 23 died during the course of treatment and 7 were lost to follow up. Thus, out of the remaining 60 bovines with 61 fractures; 35 cattle with 36 fractures (10 metacarpal and 26 metatarsal) and 25 buffaloes (19 metacarpal and 6 metatarsal) were evaluated for the survival outcome of fractures. Cattle with metacarpal or metatarsal fractures were found to be about two times more prone to become open leading to unfavourable outcome (recumbency and death) as compared to that of buffaloes. The survival outcome as healed fracture of closed metacarpal and metatarsal, irrespective of species, was 100% and it was 33% more than that of the open fractures. In conclusion, the aluminium ‘U’ shaped splint with fiberglass cast was found to be suitable and economical method for the management of metacarpal/metatarsal fractures in adult cattle and buffaloes; whereas for the young and light weight bovines side splints with fiberglass cast involving hoof was recommended. The age and weight of animal, duration and cause of fracture, quality of first aid provided and radiographic type of fracture influenced the occurrence of open fractures, mortality and the survival outcome of metacarpal and metatarsal fractures repaired using external coaptation in bovines.</abstract>
+   <subject>
+      <topic>Buffaloes</topic>
+   </subject>
+   <subject>
+      <topic>Cattle</topic>
+   </subject>
+   <subject>
+      <topic>Metacarpal/Metatarsal fractures</topic>
+   </subject>
+   <subject>
+      <topic>Prognostic factors</topic>
+   </subject>
+   <subject>
+      <topic>Splint-Cast</topic>
+   </subject>
+   <subject>
+      <topic>Survival outcome</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>5</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">05</text>
+         <extent unit="pages">
+            <start>578</start>
+            <end>592</end>
+            <total>15</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-5-011</identifier>
+   <identifier type="doi">10.18805/ijar.B-3828</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3828</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-5-011</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-5-011.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

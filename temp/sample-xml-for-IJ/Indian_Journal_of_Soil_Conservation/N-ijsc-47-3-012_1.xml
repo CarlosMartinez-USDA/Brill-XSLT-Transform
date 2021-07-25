@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Estimation of crop water requirement, demands and supplies in D-51 distributary command of Sri Ram Sagar project in Telangana state for conjunctive use planning</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">V.S.S.</namePart>
+      <namePart type="family">Sravya</namePart>
+      <displayForm>Sravya, V.S.S.</displayForm>
+      <affiliation>Indira Gandhi Krishi Vishwa Vidyalaya, Raipur-492012, Chhattisgarh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">B. Krishna</namePart>
+      <namePart type="family">Rao</namePart>
+      <displayForm>Rao, B. Krishna</displayForm>
+      <affiliation>Water and Land Management Training and Research Institute, Himayathsagar, Hyderabad-500 030, Telangana</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">D.</namePart>
+      <namePart type="family">Khalkho</namePart>
+      <displayForm>Khalkho, D.</displayForm>
+      <affiliation>Indira Gandhi Krishi Vishwa Vidyalaya, Raipur-492012, Chhattisgarh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.</namePart>
+      <namePart type="family">Sailaja</namePart>
+      <displayForm>Sailaja, A.</displayForm>
+      <affiliation>Water and Land Management Training and Research Institute, Himayathsagar, Hyderabad-500 030, Telangana</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A. Srinivas</namePart>
+      <namePart type="family">Goud</namePart>
+      <displayForm>Goud, A. Srinivas</displayForm>
+      <affiliation>Water and Land Management Training and Research Institute, Himayathsagar, Hyderabad-500 030, Telangana</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>In view of increasing water demand in agriculture and for other allied sectors, there is a need to use irrigation water efficiently. Weekly irrigation water requirements of major crops were estimated in the selected D-51 distributary of Sri Ram Sagar project during the years 2015 to 2018. In the present study, reference evapotranspiration (ETo) were calculated by using FAO Penmen-Monteith method. The weekly supplies data of canal water during the years 2015–16 to 2017–18 were collected, analysed and compared to estimated demands of crops in the distributary command. From the study, it was found that the average gross irrigation requirements of paddy in rabi and kharif, maize in rabi and sesame in rabi were found as 2245 mm, 1855 mm, 694 mm and 202 mm, respectively. During 2015–16, there was a surplus of water available due to more rainfall, and a severe deficit of water during the years 2016–17 to 2017–18 due to less amount of rainfall. This study concluded that effective rainfall, actual crop water requirements can be considered to reduce the gap between canal water demands and supplies in command areas.</abstract>
+   <subject>
+      <topic>Command area Gross irrigation requirement Canal water demands and supplies</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Soil Conservation</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Associations of Soil &amp; Water Conservationists</publisher>
+      </originInfo>
+      <identifier type="issn-p">0970-3349</identifier>
+      <identifier type="issn-e">0976-1721</identifier>
+      <identifier type="issn">0976-1721</identifier>
+      <part>
+         <detail type="volume">
+            <number>47</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">12</text>
+         <extent unit="pages">
+            <start>294</start>
+            <end>297</end>
+            <total>4</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijsc-47-3-012</identifier>
+   <extension>
+      <archiveFile>ijsc-47-3-012</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/ijsc-47-3-012.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/</workingDirectory>
+   </extension>
+</mods>

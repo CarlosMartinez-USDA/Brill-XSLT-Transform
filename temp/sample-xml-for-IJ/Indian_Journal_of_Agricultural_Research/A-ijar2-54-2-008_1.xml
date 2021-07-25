@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJAR2</journal-id>
+         <journal-title>Indian Journal of Agricultural Research</journal-title>
+         <issn pub-type="ppub">0367-8245</issn>
+         <issn pub-type="epub">0976-058X</issn>
+         <publisher>
+            <publisher-name>Agricultural Research Communication Centre</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijar2-54-2-008</article-id>
+         <doi-group>
+            <article-doi>
+               <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                         ext-link-type="uri"
+                         xlink:href="http://dx.doi.org/10.18805/IJARe.A-5310">10.18805/IJARe.A-5310</ext-link>
+            </article-doi>
+         </doi-group>
+         <article-categories>
+            <subj-group>
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Investigations on the Larvicidal Effect of Red Algal Seaweeds of Rameswaram Coast Against Tobacco Caterpillar Spodoptera Litura (Fab.)</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Dharanipriya</surname>
+                  <given-names>N.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Kannan</surname>
+                  <given-names>R.</given-names>
+               </name>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+         </contrib-group>
+         <aff>
+            <deptname>Department of Entomology, Faculty of Agriculture</deptname>, <instname>Annamalai University</instname>, <instcity>Annamalainagar</instcity>-<instpincode>608 002</instpincode>, <inststate>Tamilnadu</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding Author: R. Kannan, <deptname>Department of Entomology, Faculty of Agriculture</deptname>, <instname>Annamalai University</instname>, <instcity>Annamalainagar</instcity>-<instpincode>608002</instpincode>, <inststate>Tamilnadu</inststate>, <instcountry>India</instcountry>. Email: <email>kaninsect@yahoo.co.in</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 23 May, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>4</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>54</volume>
+         <issue>2</issue>
+         <fpage>181</fpage>
+         <lpage>186</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>Investigations on the insecticidal activity of Red algal seaweeds <italic>viz.</italic>, <italic>Gracilaria corticata</italic> J. Agardh, <italic>Liagora ceranoides</italic> J. V. Lamouroux, and <italic>Asparagopsis taxiformis</italic> (Delile) collected from Rameswaram coastal ecosystem against Leaf eating caterpillar, Spodoptera litura (Fabricius) (Lepidoptera: Noctuidae) was conducted in the Department of Entomology, Faculty of Agriculture, Annamalai University, India during 2016–2018. Powdered seaweeds at 1, 3, 5, 7, 10 and 20 per cent concentrations were investigated for their toxicity and insect growth regulator activity aganist <italic>S.litura</italic> under CRD in free choice test with three replications along with control. Observations showed that, larval mortality noticed after 36 hours after treatment in <italic>G. corticata</italic> treatments and even 100 per cent mortality was achieved at 72 hours of treatment, whereas the other two seaweeds exhibited larval mortality only after 72 hours of treatment and extended further to pupation and adult emergence. Among the concentrations the higher doses (20 and 10%) exhibited the maximum larval mortality (100%) while the maximum doses of other two seaweeds powder treatments did not, exhibited cent per cent larval mortality at any point of time and even pupated and gone for adult emergence also. The results displayed that, all the seaweed had exhibited larval mortality and their inhibiting substance inside needs to be investigated.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Red algal seaweed</kwd>
+            <kwd>
+               <italic>Gracilaria corticata</italic>
+            </kwd>
+            <kwd>Toxicity</kwd>
+            <kwd>Phytochemicals</kwd>
+            <kwd>
+               <italic>Spodoptera litura.</italic>
+            </kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="6"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

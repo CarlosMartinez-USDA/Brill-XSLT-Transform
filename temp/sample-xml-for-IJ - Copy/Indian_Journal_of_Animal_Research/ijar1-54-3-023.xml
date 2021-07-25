@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJAR1</journal-id>
+      <journal-title>Indian Journal of Animal Research</journal-title>
+      <issn pub-type="ppub">0367-6722</issn>
+      <issn pub-type="epub">0976-0555</issn>
+      <publisher>
+        <publisher-name>Agricultural Research Communication Centre</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijar1-54-3-023</article-id>
+      <doi-group>
+        <article-doi>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.18805/ijar.B-770">10.18805/ijar.B-770</ext-link>
+        </article-doi>
+      </doi-group>
+      <article-categories>
+        <subj-group>
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Assessment of hatchability of Tunisian local turkey compared to commercial turkey and its relationships with physical egg traits</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Djebbi</surname>
+            <given-names>A.</given-names>
+          </name>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>M'Hamdi</surname>
+            <given-names>N.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Haddad</surname>
+            <given-names>B.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <deptname>Laboratory of animal and food resources</deptname>, <instname>National Agronomic Institute of Tunisia.</instname></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding Author: A. Djebbi, <deptname>Laboratory of animal and food resources</deptname>, <instname>National Agronomic Institute of Tunisia</instname>. Email: <email>djebbiarbia@outlook.com</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 8 April, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>3</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>54</volume>
+      <issue>3</issue>
+      <fpage>388</fpage>
+      <lpage>391</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>A study was conducted to evaluate the hatchability of local turkey comparedto commercial turkey eggs and its relationships with physical egg traits. A total of 410 local turkey eggs and 252 commercial turkey eggs were usedfor this study and the data were submitted to analysis of variance. Average fertility (%) and fertile egg hatchability (%) were significantly (P&lt;0.05) lower in local turkeys compared to commercial turkeys. Furthermore, infertile eggs (%), early-, mid-and late-period deaths during incubation were higher in the local turkeys compared to the commercial turkeys. Embryo mortality occurred mainly days 27th and 28th of incubation. Based in this result, hatchability of turkey local eggs was very low when compared with commercial turkey eggs; this reduction resulted in part from in high rate of infertility, embryonic mortality caused by poor management system and genotype. The results of effect of physical egg traits (weight, shell thickness, maximum width and length) on hatchability showed no significant effect on percentage hatchability of fertile eggs (&gt;0.05). Hatchability was affected by egg shape index.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Eggs</kwd>
+        <kwd>Embryo mortality</kwd>
+        <kwd>Fertility</kwd>
+        <kwd>Hatchability</kwd>
+        <kwd>Turkey</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="4" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

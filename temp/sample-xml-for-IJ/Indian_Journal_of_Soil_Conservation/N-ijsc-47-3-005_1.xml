@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Runoff estimation using SCS-CN method for Bhadokhar watershed, Jhansi district, Uttar Pradesh</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Ravi Kant</namePart>
+      <namePart type="family">Pandey</namePart>
+      <displayForm>Pandey, Ravi Kant</displayForm>
+      <affiliation>ICAR-Indian Institute of Sugarcane Research, Lucknow-226002, Uttar Pradesh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rajendra</namePart>
+      <namePart type="family">Gupta</namePart>
+      <displayForm>Gupta, Rajendra</displayForm>
+      <affiliation>ICAR-Indian Institute of Sugarcane Research, Lucknow-226002, Uttar Pradesh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alex</namePart>
+      <namePart type="family">Thomas</namePart>
+      <displayForm>Thomas, Alex</displayForm>
+      <affiliation>Sam Higginbottom University of Agriculture, Technology and Sciences, Allahabad, Uttar Pradesh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>This study was conducted to determine runoff depth using USDA soil conservation service curve number (SCS-CN) method in Bhadokhar watershed, located in Gursarain block of Jhansi district, Uttar Pradesh. A total of 55 single storm events were selected between the years 1993 and 2012 for estimation. Antecedent moisture content (AMC) of the watershed during the selected period was calculated by taking preceding five days rainfall for three conditions viz., AMC-1, AMC-1 and AMC-111. Based on the soil cover complex, the hydrological soil group of the watershed falls under group ‘B ’. It was observed that during the period, 33 rain storms were falling under AMC-I category. Weighted curve number (CN) for entire watershed was calculated based on the watershed information and found to be 83.62 for AMC-1. The CN values corresponding to AMC-1 and AMC-111 were 69.12 and 92.28, respectively. The runoff for each storm events was estimated and it was found that among the selected storm events, the maximum rainfall was 109.5 mm on 11ᵗʰ September, 1993 at AMC-111. The runoff volume of the watershed for this storm event was calculated as 853117.96 m. ³This value will be useful for designing the soil and water conservation and also rainwater harvesting structures in the watershed.</abstract>
+   <subject>
+      <topic>Antecedent moisture Curve number Potential maximum retention Runoff Watershed Bundelkhand region</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Soil Conservation</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Associations of Soil &amp; Water Conservationists</publisher>
+      </originInfo>
+      <identifier type="issn-p">0970-3349</identifier>
+      <identifier type="issn-e">0976-1721</identifier>
+      <identifier type="issn">0976-1721</identifier>
+      <part>
+         <detail type="volume">
+            <number>47</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">12</text>
+         <extent unit="pages">
+            <start>239</start>
+            <end>243</end>
+            <total>5</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijsc-47-3-005</identifier>
+   <extension>
+      <archiveFile>ijsc-47-3-005</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/ijsc-47-3-005.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/</workingDirectory>
+   </extension>
+</mods>

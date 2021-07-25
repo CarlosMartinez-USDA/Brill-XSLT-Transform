@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.1//EN" "http://www.ncbi.nlm.nih.gov:80/entrez/query/static/PubMed.dtd">
+<ArticleSet>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>J Inorg Organomet Polym</JournalTitle>
+         <Issn>1574-1443</Issn>
+         <Volume>23</Volume>
+         <Issue>4</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2013</Year>
+            <Month>7</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Synthesis and Characterization of Functionalized Multi-walled Carbon
+         Nanotubes/Exfoliated Layered Double Hydroxide Nanosheets Hybrids via Electrostatic
+         Force</ArticleTitle>
+      <FirstPage>871</FirstPage>
+      <LastPage>876</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Zhi</FirstName>
+            <LastName>Qiao</LastName>
+            <Affiliation>College of Chemistry and Material Science, Shandong Agricultural
+               University, Taian, 271018, Shandong, People’s Republic of China, </Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Chunfeng</FirstName>
+            <LastName>Gao</LastName>
+         </Author>
+         <Author>
+            <FirstName>Bing</FirstName>
+            <LastName>Sun</LastName>
+         </Author>
+         <Author>
+            <FirstName>Shiyun</FirstName>
+            <LastName>Ai</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s10904-013-9854-5</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>1</Month>
+            <Day>24</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2013</Year>
+            <Month>3</Month>
+            <Day>22</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2013</Year>
+            <Month>4</Month>
+            <Day>4</Day>
+         </PubDate>
+      </History>
+      <Abstract>In this paper, functionalized multi-walled carbon nanotubes (F-MWCNTs) were prepared
+         through grafting melamine and 4, 4′-diphenylether dicarboxylic acid in proper sequence. The
+         F-MWCNTs were combined with exfoliated Zn–Al layered double hydroxide (LDH) nanosheets via
+         electrostatic force to form three-dimensional (3D) hybrids. The structural characteristics
+         of the 3D hybrid composites were investigated by X-ray diffraction, transmission electron
+         microscopy, Fourier transform infrared spectroscopy and thermogravimetric analysis (TGA).
+         It was found that F-MWCNTs were successfully combined with exfoliated LDH. TGA results
+         demonstrated that the thermal stability of F-MWCNTs/exfoliated LDH nanosheets hybrids was
+         decreased but the 3D hybrids produced a large amount of char.</Abstract>
+   </Article>
+</ArticleSet>

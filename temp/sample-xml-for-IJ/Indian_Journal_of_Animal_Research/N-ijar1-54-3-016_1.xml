@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Detection of Respiratory Viral Antigens in Nasal Swabs of Bovine by Sandwich ELISA</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Rakhi</namePart>
+      <namePart type="family">Gangil</namePart>
+      <displayForm>Gangil, Rakhi</displayForm>
+      <affiliation>Department of Veterinary Microbiology, College of Veterinary Science and AH, Mhow-453 446, Madhya Pradesh, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Gurpreet</namePart>
+      <namePart type="family">Kaur</namePart>
+      <displayForm>Kaur, Gurpreet</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">P.N.</namePart>
+      <namePart type="family">Dwivedi</namePart>
+      <displayForm>Dwivedi, P.N.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-03</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Bovine Respiratory diseases are responsible for economic losses in livestock industry worldwide. The present study aiming to investigate the occurrence of respiratory viral antigens of Bovine herpesvirus-1 (BoHV-1), Bovine respiratory syncytial virus (BRSV), Bovine viral diarrhoea virus (BVDV) and Bovine parainfluenza 3 virus (BPI3V) in bovines and describe the distribution of respiratory viruses in unvaccinated animals in Punjab. A total of 55 nasal swab samples were collected from the cattle and buffaloes exhibiting the clinical signs of respiratory disease. All samples were tested for the detection of all four viral antigens by commercially available sandwich ELISA kit. BoHV-1 and BPI3V antigen were detected in 1 and 3 samples with the percentage of 1.8 and 5.4, respectively, whereas none of the sample was found positive for BRSV and BVDV antigen. The present study concluded the existence of BoHV-1 and BPI3V infection in respiratory tract and plays the important role in the respiratory viral infections of bovines. This study suggests the prevention measures should be taken to control the economic losses due to respiratory diseases in cattle and buffaloes.</abstract>
+   <subject>
+      <topic>BoHV-1</topic>
+   </subject>
+   <subject>
+      <topic>BPI3V</topic>
+   </subject>
+   <subject>
+      <topic>BRSV</topic>
+   </subject>
+   <subject>
+      <topic>BVDV</topic>
+   </subject>
+   <subject>
+      <topic>Respiratory disease</topic>
+   </subject>
+   <subject>
+      <topic>Sandwich ELISA</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">03</text>
+         <extent unit="pages">
+            <start>354</start>
+            <end>358</end>
+            <total>5</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-3-016</identifier>
+   <identifier type="doi">10.18805/ijar.B-3769</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3769</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-3-016</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-3-016.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

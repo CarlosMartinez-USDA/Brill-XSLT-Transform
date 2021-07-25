@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJSC</journal-id>
+      <journal-title>Indian Journal of Soil Conservation</journal-title>
+      <issn pub-type="ppub">0970-3349</issn>
+      <issn pub-type="epub">0976-1721</issn>
+      <publisher>
+        <publisher-name>Indian Associations of Soil &amp; Water Conservationists</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijsc-47-2-006</article-id>
+      <title-group>
+        <article-title>Influence of irrigation, tillage and gypsum on soil physical properties under sunflower cultivation in coastal saline zone of West Bengal</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Manna</surname>
+            <given-names>Avijit</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sarkar</surname>
+            <given-names>Arindam</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2,</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dasgupta</surname>
+            <given-names>Shubhadip</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff003">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tarafdar</surname>
+            <given-names>P.K.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff003">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Moinuddin</surname>
+            <given-names>Golam</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff001">
+        <sup>1</sup>
+        <instname>Krishi Vigyan Kendra</instname>, <instparent>Bidhan Chandra Krishi Viswavidyalaya</instparent>, <instaddress>Purba</instaddress>, <instcity>Medinipur</instcity>-<instpincode>721632</instpincode>, <inststate>West Bengal</inststate></aff>
+      <aff id="aff002">
+        <sup>2</sup>
+        <deptname>Regional Research Station</deptname>, <instname>Bidhan Chandra Krishi Viswavidyalaya</instname>, <instcity>Jhargram</instcity>-<instpincode>721507</instpincode>, <inststate>West Bengal</inststate></aff>
+      <aff id="aff003">
+        <sup>3</sup>
+        <instname>Bidhan Chandra Krishi Viswavidyalaya</instname>, <instaddress>Mohanpur</instaddress>, <instcity>Nadia</instcity>-<instpincode>741252</instpincode>, <inststate>West Bengal</inststate></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding author: E-mail: <email>arin.psb@gmail.com</email> (Arindam Sarkar)</corresp>
+        <fn>
+          <p>
+            <bold>Online published on 9 April, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>8</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>2</issue>
+      <fpage>148</fpage>
+      <lpage>155</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>An experiment was conducted on clay loam soils (typic Haplaquept) from coastal saline agro-ecological region of West Bengal to evaluate the influence of different levels of irrigation, tillage depth and gypsum application on soil physical properties during two consecutive rabi seasons of 2013 and 2014. Soils were analyzed for pH, EC, organic carbon (OC) content, bulk density (BD), porosity, water holding capacity (WHC), mean weight diameter (MWD), aggregate stability (AS) and structural coefficient (SC). Significant changes in soil pH (avg. 7.40), EC (avg. 4.01 dS m<sup>−1</sup>) and OC (avg. 0.60%) were observed with different treatments. Deep tillage practice significantly improved BD of clayey loam soil (7.8%) over shallow tillage. MWD of soil varied from 0.56 to 0.67 mm (avg. 0.61 mm) with different treatments of irrigation, tillage and gypsum. Significant improvement in AS (ranged from 35.25% to 39.95%, avg. 37.54%) was found with increasing level of irrigation under both shallow and deep tillage; however, the effect was more prominent under deep tillage than the other. The SC of soil was ranged from 0.38 to 0.47 (avg. 0.43). Higher SC value was found under deep tillage treated plots compared to shallow tillage. The combined effect of increasing levels of irrigation and deep tillage along with gypsum application led to better soil physical environment under sunflower cultivation during the cropping season. Strong correlation among soil pH, EC, OC and soil structural indices indicated the influence of electrolyte concentration and organic matter on soil aggregation and their stability.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Agronomic management Coastal saline soil Soil amendments Soil physical properties Sunflower cultivation</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="8" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

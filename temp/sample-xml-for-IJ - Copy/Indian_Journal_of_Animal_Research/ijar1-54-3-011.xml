@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJAR1</journal-id>
+      <journal-title>Indian Journal of Animal Research</journal-title>
+      <issn pub-type="ppub">0367-6722</issn>
+      <issn pub-type="epub">0976-0555</issn>
+      <publisher>
+        <publisher-name>Agricultural Research Communication Centre</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijar1-54-3-011</article-id>
+      <doi-group>
+        <article-doi>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.18805/ijar.B-995">10.18805/ijar.B-995</ext-link>
+        </article-doi>
+      </doi-group>
+      <article-categories>
+        <subj-group>
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Feeding behavior and dry matter digestibility in sheep fed first and second cut reed canary grass (Phalaris arundinacea L.)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tokita</surname>
+            <given-names>N.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yoshimura</surname>
+            <given-names>I.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tokita</surname>
+            <given-names>T.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff003">
+            <sup>3,</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff001">
+        <sup>1</sup>
+        <deptname>Department of Animal Science</deptname>, <instname>Nippon Veterinary and Life Science University</instname>, <instcity>Tokyo</instcity>, <instpincode>1808602</instpincode>, <instcountry>Japan</instcountry></aff>
+      <aff id="aff002">
+        <sup>2</sup>
+        <deptname>Fuji Animal Research Farm</deptname>, <instname>Nippon Veterinary and Life Science University</instname>, <instcity>Yamanashi</instcity>, <instpincode>4010338</instpincode>-, <instcountry>Japan</instcountry></aff>
+      <aff id="aff003">
+        <sup>3</sup>
+        <deptname>Faculty of Veterinary Science</deptname>, <instname>Azabu University</instname>, <instcity>Kanagawa</instcity>, <instpincode>2525201</instpincode>, <instcountry>Japan</instcountry></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding Author: N. Tokita, <deptname>Department of Animal Science</deptname>, <instname>Nippon Veterinary and Life Science University</instname>, <instcity>Tokyo</instcity>, <instpincode>180–8602</instpincode>, <instcountry>Japan</instcountry>. Email: <email>tokitan@nvlu.ac.jp</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 8 April, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>3</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>54</volume>
+      <issue>3</issue>
+      <fpage>327</fpage>
+      <lpage>330</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>We investigated the intake and digestibility of different reed canarygrass (RCG) growth stages by sheep. RCG was cultivated in an experimental field and harvested at the first and second cuts at each pre-blooming stage. Feeding behavior was monitored on adult female sheep, fed 3 kg each of fresh RCG three times daily. While the crude protein content and dry matter digestibility of RCG were significantly higher in leaf than in stem tissue of both first and second cut in harvesting times, neutral and acid detergent fiber contents were higher in stem than in leaf. The dry matter intake of RCG at the second cut (296.1g) was significantly higher than at the first cut (214.1 g). The eating time for consumption of RCG on dry matter at the second cut (54.9 min) was shorter than at the first cut (69.4 min). Consequently, at the second cut, the rate of biting (54.6 bites/min) was lower than at the first cut (64.8 bites/min). Bite size, expressed as dry matter intake per bite, ranged from 0.05 g at first cut to 0.10 g at second cut.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Chemical composition</kwd>
+        <kwd>Digestibility</kwd>
+        <kwd>Feeding behavior</kwd>
+        <kwd>Reed canary grass</kwd>
+        <kwd>Sheep</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="4" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

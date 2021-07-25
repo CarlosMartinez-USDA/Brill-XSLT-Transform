@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Effectiveness of various cooling systems during high environmental temperature on production and welfare indices of laying pullets in deep litter system of rearing</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Asif Ali</namePart>
+      <namePart type="family">Ganie</namePart>
+      <displayForm>Ganie, Asif Ali</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Daljeet</namePart>
+      <namePart type="family">Kaur</namePart>
+      <displayForm>Kaur, Daljeet</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sangeeta</namePart>
+      <namePart type="family">Chopra</namePart>
+      <displayForm>Chopra, Sangeeta</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sarabjeet Singh</namePart>
+      <namePart type="family">Nagra</namePart>
+      <displayForm>Nagra, Sarabjeet Singh</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shashi</namePart>
+      <namePart type="family">Nayar</namePart>
+      <displayForm>Nayar, Shashi</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-05</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The present study was conducted to determine the effect of different cooling systems; Fan Fogger (FF) and Fan Pad (FP) on micro environment of poultry house, thermal comfort, welfare, egg production and egg quality parameters of laying hens. This experiment was conducted on 210, White Leghorn laying pullets (32 weeks old) during hot-dry summer months (May - July) under deep litter system of housing. The FP and FF cooling systems significantly dropped the mean shed temperature and increased the relative humidity. Thus, better THI resulted in increase in egg production by 4.66% and 3.32% under FP and FF systems over the control group. However, specific gravity, H.U, egg shell thickness, yolk index and yolk color were not significantly influenced by cooling treatments. Significantly lower levels of antioxidant enzymes viz. LPO, Catalase, G6PD, GPx and SOD was registered in cooling groups. Both the cooling devices contributed towards bird welfare by altering the behavioral expression from agonistic to non-agonistic activities.</abstract>
+   <subject>
+      <topic>Bird welfare</topic>
+   </subject>
+   <subject>
+      <topic>Egg production</topic>
+   </subject>
+   <subject>
+      <topic>Fan fogger</topic>
+   </subject>
+   <subject>
+      <topic>Fan pad</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>5</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">05</text>
+         <extent unit="pages">
+            <start>635</start>
+            <end>641</end>
+            <total>7</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-5-020</identifier>
+   <identifier type="doi">10.18805/ijar.B-3826</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3826</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-5-020</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-5-020.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

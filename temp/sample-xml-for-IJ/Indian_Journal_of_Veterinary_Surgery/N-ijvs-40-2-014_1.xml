@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Minimally invasive percutaneous osteosynthesis for tibial fracture repair in goats</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">A.V.</namePart>
+      <namePart type="family">Akalya</namePart>
+      <displayForm>Akalya, A.V.</displayForm>
+      <affiliation>PG Scholar, Department of Veterinary Surgery and Radiology</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.</namePart>
+      <namePart type="family">Kumaresan</namePart>
+      <displayForm>Kumaresan, A.</displayForm>
+      <affiliation>Assistant professor, Department of Veterinary Surgery and Radiology</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.</namePart>
+      <namePart type="family">Dharmaceelan</namePart>
+      <displayForm>Dharmaceelan, S.</displayForm>
+      <affiliation>Professor and Head, Department of Veterinary Surgery and Radiology</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.</namePart>
+      <namePart type="family">Arulmozhi</namePart>
+      <displayForm>Arulmozhi, A.</displayForm>
+      <affiliation>Assistant Professor, Department of Veterinary Pathology, Veterinary College and Research Institute, Namakkal-637002 (TN)</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Diaphyseal fractures of tibia were treated with minimally invasive plate osteosynthesis technique using Locking Compression Plate (LCP) under general anaesthesia in 3 goats. The plates used were 3.5 mm LCP with 12–18 mm screws in the goats weighing 18.3–21.4 kg. The clinical, radiological and histopathological evaluation revealed uneventful fracture healing with secondary callus formation in all the animals. The technique and implants were found adequate to provide stable fixation without any intraoperative and postoperative complications.</abstract>
+   <subject>
+      <topic>Diaphyseal fracture</topic>
+   </subject>
+   <subject>
+      <topic>Goat</topic>
+   </subject>
+   <subject>
+      <topic>Locking Compression Plate</topic>
+   </subject>
+   <subject>
+      <topic>MIPO</topic>
+   </subject>
+   <subject>
+      <topic>Tibia</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Veterinary Surgery</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Society for Veterinary Surgery</publisher>
+      </originInfo>
+      <identifier type="issn-p">0254-4105</identifier>
+      <identifier type="issn-e">0973-9726</identifier>
+      <identifier type="issn">0973-9726</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">12</text>
+         <extent unit="pages">
+            <start>134</start>
+            <end>135</end>
+            <total>2</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijvs-40-2-014</identifier>
+   <extension>
+      <archiveFile>ijvs-40-2-014</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/ijvs-40-2-014.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/</workingDirectory>
+   </extension>
+</mods>

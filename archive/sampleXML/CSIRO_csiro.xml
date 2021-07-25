@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes" ?>
+<!DOCTYPE front PUBLIC "ISO 12083:1994//DTD Article//EN" "http://www.publish.csiro.au/scripts/DTD/CSIROAbstract.dtd">
+<front>
+<titlegrp>
+<title>
+Capillary electrophoresis facilitates determination of metal complex stoichiometry by Job&#x2019;s method of continuous variation</title>
+<subtitle></subtitle>
+</titlegrp>
+<authgrp>
+<author>
+<name>
+<fname>Nathan E.</fname>
+<surname>Boland</surname>
+</name>
+<details>Department of Geography and Environmental Engineering, Johns Hopkins University, 3400 North Charles Street, Baltimore, MD 21218, USA.</details>
+<email></email>
+</author>
+<author>
+<name>
+<fname>Alan T.</fname>
+<surname>Stone</surname>
+</name>
+<details>Department of Geography and Environmental Engineering, Johns Hopkins University, 3400 North Charles Street, Baltimore, MD 21218, USA.</details>
+<email></email>
+</author>
+</authgrp>
+<pubfront>
+<fpage>409</fpage>
+<lpage>416</lpage>
+<jid>EN</jid>
+<pubid>Environmental Chemistry</pubid>
+<issn>1448-2517</issn>
+<year>2013</year>
+<volno>10</volno>
+<issno>5</issno>
+<artid>EN13103</artid>
+<doi>10.1071/EN13103</doi>
+<ded></ded>
+</pubfront>
+<abstract>
+Environmental context
+Knowledge of metal-chelating agent speciation is integral to our ability to predict and interpret the behaviour of synthetic chelating agents in the environment. Capillary electrophoresis can be used to separate metal&#x2013;ligand complexes with similar spectroscopic characteristics but different stoichiometries, thereby providing insight into metal&#x2013;ligand speciation that is not possible by any other technique. Here, we demonstrate the utility of capillary electrophoresis for the determination of metal&#x2013;ligand stoichiometries and evaluate its limitations.
+
+
+Abstract
+Job&#x2019;s method of continuous variation is a traditional method used to determine the stoichiometry of metal&#x2013;ligand complexes. The method is often applied to whole-sample absorbance measurements but its utility is limited when two or more complexes are present at significant concentrations and have similar absorption spectra. Here we employ capillary electrophoresis (CE), which separates complexes on the basis of charge and hydrodynamic radii, to extend the capabilities of Job&#x2019;s method. Solutions containing nickel(II) and diethylenetriaminepentaacetic acid (DTPA) yield three CE peaks. Job&#x2019;s method plot maxima, based on areas for each of the three CE peaks, coincide with nickel(II)-to-DTPA ratios of 1:1 and 1:2, which correspond to two complexes previously identified using whole-sample measurements, plus a ratio of 3:2, which corresponds to a previously unreported complex. We demonstrate how CE peak areas and electromigration times can be used to determine complex stoichiometries and formation constants. We discuss the strengths and weaknesses of Job&#x2019;s Method coupled with CE and implications for speciation determination in environmentally relevant systems.
+</abstract>
+<keywords>
+chelating agent, diethylenetriaminepentaacetic acid, equilibrium speciation, nickel(II), polynuclear complex.</keywords>
+</front>
+

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Ultrasonographic evaluation of gastrointestinal affections in dogs</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">D.N.</namePart>
+      <namePart type="family">Danasamy</namePart>
+      <displayForm>Danasamy, D.N.</displayForm>
+      <affiliation>MVSc Scholar, Department of Veterinary Surgery &amp; Radiology, Madras Veterinary College, Chennai</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">L.</namePart>
+      <namePart type="family">Nagarajan</namePart>
+      <displayForm>Nagarajan, L.</displayForm>
+      <affiliation>Professor &amp; Head, Department of Veterinary Surgery &amp; Radiology, Madras Veterinary College, Chennai</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">D.</namePart>
+      <namePart type="family">Sumathi</namePart>
+      <displayForm>Sumathi, D.</displayForm>
+      <affiliation>Assistent Professor, Department of Veterinary Clinical Medicine, Madras Veterinary College, Chennai</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.</namePart>
+      <namePart type="family">Shafiuzama</namePart>
+      <displayForm>Shafiuzama, M.</displayForm>
+      <affiliation>Professor, Department of Veterinary Surgery &amp; Radiology, Madras Veterinary College, Chennai</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.</namePart>
+      <namePart type="family">Abhilash</namePart>
+      <displayForm>Abhilash, S.</displayForm>
+      <affiliation>MVSc Scholar, Department of Veterinary Surgery &amp; Radiology, Madras Veterinary College, Chennai</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Ultrasonographic study of the abdomen was performed on 3130 dogs spanning the period from June 2017 to June 2019. Out of the total number of dogs, 121 (3.86%) dogs were suffering from various gastrointestinal affections, which included intussusception (8.26%), gastritis (9.9%), inflammatory bowel disease (21.5%), impaction (21.5%), foreign body obstruction (26.4%), gastric dilatation (7.4%) and neoplasms (5.0%). It was concluded that ultrasonography was a useful aid in the diagnosis of different gastrointestinal tract affections.</abstract>
+   <subject>
+      <topic>Foreign body</topic>
+   </subject>
+   <subject>
+      <topic>Intussusception</topic>
+   </subject>
+   <subject>
+      <topic>IBD</topic>
+   </subject>
+   <subject>
+      <topic>Neoplasm</topic>
+   </subject>
+   <subject>
+      <topic>Ultrasonography</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Veterinary Surgery</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Society for Veterinary Surgery</publisher>
+      </originInfo>
+      <identifier type="issn-p">0254-4105</identifier>
+      <identifier type="issn-e">0973-9726</identifier>
+      <identifier type="issn">0973-9726</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">12</text>
+         <extent unit="pages">
+            <start>136</start>
+            <end>137</end>
+            <total>2</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijvs-40-2-015</identifier>
+   <extension>
+      <archiveFile>ijvs-40-2-015</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/ijvs-40-2-015.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/</workingDirectory>
+   </extension>
+</mods>

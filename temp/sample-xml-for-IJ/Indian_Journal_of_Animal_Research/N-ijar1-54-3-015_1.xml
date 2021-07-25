@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Dose dependent effects of Spirulina Platensis on liver health in rats</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Nilay</namePart>
+      <namePart type="family">Seyidoglu</namePart>
+      <displayForm>Seyidoglu, Nilay</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sevda</namePart>
+      <namePart type="family">Inan</namePart>
+      <displayForm>Inan, Sevda</displayForm>
+      <affiliation>Tekirdag Namik Kemal University, Faculty of Veterinary, Department of Pathology, Degirmenalti Campus, Suleymanpasa, Tekirdag, Turkey</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nazmiye</namePart>
+      <namePart type="family">Gunes</namePart>
+      <displayForm>Gunes, Nazmiye</displayForm>
+      <affiliation>Bursa Uludag University, Faculty of Veterinary, Department of Biochemistry, Gorukle Campus, Nilufer, Bursa, Turkey</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-03</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Spirulina platensis which is an important microalgae is interested in both human and animal nutrition for health balance. This study's aimed to evaluate the dose dependent effects of S.platensis on body weight, height, waist circumference (WC), body mass index (BMI), waist/height ratio (WHtR), abdominal fat weight, liver weight, serum liver enzymes and liver histopathology. 30 male Wistar albino rats're used in groups; Control, SP-1(500mg/kgbw) and SP-2(1000mg/kgbw). S.platensis was administered by oral gavage daily. The body weight, height, WC, BMI, WHtR and abdominal lipid weight were calculated. Also, serum cholesterol, ALT and AST were measured. End of the study, liver tissue samples were taken and scaled and histopathologic changes were recorded. There were no differences in body conditions, but positively significant correlations were found among parameters. As the doses were considered, in groupSP-1, significant positively correlations were determined among abdominal fat, growth, height, BMI and WC statistically. Nevertheless, there were no significant changes in liver weight, serum and histopathologic analyzes. S.platensis with its high concentration of functional nutrients is called as an important alternative therapeutic food and it can be used safely.</abstract>
+   <subject>
+      <topic>Body condition</topic>
+   </subject>
+   <subject>
+      <topic>Cholesterol</topic>
+   </subject>
+   <subject>
+      <topic>Liver health</topic>
+   </subject>
+   <subject>
+      <topic>Microalgae</topic>
+   </subject>
+   <subject>
+      <topic>Spirulina platensis</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">03</text>
+         <extent unit="pages">
+            <start>349</start>
+            <end>353</end>
+            <total>5</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-3-015</identifier>
+   <identifier type="doi">10.18805/ijar.B-1055</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-1055</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-3-015</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-3-015.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

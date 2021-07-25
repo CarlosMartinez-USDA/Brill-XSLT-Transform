@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJSC</journal-id>
+      <journal-title>Indian Journal of Soil Conservation</journal-title>
+      <issn pub-type="ppub">0970-3349</issn>
+      <issn pub-type="epub">0976-1721</issn>
+      <publisher>
+        <publisher-name>Indian Associations of Soil &amp; Water Conservationists</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijsc-47-3-003</article-id>
+      <title-group>
+        <article-title>Comprehensive water balance based water budget for contingent planning in Ur river basin of Bundelkhand region</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kumar</surname>
+            <given-names>Sandeep</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Thomas</surname>
+            <given-names>T.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Singh</surname>
+            <given-names>R.M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gangwar</surname>
+            <given-names>Anshu</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1,</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bahadur</surname>
+            <given-names>Raj</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff001">
+        <sup>1</sup>
+        <deptname>Department of Farm Engineering</deptname>, <instname>Institute of Agricultural Sciences</instname>, <instparent>Banaras Hindu University</instparent>, <instcity>Varanasi</instcity>-<instpincode>221 005</instpincode>, <inststate>Uttar Pradesh</inststate></aff>
+      <aff id="aff002">
+        <sup>2</sup>
+        <instname>Central India Hydrology Regional Centre, National Institute of Hydrology</instname>, <instcity>Bhopal</instcity>-<instpincode>462 016</instpincode>, <inststate>Madhya Pradesh</inststate></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding author: E-mail: <email>anshu.knight@hotmail.com</email> (Anshu Gangwar)</corresp>
+        <fn>
+          <p>
+            <bold>Online published on 8 April, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>12</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>3</issue>
+      <fpage>222</fpage>
+      <lpage>230</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>This study employed field measurements and established techniques to estimate various water budget components in Ur river basin. The spatial information pertaining to the topography, land use and soil type were extracted using the Arc 9.3 GIS software which helped to quantify many of the water balance components. The water budgeting of the Ur river basin was done on a seasonal time scale for two seasons namely i.e. monsoon season (June to October) and non-monsoon season (November-May). The result showed the accuracy of un-accounted water during the estimation of the water budget components, and seemed to be satisfactory as it was limited to 6.94% of the seasonal rainfall, considering the complexities in estimation of all the major water balance components. The water budgeting study indicates that about 69.85 MCM of water flows down the stream (storage in tanks included in this value) in monsoon season. This study will help to gain a better understanding of the hydrologic processes occurring in the river basin for contingent planning of available water resources to different sectors.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>GIS Rainfall River basin Seasons Water balance components</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="9" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

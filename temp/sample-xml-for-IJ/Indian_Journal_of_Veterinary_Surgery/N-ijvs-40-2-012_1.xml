@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Surgical management of cutaneous tumours in mice</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Arvind</namePart>
+      <namePart type="family">Sharma</namePart>
+      <displayForm>Sharma, Arvind</displayForm>
+      <affiliation>Assistant Professor, Department of Veterinary Surgery and Radiology, Dr G C Negi College of Veterinary &amp; Animal Sciences</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Adarsh</namePart>
+      <namePart type="family">Kumar</namePart>
+      <displayForm>Kumar, Adarsh</displayForm>
+      <affiliation>Professor &amp; Head, Department of Veterinary Surgery and Radiology, Dr G C Negi College of Veterinary &amp; Animal Sciences</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.K.</namePart>
+      <namePart type="family">Sharma</namePart>
+      <displayForm>Sharma, S.K.</displayForm>
+      <affiliation>Professor (Retd.), Department of Veterinary Surgery and Radiology, Dr G C Negi College of Veterinary &amp; Animal Sciences</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Amit</namePart>
+      <namePart type="family">Kumar</namePart>
+      <displayForm>Kumar, Amit</displayForm>
+      <affiliation>Assistant Professor, Department of Veterinary Surgery and Radiology, Dr G C Negi College of Veterinary &amp; Animal Sciences</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The present study included surgical treatment of 20 white mice (16 females and 4 males), aged 3 months to one year, with cutaneous growths in the abdominal and pectoral regions. All the mice were assigned category II as per the ASA classification protocol. Xylazine (10 mg/kg b.wt) and ketamine (80 mg/kg b.wt) combination was used through intraperitoneal route for induction of anaesthesia. En-bloc resection of the growths was done in all cases. 4–0 PGA, polyglactin 910 and Prolene sutures were used to suture the muscles, facia and skin, respectively. Supplemental oxygen was provided during the recovery period. Complete recovery from anaesthesia occurred after 6.4 hr from the time of induction of anaesthesia. Three animals died within 7 days to 6 months post-surgery and three animals could not be followed up. All others recovered uneventfully. No recurrence of the growths was reported in the post-surgery period for up to one year.</abstract>
+   <subject>
+      <topic>Cutaneous tumours</topic>
+   </subject>
+   <subject>
+      <topic>Mice</topic>
+   </subject>
+   <subject>
+      <topic>Anaesthesia</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Veterinary Surgery</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Society for Veterinary Surgery</publisher>
+      </originInfo>
+      <identifier type="issn-p">0254-4105</identifier>
+      <identifier type="issn-e">0973-9726</identifier>
+      <identifier type="issn">0973-9726</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">12</text>
+         <extent unit="pages">
+            <start>128</start>
+            <end>130</end>
+            <total>3</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijvs-40-2-012</identifier>
+   <extension>
+      <archiveFile>ijvs-40-2-012</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/ijvs-40-2-012.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/</workingDirectory>
+   </extension>
+</mods>

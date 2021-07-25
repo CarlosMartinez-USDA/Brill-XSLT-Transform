@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Growth of Apis mellifera (L.) colonies influenced by honey extraction frequencies</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Sumit</namePart>
+      <namePart type="family">Saini</namePart>
+      <displayForm>Saini, Sumit</displayForm>
+      <affiliation>Central Insecticide Board and Registration Committee, Faridabad, 121 001, Haryana, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">O.P.</namePart>
+      <namePart type="family">Chaudhary</namePart>
+      <displayForm>Chaudhary, O.P.</displayForm>
+      <affiliation>Department of Entomology, Chaudhary Charan Singh Haryana Agricultural University, Hisar-125 004, Haryana, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vadde</namePart>
+      <namePart type="family">Anoosha</namePart>
+      <displayForm>Anoosha, Vadde</displayForm>
+      <affiliation>Project Coordinator Cell-Monitoring of Pesticide Residues at National level, Lal Bahadur Shastri Building, Pusa, New Delhi-110012, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-03</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Present re search was formulated to find out how honey extraction frequencies influence colony growth and honey production of European honey bee Apis mellifera colonies. Colonies were equalized in terms of food and brood before starting experiment and were subjected to three types of honey extraction frequencies namely single, two and regular/farmer's practices. Observations were recorded fortnightly throughout the honey flow season for two consecutive years (2014–16). As per present findings single extraction frequency have maximum mean honey area of 668.4 inches2 followed by twice extracted colonies (568.6) with significant difference and regular extraction (449.0) gives least honey. Honey peaks were observed during mid February (837.8–916.8 inches2) which remains significantly higher than honey areas in January and in March. As far as colony growth was concerned colonies with two extractions have high total brood areas of 436.4 inches2 and similar trend was followed in case of larvae, pupae and egg. Effect on pollen stores gave a different picture in contrast of other parameters here colonies with regular extraction were observed with significantly high pollen stores (99.3 inches2) than single extracted colonies (83.7 inches2). For high honey production single extraction was recommended and if colony multiplication was also an aim than twice extraction is best option as per findings.</abstract>
+   <subject>
+      <topic>Colony growth parameters</topic>
+   </subject>
+   <subject>
+      <topic>Honey extraction frequency</topic>
+   </subject>
+   <subject>
+      <topic>Honey production</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">03</text>
+         <extent unit="pages">
+            <start>373</start>
+            <end>378</end>
+            <total>6</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-3-020</identifier>
+   <identifier type="doi">10.18805/ijar.B-3771</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3771</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-3-020</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-3-020.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

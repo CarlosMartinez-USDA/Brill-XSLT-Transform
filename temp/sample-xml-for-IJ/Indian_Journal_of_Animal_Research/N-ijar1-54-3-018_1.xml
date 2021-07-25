@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Meloxicam induced toxicopathology studies in Wistar rats</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">S. Pramod</namePart>
+      <namePart type="family">Bharani</namePart>
+      <displayForm>Bharani, S. Pramod</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.K.</namePart>
+      <namePart type="family">Naik</namePart>
+      <displayForm>Naik, A.K.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.C.</namePart>
+      <namePart type="family">Parija</namePart>
+      <displayForm>Parija, S.C.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.K.</namePart>
+      <namePart type="family">Panda</namePart>
+      <displayForm>Panda, S.K.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-03</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Nonsteroidal anti-inflammatory drugs (NSAIDs) are the most commonly used class of drugs for treating inflammation and pain. Meloxicam has analgesic, anti-inflammatory and antipyretic properties and is a commonly used NSAID in veterinary practice. The present study was done to evaluate effect of meloxicam on toxico-pathological and hematological parameters in Wistar rats. Eighteen Wistar rats were equally divided into three groups i.e. Group I, Group II and Group III. Group I (negative control) rats received only Normal saline (0.9%) @ 1ml/kg. Group II (Low dose) received meloxicam@ 4 mg/kg B.W. and Group III (High dose) rats received meloxicam@8 mg/kg B.W. orally by gavage for 28 days. Dose-dependent clinical signs and lesions were observed after meloxicam treatment. Kidneys and liver were severely hemorrhagic at the high dose, while intestine and stomach had ulcers and erosions. Hematological values were altered after 28 days of administration. Total Erythrocyte Count (TEC), Packed Cell Volume (PCV), Haemoglobin values were decreased and TLC count was significantly increased in both doses of meloxicam treated groups in a dosedependent manner. It was concluded that meloxicam caused GIT lesions, nephrotoxicity, hepatotoxicity and variation in the hematological parameters at selected dose and duration.</abstract>
+   <subject>
+      <topic>Hepato-toxicity</topic>
+   </subject>
+   <subject>
+      <topic>Meloxicam</topic>
+   </subject>
+   <subject>
+      <topic>NSAID</topic>
+   </subject>
+   <subject>
+      <topic>Nephrotoxicity</topic>
+   </subject>
+   <subject>
+      <topic>Rats</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">03</text>
+         <extent unit="pages">
+            <start>363</start>
+            <end>366</end>
+            <total>4</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-3-018</identifier>
+   <identifier type="doi">10.18805/ijar.B-3766</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3766</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-3-018</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-3-018.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

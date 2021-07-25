@@ -1,0 +1,1657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.1"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="pmc">ijws</journal-id>
+         <journal-id journal-id-type="nlm-ta">ijws</journal-id>
+         <journal-id journal-id-type="publisher-id">ijws</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Indian Journal of Weed Science</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">0253-8040</issn>
+         <issn pub-type="epub">0974-8164</issn>
+         <publisher>
+            <publisher-name>Indian Society of Weed Science</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijws-42-1and2-001</article-id>
+         <title-group>
+            <article-title>Residues of sulfosulfuron, mesosulfuron+iodosulfuron and pinoxaden in soil,
+          wheat and successive crops</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib id="author-1" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Saini</surname>
+                  <given-names>Mandeep Kaur</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+               <xref ref-type="aff" rid="aff2">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib id="author-2" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Walia</surname>
+                  <given-names>U. S.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib id="author-3" xlink:type="simple">
+               <name name-style="western">
+                  <surname>Randhawa</surname>
+                  <given-names>S. K.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <sup>1</sup>
+            <deptname>Department of Agronomy</deptname>, <instname>Punjab Agricultural
+          University</instname>, <instcity>Ludhiana</instcity>-<instpincode>141 004</instpincode>
+          (<inststate>Punjab</inststate>), <instcountry>India</instcountry>
+         </aff>
+         <aff id="aff2">
+            <sup>2</sup>
+            <deptname>Department of Different</deptname>, <instname>Punjab Agricultural
+          University</instname>, <instcity>Ludhiana</instcity>-<instpincode>141 004</instpincode>
+        (<inststate>Punjab</inststate>), <instcountry>India</instcountry>
+         </aff>
+         <pub-date pub-type="epub" date-type="pub" iso-8601-date="2010-06-01">
+            <day>01</day>
+            <month>1-6</month>
+            <year iso-8601-date="2010">2010</year>
+         </pub-date>
+         <volume>42</volume>
+         <issue>1and2</issue>
+         <fpage>1</fpage>
+         <lpage>8</lpage>
+         <permissions>
+            <copyright-statement>© IndianJournals.com</copyright-statement>
+            <copyright-year>2010</copyright-year>
+            <copyright-holder>IndianJournals.com</copyright-holder>
+         </permissions>
+         <self-uri content-type="pdf" href="ijws-42-1and2-001" xlink:type="simple"/>
+         <abstract>
+            <title>Abstract</title>
+            <p>The experiment was conducted at the Research Farm, Department of Agronomy, PAU, Ludhiana,
+          during the rabi seasons of 2006–07 and 2007–08 to study the effect of different planting
+          patterns and straw management techniques on residues of different herbicides in soil at
+          different intervals and grain and straw at harvest and on growth and development of few
+          test crops through bioassay studies. The experiment was laid out in strip plot design with
+          planting patterns of wheat in main plots and weed control treatments in sub-plots.
+          Herbicidal treatments were applied as post-emergence at their respective doses. Residues
+          of sulfosulfuron, mesosulfuron+iodosulfuron and pinoxaden were detected at 1 day after
+          spray in soil depth 0–15 cm only but residues of herbicides were not detected in soil at
+          other observational periods i. e. 30 and 60 DAS and at harvest as well as in grain and
+          straw at harvest by analytic method. Nine kharif season crops viz., maize, bajra, sorghum,
+          cotton, summer moong, bhindi, <italic>dhaincha</italic>, bottle gourd and muskmelon were
+          sown after harvesting of wheat in four replications for bioassay studies. Bioassay studies
+          indicated no residual toxicity of pinoxaden on any test crop. However, application of
+          sulfosulfuron and mesosulfuron+iodosulfuron showed residual toxicity on maize, bajra,
+          sorghum and bottle gourd, whereas no residual toxicity of these two herbicides was
+          observed in cotton, summer moong, bhindi, <italic>dhaincha</italic> and muskmelon.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Bioassay</kwd>
+            <kwd>Wheat</kwd>
+            <kwd>Sulfosulfuron</kwd>
+            <kwd>Mesosulfuron+iodosulfuron pinoxaden</kwd>
+            <kwd>HPLC</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0"/>
+            <table-count count="5"/>
+            <ref-count count="13"/>
+            <page-count count="8"/>
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>INTRODUCTION</title>
+         <p>Wheat is one of the premier and widely cultivated cereal crops of the world. In India, it
+        is the second most important source of staple food next to rice and covers an area of 26.54
+        m ha with a production of 74.9 mt and an average yield of 26.71 q/ha (<xref ref-type="bibr" rid="b1">Anonymous, 2006</xref>). In Punjab, wheat was grown on an area of 3.49 m ha with
+        a total production of 15.7 mt and average yield was 45.07 q/ha during 2007–08 (<xref ref-type="bibr" rid="b2">Anonymous, 2008</xref>).</p>
+         <p>Wheat fields in north India are badly infested with wide range of grassy and non-grassy
+        weeds, in general, and <italic>Phalaris minor</italic> in particular. Due to morphological
+        similarity, this weed escapes manual weeding and hence its control through selective
+        herbicides is very important, otherwise drastic reduction in yield is expected. Many
+        herbicides have been recommended on wheat crop. Generally farmers use sulfosulfuron and
+        mesosulfuron + iodosulfuron to control <italic>P. minor</italic> and broad leaf weeds in
+        wheat, which belong to sulfonylurea group of herbicides and it is considered to be very long
+        residual group of herbicide. Continuous use of single herbicide may lead to build-up of
+        residues in the soil which may harm the succeeding crops. <xref ref-type="bibr" rid="b12">Walker <italic>et al.</italic> (1989)</xref> reported that sulfonylurea group of
+        herbicides is highly persistent in soil and may cause residual effect on the succeeding
+        crops like sugarbeet, red beet, lucern, etc. Ideally, an herbicide should remain
+        biologically active long enough to provide satisfactory weed control at least upto critical
+        period of crop-weed competition and after that period, it must degrade into non-toxic
+        compounds both in soil and plant biomass.</p>
+         <p>Keeping this in view, the residue of herbicides was estimated by analytic methods and
+        through bioassay.</p>
+      </sec>
+      <sec id="s2">
+         <title>MATERIALS AND METHODS</title>
+         <p>A field experiment was carried out during <bold>rabi</bold> seasons of 2006–07 and 2007–08
+        at Research Farm, Department of Agronomy, Punjab Agricultural University, Ludhiana. The
+        experiment consisting of five planting patterns viz., Zero till sowing with Happy Seeder
+        (combine harvested), Zero till sowing in standing stubbles (loose straw removed), Zero till
+        sowing (complete burning of rice straw), Bed sowing (rice straw removed) and Conventional
+        tillage (partial burning of rice straw) in main plots and weed control treatments viz.,
+        sulfosulfuron 25 g/ha, mesosulfuron+iodosulfuron 14.4 g/ha, pinoxaden 50 g/ha and control
+        (unweeded) in subplots was laid out in strip plot design with four replications. The sowing
+        of wheat variety PBW 502 was done on 31 October, 2006 and 9 November, 2007 with tractor
+        drawn zero till/Happy Seeder/ordinary drills as per treatment using seed rate of 100 kg/ha.
+        Herbicidal treatments (sulfosulfuron, mesosulfuron + iodosulfuron and pinoxaden) were
+        applied as post emergence (after first irrigation) 35 days after sowing at their respective
+        doses as per treatments. Spraying was done with the help of Knapsack sprayer fitted with
+        flat fan nozzle using 250 liters of water/ha.</p>
+         <p>The other agronomic practices were carried out regularly. After the application of
+        herbicide, the soil samples were collected from the experimental plots at 1, 30 and 60 days
+        after spray and at harvest from each plot from 0–15 and 15–30 cm depth with post-hole auger.
+        The soil samples were ground, sieved and subjected to analysis. Samples of wheat grain and
+        straw were taken at harvest.</p>
+         <sec id="s2a">
+            <title>Method of Extraction</title>
+            <sec id="s2a1">
+               <title>Sulfosulfuron</title>
+               <p>Fifty gram of ground sample of soil, grain or straw was weighed into a stoppered
+            conical flask and extracted with 100 ml of distilled water: acetonitrile mixture (1:1)
+            over an end-over-end mechanical shaker for 30 min. The sample was filtered into 500 ml
+            round bottom flask and rinsed with 50 ml of the same solvent. Then the volume was
+            reduced to 50 ml in a rotary evaporator.</p>
+               <p>
+                  <bold>Partitioning</bold>: The sample was transferred to a clear 250 ml separatory
+            funnel and was extracted with 50 ml portions of methylene chloride each time. The
+            combined extract was collected and concentrated to dryness by rotary evaporation.</p>
+               <p>
+                  <bold>Cleanup</bold>: A glass column packed with 2 g florisil was washed twice with 5 ml
+            portions of 2% methanol in methylene chloride followed by 5 ml of isooctane twice. After
+            the conditioning of the column, the sample was redissolved in 2 ml of methylene chloride
+            and diluted with 8 ml isooctane. The entire sample was then transferred into the column;
+            sulfosulfuron was eluted with 40 ml of 2% methanol in methylene chloride at a rate of 1
+            ml/min. The collected elute was evaporated to dryness by rotary evaporator.</p>
+               <p>
+                  <bold>HPLC</bold>: The sample was redissolved in 3 ml of 10% acetonitrile in water,
+            filtered and analyzed by HPLC using method of sulfosulfuron developed by <xref ref-type="bibr" rid="b7">Ramesh and Thulasiramaraja (2003)</xref>.</p>
+            </sec>
+            <sec id="s2a2">
+               <title>Mesosulfuron+Iodosulfuron</title>
+               <p>The representative sample (50 g) of each type of soil and grain and 10 g in case of
+            straw was accurately weighed into a 500 ml Erlenmeyer flask. Then extracted with 50 ml
+            acetonitrile: water (70: 30) over an endover-end shaker for about 30 min. The extract
+            was filtered through Whatman No. 41 filter paper and later on concentrated to a smaller
+            volume using vacuum rotary evaporator. The sample was dissolved in mobile phase and then
+            analysed by HPLC by Bayer Crop Science Limited.</p>
+            </sec>
+            <sec id="s2a3">
+               <title>Pinoxaden</title>
+               <p>The representative sample (50 g) of each type of soil and grain and 10 g in case of
+            straw was accurately weighed into a 500 ml Erlenmeyer flask. Then extracted with 100 ml
+            of 1 M HCl/acetonitrile solution and reflux for 2 h on a heating mantle with condenser.
+            The extract was cooled to room temperature.</p>
+               <p>
+                  <bold>Filtration</bold>: Three per cent ammonia solution was added till the pH of the
+            solution was adjusted to pH 3–4. The solid matter was allowed to precipitate.</p>
+               <p>
+                  <bold>Solid phase extraction</bold>: The samples were transferred on to a solid phase
+            extraction cartridge washed with 2 ml alcohol under vacuum. The samples were drawn along
+            with 1 ml of water rinsing under vacuum at a rate of 2 ml/min. About 2 ml of hexane was
+            added to a solid phase extraction cartridge and drawn through vacuum at a rate of 2
+            ml/min to the top frit. The column eluates were discarded.</p>
+               <p>Screw capped glass vials were placed to the SPE cartridge and 3 ml of dichloromethane:
+            ethyl acetate: formic acid (80: 20: 0.5) mixture was added and drawn under the vacuum at
+            a rate of 2 ml/min collecting the column eluates. High vacuum for approximately 510 sec
+            to remove any remaining solvent was applied from the cartridges. The residue in this
+            fraction was eluated.</p>
+               <p>One ml of HCl was added to the eluate fractions HPLC chromatograph parameters and mixed
+            thoroughly by capping the vials and shaking vigorously. The samples were evaporated
+            under a stream of dry air (&lt; 45<sup>?</sup>C) and the final volume of the sample was
+            adjusted to 2 ml using mobile phase by using HPLC method developed by Syngenta India
+            Ltd.</p>
+               <p>Chromatographic separation parameters for sulfosulfuron, mesosulfuron+iodosulfuron and
+            pinoxaden were analysed by HPLC.</p>
+            </sec>
+         </sec>
+         <sec id="s2b">
+            <title>HPLC chromatograph parameters</title>
+            <table-wrap id="ut1" position="float" orientation="portrait">
+               <table>
+                  <tbody>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Instrument</td>
+                        <td align="left" colspan="3" rowspan="1">Waters High Performance Liquid Chromatograph Model
+                  Water 2487 Dual</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Detector</td>
+                        <td align="left" colspan="3" rowspan="1">UV-VIS detector</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Column</td>
+                        <td align="left" colspan="3" rowspan="1">Phenomnex C<sub>18</sub> (25 cm length × 4.6 mm i.
+                  d.)</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Detector sensitivity</td>
+                        <td align="left" colspan="3" rowspan="1">0.01 A. U. F. S.</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Volume injected</td>
+                        <td align="left" colspan="3" rowspan="1">10 μl using fixed loop Rheodyne injector</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">HPLC chromatograph parameters</td>
+                        <td align="left" rowspan="1" colspan="1">Sulfosulfuron</td>
+                        <td align="left" rowspan="1" colspan="1">Mesosulfuron+iodosulfuron</td>
+                        <td align="left" rowspan="1" colspan="1">Pinoxaden</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Flow rate (ml/min)</td>
+                        <td align="left" rowspan="1" colspan="1">1.50</td>
+                        <td align="left" rowspan="1" colspan="1">1.00</td>
+                        <td align="left" rowspan="1" colspan="1">1.00</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Mobile phase (Acetonitrile: water)</td>
+                        <td align="left" rowspan="1" colspan="1">70: 30</td>
+                        <td align="left" rowspan="1" colspan="1">70: 30</td>
+                        <td align="left" rowspan="1" colspan="1">60: 40+1 ml formic acid/l</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Wavelength (nm)</td>
+                        <td align="left" rowspan="1" colspan="1">220</td>
+                        <td align="left" rowspan="1" colspan="1">220</td>
+                        <td align="left" rowspan="1" colspan="1">254</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </sec>
+         <sec id="s2c">
+            <title>Method of Calculation</title>
+            <p>During the process of routine sample analysis, wherever necessary, the concentration of
+          sample solution was adjusted and injected. To assure the integrity of the samples,
+          analytical standards were injected after each seven sample injections. The residues were
+          determined by using the below given formula:</p>
+            <disp-formula>
+               <alternatives>
+                  <graphic href="ijws-42-1and2-001-ueqn001"
+                           position="float"
+                           orientation="portrait"
+                           xlink:type="simple"/>
+               </alternatives>
+            </disp-formula>
+            <p>Where,</p>
+            <p>A<sub>1</sub>=Peak area of sample (μV-sec)</p>
+            <p>A<sub>2</sub>=Peak area of standard (μV-sec)</p>
+            <p>V=Volume of sample extracts (ml)</p>
+            <p>W=Weight of the sample (g)</p>
+            <p>C=Concentration of herbicide (ppm)</p>
+         </sec>
+         <sec id="s2d">
+            <title>Through Bioassay Studies</title>
+            <p>Nine <bold>kharif</bold> season crops viz., maize (<italic>Zea mays</italic> L.), bajra
+            <italic>(Pennisetum typhoides</italic> L.), sorghum <italic>(Sorghum bicolor</italic>
+          L.), cotton <italic>(Gossypium hirsutum),</italic> summer moong <italic>(Vigna
+            radiata</italic> L.), bhindi <italic>(Abelmoschus esculentus</italic> L.),
+            <italic>dhaincha (Sesbania aculeata),</italic> bottle gourd (<italic>Lagenaria
+            siceraria</italic>) and muskmelon (<italic>Cucumis melo</italic>) were sown on 17 April,
+          2007 and 2008 after harvesting wheat in four replications. Five plants of each test crops
+          were selected randomly in each plot and their height was recorded at the time of
+          termination of bioassay studies i. e. after 40 days after sowing. Ten plants/crop were
+          selected randomly and the fresh weight of above ground portion of these plants was taken
+          40 days after sowing during both the years and expressed in g/plant.</p>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>RESULTS AND DISCUSSION</title>
+         <p>The details of sample analysis and the residues of the herbicides under all the planting
+        patterns i. e. zero till sowing with Happy Seeder, sowing in standing stubbles, zero till
+        sowing, bed sowing and conventional tillage, respectively and at different soil depths (0–15
+        and 15–30 cm) are presented in <xref ref-type="table" rid="t1">Tables 1</xref> to <xref ref-type="table" rid="t3">3</xref>. Sulfosulfuron, mesosulfuron+iodosulfuron and pinoxaden
+        were found to exist in the 0–15 cm soil depth at 1 day after the spray. At this time,
+        concentration reduced to less than 0.02, 0.001 and 0.01 ppm in case of sulfosulfuron,
+        mesosulfuron+iodosulfuron and pinoxaden, respectively, which were the minimum detectable
+        limit. Sulfosulfuron was reported to exist in the 0–15 cm soil depth upto five days after
+        the spray. At subsequent samplings (30 and 60 days after spray and at harvest), the residue
+        of the herbicides under all the main plot treatments and at the soil depths (0–15 and 15–30
+        cm) was found to be below 0.02, 0.001 and 0.05 ppm in case of sulfosulfuron, mesosulfuron +
+        iodosulfuron and pinoxaden, respectively, which were the minimum detectable limit. Upon
+        analysis of samples, no residues of sulfosulfuron, mesosulfuron+ iodosulfuron and pinoxaden
+        were detected in soil 30 and 60 days after spray and at harvest (<xref ref-type="table" rid="t1">Tables 1</xref> to <xref ref-type="table" rid="t3">3</xref>) and in grain and
+        straw (<xref ref-type="table" rid="t4">Table 4</xref>) as in none of the samples the peak
+        was obtained at the respective retention time. There was lot of time gap between the time of
+        herbicide application and sampling and lot of rainfall was received during this period and
+        that might have helped in herbicide degradation and leaching down from surface layer.
+        Secondly, the temperature was also high during the months of March and April that also
+        helped in degradation of the herbicides. <xref ref-type="bibr" rid="b8">Saha <italic>et
+            al.</italic> (2003)</xref> reported that sulfosulfuron was thermally unstable. <xref ref-type="bibr" rid="b7">Ramesh and Thulasiramaraja (2003)</xref> reported that wheat
+        grain and soil samples collected at harvest showed no detectable residues of sulfosulfuron
+        when analysed at the detection limit. <xref ref-type="bibr" rid="b5">Kaur (2005)</xref> and
+          <xref ref-type="bibr" rid="b9">Singh (2007)</xref> reported that residues of sulfosulfuron
+        and mesosulfuron+iodosulfuron were below the detection limit when samples were taken at the
+        time of harvest.</p>
+         <table-wrap id="t1" position="float" orientation="portrait">
+            <label>Table 1.</label>
+            <caption>
+               <p>Residue of sulfosulfuron, mesosulfuron+ iodosulfuron and pinoxaden (ppm) in soil (0–15
+            and 15–30 cm depth) at different intervals as influenced by planting patterns of wheat
+            during 2006–07 and 2007–08</p>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <th align="left" rowspan="5" colspan="1">Herbicide</th>
+                     <th align="left" rowspan="5" colspan="1">Planting pattern</th>
+                     <th align="center" colspan="8" rowspan="1">2006–07</th>
+                     <th align="center" colspan="8" rowspan="1">2007–08</th>
+                  </tr>
+                  <tr>
+                     <th align="center" colspan="8" rowspan="1">Days after spray</th>
+                     <th align="center" colspan="8" rowspan="1">Days after spray</th>
+                  </tr>
+                  <tr>
+                     <th align="center" colspan="2" rowspan="1">1</th>
+                     <th align="center" colspan="2" rowspan="1">30</th>
+                     <th align="center" colspan="2" rowspan="1">60</th>
+                     <th align="center" colspan="2" rowspan="1">At harvest</th>
+                     <th align="center" colspan="2" rowspan="1">1</th>
+                     <th align="center" colspan="2" rowspan="1">30</th>
+                     <th align="center" colspan="2" rowspan="1">60</th>
+                     <th align="center" colspan="2" rowspan="1">At harvest</th>
+                  </tr>
+                  <tr>
+                     <th align="center" colspan="8" rowspan="1">Soil depth (cm)</th>
+                     <th align="center" colspan="8" rowspan="1">Soil depth (cm)</th>
+                  </tr>
+                  <tr>
+                     <th align="center" rowspan="1" colspan="1">0–15</th>
+                     <th align="center" rowspan="1" colspan="1">15–30</th>
+                     <th align="center" rowspan="1" colspan="1">0–15</th>
+                     <th align="center" rowspan="1" colspan="1">15–30</th>
+                     <th align="center" rowspan="1" colspan="1">0–15</th>
+                     <th align="center" rowspan="1" colspan="1">15–30</th>
+                     <th align="center" rowspan="1" colspan="1">0–15</th>
+                     <th align="center" rowspan="1" colspan="1">15–30</th>
+                     <th align="center" rowspan="1" colspan="1">0–15</th>
+                     <th align="center" rowspan="1" colspan="1">15–30</th>
+                     <th align="center" rowspan="1" colspan="1">0–15</th>
+                     <th align="center" rowspan="1" colspan="1">15–30</th>
+                     <th align="center" rowspan="1" colspan="1">0–15</th>
+                     <th align="center" rowspan="1" colspan="1">15–30</th>
+                     <th align="center" rowspan="1" colspan="1">0–15</th>
+                     <th align="center" rowspan="1" colspan="1">15–30</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="left" rowspan="5" colspan="1">Sulfosulfuron</td>
+                     <td align="left" rowspan="1" colspan="1">Zero till sowing with Happy Seeder</td>
+                     <td align="left" rowspan="1" colspan="1">0.03</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">0.03</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="1" colspan="1">Zero till sowing within standing stubbles</td>
+                     <td align="left" rowspan="1" colspan="1">0.02</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">0.03</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="1" colspan="1">Zero till sowing after burning</td>
+                     <td align="left" rowspan="1" colspan="1">0.03</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">0.05</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="1" colspan="1">Bed sowing</td>
+                     <td align="left" rowspan="1" colspan="1">0.03</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">0.04</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="1" colspan="1">Conventional tillage after partial burning</td>
+                     <td align="left" rowspan="1" colspan="1">0.04</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">0.03</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="5" colspan="1">Mesosulfuron+iodosulfuron</td>
+                     <td align="left" rowspan="1" colspan="1">Zero till sowing with Happy Seeder</td>
+                     <td align="left" rowspan="1" colspan="1">0.002</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">0.008</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="1" colspan="1">Zero till sowing with in standing stubbles</td>
+                     <td align="left" rowspan="1" colspan="1">0.005</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">0.008</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="1" colspan="1">Zero till sowing after burning</td>
+                     <td align="left" rowspan="1" colspan="1">0.005</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">0.008</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="1" colspan="1">Bed sowing</td>
+                     <td align="left" rowspan="1" colspan="1">0.004</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">0.006</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="1" colspan="1">Conventional tillage after partial burning</td>
+                     <td align="left" rowspan="1" colspan="1">0.002</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">0.008</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="5" colspan="1">Pinoxaden</td>
+                     <td align="left" rowspan="1" colspan="1">Zero till sowing with Happy Seeder</td>
+                     <td align="left" rowspan="1" colspan="1">0.05</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">0.06</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="1" colspan="1">Zero till sowing with in standing stubbles</td>
+                     <td align="left" rowspan="1" colspan="1">0.05</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">0.08</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="1" colspan="1">Zero till sowing after burning</td>
+                     <td align="left" rowspan="1" colspan="1">0.07</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">0.06</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="1" colspan="1">Bed sowing</td>
+                     <td align="left" rowspan="1" colspan="1">0.05</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">0.06</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="1" colspan="1">Conventional tillage after partial burning</td>
+                     <td align="left" rowspan="1" colspan="1">0.06</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">0.06</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <fn id="table-1fn1">
+                  <p>BDL: Below detectable limit.</p>
+                  <p>Minimum detectable limit for pinoxaden &lt; 0.05 ppm.</p>
+               </fn>
+            </table-wrap-foot>
+         </table-wrap>
+         <table-wrap id="t2" position="float" orientation="portrait">
+            <label>Table 2.</label>
+            <caption>
+               <p>Residue of herbicides (ppm) in wheat grain and straw in different planting patterns and
+            soil depths in wheat during 2006–07 and 2007–08</p>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <th align="left" rowspan="3" colspan="1">Planting pattern</th>
+                     <th align="center" colspan="6" rowspan="1">At harvest</th>
+                  </tr>
+                  <tr>
+                     <th align="center" colspan="2" rowspan="1">Sulfosulfuron</th>
+                     <th align="center" colspan="2" rowspan="1">Mesosulfuron+iodosulfuron</th>
+                     <th align="center" colspan="2" rowspan="1">Pinoxaden</th>
+                  </tr>
+                  <tr>
+                     <th align="center" rowspan="1" colspan="1">Grain</th>
+                     <th align="center" rowspan="1" colspan="1">Straw</th>
+                     <th align="center" rowspan="1" colspan="1">Grain</th>
+                     <th align="center" rowspan="1" colspan="1">Straw</th>
+                     <th align="center" rowspan="1" colspan="1">Grain</th>
+                     <th align="center" rowspan="1" colspan="1">Straw</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="left" rowspan="1" colspan="1">Zero till sowing with Happy Seeder</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="1" colspan="1">Zero till sowing within standing stubbles</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="1" colspan="1">Zero till sowing after burning</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="1" colspan="1">Bed sowing</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+                  <tr>
+                     <td align="left" rowspan="1" colspan="1">Conventional tillage after partial burning</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                     <td align="left" rowspan="1" colspan="1">BDL</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <fn id="table-2fn1">
+                  <p>BDL: Below detectable limit.</p>
+                  <p>Minimum detectable limit for sulfosulfuron &lt; 0.02 ppm, mesosulfuron+iodosulfuron
+              &lt; 0.001 ppm and pinoxaden &lt; 0.05 ppm.</p>
+               </fn>
+            </table-wrap-foot>
+         </table-wrap>
+         <sec id="s3a">
+            <title>Bioassay Studies</title>
+            <p>After the harvest of experimental wheat, nine succeeding crops viz., maize, bajra,
+          sorghum, cotton, summer moong, bhindi, dhaincha, bottle gourd and muskmelon were sown in
+          the each herbicide treated as well as untreated (control) plots immediately after wheat
+          harvest in all the planting pattern plots after seed bed prepration. The trial was
+          terminated 40 days after sowing after recording final plant height and fresh weight of 10
+          randomly selected plants and the results are discussed crop wise as under:</p>
+            <p>The differences in plant height and fresh weight/plant recorded 40 days after sowing due
+          to different planting patterns were found to be non-significant (<xref ref-type="table" rid="t3">Tables 3</xref> and <xref ref-type="table" rid="t4">4</xref>) in case of all
+          the succeeding crops.</p>
+            <p>Among the weed control treatments, the application of sulfosulfuron,
+          mesosulfuron+iodosulfuron to wheat resulted in significant reductions in plant height of
+          succeeding maize, bajra, sorghum and bottle gourd crops indicating thereby residual
+          effects of these herbicides (<xref ref-type="table" rid="t3">Table 3</xref>). <xref ref-type="bibr" rid="b5">Kaur (2005)</xref> reported that mesosulfuron+iodosulfuron
+          caused slight residual toxicity to the succeeding maize crop. <xref ref-type="bibr" rid="b10">Singh <italic>et al.</italic> (2003)</xref> noticed residual toxicity of
+          mesosulfuron+iodosulfuron at 15 and 30 g/ha applied to wheat on the growth of succeeding
+          maize crop. Plant height of succeeding bajra crop (<xref ref-type="bibr" rid="b4">Kaur
+              <italic>et al.,</italic> 2007</xref>), sorghum crop (<xref ref-type="bibr" rid="b3">Brar <italic>et al.,</italic> 2007</xref>) and bottle gourd (<xref ref-type="bibr" rid="b11">Singh and Walia, 2005</xref>) was significantly more in unsprayed plots as
+          compared to the crop sown in the plots where sulfosulfuron and mesosulfuron+iodosulfuron
+          were applied to wheat. Plant height of bhindi <italic>(okra),</italic> cotton, summer
+          moong, bhindi and <italic>dhaincha</italic> recorded 40 days after sowing was found to be
+          non-significant when raised after the application of sulfosulfuron and
+          mesosulfuron+iodosulfuron to wheat (<xref ref-type="bibr" rid="b6">Preet,
+          2006</xref>).</p>
+            <table-wrap id="t3" position="float" orientation="portrait">
+               <label>Table 3.</label>
+               <caption>
+                  <p>Effect of planting patterns and weed control treatments applied to wheat on plant
+              height of bioassay crops</p>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <th align="left" rowspan="2" colspan="1">Treatment</th>
+                        <th align="center" colspan="2" rowspan="1">Maize</th>
+                        <th align="center" colspan="2" rowspan="1">Bajra</th>
+                        <th align="center" colspan="2" rowspan="1">Sorghum</th>
+                        <th align="center" colspan="2" rowspan="1">Cotton</th>
+                        <th align="center" colspan="2" rowspan="1">Summer moong</th>
+                        <th align="center" colspan="2" rowspan="1">Bhindi</th>
+                        <th align="center" colspan="2" rowspan="1">
+                           <italic>Dhaincha</italic>
+                        </th>
+                        <th align="center" colspan="2" rowspan="1">Bottle gourd</th>
+                        <th align="center" colspan="2" rowspan="1">Muskmelon</th>
+                     </tr>
+                     <tr>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="left" colspan="18" rowspan="1">
+                           <bold>Planting pattern</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Zero till sowing with Happy Seeder</td>
+                        <td align="left" rowspan="1" colspan="1">37.4</td>
+                        <td align="left" rowspan="1" colspan="1">37.7</td>
+                        <td align="left" rowspan="1" colspan="1">46.7</td>
+                        <td align="left" rowspan="1" colspan="1">49.3</td>
+                        <td align="left" rowspan="1" colspan="1">36.4</td>
+                        <td align="left" rowspan="1" colspan="1">39.6</td>
+                        <td align="left" rowspan="1" colspan="1">22.7</td>
+                        <td align="left" rowspan="1" colspan="1">26.9</td>
+                        <td align="left" rowspan="1" colspan="1">32.4</td>
+                        <td align="left" rowspan="1" colspan="1">37.3</td>
+                        <td align="left" rowspan="1" colspan="1">15.8</td>
+                        <td align="left" rowspan="1" colspan="1">18.0</td>
+                        <td align="left" rowspan="1" colspan="1">50.2</td>
+                        <td align="left" rowspan="1" colspan="1">54.9</td>
+                        <td align="left" rowspan="1" colspan="1">84.8</td>
+                        <td align="left" rowspan="1" colspan="1">95.4</td>
+                        <td align="left" rowspan="1" colspan="1">64.3</td>
+                        <td align="left" rowspan="1" colspan="1">70.4</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Zero till sowing in standing stubbles</td>
+                        <td align="left" rowspan="1" colspan="1">37.3</td>
+                        <td align="left" rowspan="1" colspan="1">37.3</td>
+                        <td align="left" rowspan="1" colspan="1">46.0</td>
+                        <td align="left" rowspan="1" colspan="1">47.4</td>
+                        <td align="left" rowspan="1" colspan="1">35.6</td>
+                        <td align="left" rowspan="1" colspan="1">39.0</td>
+                        <td align="left" rowspan="1" colspan="1">21.8</td>
+                        <td align="left" rowspan="1" colspan="1">26.8</td>
+                        <td align="left" rowspan="1" colspan="1">32.0</td>
+                        <td align="left" rowspan="1" colspan="1">37.2</td>
+                        <td align="left" rowspan="1" colspan="1">15.0</td>
+                        <td align="left" rowspan="1" colspan="1">17.5</td>
+                        <td align="left" rowspan="1" colspan="1">50.4</td>
+                        <td align="left" rowspan="1" colspan="1">53.7</td>
+                        <td align="left" rowspan="1" colspan="1">84.3</td>
+                        <td align="left" rowspan="1" colspan="1">94.6</td>
+                        <td align="left" rowspan="1" colspan="1">64.7</td>
+                        <td align="left" rowspan="1" colspan="1">70.2</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Zero till sowing after burning</td>
+                        <td align="left" rowspan="1" colspan="1">34.9</td>
+                        <td align="left" rowspan="1" colspan="1">35.8</td>
+                        <td align="left" rowspan="1" colspan="1">43.4</td>
+                        <td align="left" rowspan="1" colspan="1">46.4</td>
+                        <td align="left" rowspan="1" colspan="1">32.8</td>
+                        <td align="left" rowspan="1" colspan="1">35.9</td>
+                        <td align="left" rowspan="1" colspan="1">21.2</td>
+                        <td align="left" rowspan="1" colspan="1">25.7</td>
+                        <td align="left" rowspan="1" colspan="1">29.4</td>
+                        <td align="left" rowspan="1" colspan="1">35.1</td>
+                        <td align="left" rowspan="1" colspan="1">12.2</td>
+                        <td align="left" rowspan="1" colspan="1">15.4</td>
+                        <td align="left" rowspan="1" colspan="1">49.0</td>
+                        <td align="left" rowspan="1" colspan="1">52.6</td>
+                        <td align="left" rowspan="1" colspan="1">80.9</td>
+                        <td align="left" rowspan="1" colspan="1">92.4</td>
+                        <td align="left" rowspan="1" colspan="1">61.8</td>
+                        <td align="left" rowspan="1" colspan="1">66.7</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Bed sowing</td>
+                        <td align="left" rowspan="1" colspan="1">35.8</td>
+                        <td align="left" rowspan="1" colspan="1">36.2</td>
+                        <td align="left" rowspan="1" colspan="1">45.5</td>
+                        <td align="left" rowspan="1" colspan="1">47.0</td>
+                        <td align="left" rowspan="1" colspan="1">35.4</td>
+                        <td align="left" rowspan="1" colspan="1">37.4</td>
+                        <td align="left" rowspan="1" colspan="1">22.9</td>
+                        <td align="left" rowspan="1" colspan="1">27.7</td>
+                        <td align="left" rowspan="1" colspan="1">31.9</td>
+                        <td align="left" rowspan="1" colspan="1">36.8</td>
+                        <td align="left" rowspan="1" colspan="1">14.7</td>
+                        <td align="left" rowspan="1" colspan="1">17.0</td>
+                        <td align="left" rowspan="1" colspan="1">51.9</td>
+                        <td align="left" rowspan="1" colspan="1">54.6</td>
+                        <td align="left" rowspan="1" colspan="1">82.4</td>
+                        <td align="left" rowspan="1" colspan="1">94.1</td>
+                        <td align="left" rowspan="1" colspan="1">63.6</td>
+                        <td align="left" rowspan="1" colspan="1">68.4</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Conventional tillage after partial burning</td>
+                        <td align="left" rowspan="1" colspan="1">34.5</td>
+                        <td align="left" rowspan="1" colspan="1">35.5</td>
+                        <td align="left" rowspan="1" colspan="1">42.1</td>
+                        <td align="left" rowspan="1" colspan="1">45.2</td>
+                        <td align="left" rowspan="1" colspan="1">32.8</td>
+                        <td align="left" rowspan="1" colspan="1">35.0</td>
+                        <td align="left" rowspan="1" colspan="1">20.7</td>
+                        <td align="left" rowspan="1" colspan="1">25.0</td>
+                        <td align="left" rowspan="1" colspan="1">29.2</td>
+                        <td align="left" rowspan="1" colspan="1">34.4</td>
+                        <td align="left" rowspan="1" colspan="1">12.9</td>
+                        <td align="left" rowspan="1" colspan="1">15.2</td>
+                        <td align="left" rowspan="1" colspan="1">48.7</td>
+                        <td align="left" rowspan="1" colspan="1">52.0</td>
+                        <td align="left" rowspan="1" colspan="1">80.1</td>
+                        <td align="left" rowspan="1" colspan="1">91.0</td>
+                        <td align="left" rowspan="1" colspan="1">61.0</td>
+                        <td align="left" rowspan="1" colspan="1">66.3</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">LSD (P=0.05)</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                     </tr>
+                     <tr>
+                        <td align="left" colspan="18" rowspan="1">
+                           <bold>Weed control treatments</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Sulfosulfuron</td>
+                        <td align="left" rowspan="1" colspan="1">32.3</td>
+                        <td align="left" rowspan="1" colspan="1">31.6</td>
+                        <td align="left" rowspan="1" colspan="1">37.1</td>
+                        <td align="left" rowspan="1" colspan="1">40.4</td>
+                        <td align="left" rowspan="1" colspan="1">26.4</td>
+                        <td align="left" rowspan="1" colspan="1">30.1</td>
+                        <td align="left" rowspan="1" colspan="1">22.1</td>
+                        <td align="left" rowspan="1" colspan="1">26.0</td>
+                        <td align="left" rowspan="1" colspan="1">30.1</td>
+                        <td align="left" rowspan="1" colspan="1">35.8</td>
+                        <td align="left" rowspan="1" colspan="1">12.4</td>
+                        <td align="left" rowspan="1" colspan="1">14.4</td>
+                        <td align="left" rowspan="1" colspan="1">50.2</td>
+                        <td align="left" rowspan="1" colspan="1">54.1</td>
+                        <td align="left" rowspan="1" colspan="1">82.4</td>
+                        <td align="left" rowspan="1" colspan="1">91.2</td>
+                        <td align="left" rowspan="1" colspan="1">62.1</td>
+                        <td align="left" rowspan="1" colspan="1">67.3</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Mesosulfuron+iodosulfuron</td>
+                        <td align="left" rowspan="1" colspan="1">30.0</td>
+                        <td align="left" rowspan="1" colspan="1">29.8</td>
+                        <td align="left" rowspan="1" colspan="1">35.2</td>
+                        <td align="left" rowspan="1" colspan="1">37.0</td>
+                        <td align="left" rowspan="1" colspan="1">23.2</td>
+                        <td align="left" rowspan="1" colspan="1">27.2</td>
+                        <td align="left" rowspan="1" colspan="1">21.6</td>
+                        <td align="left" rowspan="1" colspan="1">25.5</td>
+                        <td align="left" rowspan="1" colspan="1">29.0</td>
+                        <td align="left" rowspan="1" colspan="1">34.4</td>
+                        <td align="left" rowspan="1" colspan="1">10.4</td>
+                        <td align="left" rowspan="1" colspan="1">14.0</td>
+                        <td align="left" rowspan="1" colspan="1">50.3</td>
+                        <td align="left" rowspan="1" colspan="1">53.9</td>
+                        <td align="left" rowspan="1" colspan="1">79.2</td>
+                        <td align="left" rowspan="1" colspan="1">88.4</td>
+                        <td align="left" rowspan="1" colspan="1">60.2</td>
+                        <td align="left" rowspan="1" colspan="1">66.0</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Pinoxaden</td>
+                        <td align="left" rowspan="1" colspan="1">39.8</td>
+                        <td align="left" rowspan="1" colspan="1">41.5</td>
+                        <td align="left" rowspan="1" colspan="1">44.6</td>
+                        <td align="left" rowspan="1" colspan="1">48.2</td>
+                        <td align="left" rowspan="1" colspan="1">36.4</td>
+                        <td align="left" rowspan="1" colspan="1">40.2</td>
+                        <td align="left" rowspan="1" colspan="1">22.9</td>
+                        <td align="left" rowspan="1" colspan="1">26.7</td>
+                        <td align="left" rowspan="1" colspan="1">31.4</td>
+                        <td align="left" rowspan="1" colspan="1">36.2</td>
+                        <td align="left" rowspan="1" colspan="1">14.3</td>
+                        <td align="left" rowspan="1" colspan="1">16.4</td>
+                        <td align="left" rowspan="1" colspan="1">51.2</td>
+                        <td align="left" rowspan="1" colspan="1">54.8</td>
+                        <td align="left" rowspan="1" colspan="1">94.2</td>
+                        <td align="left" rowspan="1" colspan="1">100.1</td>
+                        <td align="left" rowspan="1" colspan="1">63.4</td>
+                        <td align="left" rowspan="1" colspan="1">69.0</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Control (unweeded)</td>
+                        <td align="left" rowspan="1" colspan="1">41.9</td>
+                        <td align="left" rowspan="1" colspan="1">43.2</td>
+                        <td align="left" rowspan="1" colspan="1">48.2</td>
+                        <td align="left" rowspan="1" colspan="1">51.4</td>
+                        <td align="left" rowspan="1" colspan="1">39.2</td>
+                        <td align="left" rowspan="1" colspan="1">42.1</td>
+                        <td align="left" rowspan="1" colspan="1">24.4</td>
+                        <td align="left" rowspan="1" colspan="1">27.4</td>
+                        <td align="left" rowspan="1" colspan="1">33.1</td>
+                        <td align="left" rowspan="1" colspan="1">37.1</td>
+                        <td align="left" rowspan="1" colspan="1">15.4</td>
+                        <td align="left" rowspan="1" colspan="1">18.3</td>
+                        <td align="left" rowspan="1" colspan="1">53.4</td>
+                        <td align="left" rowspan="1" colspan="1">56.0</td>
+                        <td align="left" rowspan="1" colspan="1">98.4</td>
+                        <td align="left" rowspan="1" colspan="1">104.5</td>
+                        <td align="left" rowspan="1" colspan="1">66.9</td>
+                        <td align="left" rowspan="1" colspan="1">71.7</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">LSD (P=0.05)</td>
+                        <td align="left" rowspan="1" colspan="1">2.2</td>
+                        <td align="left" rowspan="1" colspan="1">2.4</td>
+                        <td align="left" rowspan="1" colspan="1">5.5</td>
+                        <td align="left" rowspan="1" colspan="1">4.8</td>
+                        <td align="left" rowspan="1" colspan="1">3.9</td>
+                        <td align="left" rowspan="1" colspan="1">3.4</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">5.0</td>
+                        <td align="left" rowspan="1" colspan="1">5.4</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table-wrap-foot>
+                  <fn id="table-3fn1">
+                     <p>Interactions: All interactions are non-significant. 1-2006-07,11-2007-08.</p>
+                  </fn>
+               </table-wrap-foot>
+            </table-wrap>
+            <table-wrap id="t4" position="float" orientation="portrait">
+               <label>Table 4.</label>
+               <caption>
+                  <p>Effect of planting patterns and weed control treatments applied to wheat on fresh
+              weight of bioassay crops</p>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <th align="left" rowspan="2" colspan="1">Treatment</th>
+                        <th align="center" colspan="2" rowspan="1">Maize</th>
+                        <th align="center" colspan="2" rowspan="1">Bajra</th>
+                        <th align="center" colspan="2" rowspan="1">Sorghum</th>
+                        <th align="center" colspan="2" rowspan="1">Cotton</th>
+                        <th align="center" colspan="2" rowspan="1">Summer moong</th>
+                        <th align="center" colspan="2" rowspan="1">Bhindi</th>
+                        <th align="center" colspan="2" rowspan="1">
+                           <italic>Dhaincha</italic>
+                        </th>
+                        <th align="center" colspan="2" rowspan="1">Bottle gourd</th>
+                        <th align="center" colspan="2" rowspan="1">Muskmelon</th>
+                     </tr>
+                     <tr>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                        <th align="center" rowspan="1" colspan="1">I</th>
+                        <th align="center" rowspan="1" colspan="1">II</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="left" colspan="18" rowspan="1">
+                           <bold>Planting pattern</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Zero till sowing with Happy Seeder</td>
+                        <td align="left" rowspan="1" colspan="1">23.4</td>
+                        <td align="left" rowspan="1" colspan="1">32.1</td>
+                        <td align="left" rowspan="1" colspan="1">18.4</td>
+                        <td align="left" rowspan="1" colspan="1">20.4</td>
+                        <td align="left" rowspan="1" colspan="1">19.4</td>
+                        <td align="left" rowspan="1" colspan="1">21.4</td>
+                        <td align="left" rowspan="1" colspan="1">10.9</td>
+                        <td align="left" rowspan="1" colspan="1">13.9</td>
+                        <td align="left" rowspan="1" colspan="1">14.2</td>
+                        <td align="left" rowspan="1" colspan="1">18.4</td>
+                        <td align="left" rowspan="1" colspan="1">15.8</td>
+                        <td align="left" rowspan="1" colspan="1">18.0</td>
+                        <td align="left" rowspan="1" colspan="1">19.7</td>
+                        <td align="left" rowspan="1" colspan="1">23.7</td>
+                        <td align="left" rowspan="1" colspan="1">148.2</td>
+                        <td align="left" rowspan="1" colspan="1">164.5</td>
+                        <td align="left" rowspan="1" colspan="1">90.2</td>
+                        <td align="left" rowspan="1" colspan="1">70.7</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Zero till sowing in standing stubbles</td>
+                        <td align="left" rowspan="1" colspan="1">23.0</td>
+                        <td align="left" rowspan="1" colspan="1">33.3</td>
+                        <td align="left" rowspan="1" colspan="1">17.8</td>
+                        <td align="left" rowspan="1" colspan="1">20.1</td>
+                        <td align="left" rowspan="1" colspan="1">17.8</td>
+                        <td align="left" rowspan="1" colspan="1">21.1</td>
+                        <td align="left" rowspan="1" colspan="1">10.4</td>
+                        <td align="left" rowspan="1" colspan="1">12.6</td>
+                        <td align="left" rowspan="1" colspan="1">13.8</td>
+                        <td align="left" rowspan="1" colspan="1">18.1</td>
+                        <td align="left" rowspan="1" colspan="1">15.0</td>
+                        <td align="left" rowspan="1" colspan="1">17.5</td>
+                        <td align="left" rowspan="1" colspan="1">18.8</td>
+                        <td align="left" rowspan="1" colspan="1">22.8</td>
+                        <td align="left" rowspan="1" colspan="1">146.4</td>
+                        <td align="left" rowspan="1" colspan="1">162.4</td>
+                        <td align="left" rowspan="1" colspan="1">90.0</td>
+                        <td align="left" rowspan="1" colspan="1">70.4</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Zero till sowing after burning</td>
+                        <td align="left" rowspan="1" colspan="1">20.9</td>
+                        <td align="left" rowspan="1" colspan="1">30.7</td>
+                        <td align="left" rowspan="1" colspan="1">15.6</td>
+                        <td align="left" rowspan="1" colspan="1">16.4</td>
+                        <td align="left" rowspan="1" colspan="1">15.4</td>
+                        <td align="left" rowspan="1" colspan="1">18.4</td>
+                        <td align="left" rowspan="1" colspan="1">9.0</td>
+                        <td align="left" rowspan="1" colspan="1">11.9</td>
+                        <td align="left" rowspan="1" colspan="1">11.2</td>
+                        <td align="left" rowspan="1" colspan="1">16.2</td>
+                        <td align="left" rowspan="1" colspan="1">12.2</td>
+                        <td align="left" rowspan="1" colspan="1">15.4</td>
+                        <td align="left" rowspan="1" colspan="1">18.3</td>
+                        <td align="left" rowspan="1" colspan="1">21.1</td>
+                        <td align="left" rowspan="1" colspan="1">143.9</td>
+                        <td align="left" rowspan="1" colspan="1">160.5</td>
+                        <td align="left" rowspan="1" colspan="1">87.3</td>
+                        <td align="left" rowspan="1" colspan="1">66.7</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Bed sowing</td>
+                        <td align="left" rowspan="1" colspan="1">21.8</td>
+                        <td align="left" rowspan="1" colspan="1">31.6</td>
+                        <td align="left" rowspan="1" colspan="1">17.0</td>
+                        <td align="left" rowspan="1" colspan="1">19.9</td>
+                        <td align="left" rowspan="1" colspan="1">17.1</td>
+                        <td align="left" rowspan="1" colspan="1">20.5</td>
+                        <td align="left" rowspan="1" colspan="1">10.1</td>
+                        <td align="left" rowspan="1" colspan="1">12.1</td>
+                        <td align="left" rowspan="1" colspan="1">13.1</td>
+                        <td align="left" rowspan="1" colspan="1">17.6</td>
+                        <td align="left" rowspan="1" colspan="1">14.7</td>
+                        <td align="left" rowspan="1" colspan="1">17.0</td>
+                        <td align="left" rowspan="1" colspan="1">19.3</td>
+                        <td align="left" rowspan="1" colspan="1">22.6</td>
+                        <td align="left" rowspan="1" colspan="1">145.2</td>
+                        <td align="left" rowspan="1" colspan="1">162.3</td>
+                        <td align="left" rowspan="1" colspan="1">90.4</td>
+                        <td align="left" rowspan="1" colspan="1">68.4</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Conventional tillage after partial burning</td>
+                        <td align="left" rowspan="1" colspan="1">20.5</td>
+                        <td align="left" rowspan="1" colspan="1">30.2</td>
+                        <td align="left" rowspan="1" colspan="1">15.4</td>
+                        <td align="left" rowspan="1" colspan="1">15.2</td>
+                        <td align="left" rowspan="1" colspan="1">14.1</td>
+                        <td align="left" rowspan="1" colspan="1">18.0</td>
+                        <td align="left" rowspan="1" colspan="1">9.5</td>
+                        <td align="left" rowspan="1" colspan="1">11.2</td>
+                        <td align="left" rowspan="1" colspan="1">11.0</td>
+                        <td align="left" rowspan="1" colspan="1">15.2</td>
+                        <td align="left" rowspan="1" colspan="1">12.9</td>
+                        <td align="left" rowspan="1" colspan="1">15.2</td>
+                        <td align="left" rowspan="1" colspan="1">17.7</td>
+                        <td align="left" rowspan="1" colspan="1">20.0</td>
+                        <td align="left" rowspan="1" colspan="1">143.4</td>
+                        <td align="left" rowspan="1" colspan="1">160.4</td>
+                        <td align="left" rowspan="1" colspan="1">87.1</td>
+                        <td align="left" rowspan="1" colspan="1">66.4</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">LSD (P=0.05)</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                     </tr>
+                     <tr>
+                        <td align="left" colspan="18" rowspan="1">
+                           <bold>Weed control treatments</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Sulfosulfuron</td>
+                        <td align="left" rowspan="1" colspan="1">19.3</td>
+                        <td align="left" rowspan="1" colspan="1">25.3</td>
+                        <td align="left" rowspan="1" colspan="1">15.3</td>
+                        <td align="left" rowspan="1" colspan="1">17.4</td>
+                        <td align="left" rowspan="1" colspan="1">14.5</td>
+                        <td align="left" rowspan="1" colspan="1">18.8</td>
+                        <td align="left" rowspan="1" colspan="1">10.5</td>
+                        <td align="left" rowspan="1" colspan="1">12.3</td>
+                        <td align="left" rowspan="1" colspan="1">12.9</td>
+                        <td align="left" rowspan="1" colspan="1">16.2</td>
+                        <td align="left" rowspan="1" colspan="1">12.4</td>
+                        <td align="left" rowspan="1" colspan="1">14.4</td>
+                        <td align="left" rowspan="1" colspan="1">18.0</td>
+                        <td align="left" rowspan="1" colspan="1">22.8</td>
+                        <td align="left" rowspan="1" colspan="1">144.3</td>
+                        <td align="left" rowspan="1" colspan="1">165.3</td>
+                        <td align="left" rowspan="1" colspan="1">91.2</td>
+                        <td align="left" rowspan="1" colspan="1">107.3</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Mesosulfuron+iodosulfuron</td>
+                        <td align="left" rowspan="1" colspan="1">17.0</td>
+                        <td align="left" rowspan="1" colspan="1">23.4</td>
+                        <td align="left" rowspan="1" colspan="1">12.6</td>
+                        <td align="left" rowspan="1" colspan="1">16.0</td>
+                        <td align="left" rowspan="1" colspan="1">11.0</td>
+                        <td align="left" rowspan="1" colspan="1">15.5</td>
+                        <td align="left" rowspan="1" colspan="1">10.1</td>
+                        <td align="left" rowspan="1" colspan="1">11.3</td>
+                        <td align="left" rowspan="1" colspan="1">12.0</td>
+                        <td align="left" rowspan="1" colspan="1">14.4</td>
+                        <td align="left" rowspan="1" colspan="1">10.4</td>
+                        <td align="left" rowspan="1" colspan="1">14.0</td>
+                        <td align="left" rowspan="1" colspan="1">17.5</td>
+                        <td align="left" rowspan="1" colspan="1">20.1</td>
+                        <td align="left" rowspan="1" colspan="1">137.2</td>
+                        <td align="left" rowspan="1" colspan="1">158.0</td>
+                        <td align="left" rowspan="1" colspan="1">89.0</td>
+                        <td align="left" rowspan="1" colspan="1">103.4</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Pinoxaden</td>
+                        <td align="left" rowspan="1" colspan="1">24.8</td>
+                        <td align="left" rowspan="1" colspan="1">37.8</td>
+                        <td align="left" rowspan="1" colspan="1">23.1</td>
+                        <td align="left" rowspan="1" colspan="1">25.4</td>
+                        <td align="left" rowspan="1" colspan="1">21.1</td>
+                        <td align="left" rowspan="1" colspan="1">25.4</td>
+                        <td align="left" rowspan="1" colspan="1">11.7</td>
+                        <td align="left" rowspan="1" colspan="1">12.4</td>
+                        <td align="left" rowspan="1" colspan="1">14.4</td>
+                        <td align="left" rowspan="1" colspan="1">18.1</td>
+                        <td align="left" rowspan="1" colspan="1">14.3</td>
+                        <td align="left" rowspan="1" colspan="1">16.4</td>
+                        <td align="left" rowspan="1" colspan="1">18.8</td>
+                        <td align="left" rowspan="1" colspan="1">23.7</td>
+                        <td align="left" rowspan="1" colspan="1">168.4</td>
+                        <td align="left" rowspan="1" colspan="1">192.1</td>
+                        <td align="left" rowspan="1" colspan="1">92.3</td>
+                        <td align="left" rowspan="1" colspan="1">109.4</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">Control (unweeded)</td>
+                        <td align="left" rowspan="1" colspan="1">26.9</td>
+                        <td align="left" rowspan="1" colspan="1">39.9</td>
+                        <td align="left" rowspan="1" colspan="1">24.4</td>
+                        <td align="left" rowspan="1" colspan="1">26.3</td>
+                        <td align="left" rowspan="1" colspan="1">22.6</td>
+                        <td align="left" rowspan="1" colspan="1">28.2</td>
+                        <td align="left" rowspan="1" colspan="1">13.2</td>
+                        <td align="left" rowspan="1" colspan="1">14.2</td>
+                        <td align="left" rowspan="1" colspan="1">15.4</td>
+                        <td align="left" rowspan="1" colspan="1">19.5</td>
+                        <td align="left" rowspan="1" colspan="1">15.4</td>
+                        <td align="left" rowspan="1" colspan="1">18.3</td>
+                        <td align="left" rowspan="1" colspan="1">19.9</td>
+                        <td align="left" rowspan="1" colspan="1">26.7</td>
+                        <td align="left" rowspan="1" colspan="1">171.1</td>
+                        <td align="left" rowspan="1" colspan="1">195.4</td>
+                        <td align="left" rowspan="1" colspan="1">95.3</td>
+                        <td align="left" rowspan="1" colspan="1">112.0</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="1" colspan="1">LSD (P=0.05)</td>
+                        <td align="left" rowspan="1" colspan="1">2.1</td>
+                        <td align="left" rowspan="1" colspan="1">2.2</td>
+                        <td align="left" rowspan="1" colspan="1">2.7</td>
+                        <td align="left" rowspan="1" colspan="1">2.3</td>
+                        <td align="left" rowspan="1" colspan="1">4.0</td>
+                        <td align="left" rowspan="1" colspan="1">4.0</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">3.8</td>
+                        <td align="left" rowspan="1" colspan="1">4.1</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                        <td align="left" rowspan="1" colspan="1">NS</td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table-wrap-foot>
+                  <fn id="table-4fn1">
+                     <p>Interactions: All interactions are non-significant. 1-2006-07,11-2007-08.</p>
+                  </fn>
+               </table-wrap-foot>
+            </table-wrap>
+            <p>Lower fresh weight of maize was observed when it was grown after the application of
+          sulfosulfuron and mesosulfuron+iodosulfuron which was significantly low when sown in
+          control (unsprayed plots) as well as after the application of pinoxaden 50 g/ha (<xref ref-type="table" rid="t4">Table 4</xref>). <xref ref-type="bibr" rid="b13">Yadav
+              <italic>et al.</italic> (2004)</xref> also reported residual toxicity by sulfosulfuron
+          at 25 and 50 g/ha applied to wheat on the succeeding maize crop. The fresh weight of bajra
+          was significantly higher in the plot sown after the application of pinoxaden compared to
+          sulfosulfuron and mesosulfuron+iodosulfuron. The fresh weight of maize/plant growing in no
+          residue condition (unsprayed plots) and sprayed with pinoxaden was significantly higher
+          than the crop succeeding wheat treated with sulfosulfuron and mesosulfuron+ iodosulfuron
+          indicating residual effect of these herbicides. <xref ref-type="bibr" rid="b3">Brar
+              <italic>et al.</italic> (2007)</xref> noticed residual toxicity of sulfosulfuron
+          applied to wheat on the growth of succeeding sorghum crop. Similarly, no residual toxicity
+          of sulfosulfuron, mesosulfuron+ iodosulfuron and pinoxaden on cotton was reported by <xref ref-type="bibr" rid="b4">Kaur <italic>et al.</italic> (2007)</xref>. The fresh weight of
+          bottle gourd was significantly higher in the plot sown after the application of pinoxaden
+          than sown after the application of sulfosulfuron and mesosulfuron+iodosulfuron. <xref ref-type="bibr" rid="b11">Singh and Walia (2005)</xref> also reported that bottle gourd
+          was quite sensitive crop towards higher dose of sulfonylurea herbicide. The differences
+          due to variable weed control treatments were found to be non-significant with respect to
+          fresh weight of <italic>dhaincha</italic> (<xref ref-type="table" rid="t4">Table
+          4</xref>).</p>
+            <p>Interaction effects for plant height and fresh weight per plant due to planting patterns
+          and weed control treatments were found to be non-significant.</p>
+         </sec>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="b1">
+            <mixed-citation publication-type="report" xlink:type="simple">
+               <collab xlink:type="simple">Anonymous</collab>. <year>2006</year>. <article-title>Behaviour of sulfosulfuron
+            in sub-soil under the influence of wheat cropping system- identification and
+            quantification of potential transformation products responsible for phytotoxicity and
+            their bio-accumulation in fish</article-title>. <source>Annual
+            Report.</source>
+               <publisher-name>Department of Agronomy, Punjab Agric.
+            Univ.</publisher-name>, <publisher-loc>Ludhiana, India</publisher-loc>. pp.
+            <fpage>36</fpage>.</mixed-citation>
+         </ref>
+         <ref id="b2">
+            <mixed-citation publication-type="book" xlink:type="simple">
+               <collab xlink:type="simple">Anonymous</collab>. <year>2008</year>. <article-title>Package of Practices for
+            Crops of Punjab, Rabi 2007–08</article-title>. <publisher-name>Punjab Agric.
+            Univ.</publisher-name>, <publisher-loc>Ludhiana, India</publisher-loc>.</mixed-citation>
+         </ref>
+         <ref id="b3">
+            <mixed-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Brar</surname>
+                     <given-names>A. P.</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Punia</surname>
+                     <given-names>S. S.</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Yadav</surname>
+                     <given-names>A.</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Malik</surname>
+                     <given-names>R. K.</given-names>
+                  </string-name>
+               </person-group>. <year>2007</year>. <article-title>Persistence of sulfosulfuron applied in
+            wheat on succeeding crop of sorghum</article-title>. <source>Ind. J. Weed
+            Sci.</source>
+               <volume>39</volume>: <fpage>40</fpage>-<lpage>43</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b4">
+            <mixed-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Kaur</surname>
+                     <given-names>M.</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Walia</surname>
+                     <given-names>U. S.</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Sindhu</surname>
+                     <given-names>V. K.</given-names>
+                  </string-name>
+               </person-group>. <year>2007</year>. <article-title>Bioefficacy of herbicides for the
+            control of isoproturon resistant <italic>Phalaris minor</italic> Retz. and their
+            residual effects on succeeding crops</article-title>. <source>Ind. J. Weed
+            Sci.</source>
+               <volume>39</volume>:
+          <fpage>126</fpage>-<lpage>128</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b5">
+            <mixed-citation publication-type="thesis" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Kaur</surname>
+                     <given-names>T.</given-names>
+                  </string-name>
+               </person-group>
+               <year>2005</year>. <article-title>Studies on residual effects of sulfonylurea herbicide
+            applied to wheat on the succeeding kharif crops</article-title>. <source>Ph. D.
+            dissertation</source>, <publisher-name>Punjab Agric. Univ.</publisher-name>,
+            <publisher-loc>Ludhiana, India</publisher-loc>.</mixed-citation>
+         </ref>
+         <ref id="b6">
+            <mixed-citation publication-type="thesis" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Preet</surname>
+                     <given-names>A.</given-names>
+                  </string-name>
+               </person-group>
+               <year>2006</year>. <article-title>Control of <italic>Phalaris minor</italic> Retz. in
+            wheat with mesosulfuron+iodosulfuron as influenced by soil moisture levels and soil
+            types</article-title>. <source>M. Sc. thesis</source>, <publisher-name>Punjab Agric.
+            Univ.</publisher-name>, <publisher-loc>Ludhiana, India</publisher-loc>.</mixed-citation>
+         </ref>
+         <ref id="b7">
+            <mixed-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Ramesh</surname>
+                     <given-names>A.</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Thulasiramaraja</surname>
+                     <given-names>M. S.</given-names>
+                  </string-name>
+               </person-group>. <year>2003</year>. <article-title>Dissipation of sulfosulfuron in soil
+            and wheat plant under predominant cropping conditions and in a simulated model
+            ecosystem</article-title>. <source>J Agric. Food Chem.</source>
+               <volume>51</volume>:
+            <fpage>3396</fpage>-<lpage>3400</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b8">
+            <mixed-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Saha</surname>
+                     <given-names>S.</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Yadaraju</surname>
+                     <given-names>N. T.</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Kulshrestha</surname>
+                     <given-names>G.</given-names>
+                  </string-name>
+               </person-group>. <year>2003</year>. <article-title>Residue studies and efficacy of
+            sulfosulfuron in wheat crop</article-title>. <source>Pest. Res.
+            J.</source>
+               <volume>15</volume>: <fpage>173</fpage>-<lpage>175</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b9">
+            <mixed-citation publication-type="thesis" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Singh</surname>
+                     <given-names>A.</given-names>
+                  </string-name>
+               </person-group>
+               <year>2007</year>. <article-title>Influence of rice residue management and planting
+            techniques on herbicidal efficiency in relation to wheat (<italic>Triticum
+              aestivum</italic> L.) productivity</article-title>. <source>Ph. D.
+            dissertation</source>, <publisher-name>Punjab Agric. Univ.</publisher-name>,
+            <publisher-loc>Ludhiana, India</publisher-loc>.</mixed-citation>
+         </ref>
+         <ref id="b10">
+            <mixed-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Singh</surname>
+                     <given-names>G.</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Singh</surname>
+                     <given-names>V. P.</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Singh</surname>
+                     <given-names>M.</given-names>
+                  </string-name>
+               </person-group>. <year>2003</year>. <article-title>Studies on effect of mesosulfuron and
+            iodosulfuron on weeds in wheat, their compatibility with other chemicals and residual
+            effects on succeeding crops</article-title>. <source>Ind. J. Weed
+            Sci.</source>
+               <volume>35</volume>:
+          <fpage>173</fpage>-<lpage>178</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b11">
+            <mixed-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Singh</surname>
+                     <given-names>M.</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Walia</surname>
+                     <given-names>U. S.</given-names>
+                  </string-name>
+               </person-group>. <year>2005</year>. <article-title>Studies on carry-over effects of
+            sulfosulfuron on the succeeding crops</article-title>. <source>Extd. Summaries, ISWS,
+            Biennial Confr.</source>
+               <comment>April 6–9</comment>,
+            <publisher-name>PAU</publisher-name>, <publisher-loc>Ludhiana</publisher-loc>. pp.
+            <fpage>300</fpage>-<lpage>302</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b12">
+            <mixed-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Walker</surname>
+                     <given-names>A.</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Cotterill</surname>
+                     <given-names>E. G.</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Welch</surname>
+                     <given-names>J. S.</given-names>
+                  </string-name>
+               </person-group>. <year>1989</year>. <article-title>Adsorption and degradation of
+            chlorsulfuron and metsulfuron- methyl in soils from different depths</article-title>.
+            <source>Weed Res.</source>
+               <volume>29</volume>:
+          <fpage>281</fpage>-<lpage>287</lpage>.</mixed-citation>
+         </ref>
+         <ref id="b13">
+            <mixed-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Yadav</surname>
+                     <given-names>A.</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Malik</surname>
+                     <given-names>R. K.</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Punia</surname>
+                     <given-names>S. S.</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Mehta</surname>
+                     <given-names>R.</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Amarjeet</surname>
+                     <given-names>D. Bir</given-names>
+                  </string-name>
+                  <string-name>
+                     <surname>Bellinder</surname>
+                     <given-names>R. R.</given-names>
+                  </string-name>
+               </person-group>. <year>2004</year>. <article-title>Studies on carry-over effects of
+            herbicides applied in wheat on the succeeding crops in rotation</article-title>.
+            <source>Ind. J. Weed Sci.</source>
+               <volume>36</volume>:
+            <fpage>15</fpage>-<lpage>18</lpage>.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

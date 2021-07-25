@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Clinical evaluation of laparoscopic anterior gastric surface serosa to serosa plication along with ovariectomy in dogs</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">S.D.</namePart>
+      <namePart type="family">Tripathi</namePart>
+      <displayForm>Tripathi, S.D.</displayForm>
+      <affiliation>Assistant Professor, Department of Surgery and Radiology</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">L.B.</namePart>
+      <namePart type="family">Sarkate</namePart>
+      <displayForm>Sarkate, L.B.</displayForm>
+      <affiliation>Ex. Professor and Head, Retired Registrar, MAFSU</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">D.U.</namePart>
+      <namePart type="family">Lokhande</namePart>
+      <displayForm>Lokhande, D.U.</displayForm>
+      <affiliation>Professor, Department of Surgery and Radiology</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">G.S.</namePart>
+      <namePart type="family">Khandekar</namePart>
+      <displayForm>Khandekar, G.S.</displayForm>
+      <affiliation>Professor, Department of Surgery and Radiology</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.H.</namePart>
+      <namePart type="family">Dalvi</namePart>
+      <displayForm>Dalvi, S.H.</displayForm>
+      <affiliation>Professor, Department of Biochemistry</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.D.</namePart>
+      <namePart type="family">Patil</namePart>
+      <displayForm>Patil, A.D.</displayForm>
+      <affiliation>Professor, Department of Anatomy and Histology, Bombay Veterinary College, Mumbai</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Laparoscopic anterior gastric surface serosa to serosa plication along with ovariectomy was done in 8 female dogs under butorphanol sedation and propofol anaesthesia maintained with isoflurane (2.5%). There was reduced intake of food and reduction in body weight for a short period up to day 15; however, the food intake and body weight regained in subsequent intervals. The procedure in itself did not cause any adverse effect on the patients undergoing the surgical procedure.</abstract>
+   <subject>
+      <topic>Dog</topic>
+   </subject>
+   <subject>
+      <topic>Gastric plication</topic>
+   </subject>
+   <subject>
+      <topic>Laparoscopy</topic>
+   </subject>
+   <subject>
+      <topic>Ovariectomy</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Veterinary Surgery</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Society for Veterinary Surgery</publisher>
+      </originInfo>
+      <identifier type="issn-p">0254-4105</identifier>
+      <identifier type="issn-e">0973-9726</identifier>
+      <identifier type="issn">0973-9726</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">12</text>
+         <extent unit="pages">
+            <start>98</start>
+            <end>102</end>
+            <total>5</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijvs-40-2-005</identifier>
+   <extension>
+      <archiveFile>ijvs-40-2-005</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/ijvs-40-2-005.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.2 20060430//EN" "atypon_archive-interchange-dtd-2.2/archivearticle.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article"
+    dtd-version="2.2" xml:lang="EN">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">clim</journal-id>
+            <journal-title>Journal of Climate</journal-title>
+            <issn pub-type="ppub">0894-8755</issn>
+            <issn pub-type="epub">1520-0442</issn>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.1175/JCLI-D-11-00345.1</article-id>
+            <article-id pub-id-type="publisher-id">JCLI-D-11-00345</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>ARTICLES</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Convection&ndash;Climate Feedbacks in the ECHAM5 General Circulation
+                    Model: Evaluation of Cirrus Cloud Life Cycles with ISCCP Satellite Data from a
+                    Lagrangian Trajectory Perspective</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" corresp="yes" xlink:type="simple"><name
+                        name-style="western"
+                            ><given-names>Swati</given-names><x xml:space="preserve"> </x><surname>Gehlot</surname></name>&ast;<x xml:space="preserve"> and </x></contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <given-names>Johannes</given-names>
+                        <x xml:space="preserve"> </x>
+                        <surname>Quaas</surname>
+                    </name>
+                    <sup>&plus;</sup>
+                </contrib>
+                <aff>Max Planck Institute for Meteorology, Hamburg, Germany</aff>
+            </contrib-group>
+            <author-notes>
+                <fn id="n101">
+                    <label>&ast;</label>
+                    <p> Current affiliation: Institute for Oceanography, Universit&auml;t Hamburg,
+                        Germany.</p>
+                </fn>
+                <fn id="n102">
+                    <label>
+                        <sup>&plus;</sup>
+                    </label>
+                    <p> Current affiliation: Institute for Meteorology, Universit&auml;t Leipzig,
+                        Germany.</p>
+                </fn>
+                <corresp id="cor1"><italic>Corresponding author address:</italic> Swati Gehlot,
+                    Institute for Oceanography, Universit&auml;t Hamburg Bundesstrasse 53, Hamburg
+                    20146, Germany. E-mail: <email xlink:href="mailto:swati.gehlot@zmaw.de"
+                        xlink:type="simple">swati.gehlot@zmaw.de</email></corresp>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>08</month>
+                <year>2012</year>
+            </pub-date>
+            <volume>25</volume>
+            <issue>15</issue>
+            <fpage>5241</fpage>
+            <lpage>5259</lpage>
+            <history>
+                <date date-type="received">
+                    <day>21</day>
+                    <month>June</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>1</day>
+                    <month>December</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <copyright-statement>American Meteorological Society</copyright-statement>
+            <copyright-year>2012</copyright-year>
+            <related-article related-article-type="pdf" xlink:href="JCLI-D-11-00345.1.pdf"
+                xlink:type="simple"/>
+            <abstract>
+                <title>Abstract</title>
+                <p>A process-oriented climate model evaluation is presented, applying the
+                    International Satellite Cloud Climatology Project (ISCCP) simulator to pinpoint
+                    deficiencies related to the cloud processes in the ECHAM5 general circulation
+                    model. A Lagrangian trajectory analysis is performed to track the transitions of
+                    anvil cirrus originating from deep convective detrainment to cirrostratus and
+                    thin cirrus, comparing ISCCP observations and the ECHAM5 model. Trajectories of
+                    cloudy air parcels originating from deep convection are computed for both, the
+                    ISCCP observations and the model, over which the ISCCP joint histograms are used
+                    for analyzing the cirrus life cycle over 5 days. The cirrostratus and cirrus
+                    clouds originate from detrainment from deep convection decay and gradually thin
+                    out after the convective event over 3&ndash;4 days.</p>
+                <p>The effect of the convection&ndash;cirrus transitions in a warmer climate is
+                    analyzed in order to understand the climate feedbacks due to deep convective
+                    cloud transitions. An idealized climate change simulation is performed using a
+                    &plus;2-K sea surface temperature (SST) perturbation. The Lagrangian trajectory
+                    analysis over perturbed climate suggests that more and thicker cirrostratus and
+                    cirrus clouds occur in the warmer climate compared to the present-day climate.
+                    Stronger convection is noticed in the perturbed climate, which leads to an
+                    increased precipitation, especially on day&minus;2 and &minus;3 after the
+                    individual convective events. The shortwave and the longwave cloud forcings both
+                    increase in the warmer climate, with an increase of net cloud radiative forcing
+                    (NCRF), leading to an overall positive feedback of the increased cirrostratus
+                    and cirrus clouds from a Lagrangian transition perspective.</p>
+            </abstract>
+            <kwd-group>
+                <kwd>Clouds</kwd>
+                <x xml:space="preserve">; </x>
+                <kwd>Convection</kwd>
+                <x xml:space="preserve">; </x>
+                <kwd>Convective clouds</kwd>
+                <x xml:space="preserve">; </x>
+                <kwd>Feedback</kwd>
+                <x xml:space="preserve">; </x>
+                <kwd>Clouds</kwd>
+                <x xml:space="preserve">; </x>
+                <kwd>General circulation models</kwd>
+            </kwd-group>
+            <counts>
+                <page-count count="19"/>
+            </counts>
+        </article-meta>
+    </front>
+</article>

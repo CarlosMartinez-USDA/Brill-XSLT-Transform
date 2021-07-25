@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Studies on Allelopathic Effect of Aqueous Leaf Extract of Putranjiva Roxburghii Wall. on Seed Germination and Early Growth of Chickpea (Cicer Arietinum L.)</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Satyajit</namePart>
+      <namePart type="family">Oraon</namePart>
+      <displayForm>Oraon, Satyajit</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Subrata</namePart>
+      <namePart type="family">Mondal</namePart>
+      <displayForm>Mondal, Subrata</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The present study reveals the allelopathic effect of aqueous leaf extracts of Putranjiva roxburghii Wall. on seed germination and early growth stages of an economically important plant chickpea (Cicer arietinum L.). Aqueous leaf extracts at 0, 5, 10, 15, 25, 35, 50, 75 and 100% concentrations were applied to determine their effect on seed germination and early growth stages under laboratory conditions. Laboratory-based experiments with three replicates were used to arrange treatments accordingly. After 5 days of incubation the rate of seed germination, radicle length and hypocotyls length etc. of chickpea seeds were observed after treatment with aqueous leaf extracts. Highest inhibitory effect was noticed in 100% of aqueous leaf extract. Results indicated that the inhibitory effect was proportional to the concentration of the extracts. The water soluble leaf extracts contain allelochemicals, which inhibit the seed germination and reduced the early growth of chickpea.</abstract>
+   <subject>
+      <topic>Allelopathic effect</topic>
+   </subject>
+   <subject>
+      <topic>Cicer arietinum L</topic>
+   </subject>
+   <subject>
+      <topic>Early growth stages</topic>
+   </subject>
+   <subject>
+      <topic>Putranjiva roxburghii wall</topic>
+   </subject>
+   <subject>
+      <topic>Seed germination</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Agricultural Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-8245</identifier>
+      <identifier type="issn-e">0976-058X</identifier>
+      <identifier type="issn">0976-058X</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>193</start>
+            <end>198</end>
+            <total>6</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar2-54-2-010</identifier>
+   <identifier type="doi">10.18805/IJARe.A-5319</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/IJARe.A-5319</url>
+   </location>
+   <extension>
+      <archiveFile>ijar2-54-2-010</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/ijar2-54-2-010.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/</workingDirectory>
+   </extension>
+</mods>

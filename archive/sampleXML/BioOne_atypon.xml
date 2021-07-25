@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Archival NLM DTD Suite v2.2.0 20090301//EN" "http://dtd.nlm.nih.gov/archiving/2.2/archivearticle.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.2" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">aare</journal-id>
+<journal-title>Arctic, Antarctic, and Alpine Research</journal-title>
+<issn pub-type="ppub">1523-0430</issn>
+<issn pub-type="active"></issn>
+<publisher>
+<publisher-name> Institute of Arctic and Alpine Research (INSTAAR), University of Colorado</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1657/1938-4246-44.4.385</article-id>
+<title-group>
+<article-title>Drainage Network Structure and Hydrologic Behavior of Three Lake-Rich Watersheds on the Arctic Coastal Plain, Alaska</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western">
+<given-names>C. D.</given-names><x xml:space="preserve"> </x>
+<surname>Arp</surname>
+</name>
+<xref ref-type="aff" rid="aff1">
+<sup>&ast;,</sup>
+</xref>
+
+<sup>@</sup>
+<x xml:space="preserve">, </x> 
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<given-names>M. S.</given-names><x xml:space="preserve"> </x>
+<surname>Whitman</surname>
+</name>
+<xref ref-type="aff" rid="aff2">
+<sup>&dagger;</sup>
+</xref><x xml:space="preserve">, </x>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<given-names>B. M.</given-names><x xml:space="preserve"> </x>
+<surname>Jones</surname>
+</name>
+<xref ref-type="aff" rid="aff3">
+<sup>&Dagger;,</sup>
+</xref>
+<xref ref-type="aff" rid="aff4">
+<sup>&sect;</sup>
+</xref><x xml:space="preserve">, </x>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<given-names>R.</given-names><x xml:space="preserve"> </x>
+<surname>Kemnitz</surname>
+</name>
+<xref ref-type="aff" rid="aff2">
+<sup>&dagger;</sup>
+</xref><x xml:space="preserve">, </x>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<given-names>G.</given-names><x xml:space="preserve"> </x>
+<surname>Grosse</surname>
+</name>
+<xref ref-type="aff" rid="aff4">
+<sup>&sect;</sup>
+</xref><x xml:space="preserve"> and </x>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<given-names>F. E.</given-names><x xml:space="preserve"> </x>
+<surname>Urban</surname>
+</name>
+    <xref ref-type="aff" rid="aff5">
+</xref>
+</contrib>
+<aff id="aff1">
+Water and Environmental Research Center, University of Alaska Fairbanks, 306 Tanana Loop, Fairbanks, Alaska 99775, U.S.A.</aff>
+<aff id="aff2">
+<label>
+<sup>&dagger;</sup>
+</label>Bureau of Land Management, Arctic Field Office, 1150 University Avenue, Fairbanks, Alaska 99709, U.S.A.</aff>
+<aff id="aff3">
+<label>
+<sup>&Dagger;</sup>
+</label>Alaska Science Center, U.S. Geological Survey, 4210 University Drive, Anchorage, Alaska 99508, U.S.A.</aff>
+<aff id="aff4">
+<label>
+<sup>&sect;</sup>
+</label>Geophysical Institute, University of Alaska Fairbanks, 903 Koyukuk Drive, Fairbanks, Alaska 99775, U.S.A.</aff>
+<aff id="aff5">
+Earth Surface Processes Team, U.S. Geological Survey, Denver Federal Center, Denver, Colorado 80225, U.S.A.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="corr1">
+<label>
+<sup>@</sup>
+</label>Corresponding author: <email xlink:type="simple">cdarp@alaska.edu</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>11</month>
+<year>2012</year>
+</pub-date>
+<volume>44</volume>
+<issue>4</issue>
+<fpage>385</fpage>
+<lpage>398</lpage>
+<history>
+<date date-type="accepted">
+<month>7</month>
+<year>2012</year>
+</date>
+</history><self-uri content-type="pdf" xlink:href="1938-4246-44.4.385.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<title>Abstract</title>
+<p>Watersheds draining the Arctic Coastal Plain (ACP) of Alaska are dominated by permafrost and snowmelt runoff that create abundant surface storage in the form of lakes, wetlands, and beaded streams. These surface water elements compose complex drainage networks that affect aquatic ecosystem connectivity and hydrologic behavior. The 4676 km<sup>2</sup> Fish Creek drainage basin is composed of three watersheds that represent a gradient of the ACP landscape with varying extents of eolian, lacustrine, and fluvial landforms. In each watershed, we analyzed 2.5-m-resolution aerial photography, a 5-m digital elevation model, and river gauging and climate records to better understand ACP watershed structure and processes. We show that connected lakes accounted for 19 to 26% of drainage density among watersheds and most all channels initiate from lake basins in the form of beaded streams. Of the &gt; 2500 lakes in these watersheds, 33% have perennial streamflow connectivity, and these represent 66% of total lake area extent. Deeper lakes with over-wintering habitat were more abundant in the watershed with eolian sand deposits, while the watershed with marine silt deposits contained a greater extent of beaded streams and shallow thermokarst lakes that provide essential summer feeding habitat. Comparison of flow regimes among watersheds showed that higher lake extent and lower drained lake-basin extent corresponded with lower snowmelt and higher baseflow runoff. Variation in baseflow runoff among watersheds was most pronounced during drought conditions in 2007 with corresponding reduction in snowmelt peak flows the following year. Comparison with other Arctic watersheds indicates that lake area extent corresponds to slower recession of both snowmelt and baseflow runoff. These analyses help refine our understanding of how Arctic watersheds are structured and function hydrologically, emphasizing the important role of lake basins and suggesting how future lake change may impact hydrologic processes.</p>
+</abstract>
+<counts>
+<page-count count="14"></page-count></counts>
+</article-meta>
+</front>
+</article>

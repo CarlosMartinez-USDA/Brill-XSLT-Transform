@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Efficient pollinators of threatened taxa, Sarpagandha (Rauvolfia serpentina) under North Indian conditions</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Vadde</namePart>
+      <namePart type="family">Anoosha</namePart>
+      <displayForm>Anoosha, Vadde</displayForm>
+      <affiliation>Monitoring of Pesticide Residues at National Level, LBS Building Indian Agricultural Research Institute, Pusa-110 012, New Delhi, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sumit</namePart>
+      <namePart type="family">Saini</namePart>
+      <displayForm>Saini, Sumit</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">H.D.</namePart>
+      <namePart type="family">Kaushik</namePart>
+      <displayForm>Kaushik, H.D.</displayForm>
+      <affiliation>Department of Entomology, CCS Haryana Agricultural University, Hisar-125 044, Haryana, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>An experiment was carried out to investigate the diversity, abundance and pollination efficiency of different insect visitors/pollinators of Rauvolfia serpentina (Sarpagandha) during 2014 and 2015. This experiment was conducted at Medicinal Section, Department of G and PB, CCSHAU, Hisar. Sarpagandha flowers attracted wide varieties of insects belonging to 4 orders, 10 families, 16 genera and 17 species. Among them nine belongs to order Lepidoptera, one Coleoptera, two Diptera and two Hymenoptera. Lepidopterans came out to be the most abundant pollinators of this crop. Peak abundance of major insect pollinators was recorded at 1000h-1200h while minimum abundance was recorded at 0600h-0800h. Amegilla zonata had the highest number of loose pollen grains, 23.50 (‘000), sticking to its body followed by Papilio demoleus and Pieris sp. Papilio demoleus was reported as most efficient pollinator followed by Amegilla zonata and Pieris sp. based on the pollination index. Long proboscis of lepidopterans i.e., Papilio demoleus and small sized hymenopterans i.e., Amegilla zonata plays key role in pollination of Sarpagandha. Conservation of these pollinators in natural ecosystem is must for pollination of these threatened taxa.</abstract>
+   <subject>
+      <topic>Insect pollinators</topic>
+   </subject>
+   <subject>
+      <topic>Pollination efficiency</topic>
+   </subject>
+   <subject>
+      <topic>Pollen grains</topic>
+   </subject>
+   <subject>
+      <topic>Sarpagandha</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>4</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>482</start>
+            <end>487</end>
+            <total>6</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-4-017</identifier>
+   <identifier type="doi">10.18805/ijar.B-3772</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3772</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-4-017</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-4-017.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods version="3.5">
+  <titleInfo>
+    <title>Biochar</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart type="given">Amir</namePart>
+    <namePart type="family">Hass</namePart>
+    <displayForm>Hass, Amir</displayForm>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Javier</namePart>
+    <namePart type="given">M.</namePart>
+    <namePart type="family">Gonzalez</namePart>
+    <displayForm>Gonzalez, Javier M.</displayForm>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre>article</genre>
+  <originInfo>
+    <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <abstract>Biochar, a carbonaceous material produced by pyrolysis, can be used as soil amendment to improve soil properties. As some of the carbon is converted into a recalcitrant form rendering it more resistant to biodegradation, land application of biochar is promoted as a beneficial mean for carbon sequestration and as an offsetting mechanism for carbon emission. The agronomic efficacy of biochar and its effects on improving soil properties is highly process and feedstock dependent. Feedstock nutrient recovery in biochar tends to decrease with temperature while remaining nutrients redistribute into more recalcitrant and less readily available forms for plant uptake. Pyrolysis of biomass at higher temperature increases biochar liming capacity which contributes to increase the pH of dystrophic, acidic and highly weathered soils where biochar improvement of soil fertility has shown to be most pronounced and consistence. Biochar showed to improve several soil quality indicators including CEC, bulk density, and carbon content. When produced as the main product under slow pyrolysis conditions, biochar can be engineered to achieve desired characteristics; conversely, when produced as a byproduct in fast-pyrolysis, post-production augmentation procedures to improve desired biochar characteristics need to be considered in order to maximize biochar impact on soil fertility. Effect of pyrolysis conditions, feedstock source and composition on biochar characteristics and effect of biochar application on soil fertility are discussed.</abstract>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Book chapter</title>
+    </titleInfo>
+    <part>
+      <text type="year">2014</text>
+    </part>
+  </relatedItem>
+  <identifier type="aris">301440</identifier>
+  <accessCondition type="use and reproduction">Works produced by employees of the U.S. Government as
+    part of their official duties are not copyrighted within the U.S. The content of this document
+    is not copyrighted.</accessCondition>
+  <extension><submissionSource>USDA</submissionSource>
+    <note type="note">USDA Scientist Submission</note>
+    <note type="status">Accept - AGRICOLA</note>
+    <fileLocation note="ARS submission" usage="primary"
+      >http://submit-u.nal.usda.gov/system/files/submissions/Gonzalez%20Log%20301440%20978-1-63321-051-6_ch4.pdf</fileLocation>
+    <note type="note">No DOI</note><note type="note">Missing ISSN</note></extension>
+  <recordInfo>
+    <recordCreationDate encoding="w3cdtf">2014-07-17</recordCreationDate>
+    <recordChangeDate encoding="w3cdtf">2014-07-26</recordChangeDate>
+    <recordIdentifier>ns5024</recordIdentifier>
+    <recordOrigin>USDA submission converted from Drupal to MODS version 3.4 using submission2mods.xsl (Revision 1.002 2014/01/28)</recordOrigin>
+  </recordInfo>
+</mods>

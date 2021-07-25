@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Surgical correction of barbed wire injury induced parotid duct laceration in a buffalo</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Rohit</namePart>
+      <namePart type="family">Kumar</namePart>
+      <displayForm>Kumar, Rohit</displayForm>
+      <affiliation>Scientist, Division of Surgery</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.C.</namePart>
+      <namePart type="family">Saxena</namePart>
+      <displayForm>Saxena, A.C.</displayForm>
+      <affiliation>Scientist, Division of Surgery</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.A.</namePart>
+      <namePart type="family">Shah</namePart>
+      <displayForm>Shah, M.A.</displayForm>
+      <affiliation>PhD Scholar, Division of Surgery</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.</namePart>
+      <namePart type="family">Majid</namePart>
+      <displayForm>Majid, A.</displayForm>
+      <affiliation>MVSc Scholar, Division of Surgery</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.A.</namePart>
+      <namePart type="family">Basha</namePart>
+      <displayForm>Basha, M.A.</displayForm>
+      <affiliation>PhD Scholar, Division of Surgery</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">T.</namePart>
+      <namePart type="family">Rawat</namePart>
+      <displayForm>Rawat, T.</displayForm>
+      <affiliation>PhD Scholar, Division of Surgery</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">P.</namePart>
+      <namePart type="family">Kinjavdekar</namePart>
+      <displayForm>Kinjavdekar, P.</displayForm>
+      <affiliation>Principal Scientist, Division of Surgery</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.M.</namePart>
+      <namePart type="family">Pawde</namePart>
+      <displayForm>Pawde, A.M.</displayForm>
+      <affiliation>Principal Scientist, Division of Surgery</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="family">Amarpal</namePart>
+      <displayForm>Amarpal, </displayForm>
+      <affiliation>Principal Scientist and Head, Division of Surgery</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Veterinary Surgery</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Society for Veterinary Surgery</publisher>
+      </originInfo>
+      <identifier type="issn-p">0254-4105</identifier>
+      <identifier type="issn-e">0973-9726</identifier>
+      <identifier type="issn">0973-9726</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">12</text>
+         <extent unit="pages">
+            <start>147</start>
+            <end>147</end>
+            <total>1</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijvs-40-2-024</identifier>
+   <extension>
+      <archiveFile>ijvs-40-2-024</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/ijvs-40-2-024.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/</workingDirectory>
+   </extension>
+</mods>

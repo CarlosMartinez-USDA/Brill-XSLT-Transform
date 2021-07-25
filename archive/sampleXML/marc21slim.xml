@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+   <marc:leader>     naa a22        4500</marc:leader>
+   <marc:controlfield tag="008">141110e201101     |||||||||||||||||eng| </marc:controlfield>
+   <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">AGL</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Clinical, pathologic, and magnetic resonance imaging characteristics of canine disc extrusion accompanied by epidural hemorrhage or inflammation</marc:subfield>
+      <marc:subfield code="h">[electronic resource].</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mateo, Isidro</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lorenzo, Valentina</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Foradada, Laia</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Munoz, Alberto</marc:subfield>
+   </marc:datafield>
+  
+  
+  
+  
+  
+   <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Our aim was to characterize the magnetic resonance (MR) imaging features of canine disc extrusion accompanied by epidural hemorrhage or inflammation. We correlated the imaging characteristics of this type of disc extrusion in 46 dogs and compared these features with clinical signs and pathologic findings. Data from 50 control dogs with MR imaging features of a disc extrusion with no associated hemorrhage or inflammation, characterized by a T2-hypointense extradural mass, were used for comparison of the relative location of the two types of lesions and prognosis. Disc extrusion causing epidural hemorrhage or inflammation is more common in the caudal aspect of the lumbar spine than disc extrusions that do not cause signs of hemorrhage or inflammation (P&lt;0.05) in MR images. In dogs with disc extrusion and associated epidural hemorrhage or inflammation, there was no association between MR imaging features and signalment, the presence or absence of hemorrhage, or pathologic findings. The appearance of the lesion created by disc extrusion with epidural hemorrhage and inflammation encompasses a wide variety of imaging features, likely related to the duration of the hemorrhage and associated inflammatory changes. In 10 of 46 dogs these secondary changes masked identification of the disc extrusion itself in the MR images. An awareness of the variety of MR imaging features of disc extrusion accompanied by extradural hemorrhage or inflammation is important to avoid making an incorrect diagnosis and to facilitate a proper surgical approach. The prognosis of dogs with disc extrusion accompanied by hemorrhage or inflammation does not appear to be different than for dogs with disc extrusion and without imaging signs of epidural hemorrhage or inflammation.</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="650" ind1=" " ind2="3">
+      <marc:subfield code="a">dogs</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="650" ind1=" " ind2="3">
+      <marc:subfield code="a">hemorrhage</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="650" ind1=" " ind2="3">
+      <marc:subfield code="a">image analysis</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="650" ind1=" " ind2="3">
+      <marc:subfield code="a">inflammation</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="650" ind1=" " ind2="3">
+      <marc:subfield code="a">lumbar spine</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="650" ind1=" " ind2="3">
+      <marc:subfield code="a">magnetic resonance imaging</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="650" ind1=" " ind2="3">
+      <marc:subfield code="a">prognosis</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="650" ind1=" " ind2="3">
+      <marc:subfield code="a">surgery</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">p. 17-24.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="773" ind1="0" ind2=" ">
+      <marc:subfield code="t">Veterinary radiology &amp; ultrasound.</marc:subfield>
+      <marc:subfield code="g">2011 , v. 52, no. 1</marc:subfield>
+      <marc:subfield code="d">American College of Veterinary Radiology</marc:subfield>
+      <marc:subfield code="x">1058-8183</marc:subfield>
+      <marc:subfield code="7">nnas</marc:subfield>
+      <marc:subfield code="9">jnl48671</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="024" ind1="7" ind2=" ">
+      <marc:subfield code="a">10.1111/j.1740-8261.2010.01746.x</marc:subfield>
+      <marc:subfield code="2">doi</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://dx.doi.org/10.1111/j.1740-8261.2010.01746.x</marc:subfield>
+      <marc:subfield code="y">Available from publisher's Web site</marc:subfield>
+   </marc:datafield>
+  
+  
+
+</marc:record>

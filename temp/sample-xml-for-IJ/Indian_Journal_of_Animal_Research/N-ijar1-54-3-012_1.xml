@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>In vitro fermentation studies of ruminant diets replacing soybean meal with different levels of solvent extracted raw Karanj (Pongamia glabra) cake</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">V.K.</namePart>
+      <namePart type="family">Paswan</namePart>
+      <displayForm>Paswan, V.K.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Narayan</namePart>
+      <namePart type="family">Dutta</namePart>
+      <displayForm>Dutta, Narayan</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.K.</namePart>
+      <namePart type="family">Pattanaik</namePart>
+      <displayForm>Pattanaik, A.K.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">K.</namePart>
+      <namePart type="family">Sharma</namePart>
+      <displayForm>Sharma, K.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">P.K.</namePart>
+      <namePart type="family">Gupta</namePart>
+      <displayForm>Gupta, P.K.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-03</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Although, Karanj (Pongamia glabra) cake is an important proteinaceous feed resource for livestock but the presence of toxic principles such as karanjin, pongamol and trypsin inhibitors in raw solvent extracted karanj cake restricts its comprehensive use as safe animal feed resources. In the present investigation solvent extracted raw karanj cake was subjected to in vitro studies by incorporation in the concentrate mixture at four graded levels replacing soy bean meal on protein equivalent basis (25, 50, 75 and 100%) in order to understand the rumen fermentation pattern. The inclusion of graded levels of solvent extracted raw karanj cake in the concentrate mixture replacing protein in SBM even at 100% resulted no significant difference in rumen in vitro fermentation pattern in terms of substrate degradation and gas volume produced in 24 h, truly degradable organic matter in rumen (TDOMR; mg/200mg), TDOMR%, microbial biomass production (MBP; mg/200mg), efficiency of microbial biomass production (MBP/100mg TDOMR) and partitioning factor (PF).</abstract>
+   <subject>
+      <topic>In vitro gas production</topic>
+   </subject>
+   <subject>
+      <topic>Karanj cake</topic>
+   </subject>
+   <subject>
+      <topic>Pongamia glabra</topic>
+   </subject>
+   <subject>
+      <topic>Rumen fermentation pattern</topic>
+   </subject>
+   <subject>
+      <topic>Substrate degradation</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">03</text>
+         <extent unit="pages">
+            <start>331</start>
+            <end>334</end>
+            <total>4</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-3-012</identifier>
+   <identifier type="doi">10.18805/ijar.B-3779</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3779</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-3-012</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-3-012.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

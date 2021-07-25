@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJAR1</journal-id>
+         <journal-title>Indian Journal of Animal Research</journal-title>
+         <issn pub-type="ppub">0367-6722</issn>
+         <issn pub-type="epub">0976-0555</issn>
+         <publisher>
+            <publisher-name>Agricultural Research Communication Centre</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijar1-54-4-007</article-id>
+         <doi-group>
+            <article-doi>
+               <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                         ext-link-type="uri"
+                         xlink:href="http://dx.doi.org/10.18805/ijar.B-3796">10.18805/ijar.B-3796</ext-link>
+            </article-doi>
+         </doi-group>
+         <article-categories>
+            <subj-group>
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Genetic polymorphism in <italic>TLR2</italic> genes of HF cross bred cattle through PCR SSCP</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Jadhav</surname>
+                  <given-names>P.V.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1,</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Das</surname>
+                  <given-names>D.N.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Tarate</surname>
+                  <given-names>S.B.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff003">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff001">
+            <sup>1</sup>
+            <instname>College of Veterinary and Animal Sciences</instname>, <instaddress>Udgir</instaddress>-<instpincode>413 517</instpincode>, <instcity>Latur</instcity>, <inststate>Maharashtra</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <aff id="aff002">
+            <sup>2</sup>
+            <deptname>Department of Animal Genetics</deptname>, <instname>South Regional Station of National Dairy Research Institute</instname>, <instaddress>Adugodi</instaddress>, <instcity>Bangalore</instcity>-<instpincode>560 030</instpincode>, <inststate>Karnataka</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <aff id="aff003">
+            <sup>3</sup>
+            <instname>IISER</instname>, <instaddress>Pashan</instaddress>, <instcity>Pune</instcity>, <inststate>Maharashtra</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding Author: P.V. Jadhav, <instname>College of Veterinary and Animal Sciences</instname>, <instaddress>Udgir</instaddress>-<instpincode>413 517</instpincode>, <instcity>Latur</instcity>, <inststate>Maharashtra</inststate>, <instcountry>India</instcountry>. Email: <email>drprajaktavet@gmail.com</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 23 May, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>4</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>54</volume>
+         <issue>4</issue>
+         <fpage>430</fpage>
+         <lpage>433</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>
+               <italic>TLRs</italic> are cell-surface receptors which recognize a broad class of pathogen-associated molecular patterns (PAMPs) that activates innate and adaptive immune responses. Thorough perusal of literature suggests a possible role of TLR2 gene in resistance to infection due to gram positive bacteria. Bovine <italic>TLR2</italic> assigns to <italic>Bos taurus</italic> (BTA) chromosome 17 it spans over 13.2 kb of genomic DNA which includes 2 exons. The first exon is spread over 179bp while the second one is 3333bp. Molecular characterization of TLR2 gene, carried out by PCR-SSCP analysis, revealed presence of six SNPs viz., A827G (exon 2.2), C1088G (exon 2.3), C2155A (exon 2.5), G2281C (exon 2.5), G2410A (exon 2.6) and C2600T (exon 2.6). Gene and genotypic frequencies were determined by values for allele frequencies and hetrozygosity. The degree of heterozygosities, χ2 (Chi-square) test for Hardy Weinberg (HW) equilibrium and F statistics were performed for the HF crossbred population. Population genetic analysis demonstrated high degree of genetic differentiation in the population. The studied population displayed a deviation from the HW equilibrium.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Allelic frequencies</kwd>
+            <kwd>HF cattle</kwd>
+            <kwd>HW equilibrium</kwd>
+            <kwd>Shannon index</kwd>
+            <kwd>
+               <italic>TLR2.</italic>
+            </kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="4"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

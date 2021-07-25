@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJAR1</journal-id>
+         <journal-title>Indian Journal of Animal Research</journal-title>
+         <issn pub-type="ppub">0367-6722</issn>
+         <issn pub-type="epub">0976-0555</issn>
+         <publisher>
+            <publisher-name>Agricultural Research Communication Centre</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijar1-54-5-004</article-id>
+         <doi-group>
+            <article-doi>
+               <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                         ext-link-type="uri"
+                         xlink:href="http://dx.doi.org/10.18805/ijar.B-981">10.18805/ijar.B-981</ext-link>
+            </article-doi>
+         </doi-group>
+         <article-categories>
+            <subj-group>
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>+(−)Catechin raises body temperature, changes blood parameters, improves oocyte quality and reproductive performance of female mice</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Mohammed</surname>
+                  <given-names>A.A.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Al-Hozab</surname>
+                  <given-names>A.A.</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <aff>
+            <deptname>Department of Animal and Fish Production</deptname>, <instname>College of Agriculture and Food Sciences</instname>, <instparent>King Faisal University</instparent>, <instcountry>Saudi Arabia</instcountry>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">* Corresponding Author: A.A. Mohammed, <deptname>Department of Animal and Fish Production</deptname>, <instname>College of Agriculture and Food Sciences</instname>, <instparent>King Faisal University</instparent>, <instcountry>Saudi Arabia</instcountry>, Email: <email>aamohammed@kfu.edu.sa</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 30 June, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>5</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>54</volume>
+         <issue>5</issue>
+         <fpage>543</fpage>
+         <lpage>548</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>The present study aimed to explore changes in physiological and reproductive performances upon supplementation of +(−) cactechin (200 vs. 2000 mg/kg BW) in mice. In addition, body temperature, heart rate, blood oxygen and glucose were explored after general anesthesia of +(−)cactechin animals. Sixty albino female mice were classified into three groups; control group (G1) versus two +(−) cactechin groups [G2 (200 mg/kg BW) and G3 (2000 mg/kg BW)] for 15 days in aqueous solution. Changes of body temperature, heart rate, blood parameters, oocyte quality and reproductive performances were determined and recorded. In addition, changes of body temperature, heart rate, blood oxygen and glucose were measured after anesthesia. The results indicated that +(−)catechin supplementation resulted in significant increase in body temperature, blood oxygen and WBCs in addition to significant hypoglycemia. The oocytes quality and reproductive performances were improved upon +(−)catechin supplementation. +(−)catechin supplementation did not improve the negative side effects of anesthesia. In conclusion, supplementation of +(−)catechin could benefit physiological and reproductive performances in mice.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>+(−)catechin</kwd>
+            <kwd>Glucose</kwd>
+            <kwd>Oocytes</kwd>
+            <kwd>Oxygen</kwd>
+            <kwd>Quality</kwd>
+            <kwd>Reproduction</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="6"/>
+         </counts>
+      </article-meta>
+   </front>
+</article>

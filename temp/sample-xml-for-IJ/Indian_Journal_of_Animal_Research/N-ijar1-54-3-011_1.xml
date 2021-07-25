@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Feeding behavior and dry matter digestibility in sheep fed first and second cut reed canary grass (Phalaris arundinacea L.)</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">N.</namePart>
+      <namePart type="family">Tokita</namePart>
+      <displayForm>Tokita, N.</displayForm>
+      <affiliation>Department of Animal Science, Nippon Veterinary and Life Science University, Tokyo, 1808602, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">I.</namePart>
+      <namePart type="family">Yoshimura</namePart>
+      <displayForm>Yoshimura, I.</displayForm>
+      <affiliation>Fuji Animal Research Farm, Nippon Veterinary and Life Science University, Yamanashi, 4010338-, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">T.</namePart>
+      <namePart type="family">Tokita</namePart>
+      <displayForm>Tokita, T.</displayForm>
+      <affiliation>Faculty of Veterinary Science, Azabu University, Kanagawa, 2525201, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-03</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>We investigated the intake and digestibility of different reed canarygrass (RCG) growth stages by sheep. RCG was cultivated in an experimental field and harvested at the first and second cuts at each pre-blooming stage. Feeding behavior was monitored on adult female sheep, fed 3 kg each of fresh RCG three times daily. While the crude protein content and dry matter digestibility of RCG were significantly higher in leaf than in stem tissue of both first and second cut in harvesting times, neutral and acid detergent fiber contents were higher in stem than in leaf. The dry matter intake of RCG at the second cut (296.1g) was significantly higher than at the first cut (214.1 g). The eating time for consumption of RCG on dry matter at the second cut (54.9 min) was shorter than at the first cut (69.4 min). Consequently, at the second cut, the rate of biting (54.6 bites/min) was lower than at the first cut (64.8 bites/min). Bite size, expressed as dry matter intake per bite, ranged from 0.05 g at first cut to 0.10 g at second cut.</abstract>
+   <subject>
+      <topic>Chemical composition</topic>
+   </subject>
+   <subject>
+      <topic>Digestibility</topic>
+   </subject>
+   <subject>
+      <topic>Feeding behavior</topic>
+   </subject>
+   <subject>
+      <topic>Reed canary grass</topic>
+   </subject>
+   <subject>
+      <topic>Sheep</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">03</text>
+         <extent unit="pages">
+            <start>327</start>
+            <end>330</end>
+            <total>4</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-3-011</identifier>
+   <identifier type="doi">10.18805/ijar.B-995</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-995</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-3-011</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-3-011.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

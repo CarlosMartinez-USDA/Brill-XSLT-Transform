@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJAR2</journal-id>
+      <journal-title>Indian Journal of Agricultural Research</journal-title>
+      <issn pub-type="ppub">0367-8245</issn>
+      <issn pub-type="epub">0976-058X</issn>
+      <publisher>
+        <publisher-name>Agricultural Research Communication Centre</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijar2-54-2-016</article-id>
+      <doi-group>
+        <article-doi>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.18805/IJARe.A-5317">10.18805/IJARe.A-5317</ext-link>
+        </article-doi>
+      </doi-group>
+      <article-categories>
+        <subj-group>
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Effect of Nitrogen and Phosphorus Levels on Growth and Yield of Finger Millet [<italic>Eleusine coracana</italic> (L.)] During Summer</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Krishna</surname>
+            <given-names>K. Vamshi</given-names>
+          </name>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Deepthi</surname>
+            <given-names>C.H.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Reddy</surname>
+            <given-names>M. Devender</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Raju</surname>
+            <given-names>P.S.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pal</surname>
+            <given-names>Arunabha</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <deptname>Department of Agronomy</deptname>, <instname>M.S. Swaminathan School of Agriculture</instname>, <instparent>Centurion University of Technology and Management</instparent>, <instaddress>Parlakhemundi, Gajapati</instaddress>, <instcity>Sitapur</instcity>-<instpincode>761 211</instpincode>, <inststate>Odisha</inststate>, <instcountry>India</instcountry></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding Author: K. Vamshi Krishna, <deptname>Department of Agronomy</deptname>, <instname>M.S. Swaminathan School of Agriculture</instname>, <instparent>Centurion University of Technology and Management</instparent>, <instaddress>Parlakhemundi, Gajapati</instaddress>, <instcity>Sitapur</instcity>-<instpincode>761 211</instpincode>, <inststate>Odisha</inststate>, <instcountry>India</instcountry>. Email: <email>vamsin111@gmail.com</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 23 May, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>4</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>54</volume>
+      <issue>2</issue>
+      <fpage>227</fpage>
+      <lpage>231</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>A field experiment was conducted to study the effect of nitrogen and phosphorous on growth and yield of finger millet (<italic>Eleusine coracana</italic> (L.) at Centurion University, Paralakhemundi during summer (February-May), 2018. The combination of four nitrogen levels (0, 30, 60 and 90 kg ha-1) and three levels of phosphorus (0, 20 and 40 kg ha-1) were tested in Split plot design with three replications. There was a significant improvement in plant height and yield attributes with the application of 90 kg N ha<sup>−1</sup> as compared to lower levels of N application. With increase in levels of Phosphorus from 20 and 40 kg ha-1 has significantly increased yield. Significantly higher grain (1054kg ha<sup>−1</sup>) and straw yield (4369kg ha<sup>−1</sup>) were recorded with the application of 90kg N ha<sup>−1</sup> and 40 kg P<sub>2</sub>O<sub>5</sub> ha<sup>−1</sup> while, the minimum yield was observed with 0 kg N ha<sup>−1</sup> and 0 kg P<sub>2</sub>O<sub>5</sub> ha<sup>−1</sup>.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Finger millet</kwd>
+        <kwd>Nitrogen</kwd>
+        <kwd>Phosphorus</kwd>
+        <kwd>Summer</kwd>
+        <kwd>Gross</kwd>
+        <kwd>Net returns</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="5" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

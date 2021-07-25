@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJAR1</journal-id>
+      <journal-title>Indian Journal of Animal Research</journal-title>
+      <issn pub-type="ppub">0367-6722</issn>
+      <issn pub-type="epub">0976-0555</issn>
+      <publisher>
+        <publisher-name>Agricultural Research Communication Centre</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijar1-54-4-020</article-id>
+      <doi-group>
+        <article-doi>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.18805/ijar.B-1063">10.18805/ijar.B-1063</ext-link>
+        </article-doi>
+      </doi-group>
+      <article-categories>
+        <subj-group>
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Effect of age at first calving and other non-genetic factors on longevity and production traits in Holstein cattle under Vojvodina Province condition, Serbia</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kucevic</surname>
+            <given-names>D.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dragin</surname>
+            <given-names>S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pihler</surname>
+            <given-names>I.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cobanovic</surname>
+            <given-names>K.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Papovic</surname>
+            <given-names>T.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gantner</surname>
+            <given-names>V.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mirkov</surname>
+            <given-names>M.</given-names>
+          </name>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff001">
+        <sup>1</sup>
+        <instname>University of Novi Sad</instname>, <deptname>Faculty of Agriculture, Department of Animal Science</deptname>, <instaddress>Trg D. Obradovica 8</instaddress>, <instpincode>21000</instpincode>, <instcity>Novi Sad</instcity>, <instcountry>Serbia</instcountry></aff>
+      <aff id="aff002">
+        <sup>2</sup>
+        <instname>Josip Juraj Strossmayer University of Osijek</instname>, <deptname>Faculty of Agrobiotechnical Sciences Osijek</deptname>, <instaddress>Vladimira Preloga 1</instaddress>, <instpincode>31000</instpincode>, <instcity>Osjek</instcity>, <instcountry>Croatia</instcountry></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding Author: M. Mirkov, <instname>University of Novi Sad</instname>, <deptname>Faculty of Agriculture, Department of Animal Science</deptname>, <instaddress>Trg D. Obradovica 8</instaddress>, <instpincode>21000</instpincode>, <instcity>Novi Sad</instcity>, <instcountry>Serbia</instcountry>. Email: <email>denis.kucevic@stocarstvo.edu.rs</email> and <email>mile.mirkov@stocarstvo.edu.rs</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 23 May, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>4</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>54</volume>
+      <issue>4</issue>
+      <fpage>499</fpage>
+      <lpage>505</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>The effect of age at first calving (AFC) and various non-genetic factors i.e. season of calving, farm and system of housing on longevity and production traits were investigated. Longevity traits were studied using total lifetime (TL), length of productive life (LPL) and number of lactations (NL) while production was researched using lifetime milk yield (LMY). Data of 2037 Holstein dairy cows were provided by the main breeding organizations at the Faculty of Agriculture, University of Novi Sad. The average values and variability of examined traits as well as the effect of factors on longevity and production traits were investigated using fixed effect model by general linear model (GLM) procedure in software package Statistica 13. Results showed highly significant effect of the AFC, calving season and farm, on all studied longevity traits (P&gt;0.01), while non-significant effect was expressed on lifetime milk yield (P&lt;0.05). The mean of AFC, TL, LPL, NL and LMY for Holstein cows were 27.3, 67.5, 40.2 months, 2.45 and 18798.0 kg, respectively. Themaximum values of LPL, NL and LMY were noticed for cows with age at first calving before 23 months of age. The LPL ranged from 47.88 (AFC&gt;23 m) to 35.84 m (AFC&lt;29 m) and declined progressively when the AFC is increased, particularly in cows calving at more than 29 m.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Age</kwd>
+        <kwd>Calving</kwd>
+        <kwd>Holstein</kwd>
+        <kwd>Lifetime yield</kwd>
+        <kwd>Longevity</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="7" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

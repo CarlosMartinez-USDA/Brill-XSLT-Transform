@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>The Impact of UV Irradiation of Winter Wheat Seeds on Enzymatic Activity in the Germination Period</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">E.N.</namePart>
+      <namePart type="family">Simonova</namePart>
+      <displayForm>Simonova, E.N.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.M.</namePart>
+      <namePart type="family">Ayrapetyan</namePart>
+      <displayForm>Ayrapetyan, M.M.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.A.</namePart>
+      <namePart type="family">Eroshenko</namePart>
+      <displayForm>Eroshenko, A.A.</displayForm>
+      <affiliation>Department of Food Technology and Equipment, Federal State Budget Educational Institution of Higher Education, K.G. Razumovsky Moscow State University of Technologies and Management (the First Cossack University)</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">N.S.</namePart>
+      <namePart type="family">Vertiy</namePart>
+      <displayForm>Vertiy, N.S.</displayForm>
+      <affiliation>Department of Biotechnology and Chemistry, Federal State Budget Educational Institution of Higher Education, K.G. Razumovsky Moscow State University of Technologies and Management (the First Cossack University)</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>There have been conducted comprehensive studies of the effect of UV irradiation on enzymatic activity in the germination period of winter wheat seeds under different irradiation regimes. They have identified the maximum increase in amylase activity on the fourth day from the beginning of seed germination in variants with three and five minute UV irradiation and this indicator's value exceeded that of the control variant on 58.6% and 64.1%, respectively. Catalase activity was of its maximum value by the fourth day from the beginning of seed germination in variants with three and five minute UV irradiation and exceeded the value of the control variant on 14.7% and 17.7%, respectively. Peroxidase activity was of its maximum on the eighth day from the beginning of seed germination in all experimental variants. In a variant with three minute UV irradiation, peroxidase activity exceeded the control values of this indicator on 50% and in a variant with five minute UV irradiation on 55%. The use of a mercury-quartz lamp BNPO 2-30-001U3.5 to stimulate physio-logical and biochemical processes in germinating seeds made it possible to identify different enzymatic activities depending on the time exposure to UV irradiation.</abstract>
+   <subject>
+      <topic>Amylase</topic>
+   </subject>
+   <subject>
+      <topic>Catalase</topic>
+   </subject>
+   <subject>
+      <topic>Enzymes</topic>
+   </subject>
+   <subject>
+      <topic>Peroxidase</topic>
+   </subject>
+   <subject>
+      <topic>Ultraviolet irradiation</topic>
+   </subject>
+   <subject>
+      <topic>Winter wheat</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Agricultural Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-8245</identifier>
+      <identifier type="issn-e">0976-058X</identifier>
+      <identifier type="issn">0976-058X</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>232</start>
+            <end>236</end>
+            <total>5</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar2-54-2-017</identifier>
+   <identifier type="doi">10.18805/IJARe.A-467</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/IJARe.A-467</url>
+   </location>
+   <extension>
+      <archiveFile>ijar2-54-2-017</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/ijar2-54-2-017.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/</workingDirectory>
+   </extension>
+</mods>

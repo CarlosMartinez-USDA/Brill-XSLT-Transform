@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJAR1</journal-id>
+         <journal-title>Indian Journal of Animal Research</journal-title>
+         <issn pub-type="ppub">0367-6722</issn>
+         <issn pub-type="epub">0976-0555</issn>
+         <publisher>
+            <publisher-name>Agricultural Research Communication Centre</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijar1-54-4-021</article-id>
+         <doi-group>
+            <article-doi>
+               <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                         ext-link-type="uri"
+                         xlink:href="http://dx.doi.org/10.18805/ijar.B-3787">10.18805/ijar.B-3787</ext-link>
+            </article-doi>
+         </doi-group>
+         <article-categories>
+            <subj-group>
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>First report of contagious ecthyma (orf) outbreak in goats of Andaman and Nicobar Islands</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Sunder</surname>
+                  <given-names>Jai</given-names>
+               </name>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Sujatha</surname>
+                  <given-names>T.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>De</surname>
+                  <given-names>A.K.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Bhattacharya</surname>
+                  <given-names>D.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Bhowmick</surname>
+                  <given-names>S.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Perumal</surname>
+                  <given-names>P.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Kundu</surname>
+                  <given-names>A.</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <aff>
+            <instname>ICAR-Central Island Agricultural Research Institute</instname>, <instcity>Port Blair</instcity>-<instpincode>744105</instpincode>, <inststate>Andaman and Nicobar Islands</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding Author: Jai Sunder, <instname>ICAR-Central Island Agricultural Research Institute</instname>, <instcity>Port Blair</instcity>-<instpincode>744 105</instpincode>, <inststate>Andaman and Nicobar Islands</inststate>, <instcountry>India</instcountry>. Email: <email>jaisunder@rediffmail.com</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 23 May, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>4</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>54</volume>
+         <issue>4</issue>
+         <fpage>503</fpage>
+         <lpage>507</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>Goat constitutes almost 42.1% of the total livestock population of the A and N islands. Generally the livestock are free from many dreaded diseases which are prevalent in mainland, India. However, in the present study the outbreak of contagious ecthyma (orf) in goats of Andaman and Nicobar Islands was investigated and confirmed by PCR assay. The outbreak of orf was reported from different villages of the South Andaman. A total of 171 clinical cases of contagious ecthyma were reported during the different outbreak reported during the year 2017. The scab samples from the affected goats were collected and processed for extraction of viral DNA. Nested PCR assay was done by using the forward and reverse primers of parapox virus. The results revealed the confirmation of the outbreak of Contagious ecthyma (orf) virus in the goats of Andaman and Nicobar Islands for the first time.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Andaman</kwd>
+            <kwd>Contagious ecthyma (orf)</kwd>
+            <kwd>Goat</kwd>
+            <kwd>Nested PCR</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="5"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

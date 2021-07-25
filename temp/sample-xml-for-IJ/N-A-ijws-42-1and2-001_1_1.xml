@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Residues of sulfosulfuron, mesosulfuron+iodosulfuron and pinoxaden in soil, wheat and successive crops</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Mandeep Kaur</namePart>
+      <namePart type="family">Saini</namePart>
+      <displayForm>Saini, Mandeep Kaur</displayForm>
+      <affiliation>Department of Agronomy, Punjab Agricultural           University, Ludhiana-141 004           (Punjab), India</affiliation>
+      <affiliation>Department of Different, Punjab Agricultural           University, Ludhiana-141 004         (Punjab), India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">U. S.</namePart>
+      <namePart type="family">Walia</namePart>
+      <displayForm>Walia, U. S.</displayForm>
+      <affiliation>Department of Agronomy, Punjab Agricultural           University, Ludhiana-141 004           (Punjab), India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S. K.</namePart>
+      <namePart type="family">Randhawa</namePart>
+      <displayForm>Randhawa, S. K.</displayForm>
+      <affiliation>Department of Agronomy, Punjab Agricultural           University, Ludhiana-141 004           (Punjab), India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2010-06-01</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The experiment was conducted at the Research Farm, Department of Agronomy, PAU, Ludhiana, during the rabi seasons of 2006–07 and 2007–08 to study the effect of different planting patterns and straw management techniques on residues of different herbicides in soil at different intervals and grain and straw at harvest and on growth and development of few test crops through bioassay studies. The experiment was laid out in strip plot design with planting patterns of wheat in main plots and weed control treatments in sub-plots. Herbicidal treatments were applied as post-emergence at their respective doses. Residues of sulfosulfuron, mesosulfuron+iodosulfuron and pinoxaden were detected at 1 day after spray in soil depth 0–15 cm only but residues of herbicides were not detected in soil at other observational periods i. e. 30 and 60 DAS and at harvest as well as in grain and straw at harvest by analytic method. Nine kharif season crops viz., maize, bajra, sorghum, cotton, summer moong, bhindi, dhaincha, bottle gourd and muskmelon were sown after harvesting of wheat in four replications for bioassay studies. Bioassay studies indicated no residual toxicity of pinoxaden on any test crop. However, application of sulfosulfuron and mesosulfuron+iodosulfuron showed residual toxicity on maize, bajra, sorghum and bottle gourd, whereas no residual toxicity of these two herbicides was observed in cotton, summer moong, bhindi, dhaincha and muskmelon.</abstract>
+   <subject>
+      <topic>Bioassay</topic>
+   </subject>
+   <subject>
+      <topic>Wheat</topic>
+   </subject>
+   <subject>
+      <topic>Sulfosulfuron</topic>
+   </subject>
+   <subject>
+      <topic>Mesosulfuron+iodosulfuron pinoxaden</topic>
+   </subject>
+   <subject>
+      <topic>HPLC</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Weed Science</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Society of Weed Science</publisher>
+      </originInfo>
+      <identifier type="issn-p">0253-8040</identifier>
+      <identifier type="issn-e">0974-8164</identifier>
+      <identifier type="issn">0974-8164</identifier>
+      <identifier type="vendor">ijws</identifier>
+      <part>
+         <detail type="volume">
+            <number>42</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>1and2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2010</text>
+         <text type="month">06</text>
+         <text type="day">01</text>
+         <extent unit="pages">
+            <start>1</start>
+            <end>8</end>
+            <total>8</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijws-42-1and2-001</identifier>
+   <extension>
+      <archiveFile>A-ijws-42-1and2-001_1</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/A-ijws-42-1and2-001_1.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/</workingDirectory>
+   </extension>
+</mods>

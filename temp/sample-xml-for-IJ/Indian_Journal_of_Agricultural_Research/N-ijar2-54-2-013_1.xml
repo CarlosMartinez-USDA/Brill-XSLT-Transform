@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Genetic Variability and Cluster Analysis for Phenological Traits of Thai Indigenous Upland Rice (Oryza sativa L.)</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Shams Shaila</namePart>
+      <namePart type="family">Islam</namePart>
+      <displayForm>Islam, Shams Shaila</displayForm>
+      <affiliation>Agriculture Faculty, Hajee Mohammad Danesh Science and Technology University, Dinajpur-5200, Bangladesh</affiliation>
+      <affiliation>Agricultural Innovation and Management Division Faculty of Natural Resources, Prince of Songkla University, Hat Yai, Songkhla, 90112, Thailand</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jakarat</namePart>
+      <namePart type="family">Anothai</namePart>
+      <displayForm>Anothai, Jakarat</displayForm>
+      <affiliation>Agricultural Innovation and Management Division Faculty of Natural Resources, Prince of Songkla University, Hat Yai, Songkhla, 90112, Thailand</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Charassri</namePart>
+      <namePart type="family">Nualsri</namePart>
+      <displayForm>Nualsri, Charassri</displayForm>
+      <affiliation>Agricultural Innovation and Management Division Faculty of Natural Resources, Prince of Songkla University, Hat Yai, Songkhla, 90112, Thailand</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Watcharin</namePart>
+      <namePart type="family">Soonsuwon</namePart>
+      <displayForm>Soonsuwon, Watcharin</displayForm>
+      <affiliation>Agricultural Innovation and Management Division Faculty of Natural Resources, Prince of Songkla University, Hat Yai, Songkhla, 90112, Thailand</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Estimating genetic variability and cluster analysis of grain yield and yield contributing traits need to require for rice breeders to choose the best breeding programs. Ten upland rice genotypes were conducted from farmers ’fields during the years of 2017 at three provinces of southern Thailand. Extreme broad sense heritability and genetic gain values for flag leaf length, leaf area index, harvest index, total dry weight and filled grains showed that assortment of these yield contributing traits would be effective. Cluster analysis categorized genotypes into three groups. In each group some genotypes such as Dawk Pa-yawm or Dawk Kha 50 (group I), Nahng Kian (group II) and Khao/Trai (group III) showed that genotypes had different better traits. These studies revealed that high broad sense heritability traits and the best genotypes Nahng Kian and Khao/Trai would be useful for improving new upland rice varieties in southern Thailand.</abstract>
+   <subject>
+      <topic>Cluster analysis</topic>
+   </subject>
+   <subject>
+      <topic>Genetic advance</topic>
+   </subject>
+   <subject>
+      <topic>Genotypic coefficient</topic>
+   </subject>
+   <subject>
+      <topic>Heritability</topic>
+   </subject>
+   <subject>
+      <topic>Upland rice</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Agricultural Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-8245</identifier>
+      <identifier type="issn-e">0976-058X</identifier>
+      <identifier type="issn">0976-058X</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>211</start>
+            <end>216</end>
+            <total>6</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar2-54-2-013</identifier>
+   <identifier type="doi">10.18805/IJARe.A-461</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/IJARe.A-461</url>
+   </location>
+   <extension>
+      <archiveFile>ijar2-54-2-013</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/ijar2-54-2-013.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJAR1</journal-id>
+         <journal-title>Indian Journal of Animal Research</journal-title>
+         <issn pub-type="ppub">0367-6722</issn>
+         <issn pub-type="epub">0976-0555</issn>
+         <publisher>
+            <publisher-name>Agricultural Research Communication Centre</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijar1-54-4-004</article-id>
+         <doi-group>
+            <article-doi>
+               <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                         ext-link-type="uri"
+                         xlink:href="http://dx.doi.org/10.18805/ijar.B-996">10.18805/ijar.B-996</ext-link>
+            </article-doi>
+         </doi-group>
+         <article-categories>
+            <subj-group>
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Effects of eprinomectin administration on apoptosis, acute phase response and antioxidant status in cattle</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Aksit</surname>
+                  <given-names>H.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1,</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Aksit</surname>
+                  <given-names>D.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff001">
+            <sup>1</sup>
+            <deptname>Department of Biochemistry, Faculty of Veterinary</deptname>, <instname>Balikesir University</instname>, <instcity>Balikesir</instcity>, <instcountry>Turkey</instcountry>
+         </aff>
+         <aff id="aff002">
+            <sup>2</sup>
+            <deptname>Department of Pharmacology and Toxicology, Faculty of Veterinary</deptname>, <instname>Balikesir University</instname>, <instcity>Balikesir</instcity>, <instcountry>Turkey</instcountry>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding Author: H. Aksit, <deptname>Department of Biochemistry, Faculty of Veterinary</deptname>, <instname>Balikesir University</instname>, <instcity>Balikesir</instcity>, <instcountry>Turkey</instcountry>. Email: <email>hasanaksit@balikesir.edu.tr</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 23 May, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>4</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>54</volume>
+         <issue>4</issue>
+         <fpage>413</fpage>
+         <lpage>418</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>Eprinomectin is a broad spectrum endectocides used against gastrointestinal, pulmonary nematodes and ectoparasites in cattle. The main objective of the present study was to investigate effects of eprinomectin in cows following subcutaneous and pour-on administrations; on serum DNA apoptosis, acute phase response, Total Antioxidant Status (TAS), total protein, creatinine, urea levels, and AST, ALT and GGT activities. Ten Holstein cows were divided into two groups. Group 1 received subcutaneous (0.2 mg/kg) and group 2 received pour-on (0.5 mg/kg) administration of eprinomectin. Blood samples were collected from vena jugularis prior to and following the drug administration at intervals of 36 hrs, 3<sup>rd</sup>, 6<sup>th</sup>, 12<sup>nd</sup> and 20<sup>th</sup> days, respectively. Samples were centrifuged at 2500 g for 15 minutes and separated sera stored at-20°C. Results showed that the eprinomectin application decreases the sera levels of acute phase proteins. Statistically significant increase was observed in antioxidant capasity (P&lt;0.05) and total protein (P&lt;0.01). However, there was non-significant increase in apoptosis rate. No remarkable alterations were observed in AST, ALT and GGT activities including urea and creatinine levels. Results showed that the eprinomectin application reduces the sera levels of acute phase proteins (ceruloplasmin and sialic acid) in cows. However, statistically significant increase was measured in antioxidant capasity (P&lt;0.05) and total protein (P&lt;0.01) levels. It could be concluded from the study that eprinomectin do not have adverse effects on liver and kidney.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Acute phase proteins</kwd>
+            <kwd>Antioxidants</kwd>
+            <kwd>Apoptosis</kwd>
+            <kwd>Eprinomectin</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="6"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

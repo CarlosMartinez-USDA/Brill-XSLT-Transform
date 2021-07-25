@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJSC</journal-id>
+         <journal-title>Indian Journal of Soil Conservation</journal-title>
+         <issn pub-type="ppub">0970-3349</issn>
+         <issn pub-type="epub">0976-1721</issn>
+         <publisher>
+            <publisher-name>Indian Associations of Soil &amp; Water Conservationists</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijsc-47-2-008</article-id>
+         <title-group>
+            <article-title>Evaluation of soil moisture retention characteristics using pedo-transfer functions for soils of dry semi-arid region</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Lalitha</surname>
+                  <given-names>M.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1,</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Dharumarajan</surname>
+                  <given-names>S.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Kumar</surname>
+                  <given-names>K.S. Anil</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Shivanand</surname>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Parvathy</surname>
+                  <given-names>S.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Koyal</surname>
+                  <given-names>Arti</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Kalaiselvi</surname>
+                  <given-names>B.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Hegde</surname>
+                  <given-names>Rajendra</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Singh</surname>
+                  <given-names>S.K.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff001">
+            <sup>1</sup>
+            <instname>ICAR-National Bureau of Soil Survey and Land Use Planning</instname>, <deptname>Regional Centre</deptname>, <instcity>Bangalore</instcity>
+         </aff>
+         <aff id="aff002">
+            <sup>2</sup>
+            <instname>ICAR-National Bureau of Soil Survey and Land Use Planning</instname>, <instcity>Nagpur</instcity>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding author: E-mail: <email>mslalit@yahoo.co.in</email> (M. Lalitha)</corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 9 April, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>8</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>47</volume>
+         <issue>2</issue>
+         <fpage>163</fpage>
+         <lpage>171</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>Soil moisture assessment is crucial factor for crop growth and development in arid and semi-arid regions of India where the impact of climate change is predominant. Soil moisture prediction models using pedo-transfer functions are helpful for predicting soil moisture using soil variables since direct estimation is expensive and time-consuming. In the present study, three different models-Gupta and Larson, Rawls and Brakensiek, and Walczak models were employed to predict soil moisture of dry semiarid region of Tamil Nadu, India. The results revealed that Gupta and Larson, and Rawls and Brakensiek models (R<sup>2</sup>: θ<sub>FC</sub>: 0.790 and θ<sub>PWP</sub>: 0.899) performed better than Walczak model for predicting soil moisture, both at θ<sub>FC</sub> and θ<sub>PWP</sub>. However, an exclusive pedo-transfer function for predicting soil moisture was developed for semi arid region using variables selected through principal component analysis (PCA) and variable importance plot. Soil variables such as sand, silt, cation exchange capacity (CEC), exchangeable magnesium and soil electrical conductivity (EC) contributed significantly (P&gt;0.05) to the soil moisture retention. Nevertheless, the model developed in the study resulted in more accurate estimation at 33 kPa (R<sup>2</sup> = 0.887) and 1500 kPa (R<sup>2</sup> = 0.932) matric suction compared to existing models. The developed models can be helpful for predicting soil hydraulic properties in dry semi-arid region with similar agro-ecological conditions.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Dry semi-arid region Matric suction Pedo-transfer function Soil moisture retention Soil variables</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="9"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

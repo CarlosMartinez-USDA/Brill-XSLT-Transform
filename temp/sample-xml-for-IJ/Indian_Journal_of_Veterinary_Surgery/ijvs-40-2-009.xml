@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJVS</journal-id>
+      <journal-title>Indian Journal of Veterinary Surgery</journal-title>
+      <issn pub-type="ppub">0254-4105</issn>
+      <issn pub-type="epub">0973-9726</issn>
+      <publisher>
+        <publisher-name>Indian Society for Veterinary Surgery</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijvs-40-2-009</article-id>
+      <title-group>
+        <article-title>Ultrasonography as a decision making tool for surgery of obstructive urolithiasis in bovine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bhangu</surname>
+            <given-names>S.S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Saini</surname>
+            <given-names>N.S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mohindroo</surname>
+            <given-names>J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff003">
+            <sup>3,</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Singh</surname>
+            <given-names>T.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff004">
+            <sup>4</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mahajan</surname>
+            <given-names>S.K.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff005">
+            <sup>5</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <instname>Guru Angad Dev Veterinary and Animal Sciences University</instname>, <instcity>Ludhiana</instcity>-<instpincode>141 001</instpincode> (<inststate>Punjab</inststate>)</aff>
+      <aff id="aff001">
+        <sup>1</sup>MVSc Scholar, <deptname>Department of Veterinary Surgery and Radiology</deptname>, <instname>College of Veterinary Sciences</instname></aff>
+      <aff id="aff002">
+        <sup>2</sup>Professor (Retd.), <deptname>Department of Veterinary Surgery and Radiology</deptname>, <instname>College of Veterinary Sciences</instname></aff>
+      <aff id="aff003">
+        <sup>3</sup>Professor and Head, <deptname>Department of Veterinary Surgery and Radiology</deptname>, <instname>College of Veterinary Sciences</instname></aff>
+      <aff id="aff004">
+        <sup>4</sup>Asst. Scientist, <deptname>Department of Veterinary Surgery and Radiology</deptname>, <instname>College of Veterinary Sciences</instname></aff>
+      <aff id="aff005">
+        <sup>5</sup>Professor, <deptname>Department of Veterinary Surgery and Radiology</deptname>, <instname>College of Veterinary Sciences</instname></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding author; E-mail: <email>jmohindroo@yahoo.co.in</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 28 May, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>12</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>40</volume>
+      <issue>2</issue>
+      <fpage>116</fpage>
+      <lpage>118</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>Ultrasonography was done in 20 clinical cases of obstructive urolithiasis in bovine to plan for surgical intervention. In case of buffalo calves, it was found to be accurate in differentiating cases of urinary bladder rupture from those with intact urinary bladder along with characterisation of typical ultrasonographic findings of urethral rupture in 2 cases. In adult castrated bovine (n=5) and all the breeding buffalo bulls (n=3) it was useful to diagnose pre-scrotal calculi; however, it was not effective for localising calculi lodged at sigmoid flexure of castrated bovine (n=5). Based on ultrasonographic findings, the animals were subjected to pre-/post-scrotal urethrotomy. Thus, ultrasonography helped in choosing the most suitable surgical technique for each case.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Bovine</kwd>
+        <kwd>urolithiasis</kwd>
+        <kwd>Tube cystostomy</kwd>
+        <kwd>Ultrasonography</kwd>
+        <kwd>Urethrotomy</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="3" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

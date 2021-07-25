@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Cinnagar supplementation of cattle grazing wheat or native pasture in northwest
+    Oklahoma</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart type="given">S.</namePart>
+    <namePart type="given">A.</namePart>
+    <namePart type="family">Gunter</namePart>
+    <displayForm>Gunter, S. A.</displayForm>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">G.</namePart>
+    <namePart type="given">F.</namePart>
+    <namePart type="family">Combs Jr.</namePart>
+    <displayForm>Combs Jr., G. F.</displayForm>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre>article</genre>
+  <originInfo>
+    <dateIssued encoding="w3cdtf" keyDate="yes">2013-05-04</dateIssued>
+  </originInfo>
+  <abstract>Two experiments were conducted to evaluate CinnaGar (Provimi; Trappes, France) and
+    monensin (Ruminsen; Elanco Animal Health, Greenfield, IN) as supplements for grazing stocker
+    cattle in northwest Oklahoma. In Exp. 1, twelve 2.2-ha pastures of winter wheat were grazed (1.2
+    steers/ha) with stocker steers (initial BW = 250 kg) starting March 3 for 70 d. Pastures were
+    fertilized in early September with 56 kg of N/ha from urea. Free-choice minerals (Beef Minerals
+    3V6S; Vigortone Ag Products, Brooksville, OH) were provided to 6 pastures in ground-style
+    mineral feeders, while the other pastures received a similar mineral (Beef Minerals 3V6SG,
+    Vigortone Ag Products) except it contained 1,587 g/tonne of CinnaGar. In Exp. 2, 16 native
+    pastures of sand sagebrush rangeland (between 4.1 and 8.2 ha each) were stocked (36
+    animal-unit-d/ha) with steers (initial BW = 254 kg) starting April 24 for 84 d. A base
+    free-choice mineral (Beef Mineral 3V6S) was used and monensin and CinnaGar were added in a 2 x 2
+    factorial arrangement of treatments; 1) 0 and 0; 2) 1,761 and 0; 3) 0 and 2,351; and 4) 1,761
+    and 2,351 g/tonne of monensin and CinnaGar, respectively. In Exp. 1, mineral intake was 150 and
+    107 g/d for no CinnaGar and CinnaGar (P = 0.24), respectively. Also, ADG (overall avg = 1.4 kg)
+    did differ (P = 0.66) between no CinnGar and CinnaGar; hence, ending BW (overall avg = 339 kg)
+    or BW gain/ha (overall avg = 44 kg) did not differ (P &gt; 0.52). In Exp. 2, mineral intake
+    differed (P &lt; 0.01) by treatment and was 79, 31, 68, and 43 g/d, respectively; the addition
+    of monensin decreased mineral intake (P &lt; 0.01), while CinnaGar did not affect mineral intake
+    (P = 0.80). Further, ADG (overall avg = 0.65 kg) did not differ (P = 0.47) among treatments;
+    hence, ending BW (overall avg = 305 kg) or BW gain/ha (overall avg = 41 kg) did not differ (P
+    &gt; 0.48). At these levels of CinnaGar intake and with these types of pasture, these
+    supplements did not significantly affect animal performance. </abstract>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Proceedings Western Section American Society of Animal Science</title>
+    </titleInfo>
+    <part>
+      <detail type="volume">
+        <number>64</number>
+        <caption>v.</caption>
+      </detail>
+      <extent unit="pages">
+        <start>326</start>
+        <end>329</end>
+      </extent>
+      <text type="year">2013</text>
+      <text type="month">5</text>
+      <text type="day">4</text>
+    </part>
+  </relatedItem>
+  <identifier type="aris">293391</identifier>
+  <accessCondition type="use and reproduction">Works produced by employees of the U.S. Government as part of their official duties are not copyrighted within the U.S. The content of this document is not copyrighted.</accessCondition>
+  <extension>
+    <note type="note">USDA Scientist Submission</note>
+    <note type="status">Accept - AGRICOLA</note>
+    <relatedItem displayLabel="NALDC Collection" type="host">
+      <identifier type="naldc"/>
+    </relatedItem>
+    <fileLocation note="ARS submission" usage="primary">http://submit-u.nal.usda.gov/system/files/submissions/Cinnagar%20paper.pdf</fileLocation>
+  </extension>
+  <recordInfo>
+    <recordCreationDate encoding="w3cdtf">2013-06-11</recordCreationDate>
+    <recordChangeDate encoding="w3cdtf">2013-06-26</recordChangeDate>
+    <recordIdentifier>ns2119</recordIdentifier>
+    <recordOrigin>USDA submission converted from Drupal to MODS version 3.4 using submission2mods.xsl (Revision 1.002 2014/01/28)</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Growth and breeding biology of female indian gerbil (Tatera Indica): Reproductive, biochemical and histological evaluation</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Komalpreet Kaur</namePart>
+      <namePart type="family">Sandhu</namePart>
+      <displayForm>Sandhu, Komalpreet Kaur</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Neena</namePart>
+      <namePart type="family">Singla</namePart>
+      <displayForm>Singla, Neena</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-05</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Average duration of pro-estrous, estrous, met-estrous and di-estrous stages in one oestrous cycle of female Indian gerbil, Tatera indica was found 0.61, 0.38, 0.62 and 1.37 days, respectively with total average duration of one cycle to be 2.99 days. Pairing of cyclic female gerbils with mature males resulted in 88% breeding success within gestation period of 21–24 days. Post-partum estrous was observed immediately after parturition in females not separated from males. Observations on onset of sexual maturity in female pups of seven different age groups (30, 45, 60, 75, 90, 105 and 120 days old) revealed significant increase in body weight and weights of ovary and uterus, plasma level of estradiol and activity of 3β-HSD in ovarian tissue with increasing age. Sexual maturity in female T. indica was attained at age of 3–4 months. It is therefore suggested to apply control measures before they reproduce and cause damage to crops.</abstract>
+   <subject>
+      <topic>Breeding</topic>
+   </subject>
+   <subject>
+      <topic>Histology</topic>
+   </subject>
+   <subject>
+      <topic>Postnatal growth</topic>
+   </subject>
+   <subject>
+      <topic>Sexual maturation</topic>
+   </subject>
+   <subject>
+      <topic>Tatera indica</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>5</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">05</text>
+         <extent unit="pages">
+            <start>534</start>
+            <end>542</end>
+            <total>9</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-5-003</identifier>
+   <identifier type="doi">10.18805/ijar.B-3822</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3822</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-5-003</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-5-003.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

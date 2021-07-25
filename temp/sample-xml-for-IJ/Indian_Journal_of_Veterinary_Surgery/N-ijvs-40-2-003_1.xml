@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Icariin lessened post-injury pain perception and ameliorated cutaneous wound healing in diabetic rats</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">R.S.</namePart>
+      <namePart type="family">Wangkheirakpam</namePart>
+      <displayForm>Wangkheirakpam, R.S.</displayForm>
+      <affiliation>Assistant Professor, Pharmacology &amp; Taxicology, CoVSc&amp;AH, Julukie, Nagaland;</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.</namePart>
+      <namePart type="family">Kumawat</namePart>
+      <displayForm>Kumawat, S.</displayForm>
+      <affiliation>Veterinary Officer, Rajasthan;</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.</namePart>
+      <namePart type="family">Sadam</namePart>
+      <displayForm>Sadam, A.</displayForm>
+      <affiliation>Teaching Assistant, Veterinary College, Gadag, Karnataka;</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.V.</namePart>
+      <namePart type="family">Appukuttan</namePart>
+      <displayForm>Appukuttan, A.V.</displayForm>
+      <affiliation>Scientist, Division of Pharmacology and Toxicology</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.R.</namePart>
+      <namePart type="family">Patel</namePart>
+      <displayForm>Patel, M.R.</displayForm>
+      <affiliation>PG Scholar, Division of Pharmacology and Toxicology</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.C.</namePart>
+      <namePart type="family">Lingaraju</namePart>
+      <displayForm>Lingaraju, M.C.</displayForm>
+      <affiliation>Scientist, Division of Pharmacology and Toxicology</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">T.U.</namePart>
+      <namePart type="family">Singh</namePart>
+      <displayForm>Singh, T.U.</displayForm>
+      <affiliation>Senior Scientist, Division of Pharmacology and Toxicology</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="family">Amarpal</namePart>
+      <displayForm>Amarpal, </displayForm>
+      <affiliation>Principal Scientist &amp; Head, Division of Surgery</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Dinesh</namePart>
+      <namePart type="family">Kumar</namePart>
+      <displayForm>Kumar, Dinesh</displayForm>
+      <affiliation>Principal Scientist &amp; Head, Division of Pharmacology and Toxicology</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Treatment of impaired diabetic wound is a major health care problem which often involves high cost medicines without much success in improving wound healing. Icariin is a flavonoid extracted from plants of the genus Epimedium. This compound is known to possess multiple medicinal values, such as antioxidative, anti-inflammatory, anti-apoptotic, neuron protective, immunoprotective, anti-osteoporotic, etc. In this study, the effect of topical application of two different concentrations of icariin on cutaneous wound was evaluated in streptozotocin-induced diabetic Wistar rats. Per cent wound contraction was significantly more in the icariin-treated groups on days 7, 14 and 19 post-wounding, as compared to control. Hydroxyproline and glucosamine levels were higher in icariintreated groups, as compared to control. Antioxidants and oxidants levels were elevated and declined, respectively, in these groups on all days. Histological study revealed less infiltration of inflammatory cells and more maturity of wound in icariin-treated groups, as compared to control. The postinjury pain perception was also significantly reduced on days 5 and 7, when compared to control. In conclusion, icariin enhanced cutaneous wound healing in diabetic rats.</abstract>
+   <subject>
+      <topic>Antioxidant</topic>
+   </subject>
+   <subject>
+      <topic>Extracellular matrix (ECM)</topic>
+   </subject>
+   <subject>
+      <topic>Icariin</topic>
+   </subject>
+   <subject>
+      <topic>Post-injury pain</topic>
+   </subject>
+   <subject>
+      <topic>Wound healing</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Veterinary Surgery</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Society for Veterinary Surgery</publisher>
+      </originInfo>
+      <identifier type="issn-p">0254-4105</identifier>
+      <identifier type="issn-e">0973-9726</identifier>
+      <identifier type="issn">0973-9726</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">12</text>
+         <extent unit="pages">
+            <start>87</start>
+            <end>92</end>
+            <total>6</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijvs-40-2-003</identifier>
+   <extension>
+      <archiveFile>ijvs-40-2-003</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/ijvs-40-2-003.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>New wineries and wine men</title>
+   </titleInfo>
+   <titleInfo type="alternative" displayLabel="Enriched title:">
+      <title>New wineries and wine men. [California]</title>
+   </titleInfo>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <subject authority="atg">
+      <geographic>California</geographic>
+   </subject>
+   <location>
+      <physicalLocation>DNAL</physicalLocation>
+   </location>
+   <location>
+      <shelfLocator>6 R24</shelfLocator>
+   </location>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Redwood rancher</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+         <title>Redwood Rancher</title>
+      </titleInfo>
+      <identifier type="issn">0034-2181</identifier>
+      <part>
+         <extent unit="pages">
+            <start>10</start>
+            <end>11</end>
+         </extent>
+         <text type="marc">1973, special vintage issue</text>
+      </part>
+   </relatedItem>
+   <identifier type="agricola">CAIN749002579</identifier>
+   <extension>
+      <note type="saleTape">00000000 19740101 00000000</note>
+      <note type="indexer">IND  </note>
+      <note type="warning">Missing Issue date</note>
+   </extension>
+   <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">740101</recordCreationDate>
+      <recordIdentifier>417231</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+            (Revision 1.95 2014/04/23)</recordOrigin>
+      <recordChangeDate encoding="w3cdtf">2015-02-04</recordChangeDate>
+   </recordInfo>
+</mods>

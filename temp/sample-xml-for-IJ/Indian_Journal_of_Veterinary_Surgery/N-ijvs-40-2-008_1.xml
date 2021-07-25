@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Doppler studies of abdominal aorta and caudal vena cava in healthy dogs</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Khalid</namePart>
+      <namePart type="family">Omer</namePart>
+      <displayForm>Omer, Khalid</displayForm>
+      <affiliation>MVSc Scholar, Department of Veterinary Surgery and Radiology, College of Veterinary Sciences</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Pallavi</namePart>
+      <namePart type="family">Verma</namePart>
+      <displayForm>Verma, Pallavi</displayForm>
+      <affiliation>Assistant Professor, Department of Veterinary Surgery and Radiology, College of Veterinary Sciences</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">N.S.</namePart>
+      <namePart type="family">Saini</namePart>
+      <displayForm>Saini, N.S.</displayForm>
+      <affiliation>Professor (Retd.), Department of Veterinary Surgery and Radiology, College of Veterinary Sciences</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">J.</namePart>
+      <namePart type="family">Mohindroo</namePart>
+      <displayForm>Mohindroo, J.</displayForm>
+      <affiliation>Professor-cum-Head, Department of Veterinary Surgery and Radiology, College of Veterinary Sciences</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">T.</namePart>
+      <namePart type="family">Singh</namePart>
+      <displayForm>Singh, T.</displayForm>
+      <affiliation>Assistant Scientist, Department of Veterinary Surgery and Radiology, College of Veterinary Sciences</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>In this study, Duplex Doppler waveforms of the major abdominal vessels [abdominal aorta (AA) and caudal vena cava (CVC)] were examined by Doppler ultrasound and Doppler indices were established in normal dogs using pulse wave Doppler ultrasound. Fifteen dogs (10 males, 5 females) considered healthy by physical examination, haematobiochemical profile, urinalysis, and ultrasonography were included. AA and CVC were scanned by pulsed Doppler ultrasonography to calculate Resistive Index (RI) and Pulsatility Index (PI). The mean±SE value of RI for AA was 0.94±0.16 and for CVC was 0.39±0.05. The mean±SE value of PI for AA was 4.95±0.80 and for CVC was 1.61±0.62.</abstract>
+   <subject>
+      <topic>Blood vessel</topic>
+   </subject>
+   <subject>
+      <topic>Dog</topic>
+   </subject>
+   <subject>
+      <topic>Doppler</topic>
+   </subject>
+   <subject>
+      <topic>Pulsatility Index</topic>
+   </subject>
+   <subject>
+      <topic>Resistive Index</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Veterinary Surgery</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Society for Veterinary Surgery</publisher>
+      </originInfo>
+      <identifier type="issn-p">0254-4105</identifier>
+      <identifier type="issn-e">0973-9726</identifier>
+      <identifier type="issn">0973-9726</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">12</text>
+         <extent unit="pages">
+            <start>112</start>
+            <end>115</end>
+            <total>4</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijvs-40-2-008</identifier>
+   <extension>
+      <archiveFile>ijvs-40-2-008</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/ijvs-40-2-008.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/</workingDirectory>
+   </extension>
+</mods>

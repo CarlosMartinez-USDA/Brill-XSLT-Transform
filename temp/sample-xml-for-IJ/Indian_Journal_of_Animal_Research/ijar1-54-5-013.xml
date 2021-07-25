@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJAR1</journal-id>
+      <journal-title>Indian Journal of Animal Research</journal-title>
+      <issn pub-type="ppub">0367-6722</issn>
+      <issn pub-type="epub">0976-0555</issn>
+      <publisher>
+        <publisher-name>Agricultural Research Communication Centre</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijar1-54-5-013</article-id>
+      <doi-group>
+        <article-doi>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.18805/ijar.B-3818">10.18805/ijar.B-3818</ext-link>
+        </article-doi>
+      </doi-group>
+      <article-categories>
+        <subj-group>
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Investigating immunomodulating activities of recombinant horse IL-2, IL-18 and IFN-γ in peripheral blood mononuclear cells (PBMCs)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Saini</surname>
+            <given-names>Sheetal</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1,</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Singha</surname>
+            <given-names>Harisankar</given-names>
+          </name>
+          <xref ref-type="corresp" rid="cor001">*,</xref>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Siwach</surname>
+            <given-names>Priyanka</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tripathi</surname>
+            <given-names>Bhupendra Nath</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff001">
+        <sup>1</sup>
+        <instname>ICAR-National Research Centre on Equines</instname>, <instcity>Hisar</instcity>-<instpincode>125 001</instpincode>, <inststate>Haryana</inststate>, <instcountry>India</instcountry></aff>
+      <aff id="aff002">
+        <sup>2</sup>
+        <deptname>Department of Biotechnology</deptname>, <instname>Chaudhary Devi Lal University</instname>, <instcity>Sirsa</instcity>-<instpincode>125 055</instpincode>, <inststate>Haryana</inststate>, <instcountry>India</instcountry></aff>
+      <author-notes>
+        <corresp id="cor001">* Corresponding Author: Harisankar Singha, <instname>ICAR-National Research Centre on Equines</instname>, <instcity>Hisar</instcity>-<instpincode>125 001</instpincode>, <inststate>Haryana</inststate>, <instcountry>India</instcountry>, Email: <email>hsssankarbty@gmail.com</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 30 June, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>5</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>54</volume>
+      <issue>5</issue>
+      <fpage>601</fpage>
+      <lpage>607</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>Recombinant horse cytokines may be used as biological adjuvant for enhancing vaccine efficacy and therapeutic agent. This study describes low cost production of recombinant horse IL-2, IL-18 and IFN-γ in prokaryotic system. Immunomodulatory activities of recombinant horse IL-2, IL-18 and IFN-γ have been demonstrated in horse peripheral blood mononuclear cells (PBMCs). Recombinant horse IL-2 and IL-18 enhanced cellular proliferation and significantly up regulated transcription and secretion of IFN-γ, TNF-α, IL-4, IL- 10 and IL-12p35. In contrast, recombinant horse IFN-γ was comparatively less active and did not show significant immune-stimulatory effect.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Cell proliferation</kwd>
+        <kwd>Cytokines</kwd>
+        <kwd>ELISA</kwd>
+        <kwd>Real time PCR</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="7" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

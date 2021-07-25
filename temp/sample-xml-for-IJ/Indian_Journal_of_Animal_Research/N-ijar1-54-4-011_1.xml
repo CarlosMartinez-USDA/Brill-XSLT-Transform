@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Supplementing Rumen Protected Choline with Green Tea Extract Improves Reproductive Performances in Transition Karan Fries Cows</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Parag</namePart>
+      <namePart type="family">Acharya</namePart>
+      <displayForm>Acharya, Parag</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.S.</namePart>
+      <namePart type="family">Lathwal</namePart>
+      <displayForm>Lathwal, S.S.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">R.</namePart>
+      <namePart type="family">Baithalu</namePart>
+      <displayForm>Baithalu, R.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Neelamadhav</namePart>
+      <namePart type="family">Patnaik</namePart>
+      <displayForm>Patnaik, Neelamadhav</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.R.</namePart>
+      <namePart type="family">Thul</namePart>
+      <displayForm>Thul, M.R.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Baisakhi</namePart>
+      <namePart type="family">Moharana</namePart>
+      <displayForm>Moharana, Baisakhi</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The present experiment was carried out on thirty two pregnant Karan Fries (KF) cows. In control group, cows were fed basal diet. In T1 each cow was fed rumen protected choline (RPC) (55g/day), in T2-green tea extract (GTE) (3g/d) and in T3-RPC + GTE (55+3)g/day along with basal diet. The duration of experiment was 30 days before calving to 60 days after parturition. Animals were evaluated on their reproductive performances. Diameter of cervix, uterine horn and service period reduced significantly (p&amp;le;T 0.01) in the treatment groups compared to control group. Conception rate was highest for T3 (75%) followed by T2 (62.5%), T1 (62.5%) and C (50%). There were lesser incidences of reproductive disorders in treatment groups. In conclusion, feeding of RPC and GTE in combination improved reproductive performance during transition period in Karan Fries cows.</abstract>
+   <subject>
+      <topic>Green tea extract</topic>
+   </subject>
+   <subject>
+      <topic>Reproductive performances</topic>
+   </subject>
+   <subject>
+      <topic>Rumen protected choline</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>4</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>452</start>
+            <end>455</end>
+            <total>4</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-4-011</identifier>
+   <identifier type="doi">10.18805/ijar.B-3797</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3797</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-4-011</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-4-011.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJAR1</journal-id>
+      <journal-title>Indian Journal of Animal Research</journal-title>
+      <issn pub-type="ppub">0367-6722</issn>
+      <issn pub-type="epub">0976-0555</issn>
+      <publisher>
+        <publisher-name>Agricultural Research Communication Centre</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijar1-54-3-005</article-id>
+      <doi-group>
+        <article-doi>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.18805/ijar.B-3775">10.18805/ijar.B-3775</ext-link>
+        </article-doi>
+      </doi-group>
+      <article-categories>
+        <subj-group>
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Development and Standardization of Visual Loop Mediated Isothermal Amplification (LAMP) Assay for Specific Diagnosis of Johne's Disease</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Singh</surname>
+            <given-names>Manju</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gupta</surname>
+            <given-names>Saurabh</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Singh</surname>
+            <given-names>Shoor Vir</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kumaresan</surname>
+            <given-names>Gururaj</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff003">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sharma</surname>
+            <given-names>Deepansh</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Aseri</surname>
+            <given-names>G.K.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yadav</surname>
+            <given-names>Parul</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Polavarapu</surname>
+            <given-names>Rathnagiri</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff004">
+            <sup>4</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sohal</surname>
+            <given-names>Jagdip Singh</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1,</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff001">
+        <sup>1</sup>
+        <deptname>Amity Center for Mycobacterial Disease Research</deptname>, <instname>Amity Institute of Microbial Technology</instname>, <instparent>Amity University Rajasthan</instparent>, <instaddress>Kant-Kalwar</instaddress>, <instcity>Jaipur</instcity>-<instpincode>303 002</instpincode>, <inststate>Rajasthan</inststate>, <instcountry>India</instcountry></aff>
+      <aff id="aff002">
+        <sup>2</sup>
+        <deptname>Department of Biotechnology</deptname>, <instname>Institute of Applied Sciences and Humanities</instname>, <instparent>GLA University</instparent>, <instcity>Mathura</instcity>-<instpincode>281 406</instpincode>, <inststate>Uttar Pradesh</inststate>, <instcountry>India</instcountry></aff>
+      <aff id="aff003">
+        <sup>3</sup>
+        <deptname>Animal Health Division</deptname>, <instname>Central Institute for Research on Goats</instname>, <instaddress>Farah</instaddress>, <instcity>Mathura</instcity>-<instpincode>281 122</instpincode>, <inststate>Uttar Pradesh</inststate>, <instcountry>India</instcountry></aff>
+      <aff id="aff004">
+        <sup>4</sup>
+        <instname>Genomix Molecular Diagnostics Pvt. Ltd</instname>., <instaddress>Kukatpally</instaddress>, <instcity>Hyderabad</instcity>-<instpincode>500 072</instpincode>, <inststate>Andhra Pradesh</inststate>, <instcountry>India</instcountry></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding Author: Jagdip Singh Sohal, <deptname>Amity Center for Mycobacterial Disease Research</deptname>, <instname>Amity Institute of Microbial Technology</instname>, <instparent>Amity University Rajasthan</instparent>, <instaddress>Kant-Kalwar</instaddress>, <instcity>Jaipur</instcity>-<instpincode>303 002</instpincode>,<inststate> Rajasthan</inststate>, <instcountry>India</instcountry>. Email: <email>jssohal@jpr.amity.edu</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 8 April, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>3</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>54</volume>
+      <issue>3</issue>
+      <fpage>293</fpage>
+      <lpage>299</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>
+          <italic>Mycobacterium avium</italic> subspecies <italic>paratuberculosis</italic> (MAP), causative agent of Johne's disease (JD) is chronic granulomatous enteritis affecting domestic and wild ruminants. Since, MAP is not killed by pasteurization, it has been isolated from commercially pasteurized milk and milk products resulting exposure of human population to this pathogen through milk. Control and eradication of JD is considered difficult because of its insidious nature and lack of early, rapid and accurate diagnostic tests. Therefore in present study, a visual loop-mediated isothermal amplification (LAMP) assay method has been developed using a total of six primers including 2 outer (F3 and B3), 2 inner (FIP and BIP) and 2 loop (LF and LB) primers specific for MAP for the first time on ‘S 5 ’strain of Mycobacterium avium subsp. paratuberculosis ‘Indian Bison type ’biotype. After laboratory standardization, final optimized reaction performed at 65°C for 45 min was achieved after titration of incubation time, temperature conditions and the reporter dye calcein. Sensitivity and specificity of the LAMP assay was optimized and compared with traditional IS900 PCR. The sensitivity of LAMP assay was found to detect 10fg (100%) of DNA and 95.7% specificity was recorded with respect to traditional IS900 PCR. Comparison showed that LAMP had 98.6% and 96.1% sensitivity and specificity of 96.1% and 92.3%, with respect to microscopy and culture exhibiting ‘Almost perfect ’strength of agreement. The study concluded that LAMP assay was a reliable and sensitive diagnostic test to detect MAP infection in feces and can also be used for the ‘mass screening ’of the milk samples with the help of less expertise.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Johne's disease (JD)</kwd>
+        <kwd>LAMP PCR</kwd>
+        <kwd>
+          <italic>Mycobacterium avium</italic> subspecies <italic>paratuberculosis</italic> (MAP)</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="7" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJAR1</journal-id>
+      <journal-title>Indian Journal of Animal Research</journal-title>
+      <issn pub-type="ppub">0367-6722</issn>
+      <issn pub-type="epub">0976-0555</issn>
+      <publisher>
+        <publisher-name>Agricultural Research Communication Centre</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijar1-54-3-024</article-id>
+      <doi-group>
+        <article-doi>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.18805/ijar.B-1086">10.18805/ijar.B-1086</ext-link>
+        </article-doi>
+      </doi-group>
+      <article-categories>
+        <subj-group>
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Comparative analysis on early growth and development of different egg-laying quails</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bai</surname>
+            <given-names>Jun Yan</given-names>
+          </name>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cao</surname>
+            <given-names>Heng</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yang</surname>
+            <given-names>Shuai</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pang</surname>
+            <given-names>You Zhi</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jiang</surname>
+            <given-names>Meng Juan</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fan</surname>
+            <given-names>Hong Deng</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fu</surname>
+            <given-names>Xue Yan</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Ji Yuan</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shi</surname>
+            <given-names>Hui Jie</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <instname>College of Animal Science and Technology</instname>, <instparent>Henan University of Science and Technology</instparent>, <instcity>Luoyang</instcity>, <instpincode>471 003</instpincode>, <instcountry>China</instcountry></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding Author: Jun Yan Bai, <instname>College of Animal Science and Technology</instname>, <instparent>Henan University of Science and Technology</instparent>, <instcity>Luoyang</instcity>, <instpincode>471 003</instpincode>, <instcity>China</instcity>. Email: <email>junyanbai@163.com</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 8 April, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>3</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>54</volume>
+      <issue>3</issue>
+      <fpage>392</fpage>
+      <lpage>395</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>This study was carried out to evaluate growth and development and difference between size and weights of three quail species namely China yellow quail, Beijing white quail and Korea quail. Various parameters in respect of these species like shank length, chest width, chest depth, breastbone length, shank circumference, body length, daily weight gain and weight were recorded under similar feeding conditions. The data so obtained was analysed statistically using SPSS. It was revealed that the body weight, shank length, chest width, chest depth, breastbone length, body length, shank circumference and daily gain of Korea quail are significantly higher (P≦0.05) than those of China yellow quail and Beijing white quail. It was concluded the Korea quail grows fastest, followed by China yellow quail and Beijing white quail, successively.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Beijing white quail</kwd>
+        <kwd>China yellow quail</kwd>
+        <kwd>Growth rate of quails</kwd>
+        <kwd>Korea quail</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="4" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Investigating the Effectiveness of Selenite on Drought Stressed Upland Rice</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">O.A.</namePart>
+      <namePart type="family">David</namePart>
+      <displayForm>David, O.A.</displayForm>
+      <affiliation>Department of Plant Science and Biotechnology, Federal University, Oye-Ekiti, Ekiti State, Nigeria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">G.F.</namePart>
+      <namePart type="family">Akomolafe</namePart>
+      <displayForm>Akomolafe, G.F.</displayForm>
+      <affiliation>Department of Botany, Federal University of Lafia, Nasarawa State, Nigeria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">O.L.</namePart>
+      <namePart type="family">Jolayemi</namePart>
+      <displayForm>Jolayemi, O.L.</displayForm>
+      <affiliation>Department of Plant Breeding, Swedish University of Agriculture Sciences, Alnarp, Sweden</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">I.J.</namePart>
+      <namePart type="family">Olawuni</namePart>
+      <displayForm>Olawuni, I.J.</displayForm>
+      <affiliation>Department of Biochemistry, Obafemi Awolowo University, Ile-Ife, Osun State</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">O.O.</namePart>
+      <namePart type="family">Awoyemi</namePart>
+      <displayForm>Awoyemi, O.O.</displayForm>
+      <affiliation>Department of Plant Science and Biotechnology, Federal University, Oye-Ekiti, Ekiti State, Nigeria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Water stress is an enormous problem facing food production, especially in arid and semi-arid regions. Production of free radicals during water stress has led to oxidative stress, which eventually causes death of cells in plants. Therefore, it is important to tackle this issue knowing that rice is one of the most important cereal crops largely cultivated and consumed by humans and animals. The studies aimed at the effect of selenite on physiological and biochemical activities of water-stressed upland rice. Three Upland rice cultivars namely Nerica U4, Nerica U7 and Vandana were collected in Africa Rice Centre, Ibadan. The seeds were sterilized and soaked for 10 hours in different concentrations of Selenite (Se) (0 mg/l, 50 mg/l and 100 mg/l). Primed seed were planted into sterilized-sieved top soils. Plants were subjected to 0 (irrigated) and 8 days (non-irrigated) water stress. Selenite 50 mg/l improved plant height, number of leaves, total carotene, chlorophyll contents, biomass, grain number of upland rice during water stress. Selenite increased activities of APX as water stress progressively increased consequently, low MDA content was observed in cultivar Vandana. Furthermore, selenite significantly improved total carotene, chlorophyll contents, anthocyanin, and dry shoot weight in cultivar Nerica U7 during water stress. Selenite significantly stabilized activities of anthocyanin and CAT in cultivar Nerica U4 during water stress. Hence high grain yield was recorded in Nerica U4 and U7 in selenite primed upland rice during water stress. Selenite reduced lipid peroxidation in upland rice at 100mg/l. Therefore, it can be concluded that response of rice to selenite during water stress is based on tolerance capacity of the cultivars and also, selenite 50mg/l can help to improve growth and yield of upland rice in drought-prone area.</abstract>
+   <subject>
+      <topic>Antioxidants</topic>
+   </subject>
+   <subject>
+      <topic>Growth</topic>
+   </subject>
+   <subject>
+      <topic>Lipid peroxidation</topic>
+   </subject>
+   <subject>
+      <topic>Selenite</topic>
+   </subject>
+   <subject>
+      <topic>Upland rice</topic>
+   </subject>
+   <subject>
+      <topic>Yield</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Agricultural Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-8245</identifier>
+      <identifier type="issn-e">0976-058X</identifier>
+      <identifier type="issn">0976-058X</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>168</start>
+            <end>174</end>
+            <total>7</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar2-54-2-006</identifier>
+   <identifier type="doi">10.18805/IJARe.A-385</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/IJARe.A-385</url>
+   </location>
+   <extension>
+      <archiveFile>ijar2-54-2-006</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/ijar2-54-2-006.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJAR2</journal-id>
+      <journal-title>Indian Journal of Agricultural Research</journal-title>
+      <issn pub-type="ppub">0367-8245</issn>
+      <issn pub-type="epub">0976-058X</issn>
+      <publisher>
+        <publisher-name>Agricultural Research Communication Centre</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijar2-54-2-004</article-id>
+      <doi-group>
+        <article-doi>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.18805/IJARe.A-483">10.18805/IJARe.A-483</ext-link>
+        </article-doi>
+      </doi-group>
+      <article-categories>
+        <subj-group>
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Effect of Pre-Sowing Electromagnetic Processing on the Sowing and Morphological Characters of Bulgarian Pepper Varieties (<italic>Capsicum annuum</italic>)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Antonova-Karacheva</surname>
+            <given-names>G.M.</given-names>
+          </name>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <deptname>Department of Technologies in Vegetable Crops Production</deptname>, <instname>Maritsa Vegetable Crops Research Institute (MVCRI)</instname>, <instcity>Plovdiv</instcity>, <instcountry>Bulgaria</instcountry></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding Author: G.M. Antonova-Karacheva, <deptname>Department of Technologies in Vegetable Crops Production</deptname>, <instname>Maritsa Vegetable Crops Research Institute (MVCRI)</instname>, <instcity>Plovdiv</instcity>, <instcountry>Bulgaria</instcountry>. Email: <email>gabi_kr@abv.bg</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 23 May, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>4</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>54</volume>
+      <issue>2</issue>
+      <fpage>121</fpage>
+      <lpage>128</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>During the period 2015–2018, a study for determining the effect of electromagnetic seed treatment on sowing qualities and morphological features of Bulgarian pepper varieties was conducted in the ‘Maritsa’ Vegetable Crops Research Institute, Plovdiv (Maritsa VCRI). Three varieties kapia type-Sofiyska kapia, Kapia UV and Kurtovska kapia 1 were studied. The studies were performed in laboratory under controlled conditions. Pre-sowing of seeds was carried out with 15 variants with controllable factors: voltage U (kV), duration of impact T(s) and time of stay of seeds from treatment to sowing T (days). Sowing properties were investigated: germination energy. G.E. (%) and germination-G. (%) and the following morphological features: root lengths ζ(mm), hypocotyls ζ(mm) and cotyledons ζ(mm). The best positive effect was found in the treatment of seeds with a voltage of 6 kV, duration of exposure of 20 s and a time of seed stay-8 days in the variety Kurtovska kapia 1. The treatment with a voltage of 10 kV, duration of seed exposure 20 s and time for seed stay 12 days is the most suitable for the varieties Sofiyska kapia and Kapia UV.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>
+          <italic>Capsicum annuum</italic>
+        </kwd>
+        <kwd>Electromagnetic processing</kwd>
+        <kwd>Morphological characters</kwd>
+        <kwd>Sowing properties</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="8" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

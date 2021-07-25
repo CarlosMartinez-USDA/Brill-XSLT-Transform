@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Impact of rumen-protected niacin on milk production performance and blood biochemical indexes of dairy cows under mild heat stress</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Yong</namePart>
+      <namePart type="family">Chen</namePart>
+      <displayForm>Chen, Yong</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Guang</namePart>
+      <namePart type="family">Wang</namePart>
+      <displayForm>Wang, Guang</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Xingbo</namePart>
+      <namePart type="family">Yu</namePart>
+      <displayForm>Yu, Xingbo</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Li</namePart>
+      <namePart type="family">Zhen</namePart>
+      <displayForm>Zhen, Li</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yongli</namePart>
+      <namePart type="family">Qu</namePart>
+      <displayForm>Qu, Yongli</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-05</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>To study the influence of rumen-protected niacin on mild heat-stressed dairy cow, 30 healthy high-yielding dairy cows with similar parity were selected and randomly divided into three group were fed the rations with 0g/d, 6g/d and 12g/d rumen-protected niacin respectively. The results showed that the dairy cows were in mild heat stress during the experiment and the time of test day significantly affected the milk yield, FCM and respiration rate of cows. Rumen-protected niacin supplement neither altered the dairy cow's body temperature, skin temperature and respiration rate, nor affected their milk yield and milk quality; however, it reduced the level of triglyceride and urea in serum.</abstract>
+   <subject>
+      <topic>Heat-stressed</topic>
+   </subject>
+   <subject>
+      <topic>Milk yield</topic>
+   </subject>
+   <subject>
+      <topic>Rumen-protected</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>5</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">05</text>
+         <extent unit="pages">
+            <start>558</start>
+            <end>562</end>
+            <total>5</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-5-007</identifier>
+   <identifier type="doi">10.18805/ijar.B-1109</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-1109</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-5-007</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-5-007.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

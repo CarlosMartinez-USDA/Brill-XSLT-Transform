@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <mods>
+    <titleInfo>
+      <title>More than Eco-efficiency is Required to Improve Food Security</title>
+    </titleInfo>
+    <name type="personal" usage="primary">
+      <namePart>Park, S.E.</namePart>
+      <displayForm>Park, S.E.</displayForm>
+    </name>
+    <name type="personal">
+      <namePart>Howden, S.M.</namePart>
+      <displayForm>Howden, S.M.</displayForm>
+    </name>
+    <name type="personal">
+      <namePart>Crimp, S.J.</namePart>
+      <displayForm>Crimp, S.J.</displayForm>
+    </name>
+    <name type="personal">
+      <namePart>Gaydon, D.S.</namePart>
+      <displayForm>Gaydon, D.S.</displayForm>
+    </name>
+    <name type="personal">
+      <namePart>Attwood, S.J.</namePart>
+      <displayForm>Attwood, S.J.</displayForm>
+    </name>
+    <name type="personal">
+      <namePart>Kokic, P.N.</namePart>
+      <displayForm>Kokic, P.N.</displayForm>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">survey of literature</genre>
+    <genre authority="">Internet resource</genre>
+    <originInfo>
+      <dateIssued encoding="marc">2010</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <form authority="gmd">electronic resource</form>
+      <extent>p.  S132-S141.</extent>
+    </physicalDescription>
+    <abstract type="Summary">Agricultural eco-efficiency is promoted as a means of increasing agricultural production and improving the security of food systems in response to climate change. The rationale is that economic and environmental resources will be used more efficiently, enabling increased amounts of food to be produced from the same amount or fewer inputs. We used (i) a quantitative literature analysis to examine current usage of the eco-efficiency concept to assess strategies aimed at improving food security under climate change, and (ii) a wheat (Triticum aestivum L.) simulation experiment to consider possible tradeoffs between economic benefits of agricultural intensification, environmental performance, and social impacts. Two issues were highlighted from this. First, the relationship between economic and environmental outcomes is regularly assumed, leading to potentially erroneous conclusions and unintended outcomes. Second, the lack of any consideration for the social dimensions of food security ignores variability in incomes generated from agricultural production, and the potential for reduced quantities of food to be produced as a rational response to maximizing gross margins. We suggest the eco-efficiency concept explicitly include social as well as economic and environmental criteria if it is to avoid poor rates of uptake of eco-efficiency technologies, the promotion of practices that reduce the effectiveness of hunger-reduction efforts, and unintended environmental degradation.</abstract>
+    <note type="statement of responsibility" altRepGroup="00"/>
+    <note type="bibliography">Includes references</note>
+    <subject authority="nal">
+      <topic>Triticum aestivum</topic>
+    </subject>
+    <subject authority="nal">
+      <topic>wheat</topic>
+    </subject>
+    <subject authority="nal">
+      <topic>crop production</topic>
+    </subject>
+    <subject authority="nal">
+      <topic>crop yield</topic>
+    </subject>
+    <subject authority="nal">
+      <topic>sustainable agriculture</topic>
+    </subject>
+    <subject authority="nal">
+      <topic>food security</topic>
+    </subject>
+    <subject authority="nal">
+      <topic>climate change</topic>
+    </subject>
+    <subject authority="nal">
+      <topic>intensive cropping</topic>
+    </subject>
+    <subject authority="nal">
+      <topic>agroecology</topic>
+    </subject>
+    <subject authority="nal">
+      <topic>environmental impact</topic>
+    </subject>
+    <subject authority="nal">
+      <topic>meta-analysis</topic>
+    </subject>
+    <subject authority="nal">
+      <topic>social impact</topic>
+    </subject>
+    <subject authority="nal">
+      <topic>environmental degradation</topic>
+    </subject>
+    <subject authority="nal">
+      <topic>net farm income</topic>
+    </subject>
+    <subject authority="nal">
+      <topic>profit maximization</topic>
+    </subject>
+    <subject authority="nal">
+      <topic>pollution control</topic>
+    </subject>
+    <subject>
+      <topic>literature reviews</topic>
+    </subject>
+    <subject>
+      <topic>economic benefits</topic>
+    </subject>
+    <subject authority="agricola">
+      <topic>F120</topic>
+    </subject>
+    <subject authority="agricola">
+      <topic>J700</topic>
+    </subject>
+    <subject authority="agricola">
+      <topic>B200</topic>
+    </subject>
+    <subject authority="agricola">
+      <topic>J710</topic>
+    </subject>
+    <location>
+      <physicalLocation>DNAL</physicalLocation>
+      <shelfLocator>64.8 C883</shelfLocator>
+    </location>
+    <location>
+      <url displayLabel="Available from publisher's Web site" usage="primary display">http://dx.doi.org/10.2135/cropsci2009.10.0566</url>
+    </location>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Crop science</title>
+      </titleInfo>
+      <identifier>1022783247</identifier>
+      <identifier type="issn">0011-183X</identifier>
+      <part>
+        <text>2010 Mar-Apr, v. 50, suppl. 1</text>
+      </part>
+    </relatedItem>
+    <identifier type="control">4347601</identifier>
+    <identifier type="agricola">IND44347601</identifier>
+    <extension>
+      <note type="saleTape">20100528 20100605 00000000</note>
+      <note type="indexer">IND 9CT 2010/05/03</note>
+      <note type="publicationSource">Other US</note>
+    </extension>
+    <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">100331</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20120607170549.0</recordChangeDate>
+      <recordIdentifier>4347601</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl (Revision 1.95 2014/04/23)</recordOrigin>
+    </recordInfo>
+  </mods>

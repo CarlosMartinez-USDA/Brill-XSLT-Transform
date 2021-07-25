@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Geospatial assessment and physical characterization of terraced low land (Jhola land) in Eastern Ghats Highland of India</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Ch. Jyotiprava</namePart>
+      <namePart type="family">Dash</namePart>
+      <displayForm>Dash, Ch. Jyotiprava</displayForm>
+      <affiliation>ICAR-Indian Institute of Soil and Water Conservation (ICAR-IISWC), Research Centre, Koraput-763 002, Odisha</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Partha Pratim</namePart>
+      <namePart type="family">Adhikary</namePart>
+      <displayForm>Adhikary, Partha Pratim</displayForm>
+      <affiliation>ICAR-Indian Institute of Soil and Water Conservation (ICAR-IISWC), Research Centre, Koraput-763 002, Odisha</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.</namePart>
+      <namePart type="family">Madhu</namePart>
+      <displayForm>Madhu, M.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">U.K.</namePart>
+      <namePart type="family">Maurya</namePart>
+      <displayForm>Maurya, U.K.</displayForm>
+      <affiliation>ICAR-IISWC, Kaulagarh Road, Dehradun-248 195, Uttarakhand</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">P.K.</namePart>
+      <namePart type="family">Mishra</namePart>
+      <displayForm>Mishra, P.K.</displayForm>
+      <affiliation>International Crop Research Institute for the Semi Arid Tropics, Hyderabad-502324, Telengana</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.</namePart>
+      <namePart type="family">Mukhopadhyay</namePart>
+      <displayForm>Mukhopadhyay, S.</displayForm>
+      <affiliation>ICAR-National Bureau of Soil Survey and Land Use Planning, Regional Centre, Kolkata-700 091, West Bengal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-08</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The aims of this study is to map spatial extent and characterization of Jhola land (terraced low land), using remote sensing (RS) and geographical information system (GIS) techniques. Jhola land is a very important land use system in Koraput district, Odisha in terms of rice production. For mapping, DEM, slope and stream network maps of the district were used as base maps. IRS-Linear Imaging Self Scanner (LISS) IV images of 2013 were also used for assessment of area under the land. Both supervised classification and visual interpretation of satellite images based on tone, texture, shape, association and on-screen digitization was carried out to identify Jhola land. The overall accuracy level was found to be more than 85%. The best NDVI for delineating Jhola land areas was observed to very between-0.08 and 0.43. Jhola land systems occur at or above 700 m elevation and are present in 10 blocks of Koraput district, occupying 186.7 km², which is 2.2% of the total geographical area of the district. Around 84% of total Jhola land systems originated either from 2ⁿᵈ or 3ʳᵈ order streams. Suitable classification scheme of Jhola land was developed based on size, slope and pereniality. The developed data base on Jhola land system will help policy makers in making this system sustainable.</abstract>
+   <subject>
+      <topic>Eastern Ghats</topic>
+   </subject>
+   <subject>
+      <topic>GIS</topic>
+   </subject>
+   <subject>
+      <topic>Jhola land</topic>
+   </subject>
+   <subject>
+      <topic>NDVI</topic>
+   </subject>
+   <subject>
+      <topic>Remote sensing</topic>
+   </subject>
+   <subject>
+      <topic>Stream order</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Soil Conservation</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Associations of Soil &amp; Water Conservationists</publisher>
+      </originInfo>
+      <identifier type="issn-p">0970-3349</identifier>
+      <identifier type="issn-e">0976-1721</identifier>
+      <identifier type="issn">0976-1721</identifier>
+      <part>
+         <detail type="volume">
+            <number>47</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">08</text>
+         <extent unit="pages">
+            <start>194</start>
+            <end>202</end>
+            <total>9</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijsc-47-2-012</identifier>
+   <extension>
+      <archiveFile>ijsc-47-2-012</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/ijsc-47-2-012.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/</workingDirectory>
+   </extension>
+</mods>

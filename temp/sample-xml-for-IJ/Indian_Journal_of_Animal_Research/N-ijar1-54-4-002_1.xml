@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Genetic Parameters and Animal Model Evaluation of First Lactation 305-d Milk Yield and Energy Traits in Karan Fries Cattle</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Arun Pratap</namePart>
+      <namePart type="family">Singh</namePart>
+      <displayForm>Singh, Arun Pratap</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.K.</namePart>
+      <namePart type="family">Chakravarty</namePart>
+      <displayForm>Chakravarty, A.K.</displayForm>
+      <affiliation>Animal Genetics and Breeding Division Director, CAFT (AGB), ICAR-National Dairy Research Institute, Karnal-132 001, Haryana, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mohsin Ayoub</namePart>
+      <namePart type="family">Mir</namePart>
+      <displayForm>Mir, Mohsin Ayoub</displayForm>
+      <affiliation>Krishi Vigyan Kendra, Potushai, Bandipora, Srinagar-193 502, Jammu and Kashmir, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ashwani</namePart>
+      <namePart type="family">Arya</namePart>
+      <displayForm>Arya, Ashwani</displayForm>
+      <affiliation>Krishi Vigyan Kendra, Mahoba-210 423, Uttar Pradesh, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>First lactation records of 351 Karan-Fries cows born to 27 bulls, having 3 or more progeny were used to evaluate sires by animal model (AM). Heritabil9ities, genetic and phenotypic correlations between the traits were estimated by univariate and bivariate linear animal models. The heritability estimates for 305 days or less milk yield (305MY), fat based energy corrected milk yield (FECMY), fat protein based energy corrected milk yield (FPECMY) and fat protein lactose based energy corrected milk yield (FPLECMY) were 0.23, 0.65, 0.11 and 0.39, respectively. There was a high (0.99) genetic and phenotypic correlation between 305MY, FECMY and FPLECMY. The high and positive genetic correlations between energy traits are indication of common genetic and physiological mechanism governing these traits. Comparison of ranks of the sires based on 305MY, FECMY and FPLECMY by animal model depicted a notable100 per cent level of similarity except for FPECMY in which the ranks were entirely different. There was a high heritability and genetic correlation between FECM and FPLECM. Genetic evaluation of Karan-Fries bulls based on energy corrected milk yield will increase the accuracy of selection than the conventional mil yield evaluation. It can help in mitigating the nutritional insecurity of the country in the long run.</abstract>
+   <subject>
+      <topic>Animal model</topic>
+   </subject>
+   <subject>
+      <topic>Energy corrected milk yield</topic>
+   </subject>
+   <subject>
+      <topic>Karan-Fries cattle</topic>
+   </subject>
+   <subject>
+      <topic>Sire evaluation</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>4</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>405</start>
+            <end>408</end>
+            <total>4</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-4-002</identifier>
+   <identifier type="doi">10.18805/ijar.B-3786</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3786</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-4-002</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-4-002.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Effect of biofilm of Aeromonas hydrophila oral vaccine on growth performance and histopathological changes in various tissues of striped catfish, Pangasianodon hypophthalmus (sauvage 1878)</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">M.A.A.</namePart>
+      <namePart type="family">Mamun</namePart>
+      <displayForm>Mamun, M.A.A.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.</namePart>
+      <namePart type="family">Nasren</namePart>
+      <displayForm>Nasren, S.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">P.B.</namePart>
+      <namePart type="family">Abhiman</namePart>
+      <displayForm>Abhiman, P.B.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.S.</namePart>
+      <namePart type="family">Rathore</namePart>
+      <displayForm>Rathore, S.S.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">N.S.</namePart>
+      <namePart type="family">Sowndarya</namePart>
+      <displayForm>Sowndarya, N.S.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">K.S.</namePart>
+      <namePart type="family">Ramesh</namePart>
+      <displayForm>Ramesh, K.S.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">K.M.</namePart>
+      <namePart type="family">Shankar</namePart>
+      <displayForm>Shankar, K.M.</displayForm>
+      <affiliation>Veterinary College, Karnataka Veterinary Animal and Fisheries Science University, Shivamogga-577 204, Karnataka, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-05</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Biofilm of Aeromonas hydrophila oral vaccine was evaluated on growth and histopathological features of striped catfish, Pangasianodon hypophthalmus. Fish were fed with feed incorporating biofilm (BF) or free cell (FC) of A. hydrophila vaccine at 1010 cells/fish/day for 20 days and basal feed for 60 days. From 30th day onwards, till end of the trial, the mean weight gain (g/fish) was significantly higher (P&lt;0.05) in BF treated group than both FC and control group. At the end of the study, histopathological changes in gills, liver and kidney were evaluated using haematoxylin eosin technique. The histopathological findings, in BF fed P. hypophthalmus, showed normal architechture of the gills, liver and kidney. However, fishes fed on FC and control group, resulted several histopathological abnormalities in all the organs.</abstract>
+   <subject>
+      <topic>Aeromonas hydrophila</topic>
+   </subject>
+   <subject>
+      <topic>Biofilm based oral vaccines</topic>
+   </subject>
+   <subject>
+      <topic>Growth</topic>
+   </subject>
+   <subject>
+      <topic>Histopathology</topic>
+   </subject>
+   <subject>
+      <topic>Striped catfish</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>5</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">05</text>
+         <extent unit="pages">
+            <start>563</start>
+            <end>569</end>
+            <total>7</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-5-008</identifier>
+   <identifier type="doi">10.18805/ijar.B-3814</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3814</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-5-008</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-5-008.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

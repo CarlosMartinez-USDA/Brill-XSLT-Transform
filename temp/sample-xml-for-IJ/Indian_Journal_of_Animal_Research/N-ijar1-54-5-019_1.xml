@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Glanders in horses in some selected areas of Bangladesh and comparison between CFT and Immunoblot used for the screening of glanders</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Md. Siddiqur</namePart>
+      <namePart type="family">Rahman</namePart>
+      <displayForm>Rahman, Md. Siddiqur</displayForm>
+      <affiliation>Department of Medicine, Faculty of Veterinary Science, Bangladesh Agricultural University, Mymensingh-2202, Bangladesh</affiliation>
+      <affiliation>OIE and National Reference Laboratory for Glanders, Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, Institute of Bacterial Infections and Zoonoses, Naumburger Strasse 96a, 07743, Jena, Germany</affiliation>
+      <affiliation>Graduate School of Bio-Application and Systems Engineering, Tokyo University of Agriculture and Technology, 2-24-16, Naka-cho, Koganei, Tokyo, 184–8588, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Palash Kumar</namePart>
+      <namePart type="family">Bhattacharjee</namePart>
+      <displayForm>Bhattacharjee, Palash Kumar</displayForm>
+      <affiliation>Department of Medicine, Faculty of Veterinary Science, Bangladesh Agricultural University, Mymensingh-2202, Bangladesh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Roma Rani</namePart>
+      <namePart type="family">Sarker</namePart>
+      <displayForm>Sarker, Roma Rani</displayForm>
+      <affiliation>Department of Medicine, Faculty of Veterinary Science, Bangladesh Agricultural University, Mymensingh-2202, Bangladesh</affiliation>
+      <affiliation>Graduate School of Bio-Application and Systems Engineering, Tokyo University of Agriculture and Technology, 2-24-16, Naka-cho, Koganei, Tokyo, 184–8588, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mst. Sonia</namePart>
+      <namePart type="family">Parvin</namePart>
+      <displayForm>Parvin, Mst. Sonia</displayForm>
+      <affiliation>Department of Medicine, Faculty of Veterinary Science, Bangladesh Agricultural University, Mymensingh-2202, Bangladesh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sayra</namePart>
+      <namePart type="family">Tasnin</namePart>
+      <displayForm>Tasnin, Sayra</displayForm>
+      <affiliation>Department of Medicine, Faculty of Veterinary Science, Bangladesh Agricultural University, Mymensingh-2202, Bangladesh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.A.S.</namePart>
+      <namePart type="family">Sarker</namePart>
+      <displayForm>Sarker, M.A.S.</displayForm>
+      <affiliation>Department of Medicine, Faculty of Veterinary Science, Bangladesh Agricultural University, Mymensingh-2202, Bangladesh</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Heinrich</namePart>
+      <namePart type="family">Neubauer</namePart>
+      <displayForm>Neubauer, Heinrich</displayForm>
+      <affiliation>OIE and National Reference Laboratory for Glanders, Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, Institute of Bacterial Infections and Zoonoses, Naumburger Strasse 96a, 07743, Jena, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Fahima</namePart>
+      <namePart type="family">Khatun</namePart>
+      <displayForm>Khatun, Fahima</displayForm>
+      <affiliation>Graduate School of Bio-Application and Systems Engineering, Tokyo University of Agriculture and Technology, 2-24-16, Naka-cho, Koganei, Tokyo, 184–8588, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Md. Abdul</namePart>
+      <namePart type="family">Wares</namePart>
+      <displayForm>Wares, Md. Abdul</displayForm>
+      <affiliation>Graduate School of Bio-Application and Systems Engineering, Tokyo University of Agriculture and Technology, 2-24-16, Naka-cho, Koganei, Tokyo, 184–8588, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Izumi</namePart>
+      <namePart type="family">Nishidate</namePart>
+      <displayForm>Nishidate, Izumi</displayForm>
+      <affiliation>Graduate School of Bio-Application and Systems Engineering, Tokyo University of Agriculture and Technology, 2-24-16, Naka-cho, Koganei, Tokyo, 184–8588, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mandy C.</namePart>
+      <namePart type="family">Elschner</namePart>
+      <displayForm>Elschner, Mandy C.</displayForm>
+      <affiliation>OIE and National Reference Laboratory for Glanders, Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, Institute of Bacterial Infections and Zoonoses, Naumburger Strasse 96a, 07743, Jena, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-05</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Glanders is a fatal infectious and notifiable zoonotic disease of equines caused by the Gram-negative non-motile bacterium Burkholderia (B.) mallei, which is responsible for chronic suppurative lesions of the skin and mucous membranes, pneumonia and septicemia in equines. Glanders in horses is worldwide distributed and reported from many countries. But no prevalence study was done in Bangladesh so far. Therefore, this preliminary study was conducted to determine the seroprevalence of glanders in horses using CFT and immunoblot assay. A total of 301 serum samples from horses were collected for the detection of glanders antibodies from Mymensingh, Tangail and Jamalpur districts in Bangladesh. By CFT 105 samples were found positive and 23 samples were suspicious. The immunoblot confirmed 26 of these samples but 3 remained suspicious. The overall seroprevalence of glanders was 34.9% based on CFT and 24.8% based on immunoblot. Higher prevalence was found in Jamalpur (11.81%). CFT is considered to be a suitable screening test for the diagnosis of glanders in field conditions in Bangladesh.</abstract>
+   <subject>
+      <topic>CFT</topic>
+   </subject>
+   <subject>
+      <topic>Glanders</topic>
+   </subject>
+   <subject>
+      <topic>Horse</topic>
+   </subject>
+   <subject>
+      <topic>Immunoblot</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>5</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">05</text>
+         <extent unit="pages">
+            <start>631</start>
+            <end>634</end>
+            <total>4</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-5-019</identifier>
+   <identifier type="doi">10.18805/ijar.B-976</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-976</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-5-019</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-5-019.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJSC</journal-id>
+      <journal-title>Indian Journal of Soil Conservation</journal-title>
+      <issn pub-type="ppub">0970-3349</issn>
+      <issn pub-type="epub">0976-1721</issn>
+      <publisher>
+        <publisher-name>Indian Associations of Soil &amp; Water Conservationists</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijsc-47-3-001</article-id>
+      <title-group>
+        <article-title>Assessment of meteorological drought by standardized precipitation index for coastal agro-climatic zones of Odisha, India</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liansangpuii</surname>
+            <given-names>Fanai</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Panigrahi</surname>
+            <given-names>Balram</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2,</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Paul</surname>
+            <given-names>J.C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff001">
+        <sup>1</sup>
+        <deptname>Department of Farm Engineering</deptname>, <instname>Banaras Hindu University</instname>, <inststate>Uttar Pradesh</inststate></aff>
+      <aff id="aff002">
+        <sup>2</sup>
+        <deptname>Department of SWCE</deptname>, <instname>CAET</instname>, <instparent>Odisha University of Agricultural Technology</instparent>, <instcity>Bhubaneswar</instcity>, <inststate>Odisha</inststate></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding author: E-mail: <email>kajal_bp@yahoo.co.in</email> (Balram Panigrahi)</corresp>
+        <fn>
+          <p>
+            <bold>Online published on 8 April, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>12</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>3</issue>
+      <fpage>205</fpage>
+      <lpage>212</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>Drought is a recurring phenomenon in Indian agriculture. Every year, vast amount of crop areas are affected by drought in most parts of India causing heavy economic loss to the country. Drought forecasting and its mitigation measures are very important for boosting agricultural production, especially in rainfed areas. In this paper standardized precipitation index (SPI) was used to assess meteorological drought for 8 coastal districts coming under two coastal agro-climatic zones (CACZs) of Odisha. Monthly rainfall data of 115 years (1901–2015) for all 8 districts of Odisha were analyzed using SPI on 1, 3, 6, 9, and 12-month time scale. Results indicate that mild drought events have the highest frequencies of occurrence followed by moderate drought events for all time scales under analysis for different CACZs. Severe and extreme drought frequencies are comparatively lesser than mild and moderate drought frequencies. SPI analysis considering all the time scales shows that the frequency of occurrence of mild, moderate, severe and extreme droughts varies from 32.0% to 42.5%, 6.16% to 11.2%, 1.88% to 5.22% and 1.08% to 3.50%, respectively across all the districts in CACZs of Odisha. It was observed that 7 out of 8 districts (except Puri) had more number of drought years varying from 59 to 63 years (out of 115 years) in June, whereas all the 8 districts had more number of wet years in August varying from 59 to 67 years. The excess rainwater in August should be harvested for use in crops in subsequent months.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Agro-climatic zones Meteorological drought Odisha Standardized precipitation index</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="8" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

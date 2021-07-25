@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJSC</journal-id>
+         <journal-title>Indian Journal of Soil Conservation</journal-title>
+         <issn pub-type="ppub">0970-3349</issn>
+         <issn pub-type="epub">0976-1721</issn>
+         <publisher>
+            <publisher-name>Indian Associations of Soil &amp; Water Conservationists</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijsc-47-2-005</article-id>
+         <title-group>
+            <article-title>Impact of various micro climates on the physiological parameters and yield of capsicum (<italic>Capsicum annuum</italic> L.)</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Shukla</surname>
+                  <given-names>Chitra</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Bhakar</surname>
+                  <given-names>S.R.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Acharya</surname>
+                  <given-names>S.K.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff003">
+                  <sup>3,</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Jamrey</surname>
+                  <given-names>P.K.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff004">
+                  <sup>4</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff001">
+            <sup>1</sup>
+            <instname>Indian Institute of Technology</instname>, <instcity>Kharagpur</instcity>-<instpincode>721 302</instpincode>, <inststate>West Bengal</inststate>
+         </aff>
+         <aff id="aff002">
+            <sup>2</sup>
+            <instname>College of Technology and Engineering</instname>, <instparent>MPUAT</instparent>, <instcity>Udaipur</instcity>-<instpincode>313 001</instpincode>
+         </aff>
+         <aff id="aff003">
+            <sup>3</sup>
+            <instname>College of Horticulture</instname>, <instparent>SDAU</instparent>, <instcity>Jagudan</instcity>-<instpincode>384 460</instpincode>, <inststate>Gujarat</inststate>
+         </aff>
+         <aff id="aff004">
+            <sup>4</sup>
+            <deptname>Agriculture Department</deptname>, <instname>Ramakrishna Mission Ashrama Narayanpur</instname>, <inststate>Chhattisgarh</inststate>-<instpincode>494661</instpincode>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding author: E-mail: <email>sanjay.acharyahort@gmail.com</email> (S.K. Acharya)</corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 9 April, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>8</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>47</volume>
+         <issue>2</issue>
+         <fpage>143</fpage>
+         <lpage>147</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>The study was carried out to determine effect of different micro climate on physiological parameter and yield of capsicum (<italic>Capsicum annuum</italic> L.) at Plasticulture Farm, CTAE, Udaipur, Rajasthan. There were four small structures (1, 2, 3, and 4) of 64 m<sup>2</sup> (16 m x 4 m) area each with varying cladding materials i.e. 75% shade net, 40 mesh insect net, 200 micron LDPE UV stabilized sheet air vent on side and top provided with 75% shade net, and 200 micron LDPE UV stabilized sheet and air vent on side and top provided with insect net, respectively. It was observed that maximum plant height (174.7 cm), leaves per plant (64) and first harvesting (57.3 DAT) was found in Structure-1. Early flower initiation (29 DAT) was found in Structure-2. Maximum number of flower per plant (23.7), cumulative number of flower per plant (18.20), highest individual fruit weight (94.4 g<sup>−1</sup>), highest fruit yield (1720 g plant) were found in Structure-4. The water use efficiency (WUE) was found 14.62, 13.52, 15.17, and 18.91 kg m<sup>−3</sup> under Structure-1, Structure-2, Structure-3 and Structure-4, respectively. Based on the results, Structure-4 was found best in respect of yield, physiological yield, physio-logical parameters, maximum net income (<inline-formula>
+                  <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  xlink:href="ijsc-47-2-005-ieqn001"/>
+               </inline-formula> 13813/-per structure i.e. <inline-formula>
+                  <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  xlink:href="ijsc-47-2-005-ieqn001"/>
+               </inline-formula> 215.83 m<sup>−2</sup> area) and B: C ratio (1.87).</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Capsicum Physiological parameters Crop yield Shade net house Insect net house Structures</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="5"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

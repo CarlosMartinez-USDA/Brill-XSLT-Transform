@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJVS</journal-id>
+      <journal-title>Indian Journal of Veterinary Surgery</journal-title>
+      <issn pub-type="ppub">0254-4105</issn>
+      <issn pub-type="epub">0973-9726</issn>
+      <publisher>
+        <publisher-name>Indian Society for Veterinary Surgery</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijvs-40-2-021</article-id>
+      <title-group>
+        <article-title>Plate osteosynthesis for mandibular body fracture in a Mudhol hound using locking reconstruction plate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Raidurg</surname>
+            <given-names>Ravi</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1,</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chandrashekharappa</surname>
+            <given-names>M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Naveen</surname>
+            <given-names>M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <instname>Karnataka Veterinary, Animal and Fisheries Sciences University</instname>, <instcity>Bidar</instcity>-<instpincode>585 401</instpincode> (<inststate>Karnataka</inststate>)</aff>
+      <aff id="aff001">
+        <sup>1</sup>Associate Professor and Head, <deptname>Department of Surgery and Radiology</deptname>, <instname>Veterinary College</instname>, <instaddress>Vinoba Nagar</instaddress>, <instcity>Shivamogga</instcity>, <instpincode>577 204</instpincode> (<inststate>Karnataka</inststate>)</aff>
+      <aff id="aff002">
+        <sup>2</sup>Assistant Professor, <deptname>Department of Surgery and Radiology</deptname>, <instname>Veterinary College</instname>, <instaddress>Vinoba Nagar</instaddress>, <instcity>Shivamogga</instcity>, <instpincode>577 204</instpincode> (<inststate>Karnataka</inststate>)</aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding author; E-mail: <email>hodvsrvcs@gmail.com</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 28 May, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>12</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>40</volume>
+      <issue>2</issue>
+      <fpage>144</fpage>
+      <lpage>144</lpage>
+      <counts>
+        <page-count count="1" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

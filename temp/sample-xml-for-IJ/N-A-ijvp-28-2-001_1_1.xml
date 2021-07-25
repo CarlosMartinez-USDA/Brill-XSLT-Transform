@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Pathological and electron microscopic studies in broiler chicks naturally infected with hydropericardium syndrome virus</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">R.</namePart>
+      <namePart type="family">Kumar</namePart>
+      <displayForm>Kumar, R.</displayForm>
+      <affiliation>Department of Epidemiology and Preventive Medicine, College           of Veterinary and Animal Sciences, G. B. Pant University of           Agriculture and Technology, Pantnagar-263           145, Uttaranchal</affiliation>
+      <affiliation>Department of Veterinary Microbiology, College of Veterinary           and Animal Sciences, G. B. Pant University of Agriculture and           Technology, Pantnagar-263         145, Uttaranchal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">R.</namePart>
+      <namePart type="family">Chandra</namePart>
+      <displayForm>Chandra, R.</displayForm>
+      <affiliation>Department of Veterinary Clinical Medicine, College of           Veterinary and Animal Sciences, G. B. Pant University of           Agriculture and Technology, Pantnagar-263           145, Uttaranchal</affiliation>
+      <affiliation>Department of Veterinary Microbiology, College of Veterinary           and Animal Sciences, G. B. Pant University of Agriculture and           Technology, Pantnagar-263         145, Uttaranchal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S. K.</namePart>
+      <namePart type="family">Shukla</namePart>
+      <displayForm>Shukla, S. K.</displayForm>
+      <affiliation>Department of Veterinary Clinical Medicine, College of           Veterinary and Animal Sciences, G. B. Pant University of           Agriculture and Technology, Pantnagar-263           145, Uttaranchal</affiliation>
+      <affiliation>Department of Veterinary Microbiology, College of Veterinary           and Animal Sciences, G. B. Pant University of Agriculture and           Technology, Pantnagar-263         145, Uttaranchal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">V. D. P.</namePart>
+      <namePart type="family">Rao</namePart>
+      <displayForm>Rao, V. D. P.</displayForm>
+      <affiliation>Department of Veterinary Clinical Medicine, College of           Veterinary and Animal Sciences, G. B. Pant University of           Agriculture and Technology, Pantnagar-263           145, Uttaranchal</affiliation>
+      <affiliation>Department of Veterinary Microbiology, College of Veterinary           and Animal Sciences, G. B. Pant University of Agriculture and           Technology, Pantnagar-263         145, Uttaranchal</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2004-12-01</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>An outbreak of hydropericardium syndrome was recorded in a private poultry farm in Haldwani area of Uttaranchal during January, 2002 with 80% mortality. The course of disease was 8–10 days. Post-mortem examination of dead birds revealed pale and enlarged liver with discrete or diffused necrotic foci. The kidneys were enlarged and congested having necrotic foci throughout. The accumulation of fluid in pericardial sac was invariably recorded in all the affected birds. Histopathological examination of liver revealed necrosis, karyorrhexis and infiltration with mononuclear cells. Isolated hepatocytes also showed distinct and large basophilic intranuclear inclusion bodies. By electron microscopy, intranuclear adenovirus like particles distributed in paracrystalline arrangement were demonstrated in hepatocytes. The virus was isolated in chicken embryo liver (CEL) cell culture from 20% (w/v) liver homogenate extract collected and prepared from infected birds. The cytopathic effects were characterised by cell rounding and degenerative changes within 24 hours. Isolated hepatocytes also showed presence of large basophilic intranuclear inclusion bodies, which were confirmed to be avian adenovirus specific by indirect immunofluorescence.</abstract>
+   <subject>
+      <topic>Broilers</topic>
+   </subject>
+   <subject>
+      <topic>Electron microscopy</topic>
+   </subject>
+   <subject>
+      <topic>Histopathology</topic>
+   </subject>
+   <subject>
+      <topic>Hydropericardium syndrome</topic>
+   </subject>
+   <subject>
+      <topic>Isolation in cell culture</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Veterinary Pathology</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Association of Veterinary Pathologists</publisher>
+      </originInfo>
+      <identifier type="issn-p">0250-4758</identifier>
+      <identifier type="issn-e">0973-970X</identifier>
+      <identifier type="issn">0973-970X</identifier>
+      <identifier type="vendor">ijvp</identifier>
+      <part>
+         <detail type="volume">
+            <number>28</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2004</text>
+         <text type="month">12</text>
+         <text type="day">1</text>
+         <extent unit="pages">
+            <start>91</start>
+            <end>93</end>
+            <total>3</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijvp-28-2-001</identifier>
+   <extension>
+      <archiveFile>A-ijvp-28-2-001_1</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/A-ijvp-28-2-001_1.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/</workingDirectory>
+   </extension>
+</mods>

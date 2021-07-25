@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJVS</journal-id>
+      <journal-title>Indian Journal of Veterinary Surgery</journal-title>
+      <issn pub-type="ppub">0254-4105</issn>
+      <issn pub-type="epub">0973-9726</issn>
+      <publisher>
+        <publisher-name>Indian Society for Veterinary Surgery</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijvs-40-2-020</article-id>
+      <title-group>
+        <article-title>Monteggia fracture repair using IM pin fixation in a non-descript dog</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mahesh</surname>
+            <given-names>V.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1,</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sunil</surname>
+            <given-names>C.L.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>SrinivasaMurthy</surname>
+            <given-names>K.M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff003">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nagaraja</surname>
+            <given-names>B.N.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff003">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <instname>Karnataka Veterinary Animal and Fishery Sciences University</instname>, <instcity>Bidar</instcity>-<instpincode>585 401</instpincode> (<inststate>Karnataka</inststate>)</aff>
+      <aff id="aff001">
+        <sup>1</sup>Assistant Professor, <deptname>Department of Surgery and Radiology</deptname>, <instname>Veterinary College</instname>, <instcity>Bangalore</instcity></aff>
+      <aff id="aff002">
+        <sup>2</sup>PG Scholar, <deptname>Department of Surgery and Radiology</deptname>, <instname>Veterinary College</instname>, <instcity>Bangalore</instcity></aff>
+      <aff id="aff003">
+        <sup>3</sup>Professor, <deptname>Department of Surgery and Radiology</deptname>, <instname>Veterinary College</instname>, <instcity>Bangalore</instcity></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding author; E-mail: <email>dr.vmahesh@gmail.com</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 28 May, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>12</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>40</volume>
+      <issue>2</issue>
+      <fpage>143</fpage>
+      <lpage>143</lpage>
+      <counts>
+        <page-count count="1" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nal-provider-admin xmlns="http://ur.usda.gov/xslt/nal-provider-admin.xsd"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <description>
+        <!-- General description -->
+
+        <identifier type="local">provider:203</identifier>
+        <!-- Object PID -->
+
+        <name type="full">Public Library of Science</name>
+        <!-- Provider's full name -->
+
+        <name type="moniker">PLOS</name>
+        <!-- shorten version of name (Capital letters only) -->
+
+    </description>
+
+    <license>
+        <status>Pending</status>
+        <!-- Status of License       | Pending Action | Pending Action, None required, In negotiation, Awaiting countersignature, Finalized, Publisher refused permission  -->
+
+        <date type="status">2016-03-02</date>
+        <!-- License status date     | current date   | date in w3cdtf format -->
+
+        <note>Note #1</note>
+        <note>Note #2</note>
+        <!-- License note -->
+
+        <date type="start">2017-01-01</date>
+        <!-- License start date in w3cdtf format -->
+
+        <date type="end">2017-12-31</date>
+        <!-- License Expiration Date in w3cdtf format -->
+
+    </license>
+
+    <delivery>
+
+        <status>Pending</status>
+        <!-- Status of access -->
+
+        <mechanism>FTP pull from provider site.</mechanism>
+        <!-- FTP Push, FTP Pull | How the metadata would be received  -->
+
+        <accountName>usda</accountName>
+        <!-- account name | Name of account used for metadata access  -->
+
+        <date type="established">2016-03-01</date>
+        <!-- Userid established  | Date account was created in w3cdtf format -->
+
+
+        <note>devlivery note #1</note>
+        <note>devlivery note #2</note>
+
+    </delivery>
+
+    <metadata>
+
+        <status>Pending</status>
+        <!-- Status of metadata -->
+
+        <format>DTD PubMed 2.1</format>
+        <!-- Schema/DTD | Name of schedule or DTD used for transporting the metadata -->
+        <descriptionDoc>http://www.ncbi.nlm.nih.gov:80/entrez/query/static/PubMed.dtd</descriptionDoc>
+
+        <date type="requested">2016-03-01</date>
+        <!-- Userid established  | Date in w3cdtf format -->
+
+        <date type="received">2016-03-01</date>
+        <!-- Userid established  | Date in w3cdtf format -->
+
+        <date type="accepted">2016-03-01</date>
+        <!-- Userid established  | Date in w3cdtf format -->
+
+        <date type="rejected">2016-03-01</date>
+        <!-- Userid established  | Date in w3cdtf format -->
+
+        <note>metadata note #1</note>
+        <note>metadata note #2</note>
+
+    </metadata>
+
+    <processing>
+        
+        <status>on hold</status>
+        <!-- Status of processing -->
+        
+        <date type="production">2016-03-01</date>
+        <!-- Userid established  | Date in w3cdtf format -->
+        
+        <location type="source">pubdata@ftp.nal.usda.gov:/ftp/home/plos/</location>
+        <!-- Path to metadata on FTP server -->
+
+        <location type="target">/data/metadata/incoming/plos/</location>
+        <!-- full path to on local server  -->
+
+        <transform>http://ur.nal.usda.gov/xslt/jats_to_mods_30_PLOS.xsl</transform>
+        <!-- path to XLST for given provider's DTD to MODS -->
+
+        <format>one per file</format>
+        <!-- one record per file or multiple records per file -->
+
+        <note>metadata note #1</note>
+        <note>metadata note #2</note>
+
+    </processing>
+
+</nal-provider-admin>

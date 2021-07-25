@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJAR1</journal-id>
+         <journal-title>Indian Journal of Animal Research</journal-title>
+         <issn pub-type="ppub">0367-6722</issn>
+         <issn pub-type="epub">0976-0555</issn>
+         <publisher>
+            <publisher-name>Agricultural Research Communication Centre</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijar1-54-3-007</article-id>
+         <doi-group>
+            <article-doi>
+               <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                         ext-link-type="uri"
+                         xlink:href="http://dx.doi.org/10.18805/ijar.B-808">10.18805/ijar.B-808</ext-link>
+            </article-doi>
+         </doi-group>
+         <article-categories>
+            <subj-group>
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Evaluation of the acceptability of fresh dog cadavers in anatomy education</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Oto</surname>
+                  <given-names>C.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Bakici</surname>
+                  <given-names>C.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Insal</surname>
+                  <given-names>B.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2,</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Yilmaz</surname>
+                  <given-names>B.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff003">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Ozen</surname>
+                  <given-names>D.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff004">
+                  <sup>4</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff001">
+            <sup>1</sup>
+            <deptname>Department of Anatomy</deptname>, <instname>Ankara University</instname>, <deptname>Faculty of Veterinary Medicine</deptname>, <instpincode>06110</instpincode>, <instaddress>Altindag</instaddress>, <instcity>Ankara</instcity>, <instcountry>Turkey</instcountry>
+         </aff>
+         <aff id="aff002">
+            <sup>2</sup>
+            <deptname>Department of Basic Science</deptname>, <instname>Ankara University</instname>, <deptname>Faculty of Veterinary Medicine</deptname>, <instpincode>06110</instpincode>, <instaddress>Altindag</instaddress>, <instcity>Ankara</instcity>, <instcountry>Turkey</instcountry>
+         </aff>
+         <aff id="aff003">
+            <sup>3</sup>
+            <deptname>Department of Anatomy</deptname>, <instname>Harran University</instname>, <deptname>Faculty of Veterinary Medicine</deptname>, <instpincode>63200</instpincode>, <instaddress>Eyyubiye</instaddress>, <instcity>Sanlýurfa</instcity>, <instcountry>Turkey</instcountry>
+         </aff>
+         <aff id="aff004">
+            <sup>4</sup>
+            <deptname>Department of Biostatistics</deptname>, <instname>Ankara University</instname>, <deptname>Faculty of Veterinary Medicine</deptname>, <instpincode>06110</instpincode>, <instaddress>Altindag</instaddress>, <instcity>Ankara</instcity>, <instcountry>Turkey</instcountry>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding Author: B. Insal, <deptname>Department of Basic Science</deptname>, <instname>Ankara University</instname>, <deptname>Faculty of Veterinary Medicine</deptname>, <instpincode>06110</instpincode>, <instaddress>Altindag</instaddress>, <instcity>Ankara</instcity>, <instcountry>Turkey</instcountry>. Email: <email>burcuinsal@gmail.com</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 8 April, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>3</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>54</volume>
+         <issue>3</issue>
+         <fpage>305</fpage>
+         <lpage>309</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>The usage of cadavers as training material for students and lecturers is limited due to disadvantages of the fixation solutions and methods. These disadvantages include the toxicity of chemicals that are used in fixative solutions in terms of human health, the alteration of properties in fresh tissues and ethical concerns of the fixation processes of cadavers. After physiological death, the alterations eventuate in the cell and tissues due to decomposition from during the first instant of the post-mortem period. The exposure time of fresh cadavers are limited. In this study, it was aimed to determine the color changes of a fresh cadaver after death quantitatively and indicate the usability period of the cadaver under study as educational. material. Besides, it is planned to reduce the use of both live animal casualties and chemical containing fixation solutions. It has been revealed that a fresh cadaver can be used as a training material for a limited period as 7 days. It was also determined that it is more appropriate to use cadaver in education after regional dissection.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Anatomy</kwd>
+            <kwd>Cadaver</kwd>
+            <kwd>Colorimeter</kwd>
+            <kwd>Dog</kwd>
+            <kwd>Muscle</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="5"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

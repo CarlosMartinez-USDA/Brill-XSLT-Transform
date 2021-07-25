@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.1//EN" "http://www.ncbi.nlm.nih.gov:80/entrez/query/static/PubMed.dtd">
+<ArticleSet>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Phytotoxic activity of Cachrys pungens Jan, a mediterranean species: separation, identification & quantification of potential allelochemicals</ArticleTitle>
+      <FirstPage>1071</FirstPage>
+      <LastPage>1083</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Fabrizio</FirstName>
+            <LastName>Araniti</LastName>
+            <Affiliation>Dipartimento di AGRARIA, Facoltà di Agraria-Salita Melissari, Università degli Studi “Mediterranea” di Reggio Calabria, 89124, Reggio Calabria, RC, Italy, </Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Mariangela</FirstName>
+            <LastName>Marrelli</LastName>
+         </Author>
+         <Author>
+            <FirstName>Antonio</FirstName>
+            <LastName>Lupini</LastName>
+         </Author>
+         <Author>
+            <FirstName>Francesco</FirstName>
+            <LastName>Mercati</LastName>
+         </Author>
+         <Author>
+            <FirstName>Giancarlo</FirstName>
+            <MiddleName>Antonio</MiddleName>
+            <LastName>Statti</LastName>
+         </Author>
+         <Author>
+            <FirstName>Maria</FirstName>
+            <MiddleName>Rosa</MiddleName>
+            <LastName>Abenavoli</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-013-1482-8</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>8</Month>
+            <Day>11</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>31</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>27</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>12</Day>
+         </PubDate>
+      </History>
+      <Abstract>In continuous research for bioactive compounds obtained from plants to use for weed control in sustainable agriculture, the aerial parts of Cachrys pungens Jan (Umbelliferae) were extracted with methanol and then fractionated using hexane, chloroform (CHCl<inf>3</inf>) and ethyl acetate (AcOEt). The potential phytotoxicity of total methanolic extract and each fraction was assayed in vitro on seed germination and root elongation of lettuce (Lactuca sativa L.) and the most active fractions were assayed on three of the most common weeds (Lolium perenne, Amaranthus retroflexus, Echinochloa crus-galli). Non linear regression that allowed to obtain the ED<inf>50</inf> index for both physiological processes was applied. The fraction bioassays indicated the following hierarchy of phytotoxicity for both processes: CHCl<inf>3</inf> ≥ AcOEt &gt; hexane. Moreover, in the present work was chemically characterized for the first time (through HPTLC) the polar fraction of this species pointing out the high presence of flavonoids and phenolic acids. In particular six of them have been chemically characterized and quantified (naringin, quercetin, catechin, caffeic acid, ferulic acid and gallic acid). These results make C. pungens Jan a potential source of natural compounds employable for an eco-friendly agriculture.</Abstract>
+   </Article>
+   <Article>
+      <Journal>
+         <PublisherName>Springer-Verlag</PublisherName>
+         <JournalTitle>Acta Physiol Plant</JournalTitle>
+         <Issn>0137-5881</Issn>
+         <Volume>36</Volume>
+         <Issue>5</Issue>
+         <PubDate PubStatus="ppublish">
+            <Year>2014</Year>
+            <Month>5</Month>
+         </PubDate>
+      </Journal>
+      <ArticleTitle>Transcriptional regulation of Arabidopsis thaliana
+              WRKY genes under interaction with beneficial fungus Trichoderma atroviride
+            </ArticleTitle>
+      <FirstPage>1085</FirstPage>
+      <LastPage>1093</LastPage>
+      <Language>EN</Language>
+      <AuthorList>
+         <Author>
+            <FirstName>Jorge</FirstName>
+            <LastName>Sáenz-Mata</LastName>
+            <Affiliation>Facultad de Ciencias Biológicas, Universidad Juárez del Estado de Durango, Av. Universidad S/N, Fracc. Filadelfia, C.P. 35010, Gómez Palacio, Durango, México, jsaenz_mata@ujed.mx</Affiliation>
+         </Author>
+         <Author>
+            <FirstName>Fatima</FirstName>
+            <MiddleName>Berenice</MiddleName>
+            <LastName>Salazar-Badillo</LastName>
+         </Author>
+         <Author>
+            <FirstName>Juan</FirstName>
+            <MiddleName>Francisco</MiddleName>
+            <LastName>Jiménez-Bremont</LastName>
+         </Author>
+      </AuthorList>
+      <ArticleIdList>
+         <ArticleId IdType="doi">10.1007/s11738-013-1483-7</ArticleId>
+      </ArticleIdList>
+      <History>
+         <PubDate PubStatus="received">
+            <Year>2013</Year>
+            <Month>7</Month>
+            <Day>8</Day>
+         </PubDate>
+         <PubDate PubStatus="accepted">
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>31</Day>
+         </PubDate>
+         <PubDate PubStatus="revised">
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>11</Day>
+         </PubDate>
+         <PubDate PubStatus="aheadofprint">
+            <Year>2014</Year>
+            <Month>1</Month>
+            <Day>12</Day>
+         </PubDate>
+      </History>
+      <Abstract>
+Plants are associated with a wide range of microorganisms, and these interactions induce changes in both the plant and microorganism. Transcription factors play an important role in the regulation of large numbers of genes associated to plant–microbe response. WRKY transcription factors have been involved in the responses to plant–pathogen interactions, but little is known about WRKY transcription factors in beneficial plant–microbe interactions. In this study, the expression patterns of Arabidopsis thaliana
+                WRKY genes were evaluated during the interaction with the beneficial fungus Trichoderma atroviride. Eight WRKY genes, AtWRKY8, AtWRKY33, AtWRKY38, AtWRKY42, AtWRKY54, AtWRKY57, AtWRKY60 and AtWRKY70, were analyzed by quantitative RT-PCR. These WRKY genes were found differentially expressed in a time-dependent manner during T. atroviride interaction. Our data suggest that T. atroviride induces the expression of positive regulators in jasmonic acid-mediated pathway such as AtWRKY8, AtWRKY33, AtWRKY38, AtWRKY42 and AtWRKY60, while salicylic acid pathway regulated by AtWRKY70 and AtWRKY54, could be activated at later stages of the interaction, when the fungus is fully established in the plant roots. In addition, Trichoderma treatment regulates the expression of WRKY genes such as AtWRKY57, AtWRKY60 and AtWRKY33 related to response to abiotic stresses. In this sense, WRKY transcription factors regulation suggests a complex signaling network in this beneficial plant–microbe interaction.</Abstract>
+   </Article>
+</ArticleSet>

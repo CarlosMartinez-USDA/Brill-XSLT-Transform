@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJAR1</journal-id>
+      <journal-title>Indian Journal of Animal Research</journal-title>
+      <issn pub-type="ppub">0367-6722</issn>
+      <issn pub-type="epub">0976-0555</issn>
+      <publisher>
+        <publisher-name>Agricultural Research Communication Centre</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijar1-54-4-013</article-id>
+      <doi-group>
+        <article-doi>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.18805/ijar.B-3783">10.18805/ijar.B-3783</ext-link>
+        </article-doi>
+      </doi-group>
+      <article-categories>
+        <subj-group>
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Comparative Study of Ultrasonographic Features of Abomasum in Cattle and Buffaloes Suffering from Various Gastrointestinal Tract Disorders</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sodhi</surname>
+            <given-names>Harmanpreet Singh</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mohindroo</surname>
+            <given-names>Jitender</given-names>
+          </name>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mahajan</surname>
+            <given-names>Sashikant</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Verma</surname>
+            <given-names>Pallavi</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Singh</surname>
+            <given-names>Opinder</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <deptname>Department of Veterinary Surgery and Radiology</deptname>, <instname>College of Veterinary Science</instname>, <instparent>Guru Angad Dev Veterinary and Animal Sciences University</instparent>, <instcity>Ludhiana</instcity>-<instpincode>141 001</instpincode>, <inststate>Punjab</inststate>, <instcountry>India</instcountry></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding Author: Jitender Mohindroo, <deptname>Department of Veterinary Surgery and Radiology</deptname>, <instname>College of Veterinary Science</instname>, <instparent>Guru Angad Dev Veterinary and Animal Sciences University</instparent>, <instcity>Ludhiana</instcity>-<instpincode>141 001</instpincode>, <inststate>Punjab</inststate>, <instcountry>India</instcountry>. Email: <email>jmohindroo@yahoo.co.in</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 23 May, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>4</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>54</volume>
+      <issue>4</issue>
+      <fpage>462</fpage>
+      <lpage>467</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>The present study was conducted on 40 clinical cases of bovine (10 cattle, 30 buffaloes) to ultrasonographically evaluate the position of abomasum in relation to anatomical landmarks in cattle and buffaloes suffering from various gastrointestinal tract (GIT) affections. Animals were divided into five groups viz. foreign body syndrome (n=14), faecolith (n=6), caecal im7paction (n=5), reticular abscess (n=2) and diaphragmatic hernia (n=13) as per disease condition confirmed upon ultrasonography and surgical findings. Ultrasonographically, the distance from caudal most aspect of wither at dorsal spine to dorsal most aspect of abomasum, distance from xiphoid to cranial most aspect of abomasum, distance from mid of umblicus to caudal most aspect of abomasum and distance from ventral midline to ventral most aspect of abomasum was recorded to evaluate the size of abomasum. The ultrasonographic findings were correlated with intra-operative findings. It was concluded that the size of abomasum is significantly reduced in animals suffering from caecal impaction while the size of abomasum was significantly increased in animals suffering from faecolith and was comparable in animals suffering from diaphragmatic hernia, foreign body syndrome and reticular abscess. The location of pylorus was not significantly altered in any disease condition.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Abomasum</kwd>
+        <kwd>Buffalo</kwd>
+        <kwd>Cattle</kwd>
+        <kwd>Gastrointestinal affection</kwd>
+        <kwd>Position</kwd>
+        <kwd>Ultrasonography</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="6" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

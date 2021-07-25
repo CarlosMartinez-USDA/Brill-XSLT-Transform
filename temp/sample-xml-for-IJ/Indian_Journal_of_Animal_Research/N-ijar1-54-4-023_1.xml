@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Effect of feeding improved varieties of fodder on growth performance and nutrient digestibility in Osmanabadi goat</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">M.A.</namePart>
+      <namePart type="family">Bhoyarkar</namePart>
+      <displayForm>Bhoyarkar, M.A.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">G.K.</namePart>
+      <namePart type="family">Londhe</namePart>
+      <displayForm>Londhe, G.K.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">B.M.</namePart>
+      <namePart type="family">Thombre</namePart>
+      <displayForm>Thombre, B.M.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.F.</namePart>
+      <namePart type="family">Siddiqui</namePart>
+      <displayForm>Siddiqui, M.F.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The present research was undertaken to study the eighteen Osmanabadi does of one half and 2 years of age were randomly selected and divided into 3 groups, 6 in each group on the basis of body weight and age. The groups were fed with treatment (T₁) contents 50 per cent DCP from green Maize fodder + 50 per cent DCP from Concentrate mixture + ad lib Sorghum kadbi, (T₂) 50 per cent DCP from green Marvel grass + 50 per cent DCP from Concentrate mixture + ad lib Sorghum kadbi and (T₃) 50 per cent DCP from green DHN-6 fodder + 50 per cent DCP from Concentrate mixture + ad lib Sorghum kadbi. It was concluded that the monthly body weights and monthly gain in body weights was numerically higher in does fed with DHN-6 fodder. The dry matter (DM), digestible crude protein (DCP) and total digestible nutrient (TDN) intake was significantly higher in group fed with DHN-6 fodder than group fed with marvel grass and maize fodder. The higher nutrient digestibility was observed in does fed with DHN-6 fodder than rest of all treatments.</abstract>
+   <subject>
+      <topic>Growth performance</topic>
+   </subject>
+   <subject>
+      <topic>Nutrient digestibility</topic>
+   </subject>
+   <subject>
+      <topic>Nutrient intake</topic>
+   </subject>
+   <subject>
+      <topic>Osmanabadi goat</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>4</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>513</start>
+            <end>516</end>
+            <total>4</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-4-023</identifier>
+   <identifier type="doi">10.18805/ijar.B-3782</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3782</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-4-023</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-4-023.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

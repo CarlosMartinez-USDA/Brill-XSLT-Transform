@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJSC</journal-id>
+      <journal-title>Indian Journal of Soil Conservation</journal-title>
+      <issn pub-type="ppub">0970-3349</issn>
+      <issn pub-type="epub">0976-1721</issn>
+      <publisher>
+        <publisher-name>Indian Associations of Soil &amp; Water Conservationists</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijsc-47-3-006</article-id>
+      <title-group>
+        <article-title>Soil erosion and sediment yield estimation using remote sensing data and GIS in a Sitlarao watershed of north-western Himalayan region</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Singh</surname>
+            <given-names>A.K.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kumar</surname>
+            <given-names>S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Naithani</surname>
+            <given-names>S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>George</surname>
+            <given-names>J.K</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1,</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff001">
+        <sup>1</sup>
+        <deptname>Agriculture and Soil Department</deptname>, <instname>Indian Institute of Remote Sensing</instname>, <instcity>Dehradun</instcity>-<instpincode>248001</instpincode>, <inststate>Uttarakhand</inststate></aff>
+      <aff id="aff002">
+        <sup>2</sup>
+        <instname>School of Environment and Natural Resources</instname>, <instparent>Doon University</instparent>, <instaddress>Kedarpur</instaddress>, <instcity>Dehradun</instcity>-<instpincode>248001</instpincode>, <inststate>Uttarakhand</inststate></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding author: E-mail: <email>justin@iirs.gov.in</email> (J. George K.)</corresp>
+        <fn>
+          <p>
+            <bold>Online published on 8 April, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>12</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>3</issue>
+      <fpage>244</fpage>
+      <lpage>254</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>Soil erosion (SE) is the primary reason of land degradation and responsible for declining soil quality and crop yield in the Himalayan region. Spatial SE risk assessment and sediment loss are necessitated to prioritize sub-watershed and implementing soil and water conservation planning of the watershed. In this study, revised universal soil loss equation (RUSLE) model with sediment delivery ratio (SDR) was integrated with geographic information system (GIS) to estimate SE and sediment loss in a watershed located in north-western Himalayan region of Uttarakhand state, India. Land use/land cover (LU/LC) was generated using high resolution remote sensing (RS) IRS LISS IV data, and vegetation cover (C), management practices (P) and soil erodibility (K) factor maps were generated using physiographic-soil map at large scale. The watershed is dominantly covered by cropland (46.78%) followed by forest (32.93%) and scrub/barren land (13.71%). Soil erodibility (K) factor varied from 0.033 to 0.061 in the watershed. Terrain slope length (L) and steepness (S) values were obtained from Carto-DEM (10 m) with the help of GIS. SE risk map based on RUSLE model revealed 36.4% area under high to very high risk of SE in the watershed. Average annual SE in croplands varies from 10.61 t ha<sup>−1</sup> yr<sup>−1</sup> to 16.08 t ha<sup>−1</sup> yr<sup>−1</sup>, whereas dense forest and open scrub cover were predicted to be 4.14 t ha<sup>−1</sup> yr<sup>−1</sup> and 26.04 t ha<sup>−1</sup> yr<sup>−1</sup>, respectively. Estimation of SDR based on soil and sediment clay ratio serves as most appropriate method to estimate SDR for small watershed and to estimate sediment loss for sub-watershed prioritization. SDR of the sub-watershed ranged from 0.32 to 0.71 with an average of 0.48. Topography and LU/LC appear to be major factors in governing SE in the watershed.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>GIS Himalaya Remote sensing RUSLE Sediment yield Soil erosion</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="11" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJAR1</journal-id>
+      <journal-title>Indian Journal of Animal Research</journal-title>
+      <issn pub-type="ppub">0367-6722</issn>
+      <issn pub-type="epub">0976-0555</issn>
+      <publisher>
+        <publisher-name>Agricultural Research Communication Centre</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijar1-54-5-005</article-id>
+      <doi-group>
+        <article-doi>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.18805/ijar.B-1039">10.18805/ijar.B-1039</ext-link>
+        </article-doi>
+      </doi-group>
+      <article-categories>
+        <subj-group>
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Comparative evaluation of the <italic>in</italic>-<italic>vitro</italic> viability of canine and human blood preserved in citrate phosphate dextrose adenine (CPDA)-1 anticoagulated blood bag</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Udegbunam</surname>
+            <given-names>R.I.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Njaka</surname>
+            <given-names>C.S.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Okereke</surname>
+            <given-names>H.N.</given-names>
+          </name>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Udegbunam</surname>
+            <given-names>S.O.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <deptname>Department of Veterinary Surgery, Faculty of Veterinary Medicine</deptname>, <instname>University of Nigeria</instname>, <instcity>Nsukka</instcity>, <inststate>Enugu</inststate> State, <instcountry>Nigeria</instcountry></aff>
+      <author-notes>
+        <corresp id="cor001">* Corresponding Author: H.N. Okereke, <deptname>Department of Veterinary Surgery, Faculty of Veterinary Medicine</deptname>, <instname>University of Nigeria</instname>, <instcity>Nsukka</instcity>, <inststate>Enugu</inststate> State, <instcountry>Nigeria</instcountry>, Email: <email>nnamdi.okereke@unn.edu.ng</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 30 June, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>5</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>54</volume>
+      <issue>5</issue>
+      <fpage>549</fpage>
+      <lpage>552</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>Two hundred and fifty millilitres of blood each were drawn from healthy dogs (n=3) and volunteer human donors (n=3) into citrate phosphate dextrose adenine -1 anti-coagulated blood bags and preserved for 21 days. On days 0, 3, 7, 14 and 21, selected hematological and biochemical parameters were evaluated. Red blood cells counts of canine and human blood showed no significant (p&gt;0.05) difference till days 14 and 21 respectively. Mean corpuscular value (MCV) of canine blood on day 21 was significantly (p&lt;0.05) higher than that of human blood. Erythrocyte catalase (CAT) and glutathione (GSH) progressively decreased while plasma potassium ion concentration of canine and human blood progressively increased. On day 21, percentage decrease in canine RBC antioxidants was significantly higher when compared with that of human blood. The progressive decrease in RBC's CAT and GSH suggests increased oxidative stress while progressive increase in K<sup>+</sup> concentration and MCV suggests RBC membrane damage.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Blood</kwd>
+        <kwd>Catalase</kwd>
+        <kwd>CPDA-1 blood bag</kwd>
+        <kwd>Glutathione</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="4" />
+      </counts>
+    </article-meta>
+  </front>
+</article>

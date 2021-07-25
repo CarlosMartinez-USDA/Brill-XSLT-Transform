@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Identification of sensitive parameters and uncertainty analysis for simulating streamflow in Jaraikela catchment of Brahmani river basin using SWAT model</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Jagadish</namePart>
+      <namePart type="family">Padhiary</namePart>
+      <displayForm>Padhiary, Jagadish</displayForm>
+      <affiliation>Department of Civil Engineering, National Institute of           Technology, Rourkela</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Dwarika Mohan</namePart>
+      <namePart type="family">Das</namePart>
+      <displayForm>Das, Dwarika Mohan</displayForm>
+      <affiliation>College of Agricultural Engineering and Technology, Odisha           University of Agriculture and Technology,         Bhubaneswar</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">K.C.</namePart>
+      <namePart type="family">Patra</namePart>
+      <displayForm>Patra, K.C.</displayForm>
+      <affiliation>Department of Civil Engineering, National Institute of           Technology, Rourkela</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">B.C.</namePart>
+      <namePart type="family">Sahoo</namePart>
+      <displayForm>Sahoo, B.C.</displayForm>
+      <affiliation>College of Agricultural Engineering and Technology, Odisha           University of Agriculture and Technology,         Bhubaneswar</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">B.</namePart>
+      <namePart type="family">Panigrahi</namePart>
+      <displayForm>Panigrahi, B.</displayForm>
+      <affiliation>College of Agricultural Engineering and Technology, Odisha           University of Agriculture and Technology,         Bhubaneswar</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-08</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The Soil and Water Assessment Tool (SWAT) is a widely accepted semi-distributed model for watershed hydrological analysis. The facility of uncertainty analysis with the help of SWAT-Calibration and Uncertainty Procedures (SWAT-CUP) model is now capable to bring a variety of calibration and analysis techniques in one single platform, namely ParaSol, sequential uncertainty fitting (SUFI-2), Generalized Likelihood Uncertainty Estimation (GLUE), particle swarm optimization and Markov Chain Monte Carlo (MCMC). In the present study, the SWAT model has been calibrated for the period 1987–2000 considering initial 3 years as the warm-up period (1987–89) and validated from 2001–2010 for monthly streamflow simulation. Uncertainty analysis was carried out using SUFI-2 algorithm at Jaraikela gauging station of Bramhani river basin, India. The sensitivity of the parameters was determined according to the t-stat and p-value. Nine distinguished parameters were selected for sensitivity analyses. The performance of the model was evaluated satisfactorily on monthly time scale streamflow simulation using Nash-Sutcliffe Efficiency (NSE), the coefficient of determination (R²) and Percentage BIAS (PBIAS). The P and R factors were used to assess the degree of uncertainty. The values of NSE, R², and PBIAS were found to be 0.84, 0.85 and-0.08 during the calibration period and 0.71, 0.73 and-0.17 during the validation period, respectively. The values of P and R factors were observed to be 0.79 and 0.92, respectively during calibration, and 0.89 and 0.86 during the validation period, respectively. The simulated streamflow also well fitted within the 95 percentage prediction uncertainty (95PPU) band of SUFI-2 algorithm during the calibration and validation periods indicating a satisfactory performance of the model under parameter uncertainty.</abstract>
+   <subject>
+      <topic>Sensitivity parameter SUFI-2 SWAT Streamflow Uncertainty analysis</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Soil Conservation</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Associations of Soil &amp; Water Conservationists</publisher>
+      </originInfo>
+      <identifier type="issn-p">0970-3349</identifier>
+      <identifier type="issn-e">0976-1721</identifier>
+      <identifier type="issn">0976-1721</identifier>
+      <part>
+         <detail type="volume">
+            <number>47</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">08</text>
+         <extent unit="pages">
+            <start>111</start>
+            <end>118</end>
+            <total>8</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijsc-47-2-001</identifier>
+   <extension>
+      <archiveFile>ijsc-47-2-001</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/ijsc-47-2-001.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/</workingDirectory>
+   </extension>
+</mods>

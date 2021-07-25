@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>+(−)Catechin raises body temperature, changes blood parameters, improves oocyte quality and reproductive performance of female mice</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">A.A.</namePart>
+      <namePart type="family">Mohammed</namePart>
+      <displayForm>Mohammed, A.A.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.A.</namePart>
+      <namePart type="family">Al-Hozab</namePart>
+      <displayForm>Al-Hozab, A.A.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-05</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The present study aimed to explore changes in physiological and reproductive performances upon supplementation of +(−) cactechin (200 vs. 2000 mg/kg BW) in mice. In addition, body temperature, heart rate, blood oxygen and glucose were explored after general anesthesia of +(−)cactechin animals. Sixty albino female mice were classified into three groups; control group (G1) versus two +(−) cactechin groups [G2 (200 mg/kg BW) and G3 (2000 mg/kg BW)] for 15 days in aqueous solution. Changes of body temperature, heart rate, blood parameters, oocyte quality and reproductive performances were determined and recorded. In addition, changes of body temperature, heart rate, blood oxygen and glucose were measured after anesthesia. The results indicated that +(−)catechin supplementation resulted in significant increase in body temperature, blood oxygen and WBCs in addition to significant hypoglycemia. The oocytes quality and reproductive performances were improved upon +(−)catechin supplementation. +(−)catechin supplementation did not improve the negative side effects of anesthesia. In conclusion, supplementation of +(−)catechin could benefit physiological and reproductive performances in mice.</abstract>
+   <subject>
+      <topic>+(−)catechin</topic>
+   </subject>
+   <subject>
+      <topic>Glucose</topic>
+   </subject>
+   <subject>
+      <topic>Oocytes</topic>
+   </subject>
+   <subject>
+      <topic>Oxygen</topic>
+   </subject>
+   <subject>
+      <topic>Quality</topic>
+   </subject>
+   <subject>
+      <topic>Reproduction</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>5</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">05</text>
+         <extent unit="pages">
+            <start>543</start>
+            <end>548</end>
+            <total>6</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-5-004</identifier>
+   <identifier type="doi">10.18805/ijar.B-981</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-981</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-5-004</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-5-004.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

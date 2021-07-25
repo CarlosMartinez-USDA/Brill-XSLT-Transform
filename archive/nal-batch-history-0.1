@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" vc:minVersion="1.0" vc:maxVersion="1.1">
+  <xs:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="dc.xsd"/>
+  <xs:import namespace="http://purl.org/ontology/bibo/" schemaLocation="bibo.xsd"/>
+  <xs:element name="RDF">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="rdf:Description"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Description">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="dc:identifier"/>
+        <xs:element ref="bibo:status"/>
+        <xs:element ref="bibo:number"/>
+      </xs:sequence>
+      <xs:attribute name="about" use="required" form="qualified" type="xs:anyURI"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

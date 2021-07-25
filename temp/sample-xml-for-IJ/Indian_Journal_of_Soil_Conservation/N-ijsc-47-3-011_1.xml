@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Conservation agricultural and nitrogen management practices in maizewheat cropping system: Effect on productivity, nutrient uptake and profitability of maize</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">R.L.</namePart>
+      <namePart type="family">Choudhary</namePart>
+      <displayForm>Choudhary, R.L.</displayForm>
+      <affiliation>ICAR-Directorate of Rapeseed-Mustard Research, Bharatpur, Rajasthan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">U.K.</namePart>
+      <namePart type="family">Behera</namePart>
+      <displayForm>Behera, U.K.</displayForm>
+      <affiliation>College of Agriculture, Kyrdemkulai, CAU, Umiam, Meghalaya</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Performance of maize (Zea mays L.) grown in sequence with wheat (Triticum aestivum L.) was evaluated under conservation agriculture and nitrogen management practices for two consecutive years. The experiment was conducted in split plot design with six main plot treatments of tillage and crop establishment practices, i.e. conventional tillage-flat bed (CT-F), CT-raised bed (CT-B), zero tillage-flat bed with crop residue (ZT-F+R) and without crop residue (ZT-F), ZT-raised bed with crop residue (ZT-B+R) and without crop residue (ZT-B), and four sub-plot treatments of fertilizer-nitrogen (N), i.e. 0, 60, 120 and 180 kg N ha⁻¹. Significant (p ≤ 0.05) effect of conservation agriculture (CA) on performance of maize was observed during second year of the study. Significantly higher values of plant height and yield attributes, viz., grains grain row⁻¹, grains cob⁻¹ and cobs ha⁻¹ were recorded under ZT-B+R than rest of the treatments, except CT-B. ZT-B+R recorded significantly higher grain, stover and biological yields and improved nitrogen, phosphorus and potassium uptake as compared to other treatments, except CT-B in case of yields. Grain yield with ZT-B+R improved significantly by 7.9% to 15.5%, 15.0% to 16.0% and 8.6% to 12.1% over CT-F, ZT-F and ZT-F+R, respectively. ZT-F and ZT-B practices reduced the cost of cultivation on an average by 18.9% as compared to CT practices. ZT-B registered the maximum net returns ( 29.17×10³ ha⁻¹), B: C ratio (1.98) and economic efficiency ( 291.7 ha⁻¹ day⁻¹). Significantly higher values of most of the growth, yields, nutrient uptake and monetary parameters were recorded at 120 kg N ha⁻¹ as compared to other N levels. However, the economic optimum dose of N derived from quadratic response function was 142 kg N ha⁻¹ for the best yield producing treatment, i.e. ZT-B+R. Therefore, the maximum maize productivity with higher nutrient content and gross returns could be achieved with CA(ZT-B+R) and optimum N fertilization.</abstract>
+   <subject>
+      <topic>Conservation agriculture Economics Nitrogen response function Nutrient uptake Productivity</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Soil Conservation</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Associations of Soil &amp; Water Conservationists</publisher>
+      </originInfo>
+      <identifier type="issn-p">0970-3349</identifier>
+      <identifier type="issn-e">0976-1721</identifier>
+      <identifier type="issn">0976-1721</identifier>
+      <part>
+         <detail type="volume">
+            <number>47</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">12</text>
+         <extent unit="pages">
+            <start>286</start>
+            <end>293</end>
+            <total>8</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijsc-47-3-011</identifier>
+   <extension>
+      <archiveFile>ijsc-47-3-011</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/ijsc-47-3-011.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Soil_Conservation/</workingDirectory>
+   </extension>
+</mods>

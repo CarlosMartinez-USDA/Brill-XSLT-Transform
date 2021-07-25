@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Efficacy of closantel against benzimidazole resistant Haemonchus contortus infection in sheep</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Dipali</namePart>
+      <namePart type="family">Parmar</namePart>
+      <displayForm>Parmar, Dipali</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Dinesh</namePart>
+      <namePart type="family">Chandra</namePart>
+      <displayForm>Chandra, Dinesh</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Arvind</namePart>
+      <namePart type="family">Prasad</namePart>
+      <displayForm>Prasad, Arvind</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Muthu</namePart>
+      <namePart type="family">Sankar</namePart>
+      <displayForm>Sankar, Muthu</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Abdul</namePart>
+      <namePart type="family">Nasir</namePart>
+      <displayForm>Nasir, Abdul</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Bhawana</namePart>
+      <namePart type="family">Khuswaha</namePart>
+      <displayForm>Khuswaha, Bhawana</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ravi</namePart>
+      <namePart type="family">Khare</namePart>
+      <displayForm>Khare, Ravi</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Navneet</namePart>
+      <namePart type="family">Kaur</namePart>
+      <displayForm>Kaur, Navneet</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Benzimidazoles are widely used and readily available ovine anthelminthics across the country. However, widespread resistance to this drug class has been documented, primarily in Haemonchus spp. The present study was conducted to determine the efficacy of closantel against benzimidazole resistant Haemonchus contortus infection in sheep. Naturally infected sheep (n=34) were divided into four groups on the basis of fecal egg counts (FEC) using modified McMaster technique with a lower detection limit of 8.3 eggs per gram of faeces (EPG) viz. Group-A (500–10000), Group-B (&lt;10, 000-20, 000), Group-C (&lt;20, 000-30, 000) and Group-D (&lt;30, 000). Generic differentiation of larvae was carried out by coproculture performed on pooled faeces which showed the presence of Haemonchus, Trichostrongylus, Oesophagostomum and Strongyloides larvae. To ascertain the evidence of benzimidazole resistance, Egg Hatch Assay (EHA) was performed. All animals were treated with Closantel @10mg\kg body weight and EPG was determined on 7th and 11th day post treatment. Animals of different groups had mean EPG range of 400–760 at 11th day of treatment. In group A, B, C and D mean per cent efficacy of closantel was 91.24±3.49, 95.15±1.72, 97.73±0.72, 98.23±0.86 respectively. Efficacy of closantel against Haemonchus and other gastrointestinal nematodes was further confirmed by performing coproculture 11th day post treatment. Post treatment coproculture revealed presence of Trichostrongylus, Oesophagostomum and Strongyloides larvae and were devoid of Haemonchus larvae. To clear the left out infection of Trichostrongylus, Oesophagostomum and Strongyloides animals were further treated with Fenbendazole @5mg/kg body weight and EPG 14 days post treatment became zero. The results of the study suggested that closantel can be used for Targeted Selective Treatment (TST) in sheep primarily infected with Haemonchus. Since closantel is highly efficacious against Haemonchus its use as an alternative to benzimidazoles group may be helpful to decrease pasture contamination. Overall control of gastrointestinal nematodiasis may therefore be possible by use of closantel along with benzimidazoles.</abstract>
+   <subject>
+      <topic>Benzimidazole resistance</topic>
+   </subject>
+   <subject>
+      <topic>Closantel</topic>
+   </subject>
+   <subject>
+      <topic>Efficacy</topic>
+   </subject>
+   <subject>
+      <topic>Fenbendazole</topic>
+   </subject>
+   <subject>
+      <topic>Gastro-intestinal nematodes</topic>
+   </subject>
+   <subject>
+      <topic>Sheep</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>4</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>468</start>
+            <end>472</end>
+            <total>5</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-4-014</identifier>
+   <identifier type="doi">10.18805/ijar.B-3799</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3799</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-4-014</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-4-014.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Perioperative analgesic efficacy of constant rate infused tramadol hydrochloride as an adjunct to postoperative ketoprofen in ovariohysterectomized bitches</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">N.E.</namePart>
+      <namePart type="family">Ugwu</namePart>
+      <displayForm>Ugwu, N.E.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">C.A.</namePart>
+      <namePart type="family">Eze</namePart>
+      <displayForm>Eze, C.A.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">R.I.</namePart>
+      <namePart type="family">Udegbunam</namePart>
+      <displayForm>Udegbunam, R.I.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">T.O.</namePart>
+      <namePart type="family">Nnaji</namePart>
+      <displayForm>Nnaji, T.O.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-05</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The study evaluated the peri-operative analgesic efficacy of tramadol administered by constant rate infusion as an adjunct to ketoprofen in ovariohysterectomized bitches. Pre- and postoperative assessment of pain was made using physiologic parameters, glucose, cortisol, pain score and body weight. Dogs were randomly assigned to one of three groups using the protocol: 1.0mg/kg/hr, 2.0mg/kg/hr of CRI tramadol and control. Ketoprofen (5mg/kg, SC) was administered at one, twenty-four and seventy-two hours post-OVH to all the dogs. Mean glucose and cortisol levels of group 3 dogs were at intra- and at one-hour post-OVH higher (p&lt;0.05) than those of groups 1 and 2. Mean pain score of group 3 was significantly higher (p&lt;0.05) than those of groups 1 and 2 at one, four, twenty-four and seventy-two hours post-OVH. The use of CRI tramadol at doses of 1.0mg/kg/hr and 2.0mg/kg/hr attenuated rise in pain markers and produced balanced analgesia as an adjunct to ketoprofen.</abstract>
+   <subject>
+      <topic>Constant rate infusion</topic>
+   </subject>
+   <subject>
+      <topic>Ketoprofen</topic>
+   </subject>
+   <subject>
+      <topic>Ovariohysterectomy</topic>
+   </subject>
+   <subject>
+      <topic>Pain</topic>
+   </subject>
+   <subject>
+      <topic>Tramadol</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>5</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">05</text>
+         <extent unit="pages">
+            <start>627</start>
+            <end>630</end>
+            <total>4</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-5-018</identifier>
+   <identifier type="doi">10.18805/ijar.B-984</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-984</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-5-018</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-5-018.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

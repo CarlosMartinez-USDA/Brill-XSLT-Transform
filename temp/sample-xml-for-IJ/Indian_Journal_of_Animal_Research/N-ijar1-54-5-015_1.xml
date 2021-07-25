@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Distal intravenous regional anaesthesia for claw diseases in bovines</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Shaurya</namePart>
+      <namePart type="family">Kumar</namePart>
+      <displayForm>Kumar, Shaurya</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sangeeta Devi</namePart>
+      <namePart type="family">Khangembam</namePart>
+      <displayForm>Khangembam, Sangeeta Devi</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Anil Kumar</namePart>
+      <namePart type="family">Gangwar</namePart>
+      <displayForm>Gangwar, Anil Kumar</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Vipin Kumar</namePart>
+      <namePart type="family">Yadav</namePart>
+      <displayForm>Yadav, Vipin Kumar</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Rajesh Kumar</namePart>
+      <namePart type="family">Verma</namePart>
+      <displayForm>Verma, Rajesh Kumar</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-05</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The bovine having surgical ailments of claw, were divided in to two groups having six animals/limbs in each group. Tourniquet for standard and modified intravenous regional anesthesia (IVRA), was placed circumferentially at the middle of the metacarpus and just below dewclaw in group I and II, respectively. Lignocaine was injected @ 4 mg/kg and 2 mg/kg b.wt. in group I and group II animals, respectively. In group I, pulse rate increased significantly (P &lt; 0.05) at 20 and 30 minutes. Heart rate increased significantly (P &lt; 0.05) at 20 minute and 30 minute interval in group I and II animals, respectively. In animal of both groups, oxygen saturation significantly (P &lt; 0.05) decreased during study time period. Systolic pressure significantly increased at 15, 20 and 20 minutes in group I animals. It was concluded that modified IVRA technique was safer as compared to standard IVRA.</abstract>
+   <subject>
+      <topic>Bovine</topic>
+   </subject>
+   <subject>
+      <topic>Claw diseases</topic>
+   </subject>
+   <subject>
+      <topic>IVRA</topic>
+   </subject>
+   <subject>
+      <topic>Lignocaine</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>5</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">05</text>
+         <extent unit="pages">
+            <start>614</start>
+            <end>618</end>
+            <total>5</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-5-015</identifier>
+   <identifier type="doi">10.18805/ijar.B-3815</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3815</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-5-015</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-5-015.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

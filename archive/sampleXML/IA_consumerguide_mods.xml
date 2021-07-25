@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml/"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Consumers' guide</title>
+      <partNumber>v.1</partNumber>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>United States. Agricultural Adjustment Administration. Consumers' Counsel Division</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>United States. War Food Administration</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>United States. Department of Agriculture. Consumers' Counsel Division</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>United States. Department of Agriculture</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>United States. Bureau of Agricultural Economics</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>United States. Bureau of Home Economics</namePart>
+   </name>
+   <name type="corporate">
+      <namePart>United States. Bureau of Labor Statistics</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">issue</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">1933</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <identifier type="agricola-IA">CAT10818186_001</identifier>
+   <location>
+      <physicalLocation>DNAL</physicalLocation>
+      <shelfLocator>1.94 Ad422C</shelfLocator>
+   </location>
+   <location>
+      <url>http://archive.org/details/consumersguide01unit</url>
+   </location>
+   <recordInfo>
+      <recordIdentifier source="CaSfIA">consumersguide01unit</recordIdentifier>
+   </recordInfo>
+</mods>

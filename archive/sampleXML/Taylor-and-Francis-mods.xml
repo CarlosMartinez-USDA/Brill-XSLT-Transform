@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Fitting Straight Lines with Replicated Observations by Linear Regression. IV. Transforming Data</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart type="given">Agustin G.</namePart>
+    <namePart type="family">Asuero</namePart>
+    <displayForm>Asuero, Agustin G.</displayForm>
+    <affiliation>
+ Department of Analytical Chemistry, Faculty of Pharmacy, The University of Seville, Seville, Spain</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Julia Martin</namePart>
+    <namePart type="family">Bueno</namePart>
+    <displayForm>Bueno, Julia Martin</displayForm>
+    <affiliation>
+ Department of Analytical Chemistry, Higher Polytechnic School, The University of Seville, Seville, Spain</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre>article</genre>
+  <originInfo>
+    <dateIssued encoding="w3cdtf" keyDate="yes">2011-01-31</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <abstract>By transforming variables it is possible to introduce non-linear terms to the mathematical framework of linear regression. The purpose of this article is to stress the importance of transforming data in the context of linear regression analysis. However, often problems arise when people unfamiliar with mathematical statistics attempt to put this theory into practice for a certain application. Reasons for making transformations, probability plots and normality, transformations to simplify relationships, and weighting transformation data are covered in this paper. Special attention has also been paid to the Box-Cox method, i.e., transformation based on sample data observations, which is very easy to apply in practice despite its mathematical background. Statistical measurements are also re-expressed after data transformation, and a number of applications concerning the use of transformation and variance stabilization in analytical chemistry are given in tabular form. The analytical, pharmaceutical, biochemical, and clinical literature has been thoroughly revised. Variance analysis and applications on fitting straight lines with replicated observations by linear regression will be the subject of the later paper of the series.</abstract>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Critical Reviews in Analytical Chemistry</title>
+    </titleInfo>
+    <originInfo>
+      <publisher>Taylor &amp; Francis Group</publisher>
+    </originInfo>
+    <identifier type="issn-p">1040-8347</identifier>
+    <identifier type="issn-e">1547-6510</identifier>
+    <identifier type="issn">1547-6510</identifier>
+    <identifier type="vendor">batc20</identifier>
+    <part>
+      <detail type="volume">
+        <number>41</number>
+        <caption>v.</caption>
+      </detail>
+      <detail type="issue">
+        <number>1</number>
+        <caption>no.</caption>
+      </detail>
+      <text type="year">2011</text>
+      <text type="month">1</text>
+      <text type="day">31</text>
+      <text type="display-date">January-March 2011</text>
+      <extent unit="pages">
+        <start>36</start>
+        <end>69</end>
+      </extent>
+    </part>
+  </relatedItem>
+  <identifier type="doi">10.1080/10408347.2010.523589</identifier>
+  <location>
+    <url>http://dx.doi.org/10.1080/10408347.2010.523589</url>
+  </location>
+  <extension>
+    <vendorName>Taylor and Francis</vendorName>
+    <archiveFile>sample.zip</archiveFile>
+  </extension>
+</mods>

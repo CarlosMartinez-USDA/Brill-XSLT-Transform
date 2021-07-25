@@ -1,0 +1,164 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "http://dtd.nlm.nih.gov/publishing/2.3/journalpublishing.dtd">
+<article article-type="research-article">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher">aac</journal-id>
+            <journal-title>Antimicrobial Agents and Chemotherapy</journal-title>
+            <abbrev-journal-title>ANTIMICROB AGENTS CHEMOTHER</abbrev-journal-title>
+            <issn>0066-4804</issn>
+            <publisher>
+                <publisher-name>American Society for Microbiology</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">56/9/4614</article-id>
+            <article-id pub-id-type="publisher-id">AAC.00112-12</article-id>
+            <article-id pub-id-type="doi">10.1128/AAC.00112-12</article-id>
+            <article-categories>
+                <subj-group>
+                    <subject>Mechanisms of Action: Physiological Effects</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Rapid Redistribution of Phosphatidylinositol-(4,5)-Bisphosphate and
+                    Septins during the <italic>Candida albicans</italic> Response to
+                    Caspofungin</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Badrane</surname>
+                        <given-names>Hassan</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="AFF1"><sup>a</sup></xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Nguyen</surname>
+                        <given-names>M. Hong</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="AFF1"><sup>a</sup></xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Blankenship</surname>
+                        <given-names>Jill R.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="AFF2"><sup>b</sup></xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Cheng</surname>
+                        <given-names>Shaoji</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="AFF1"><sup>a</sup></xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Hao</surname>
+                        <given-names>Binghua</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="AFF1"><sup>a</sup></xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Mitchell</surname>
+                        <given-names>Aaron P.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="AFF2"><sup>b</sup></xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Clancy</surname>
+                        <given-names>Cornelius J.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="AFF1"><sup>a</sup></xref>
+                    <xref ref-type="aff" rid="AFF3"><sup>c</sup></xref>
+                </contrib>
+            </contrib-group>
+            <aff id="AFF1"><label>a</label>Division of Infectious Diseases, Department of Medicine,
+                University of Pittsburgh</aff>
+            <aff id="AFF2"><label>b</label>Department of Biological Sciences, Carnegie Mellon
+                University</aff>
+            <aff id="AFF3"><label>c</label>VA Pittsburgh Healthcare System, Pittsburgh,
+                Pennsylvania, USA</aff>
+            <author-notes>
+                <corresp>Address correspondence to Cornelius J. Clancy,
+                        <email>cjc76@pitt.edu</email>.</corresp>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <month>9</month>
+                <year>2012</year>
+            </pub-date>
+            <volume>56</volume>
+            <issue>9</issue>
+            <fpage>4614</fpage>
+            <lpage>4624</lpage>
+            <history>
+                <date date-type="received">
+                    <day>2</day>
+                    <month>2</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="rev-recd">
+                    <day>25</day>
+                    <month>3</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>6</day>
+                    <month>6</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <copyright-statement>Copyright &#x00A9; 2012, American Society for Microbiology. All
+                Rights Reserved.</copyright-statement>
+            <copyright-year>2012</copyright-year>
+            <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                xlink:href="http://aac.asm.org/cgi/content/full/56/9/4614"
+                >http://aac.asm.org/cgi/content/full/56/9/4614</self-uri>
+            <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                xlink:href="http://aac.asm.org/cgi/reprint/56/9/4614"
+                >http://aac.asm.org/cgi/reprint/56/9/4614</self-uri>
+            <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                xlink:href="http://aac.asm.org/cgi/content/abstract/56/9/4614"
+                >http://aac.asm.org/cgi/content/abstract/56/9/4614</self-uri>
+            <abstract>
+                <p>We previously showed that phosphatidylinositol-(4,5)-bisphosphate [PI(4,5)P2] and
+                    septin regulation play major roles in maintaining <italic>Candida
+                        albicans</italic> cell wall integrity in response to caspofungin and other
+                    stressors. Here, we establish a link between PI(4,5)P2 signaling and septin
+                    localization and demonstrate that rapid redistribution of PI(4,5)P2 and septins
+                    is part of the natural response of <italic>C. albicans</italic> to caspofungin.
+                    First, we studied caspofungin-hypersusceptible <italic>C. albicans irs4</italic>
+                    and <italic>inp51</italic> mutants, which have elevated PI(4,5)P2 levels due to
+                    loss of PI(4,5)P2-specific 5&#x2032;-phosphatase activity. PI(4,5)P2 accumulated
+                    in discrete patches, rather than uniformly, along surfaces of mutants in yeast
+                    and filamentous morphologies, as visualized with a green fluorescent protein
+                    (GFP)-pleckstrin homology domain. The patches also contained chitin (calcofluor
+                    white staining) and cell wall protein Rbt5 (Rbt5-GFP). By transmission electron
+                    microscopy, patches corresponded to plasma membrane invaginations that
+                    incorporated cell wall material. Fluorescently tagged septins Cdc10 and Sep7
+                    colocalized to these sites, consistent with well-described PI(4,5)P2-septin
+                    physical interactions. Based on expression patterns of cell wall damage response
+                    genes, <italic>irs4</italic> and <italic>inp51</italic> mutants were firmly
+                    positioned within a group of caspofungin-hypersusceptible, septin-regulatory
+                    protein kinase mutants. <italic>irs4</italic> and <italic>inp51</italic> were
+                    linked most closely to the <italic>gin4</italic> mutant by expression profiling,
+                    PI(4,5)P2-septin-chitin redistribution and other phenotypes. Finally, sublethal
+                    5-min exposure of wild-type <italic>C. albicans</italic> to caspofungin resulted
+                    in redistribution of PI(4,5)P2 and septins in a manner similar to those of
+                        <italic>irs4</italic>, <italic>inp51</italic>, and <italic>gin4</italic>
+                    mutants. Taken together, our data suggest that the <italic>C. albicans</italic>
+                    Irs4-Inp51 5&#x2032;-phosphatase complex and Gin4 function upstream of PI(4,5)P2
+                    and septins in a pathway that helps govern responses to caspofungin.</p>
+            </abstract>
+            <custom-meta-wrap>
+                <custom-meta>
+                    <meta-name>coverdate</meta-name>
+                    <meta-value>September 2012</meta-value>
+                </custom-meta>
+            </custom-meta-wrap>
+        </article-meta>
+    </front>
+</article>

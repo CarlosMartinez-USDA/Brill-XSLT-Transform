@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>PCR- RFLP polymorphism at exon 3 and promoter region of prolactin gene in gaolao cattle</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">P.D.</namePart>
+      <namePart type="family">Dudule</namePart>
+      <displayForm>Dudule, P.D.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">D.S.</namePart>
+      <namePart type="family">Kale</namePart>
+      <displayForm>Kale, D.S.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.</namePart>
+      <namePart type="family">Sonwane</namePart>
+      <displayForm>Sonwane, A.</displayForm>
+      <affiliation>Division of Animal Genetics, ICAR-Indian Veterinary Research Institute, Izatnagar-243 122, Uttar Pradesh, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">D.V.</namePart>
+      <namePart type="family">Patil</namePart>
+      <displayForm>Patil, D.V.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.R.</namePart>
+      <namePart type="family">Jawale</namePart>
+      <displayForm>Jawale, M.R.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">K.P.</namePart>
+      <namePart type="family">Kharkar</namePart>
+      <displayForm>Kharkar, K.P.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-05</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The present study was planned to investigate significant polymorphism in exon3 and promoter regions of prolactin gene in Gaolao cattle and its association (if any) with milk components. A total of 50 randomly selected Gaolao cows were genotyped for PRLGI-RsaI and PRLGIII-Tsp45I loci using PCR-RFLP technique. The PRLGI-RsaI locus was polymorphic and PRLGIII-Tsp45I locus was monomorphic indicating genetic variation at PRLGI-RsaI locus in Gaolao cattle. The allele frequency for the PRLᴬ alleles was found 0.933 and for allele PRLᴮ was 0.067 at PRLGI-RsaI locus. The result of analysis variance showed significant (P&lt;0.05) effect of AA genotype on fat % as compared to AB genotype; however non-significant effect of these genotypes was found on protein %, SNF % and lactose % which may be due to small sample resulting in higher error variance. The results of present study indicated that identified prolactin gene polymorphism at PRLGI-RsaI in exon 3 after validation in large breeding populations having precise data records may prove as important candidate gene marker for selection and breeding decisions in genetic improvement of indigenous cattle for milk productivity.</abstract>
+   <subject>
+      <topic>DNA Polymorphism</topic>
+   </subject>
+   <subject>
+      <topic>Exon3</topic>
+   </subject>
+   <subject>
+      <topic>Gaolao Cattle</topic>
+   </subject>
+   <subject>
+      <topic>PCR-RFLP</topic>
+   </subject>
+   <subject>
+      <topic>Prolactin gene</topic>
+   </subject>
+   <subject>
+      <topic>Promoter</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>5</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">05</text>
+         <extent unit="pages">
+            <start>523</start>
+            <end>528</end>
+            <total>6</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-5-001</identifier>
+   <identifier type="doi">10.18805/ijar.B-3745</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3745</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-5-001</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-5-001.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

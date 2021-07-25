@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <titleInfo>
+    <title>Effect of selenium and sulfur fertilization on glucosinolate and Isothiocyanates in Arabidopsis Thaliana and rapid-cycling Brassica Oleracea</title>
+    <subTitle/>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart type="given">T. C.</namePart>
+    <namePart type="family">Barickman</namePart>
+    <displayForm>Barickman, T. C.</displayForm>
+    <affiliation>Plant Sciences Department The University of Tennessee Knoxville, TN 37996-4561 USA</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+    <namePart type="given"/>
+    <namePart/>
+  </name>
+  <name type="personal" usage="">
+    <namePart type="given">D. A.</namePart>
+    <namePart type="family">Kopsell</namePart>
+    <displayForm>Kopsell, D. A.</displayForm>
+    <affiliation>Plant Sciences Department The University of Tennessee Knoxville, TN 37996-4561 USA</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+    <namePart type="given"/>
+    <namePart/>
+  </name>
+  <name type="personal" usage="">
+    <namePart type="given">C. E.</namePart>
+    <namePart type="family">Sams</namePart>
+    <displayForm>Sams, C. E.</displayForm>
+    <affiliation>Plant Sciences Department The University of Tennessee Knoxville, TN 37996-4561 USA</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+    <namePart type="given"/>
+    <namePart/>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre>article</genre>
+  <originInfo>
+    <dateIssued encoding="w3cdtf" keyDate="yes">2014-06-23</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <abstract>Evidence indicates that a diet high in Brassica vegetables reduces the risk of developing certain cancers and that dietary consumption has been highly associated with lower incidences of cancers such as colorectal, lung, and prostate. The chemopreventive properties of Brassica vegetables are often linked to glucosinolate (GS) degradation products. Isothiocyanates (ITCs) are extremely potent and have shown remarkable ability to act on the process of carcinogenesis by affecting all three phases: tumor initiation, promotion and progression phases, and also by suppressing the final steps of carcinogenesis. Selenium (Se) is an essential micronutrient in mammalian nutrition which exhibits antioxidant activity through inhibiting experimental carcinogenesis in animal models and reducing cancer incidence in human clinical trials. Plants of Arabidopsis thaliana and rapid-cycling Brassica oleracea were grown hydroponically in four blocks containing four replications of each treatment for both species. The treatments consisted of the control (half strength nutrient solution, containing no Se) and four Se treatments (0.4, 0.8, 1.6, and 3.2 mg Se L-1), one Se and elevated S combination treatment (0.8 mg Se L-1 and 37 mg SO4 L-1 given in addition to the base 96 mg SO4 L-1 in the nutrient solution), and one elevated S treatment (37 mg SO4 L-1). Total GSs and ITCs decreased with increasing Se treatments in both A. thaliana and B. oleracea. Elevated sulfate treatment significantly increased GS and ITC concentrations in both A. thaliana and B. oleracea when compared to 1.6 and 3.2 mg Se L-1 treatments. Overall Se treatment affected GSs and ITCs in A. thaliana and B. oleracea.</abstract><subject authority="atg"><topic>Arabidopsis thaliana</topic></subject><subject authority="atg"><topic>Brassica oleracea</topic></subject><subject authority="atg"><topic>animal models</topic></subject><subject authority="atg"><topic>antioxidant activity</topic></subject><subject authority="atg"><topic>carcinogenesis</topic></subject><subject authority="atg"><topic>chemoprevention</topic></subject><subject authority="atg"><topic>clinical trials</topic></subject><subject authority="atg"><topic>diet</topic></subject><subject authority="atg"><topic>glucosinolates</topic></subject><subject authority="atg"><topic>humans</topic></subject><subject authority="atg"><topic>hydroponics</topic></subject><subject authority="atg"><topic>isothiocyanates</topic></subject><subject authority="atg"><topic>neoplasms</topic></subject><subject authority="atg"><topic>nutrient solutions</topic></subject><subject authority="atg"><topic>risk</topic></subject><subject authority="atg"><topic>selenium</topic></subject><subject authority="atg"><topic>sulfur</topic></subject><subject authority="atg"><topic>vegetables</topic></subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Acta horticulturae</title>
+      <subTitle/>
+    </titleInfo>
+    <originInfo>
+      <publisher>International Society for Horticultural Science.</publisher>
+    </originInfo>
+    <identifier type="issn">0567-7572</identifier>
+    <identifier type="local">Journal:jnl46289</identifier>
+    <part>
+      <detail type="volume">
+        <number/>
+        <caption>v.</caption>
+      </detail>
+      <text type="year">2004</text>
+      <text type="month">Sept</text>
+      <detail type="issue">
+        <caption>no.</caption>
+        <number>1040</number>
+      </detail>
+      <extent unit="pages">
+        <start>31</start>
+        <end>38</end>
+        <pages/>
+      </extent>
+      <text type="day"/>
+      <text type="season"/>
+      <text type="quarter"/>
+    </part>
+  </relatedItem>
+  <identifier type="aris"/>
+  <identifier type="naldc"/>
+  <identifier type="doi"/>
+  <location>
+    <url>http://www.actahort.org/books/1040/1040_2.htm</url>
+  </location>
+  <location>
+    <url usage="primary"/>
+  </location>
+  <extension>
+    <submissionSource/>
+    <note type="note"/>
+    <note type="error"/>
+    <note type="warning"/>
+  <note type="note">Batch:653 annotated on 2014-09-15T13:15:43Z</note><note type="note">Batch:653 reviewed on 2014-10-14T16:00:01Z</note><note type="note">Batch:653 reviewed on 2014-10-15T04:00:03Z</note></extension>
+  <note/>
+</mods>

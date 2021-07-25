@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJAR1</journal-id>
+      <journal-title>Indian Journal of Animal Research</journal-title>
+      <issn pub-type="ppub">0367-6722</issn>
+      <issn pub-type="epub">0976-0555</issn>
+      <publisher>
+        <publisher-name>Agricultural Research Communication Centre</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijar1-54-3-004</article-id>
+      <doi-group>
+        <article-doi>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.18805/ijar.B-773">10.18805/ijar.B-773</ext-link>
+        </article-doi>
+      </doi-group>
+      <article-categories>
+        <subj-group>
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Analysis of the Factors Affecting Boar culling in commercial Boar Studs in Southern China</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Zhili</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhao</surname>
+            <given-names>Yunxiang</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1,</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2,</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liao</surname>
+            <given-names>Jiedan</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Huang</surname>
+            <given-names>Shujian</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="aff001">
+        <sup>1</sup>
+        <instname>College of Life Science and Engineering</instname>, <instparent>Foshan University</instparent>, <instaddress>Jiangwan street</instaddress>, <instcity>Foshan</instcity>, <instpincode>528231</instpincode>, <inststate>Guangdong</inststate> province, <instcountry>China</instcountry></aff>
+      <aff id="aff002">
+        <sup>2</sup>
+        <instname>Guangxi Yangxiang Animal Husbandry Co. Ltd.</instname>, <instaddress>Guigang</instaddress>, <instcity>Guangxi</instcity>, <instpincode>537100</instpincode>, <instcountry>China</instcountry></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding Author: Yunxiang Zhao, <instname>College of Life Science and Engineering</instname>, <instparent>Foshan University</instparent>, <instaddress>Jiangwan street</instaddress>, <instcity>Foshan</instcity>, <instpincode>528231</instpincode>, <inststate>Guangdong</inststate> province, <instcity>China</instcity>. Email: <email>2891808435@qq.com</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 8 April, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>3</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>54</volume>
+      <issue>3</issue>
+      <fpage>286</fpage>
+      <lpage>292</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>The objectives of this study were to measure culling frequency and analysis of reasons for boar culling in commercial boar studs. Data were obtained from nine commercial boar studs included 2342 culled boars in Southern China during July 2013 to June 2016. Descriptive statistics of reasons for boar culling revealed that the frequency of unplanned cull boar accounted for a large proportion (88.04%), reproductive disorders (40.61%) and lameness (27.2%) were the most frequently cited reasons. Sperm-related problems accounted for the largest proportion (668, 70.24%) due to reproductive disorders, followed by the abnormal genital system (169, 17.78%). The highest frequency of reproductive disorders was arisen in May (17.98%), and the relatively high culling frequency lasted for 16 weeks until August (10.00%), especially for the Yorkshire boar that owned highest culling risk (47.09%) with the culled number reached peak in May (60, 21.82%), followed by July (33, 12.00%). In addition, the highest frequency of boar culling due to lameness appeared in May (90, 14.13%), followed by January (68, 10.68%) and December (66, 10.36%) with cold and wet. It was speculated that extreme weather was more likely to cause lameness. Our research suggested farmers under subtropical climate should take effective measures to reduce heat and humidity stress at the earliest, preferably from late spring to August to improve reproductive efficiency on boar studs and also take breed differences into their decision-making processes to ensure adequate boar power and customer satisfaction.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Boar</kwd>
+        <kwd>Breeding</kwd>
+        <kwd>Culling</kwd>
+        <kwd>Management</kwd>
+        <kwd>Reproductive performance</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="7" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

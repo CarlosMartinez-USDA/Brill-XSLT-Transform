@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJSC</journal-id>
+         <journal-title>Indian Journal of Soil Conservation</journal-title>
+         <issn pub-type="ppub">0970-3349</issn>
+         <issn pub-type="epub">0976-1721</issn>
+         <publisher>
+            <publisher-name>Indian Associations of Soil &amp; Water Conservationists</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijsc-47-3-009</article-id>
+         <title-group>
+            <article-title>Leased farming degrading the farmlands? Analysis of farmers ’perceptions in Andaman and Nicobar Islands, India</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Chand</surname>
+                  <given-names>Subhash</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1,</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Meena</surname>
+                  <given-names>Babulal</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Chaudhary</surname>
+                  <given-names>Ghoshal</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff003">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Srivastava</surname>
+                  <given-names>R.C.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff004">
+                  <sup>4</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Chaudhary</surname>
+                  <given-names>Khyali Ram</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff001">
+            <sup>1</sup>
+            <instname>ICAR-National Institute of Agricultural Economics and Policy Research</instname>, <instaddress>Pusa</instaddress>, <instcity>New Delhi</instcity>
+         </aff>
+         <aff id="aff002">
+            <sup>2</sup>
+            <instname>ICAR-Central Soil Salinity Research Institute</instname>, <instcity>Karnal</instcity>, <inststate>Haryana</inststate>
+         </aff>
+         <aff id="aff003">
+            <sup>3</sup>
+            <instname>ICAR-Central Island Agricultural Research Institute</instname>, <instcity>Port Blair</instcity>, <inststate>Andaman and Nicobar Islands</inststate>
+         </aff>
+         <aff id="aff004">
+            <sup>4</sup>
+            <instname>Central Agricultural University</instname>, <instcity>Samastipur</instcity>, <inststate>Bihar</inststate>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding author: E-mail: <email>scchand46@gmail.com</email> (Subhash Chand)</corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 8 April, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>12</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>47</volume>
+         <issue>3</issue>
+         <fpage>273</fpage>
+         <lpage>279</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>This study was undertaken in Andaman and Nicobar Islands by conducting primary survey of leased-in and non-leased land cultivators. Total agriculture land of the islands decreased due to massive tsunami followed by earthquake during 2004. Due to various biotic and abiotic factors, land degradation in these islands is high, and land leasing practice aggravates it. The leased rent varies from <inline-formula>
+                  <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  xlink:href="ijsc-47-3-009-ieqn001"/>
+               </inline-formula> 17, 500 ha<sup>−1</sup> annum<sup>−1</sup> to <inline-formula>
+                  <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  xlink:href="ijsc-47-3-009-ieqn001"/>
+               </inline-formula> 26, 500 ha<sup>−1</sup> annum<sup>−1</sup>, and both cash and crop sharing mechanisms are practiced. Our analysis indicated that soils of leased land are degraded, and were categorized from moderate to severe level of degradation. The main reasons observed were that leasedin farmers mostly cultivate vegetables wherein more cultural working is required, which leads to loosening of soil and permits soil erosion at higher rate. Since, these islands receive more than 2800 mm rainfall annually with high intensity, it leads to faster erosion of soils. As the conservation measures need high investment, leased-in farmers are hesitant to invest due to short time lease of agreement (1 to 2 years). Thus, the study highlights that there should be clear cut policy for leased land to protect the limited and fragile agri-ecosystem of Andaman and Nicobar Islands. The findings will provide information for future research and policy decisions on leased land practices.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Island ecosystem Leased farming Soil degradation Soil health</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="7"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

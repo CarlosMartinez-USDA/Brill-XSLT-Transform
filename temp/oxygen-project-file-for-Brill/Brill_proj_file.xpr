@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="19.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="Brill_proj_file.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized version="19.1" xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>enable.project.master.files.support</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>scenario.associations</String>
+                        <scenarioAssociation-array>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../brill-xml-samples/15685411_023_05_s002_text.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Brill-xslt-transform</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../brill-xml-samples/15685411_023_05_s001_text.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Brill-xslt-transform</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../brill-xml-samples/1876312X_052_04_s005_text.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Brill-xslt-transform</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../brill-xml-samples/1876312X_052_04_s004_text.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Brill-xslt-transform</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../brill-xml-samples/1876312X_052_04_s003_text.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Brill-xslt-transform</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../brill-xml-samples/1876312X_052_04_s001_text.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Brill-xslt-transform</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../1876312X_052_04_s005_text.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Brill-xslt-transform</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../1876312X_052_04_s004_text.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Brill-xslt-transform</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../1876312X_052_04_s003_text.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Brill-xslt-transform</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>sample-xml/1876312X_052_04_s001_text.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Brill-xslt-transform</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../1876312X_052_04_s001_text.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Brill-xslt-transform</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>sample-xml/15685411_023_05_s001_text.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Brill-xslt-transform</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                        </scenarioAssociation-array>
+                    </entry>
+                    <entry>
+                        <String>scenarios</String>
+                        <scenario-array>
+                            <scenario>
+                                <field name="advancedOptionsMap">
+                                    <null/>
+                                </field>
+                                <field name="name">
+                                    <String>Brill-xslt-transform</String>
+                                </field>
+                                <field name="baseURL">
+                                    <String></String>
+                                </field>
+                                <field name="footerURL">
+                                    <String></String>
+                                </field>
+                                <field name="fOPMethod">
+                                    <String>pdf</String>
+                                </field>
+                                <field name="fOProcessorName">
+                                    <String>Apache FOP</String>
+                                </field>
+                                <field name="headerURL">
+                                    <String></String>
+                                </field>
+                                <field name="inputXSLURL">
+                                    <String>${pdu}/brill.xsl</String>
+                                </field>
+                                <field name="inputXMLURL">
+                                    <String>${currentFileURL}</String>
+                                </field>
+                                <field name="defaultScenario">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="isFOPPerforming">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="type">
+                                    <String>XSL</String>
+                                </field>
+                                <field name="saveAs">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="openInBrowser">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="outputFile">
+                                    <null/>
+                                </field>
+                                <field name="outputResource">
+                                    <null/>
+                                </field>
+                                <field name="openOtherLocationInBrowser">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="locationToOpenInBrowserURL">
+                                    <null/>
+                                </field>
+                                <field name="openInEditor">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="showInHTMLPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInXMLPane">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="showInSVGPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInResultSetPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="useXSLTInput">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="xsltParams">
+                                    <list>
+                                        <transformationParameter>
+                                            <field name="paramDescription">
+                                                <paramDescriptor>
+                                                    <field name="localName">
+                                                        <String>workingDir</String>
+                                                    </field>
+                                                    <field name="prefix">
+                                                        <null/>
+                                                    </field>
+                                                    <field name="namespace">
+                                                        <null/>
+                                                    </field>
+                                                </paramDescriptor>
+                                            </field>
+                                            <field name="value">
+                                                <String>C:/users/carlos.martinez/contacts/desktop/brilll-results-folder/</String>
+                                            </field>
+                                            <field name="hasXPathValue">
+                                                <Boolean>false</Boolean>
+                                            </field>
+                                        </transformationParameter>
+                                    </list>
+                                </field>
+                                <field name="cascadingStylesheets">
+                                    <String-array/>
+                                </field>
+                                <field name="xslTransformer">
+                                    <String>Saxon-EE</String>
+                                </field>
+                                <field name="extensionURLs">
+                                    <String-array/>
+                                </field>
+                            </scenario>
+                        </scenario-array>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
+    </meta>
+    <projectTree name="Brill_proj_file.xpr">
+        <folder masterFiles="true" name="Master Files">
+            <file name="../15685411_023_05_s001_text.xml"/>
+            <file name="../15685411_023_05_s002_text.xml"/>
+            <file name="../15685411_023_05_s003_text.xml"/>
+            <file name="../1876312X_052_04_s001_text.xml"/>
+            <file name="../1876312X_052_04_s003_text.xml"/>
+            <file name="../1876312X_052_04_s004_text.xml"/>
+            <file name="../1876312X_052_04_s005_text.xml"/>
+            <file name="brill.xsl"/>
+            <file name="../commons/common.xsl"/>
+            <file name="../commons/concat-children.xsl"/>
+            <file name="../commons/functions.xsl"/>
+            <file name="../jats_to_mods_30.xsl"/>
+            <file name="../commons/params.xsl"/>
+        </folder>
+        <folder name="brill-sample-xml">
+            <folder path="../../../"/>
+            <file name="../brill-xml-samples/15685411_023_05_s001_text.xml"/>
+            <file name="../brill-xml-samples/15685411_023_05_s002_text.xml"/>
+            <file name="../brill-xml-samples/1876312X_052_04_s001_text.xml"/>
+            <file name="../brill-xml-samples/1876312X_052_04_s003_text.xml"/>
+            <file name="../brill-xml-samples/1876312X_052_04_s004_text.xml"/>
+            <file name="../brill-xml-samples/1876312X_052_04_s005_text.xml"/>
+        </folder>
+        <folder path="."/>
+        <folder path="sample-xml/"/>
+        <file name="../brill-xml-samples/15685411_023_05_s001_text.xml"/>
+        <file name="sample-xml/15685411_023_05_s001_text.xml"/>
+        <file name="../brill-xml-samples/15685411_023_05_s002_text.xml"/>
+        <file name="../1876312X_052_04_s001_text.xml"/>
+        <file name="../brill-xml-samples/1876312X_052_04_s001_text.xml"/>
+        <file name="sample-xml/1876312X_052_04_s001_text.xml"/>
+        <file name="../1876312X_052_04_s003_text.xml"/>
+        <file name="../brill-xml-samples/1876312X_052_04_s003_text.xml"/>
+        <file name="../1876312X_052_04_s004_text.xml"/>
+        <file name="../brill-xml-samples/1876312X_052_04_s004_text.xml"/>
+        <file name="../1876312X_052_04_s005_text.xml"/>
+        <file name="brill.xsl"/>
+        <file name="../commons/common.xsl"/>
+        <file name="../commons/concat-children.xsl"/>
+        <file name="../commons/functions.xsl"/>
+        <file name="file:/C:/Users/carlos.martinez/AppData/Local/Temp/JATS-journalpublishing1-1.dtd"/>
+        <file name="file:/C:/Users/carlos.martinez/AppData/Local/Temp/JATS-journalpublishing1-3.dtd"/>
+        <file name="file:/C:/Users/carlos.martinez/AppData/Local/Temp/JATS-journalpublishing1-mathml3.dtd"/>
+        <file name="http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1-mathml3.dtd"/>
+        <file name="../JATS-journalpublishing1.dtd"/>
+        <file name="https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd"/>
+        <file name="../jats_to_mods_30.xsl"/>
+        <file name="../commons/params.xsl"/>
+    </projectTree>
+</project>

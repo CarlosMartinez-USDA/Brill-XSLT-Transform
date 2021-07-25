@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Designer Seed for Enhancement of Yield in Cotton</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">K.</namePart>
+      <namePart type="family">Sujatha</namePart>
+      <displayForm>Sujatha, K.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.</namePart>
+      <namePart type="family">Ambika</namePart>
+      <displayForm>Ambika, S.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Field experiments were carried out at Agricultural Research Station, Vaigai Dam, to identify the performance of designer seed on yield of cotton. Seeds fortified with KCl 1% for 6 h followed by polymer coating @ 3ml/kg + Carbendazim @ 2 g/kg + imidachloprid @ 2 ml/kg + Tichoderma viride @ 4 g/kg + Azospirilum @ 40 g/kg. The effect was more beneficial through increased field emergence (86%) population at maturity/plot (57.34), number of sympodial branches (13.62), number of. bolls/plant (64.50), kapas yield/plant (71.02 g), kapas yield/plot (2.43 kg) and seed yield/plant (43.72 g) compared to untreated control (73%, 48, 12.04, 50.99, 59.67 g, 1.93 kg and 37.9 g, respectively for field emergence, population at maturity/plot, number of sympodial branches, number of. bolls/plant, kapas yield/plant (g), kapas yield/plot (kg) and seed yield/plant (g). Days to 50% flowering and pest and disease incidences (%) were higher in untreated control compared to control. The per cent decrease over control was 12.5 and 52.4%, respectively for days to 50% flowering and pest and disease.</abstract>
+   <subject>
+      <topic>Azospirilum</topic>
+   </subject>
+   <subject>
+      <topic>Cotton</topic>
+   </subject>
+   <subject>
+      <topic>Designer seed</topic>
+   </subject>
+   <subject>
+      <topic>Polymer coating</topic>
+   </subject>
+   <subject>
+      <topic>Tichoderma viride.</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Agricultural Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-8245</identifier>
+      <identifier type="issn-e">0976-058X</identifier>
+      <identifier type="issn">0976-058X</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>217</start>
+            <end>221</end>
+            <total>5</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar2-54-2-014</identifier>
+   <identifier type="doi">10.18805/IJARe.A-5211</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/IJARe.A-5211</url>
+   </location>
+   <extension>
+      <archiveFile>ijar2-54-2-014</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/ijar2-54-2-014.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/</workingDirectory>
+   </extension>
+</mods>

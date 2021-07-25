@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Productivity of Summer Savory (Satureja hortensis L.) In Different Locations of Egypt</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">S.F.</namePart>
+      <namePart type="family">Hendawy</namePart>
+      <displayForm>Hendawy, S.F.</displayForm>
+      <affiliation>Medicinal and Aromatic Plants Research Department, National Research Centre, Dokki, Giza, Egypt</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.S.</namePart>
+      <namePart type="family">Hussein</namePart>
+      <displayForm>Hussein, M.S.</displayForm>
+      <affiliation>Medicinal and Aromatic Plants Research Department, National Research Centre, Dokki, Giza, Egypt</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">H.M.</namePart>
+      <namePart type="family">Amer</namePart>
+      <displayForm>Amer, H.M.</displayForm>
+      <affiliation>Medicinal and Aromatic Plants Research Department, National Research Centre, Dokki, Giza, Egypt</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.</namePart>
+      <namePart type="family">Salaheldin</namePart>
+      <displayForm>Salaheldin, S.</displayForm>
+      <affiliation>Horticulture Department Faculty of Agriculture and Natural Resources, Aswan University, Aswan, 81528, Egypt</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Field experiment was conducted to evaluate the growth, yield and essential oil constituents of savory at three different locations across Egypt (El-Minya, El-Sharkia and Sinai). Plants cultivated in El-Sharkia showed significantly higher values of plant height, number of branches and herb fresh and dry weights. Also, the highest quality was observed on plant cultivated in El-Sharkia region. Thirty one main compounds were detected in GC-MS analysis of essential oil. There were obvious differences in chemical constituents of essential oil of plants cultivated under different locations. The main components were Y-Terpinene and Carvacrol. The highest Y-Terpinene and Carvacrol were observed also in plants cultivated in El-Sharkia. These results suggested that agro-climatic zone is very important for maximizing the content and composition of essential oils. Further studies are still needed to determine the precise factors of agro-climatic zoning which could be important strategies for optimizing the yield and quality.</abstract>
+   <subject>
+      <topic>Agro-climate</topic>
+   </subject>
+   <subject>
+      <topic>Carvacrol</topic>
+   </subject>
+   <subject>
+      <topic>Essential oil</topic>
+   </subject>
+   <subject>
+      <topic>Savory</topic>
+   </subject>
+   <subject>
+      <topic>γ-Terpinene</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Agricultural Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-8245</identifier>
+      <identifier type="issn-e">0976-058X</identifier>
+      <identifier type="issn">0976-058X</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>175</start>
+            <end>180</end>
+            <total>6</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar2-54-2-007</identifier>
+   <identifier type="doi">10.18805/IJARe.A-479</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/IJARe.A-479</url>
+   </location>
+   <extension>
+      <archiveFile>ijar2-54-2-007</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/ijar2-54-2-007.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJSC</journal-id>
+         <journal-title>Indian Journal of Soil Conservation</journal-title>
+         <issn pub-type="ppub">0970-3349</issn>
+         <issn pub-type="epub">0976-1721</issn>
+         <publisher>
+            <publisher-name>Indian Associations of Soil &amp; Water Conservationists</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijsc-47-2-012</article-id>
+         <title-group>
+            <article-title>Geospatial assessment and physical characterization of terraced low land (Jhola land) in Eastern Ghats Highland of India</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Dash</surname>
+                  <given-names>Ch. Jyotiprava</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1,</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Adhikary</surname>
+                  <given-names>Partha Pratim</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Madhu</surname>
+                  <given-names>M.</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Maurya</surname>
+                  <given-names>U.K.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Mishra</surname>
+                  <given-names>P.K.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff003">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Mukhopadhyay</surname>
+                  <given-names>S.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff004">
+                  <sup>4</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff001">
+            <sup>1</sup>
+            <instname>ICAR-Indian Institute of Soil and Water Conservation (ICAR-IISWC)</instname>, <deptname>Research Centre</deptname>, <instcity>Koraput</instcity>-<instpincode>763 002</instpincode>, <instpincode>Odisha</instpincode>
+         </aff>
+         <aff id="aff002">
+            <sup>2</sup>
+            <instname>ICAR-IISWC</instname>, <instaddress>Kaulagarh Road</instaddress>, <instcity>Dehradun</instcity>-<instpincode>248 195</instpincode>, <inststate>Uttarakhand</inststate>
+         </aff>
+         <aff id="aff003">
+            <sup>3</sup>
+            <instname>International Crop Research Institute for the Semi Arid Tropics</instname>, <instcity>Hyderabad</instcity>-<instpincode>502324</instpincode>, <inststate>Telengana</inststate>
+         </aff>
+         <aff id="aff004">
+            <sup>4</sup>
+            <instname>ICAR-National Bureau of Soil Survey and Land Use Planning</instname>, <deptname>Regional Centre</deptname>, <instcity>Kolkata</instcity>-<instpincode>700 091</instpincode>, <inststate>West Bengal</inststate>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding author: (Ch. Jyotiprava Dash) E-mail: Jyoti. <email>Dash@icar.gov.in</email>; <email>jyoti.551@gmail.com</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 9 April, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>8</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>47</volume>
+         <issue>2</issue>
+         <fpage>194</fpage>
+         <lpage>202</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>The aims of this study is to map spatial extent and characterization of <italic>Jhola</italic> land (terraced low land), using remote sensing (RS) and geographical information system (GIS) techniques. Jhola land is a very important land use system in Koraput district, Odisha in terms of rice production. For mapping, DEM, slope and stream network maps of the district were used as base maps. IRS-Linear Imaging Self Scanner (LISS) IV images of 2013 were also used for assessment of area under the land. Both supervised classification and visual interpretation of satellite images based on tone, texture, shape, association and on-screen digitization was carried out to identify Jhola land. The overall accuracy level was found to be more than 85%. The best NDVI for delineating Jhola land areas was observed to very between-0.08 and 0.43. Jhola land systems occur at or above 700 m elevation and are present in 10 blocks of Koraput district, occupying 186.7 km<sup>2</sup>, which is 2.2% of the total geographical area of the district. Around 84% of total Jhola land systems originated either from 2<sup>nd</sup> or 3<sup>rd</sup> order streams. Suitable classification scheme of <italic>Jhola</italic> land was developed based on size, slope and pereniality. The developed data base on <italic>Jhola</italic> land system will help policy makers in making this system sustainable.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Eastern Ghats</kwd>
+            <kwd>GIS</kwd>
+            <kwd>Jhola land</kwd>
+            <kwd>NDVI</kwd>
+            <kwd>Remote sensing</kwd>
+            <kwd>Stream order</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="9"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

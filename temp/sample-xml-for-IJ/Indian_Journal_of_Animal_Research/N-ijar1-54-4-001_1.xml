@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Polymorphism in inhibin alpha gene and its association with semen quality traits in Murrah bulls</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Satish</namePart>
+      <namePart type="family">Chandra</namePart>
+      <displayForm>Chandra, Satish</displayForm>
+      <affiliation>Biological E. Limited, Azamabad-500 020, Hyderabad, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">D.N.</namePart>
+      <namePart type="family">Das</namePart>
+      <displayForm>Das, D.N.</displayForm>
+      <affiliation>Southern Regional Station ICAR-Indian Dairy Research Institute, Bengaluru-560 030, Karnataka, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Uday</namePart>
+      <namePart type="family">Kannegundla</namePart>
+      <displayForm>Kannegundla, Uday</displayForm>
+      <affiliation>Southern Regional Station ICAR-Indian Dairy Research Institute, Bengaluru-560 030, Karnataka, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jagish Kour</namePart>
+      <namePart type="family">Reen</namePart>
+      <displayForm>Reen, Jagish Kour</displayForm>
+      <affiliation>Khalsa Veterinary College, Amritsar-143 001, Punjab, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">K.P.</namePart>
+      <namePart type="family">Ramesha</namePart>
+      <displayForm>Ramesha, K.P.</displayForm>
+      <affiliation>Southern Regional Station ICAR-Indian Dairy Research Institute, Bengaluru-560 030, Karnataka, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sapna</namePart>
+      <namePart type="family">Nath</namePart>
+      <displayForm>Nath, Sapna</displayForm>
+      <affiliation>Southern Regional Station ICAR-Indian Dairy Research Institute, Bengaluru-560 030, Karnataka, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mukund A.</namePart>
+      <namePart type="family">Kataktalware</namePart>
+      <displayForm>Kataktalware, Mukund A.</displayForm>
+      <affiliation>Southern Regional Station ICAR-Indian Dairy Research Institute, Bengaluru-560 030, Karnataka, India</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>An investigation was conducted to detect single nucleotide polymorphism in Inhibin alpha gene (INHA) and to analyse the association between the observed polymorphisms with semen quality traits in Murrah buffalo bulls. Genomic DNA was isolated from blood samples of 103 bulls, the amplified PCR products were further subjected to polyacrylamide gel electrophoresis. Band patterns were characterised by the number of bands, mobility shifts and scored manually. Representative PCR products giving unique SSCP patterns were custom sequenced using automated ABI DNA Sequencer to confirm the mobility shift in each pattern. Sequence data were analysed using DNA Baser and Bio edit software Clustal omega multiple alignments for detecting single nucleotide polymorphisms in comparison to observed sequence with the Bubalus sbubalis INHA gene reference sequence. INHA gene, exon1 was monomorphic, while exon 2 was found to be polymorphic. For simple interpretation of SSCP patterns, INHA exon 2 was divided into two fragments. The first fragment of INHA exon 2 (INHA exon 2 FR1) revealed a transition at the C267119T position and a transversion at the G267033T position in the coding region in comparison to Bubalus bubalis reference sequence. The second fragment of INHA exon 2 (INHA exon 2 FR2) exhibited one transition at T266510C position in comparison to the Bubalus bubalis reference sequence. The SSCP variants of the first fragment of INHA exon2 had a significant effect on semen volume per ejaculate (P&lt;0.05) and sperm concentration (P&lt;0.01). The SSCP variants of the second fragment of INHA exon 2 had a significant effect on sperm concentration (P&lt;0.01) and functional membrane integrity (P&lt;0.05). The observed association between SSCP variants in INHA gene with semen volume per ejaculate, sperm concentration and functional membrane integrity suggests the possibility of using these genetic variants in INHA gene as prognostic markers for selecting Murrah bulls with high semen quality traits.</abstract>
+   <subject>
+      <topic>Bubalus bubalis</topic>
+   </subject>
+   <subject>
+      <topic>INHA</topic>
+   </subject>
+   <subject>
+      <topic>Murrah</topic>
+   </subject>
+   <subject>
+      <topic>PCR-SSCP</topic>
+   </subject>
+   <subject>
+      <topic>Semen quality</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>4</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>399</start>
+            <end>404</end>
+            <total>6</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-4-001</identifier>
+   <identifier type="doi">10.18805/ijar.B-3798</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3798</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-4-001</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-4-001.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nal-journal-admin xmlns="http://ur.usda.gov/xslt/nal-journal-admin.xsd"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <requirement type="inScope">Yes</requirement>
+    <!-- In scope for AGRICOLA value Yes/No/Unknown -->
+    
+    <requirement type="englishTitle">No</requirement>
+    <!-- English title/abstract available Yes/No/Unknown -->
+    
+    <requirement type="peerReviewed">Yes</requirement>
+    <!-- Peer reviewed journal  Yes/No/Unknown -->
+
+    <relevanceArticles type="agriculture">100</relevanceArticles>
+    <!-- % Relevant Articles percentage of relevant articles value 0-100 -->
+    
+    <status type="collection">pending</status>
+    <!-- Collection Status value pending, accepted, rejected -->
+
+    <date type="entered">2016-01-03</date>
+    <!-- Date journal is entered in w3cdtf format -->
+
+    <date type="preAcceptanceNotice">2016-04-03</date>
+    <!-- Date journal is pre-acceptence notice sent in w3cdtf format -->
+
+    <date type="accepted">2016-01-03</date>
+    <!-- Date journal is accepted in w3cdtf format -->
+    
+    <date type="acceptedNotice">2016-01-30</date>
+    <!-- Date journal is entered in w3cdtf format -->
+
+    <date type="rejected">2016-01-03</date>
+    <!-- Date journal is rejected in w3cdtf format -->
+
+    <date type="rejectionNotice">2016-04-03</date>
+    <!-- Date journal is rejection notice sent in w3cdtf format -->
+
+
+    <date type="finalized">2016-01-03</date>
+    <!-- Date journal is  finalized in w3cdtf format -->
+
+    <note>This is note #1.</note>
+
+    <note>This is note #2.</note>
+
+    <priority type="acquisition">low</priority>
+    <!-- Priority for Acquisition  values high, medium, low -->
+
+    <availability>Electronic</availability>
+    <!-- Availability values Electronic, Manually keyed -->
+
+</nal-journal-admin>

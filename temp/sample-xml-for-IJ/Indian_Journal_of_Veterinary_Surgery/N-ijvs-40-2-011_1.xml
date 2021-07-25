@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Clinical, physiological and haemodynamic evaluation of dexmedetomidine, butorphanol and propofol anaesthesia in goats</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Rohit</namePart>
+      <namePart type="family">Kumar</namePart>
+      <displayForm>Kumar, Rohit</displayForm>
+      <affiliation>Scientist, Division of Surgery</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Prakash</namePart>
+      <namePart type="family">Kinjavdekar</namePart>
+      <displayForm>Kinjavdekar, Prakash</displayForm>
+      <affiliation>Principal Scientist, Division of Surgery</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hari Prasad</namePart>
+      <namePart type="family">Aithal</namePart>
+      <displayForm>Aithal, Hari Prasad</displayForm>
+      <affiliation>Principal Scientist, TEC, ICAR-IVRI, Pune</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Abhijit Motiramji</namePart>
+      <namePart type="family">Pawde</namePart>
+      <displayForm>Pawde, Abhijit Motiramji</displayForm>
+      <affiliation>Principal Scientist, Division of Surgery</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Siddharth</namePart>
+      <namePart type="family">Khattri</namePart>
+      <displayForm>Khattri, Siddharth</displayForm>
+      <affiliation>P.G. Scholar, Division of Surgery</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jasmeet</namePart>
+      <namePart type="family">Singh</namePart>
+      <displayForm>Singh, Jasmeet</displayForm>
+      <affiliation>P.G. Scholar, Division of Surgery</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="family">Amarpal</namePart>
+      <displayForm>Amarpal, </displayForm>
+      <affiliation>Principal Scientist &amp; Head, Division of Surgery</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-12</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Prospective, randomized clinical trials were performed in sixteen clinical cases of urolithiasis in male goats, managed with two different anaesthetic treatments (A and B). Animals of group A were premedicated with dexmedetomidine (2.5 μg/kg body wt), while in group B dexmedetomidine (2.5 μg/kg body wt) and butorphanol (0.05 mg/kg body wt) were used intravenously. Induction of anaesthesia was achieved by 1% propofol in groups A (2.50 ± 0.37 mg/kg) and B (1.99±0.29 mg/kg). The anaesthesia was maintained with continuous intravenous infusion (CII) of 1% propofol. Infusion rate was adjusted in response to positive reactions to surgical nociceptive stimulation performed during tube cystostomy procedure. In both groups, heart rate (HR), respiratory rate (RR) and rectal temperature (RT) decreased significantly (P&lt;0.05) in both groups. Mean arterial pressure (MAP) decreased significantly (P&lt;0.05) after premedication, up to the end of observation period in both groups. However, MAP improved at 20 min and onwards but remained significantly (P&lt;0.05) lower than the baseline value up to the end of observation period. It was concluded that both combinations cause significant cardiovascular and respiratory depression and should be adminised carefully in uraemic goats.</abstract>
+   <subject>
+      <topic>Butorphanol</topic>
+   </subject>
+   <subject>
+      <topic>Dexmedetomidine</topic>
+   </subject>
+   <subject>
+      <topic>Goats</topic>
+   </subject>
+   <subject>
+      <topic>Propofol</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Veterinary Surgery</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Indian Society for Veterinary Surgery</publisher>
+      </originInfo>
+      <identifier type="issn-p">0254-4105</identifier>
+      <identifier type="issn-e">0973-9726</identifier>
+      <identifier type="issn">0973-9726</identifier>
+      <part>
+         <detail type="volume">
+            <number>40</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2019</text>
+         <text type="month">12</text>
+         <extent unit="pages">
+            <start>123</start>
+            <end>127</end>
+            <total>5</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijvs-40-2-011</identifier>
+   <extension>
+      <archiveFile>ijvs-40-2-011</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/ijvs-40-2-011.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Veterinary_Surgery/</workingDirectory>
+   </extension>
+</mods>

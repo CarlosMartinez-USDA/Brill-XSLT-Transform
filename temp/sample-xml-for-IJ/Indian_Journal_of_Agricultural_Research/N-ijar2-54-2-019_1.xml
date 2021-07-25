@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Effect of Nitrogen and Phosphorus Management on Growth and Yield of Foxtail Millet [Setaria italica L.] During Summer Season in Odisha, India</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">M. Uma Maheswar</namePart>
+      <namePart type="family">Reddy</namePart>
+      <displayForm>Reddy, M. Uma Maheswar</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.</namePart>
+      <namePart type="family">Roja</namePart>
+      <displayForm>Roja, M.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.D.</namePart>
+      <namePart type="family">Reddy</namePart>
+      <displayForm>Reddy, M.D.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Saurav</namePart>
+      <namePart type="family">Barman</namePart>
+      <displayForm>Barman, Saurav</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>A field experiment was conducted during summer (Feb-May) of 2018 at Bagusala Research Farm, M.S. Swaminathan School of Agriculture, Centurion University of Technology and Management, Parlakhemundi, Odisha on sandy loam soil. Treatments consisted of four nitrogen levels-0, 20, 40 and 60 kg N ha⁻¹ and three levels of phosphorus viz. 0, 20, 40 kg P ha⁻¹. The experiment was conducted in split plot design with nitrogen levels as main-plot and phosphorus levels as sub-plot. Observations on plant height, dry matter, yield attributes and grain and straw yield, cost of cultivation, gross and net returns and B: C ratio were recorded. Application of 60 kg N ha⁻¹ and 40 kg P₂O₅ ha⁻¹ resulted in highest growth, grain and straw yield as compared to other treatments. The grain (1546 kg ha⁻¹) and straw yield (2277 kg ha⁻¹) was significantly higher with application of 60 kg N ha⁻¹ over that of 0, 20 and 40 kg N ha⁻¹. The maximum gross and net returns and B: C ratio were recorded with application of 60 kg N and 20 kg P₂O₅ ha⁻¹.</abstract>
+   <subject>
+      <topic>Foxtail millet</topic>
+   </subject>
+   <subject>
+      <topic>Gross returns</topic>
+   </subject>
+   <subject>
+      <topic>Nitrogen</topic>
+   </subject>
+   <subject>
+      <topic>Phosphorus</topic>
+   </subject>
+   <subject>
+      <topic>Season</topic>
+   </subject>
+   <subject>
+      <topic>Summer</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Agricultural Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-8245</identifier>
+      <identifier type="issn-e">0976-058X</identifier>
+      <identifier type="issn">0976-058X</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>242</start>
+            <end>246</end>
+            <total>5</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar2-54-2-019</identifier>
+   <identifier type="doi">10.18805/IJARe.A-5322</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/IJARe.A-5322</url>
+   </location>
+   <extension>
+      <archiveFile>ijar2-54-2-019</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/ijar2-54-2-019.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/</workingDirectory>
+   </extension>
+</mods>

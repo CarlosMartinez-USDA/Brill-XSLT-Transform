@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.2 20060430//EN" "http://dtd.nlm.nih.gov/archiving/2.2/archivearticle.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="2.2" xml:lang="EN">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">aare</journal-id>
+			<journal-title>Arctic, Antarctic, and Alpine Research</journal-title>
+			<issn pub-type="ppub">1523-0430</issn>
+			<issn pub-type="active">1523-0430</issn>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1657/1523-0430(2005)037[0139:ITSOGE]2.0.CO;2</article-id>
+			<article-id pub-id-type="other"></article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Articles</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Investigating the Sensitivity of Glacier Mass-Balance/Elevation Profiles to Changing Meteorological Conditions: Model Experiments for Haut Glacier D'Arolla, Valais, Switzerland</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" xlink:type="simple">
+					<name name-style="western">
+						<given-names>Neil</given-names><x xml:space="preserve"> </x>
+						<surname>Arnold</surname>
+					</name>
+					<xref ref-type="aff" rid="aff1"></xref>
+				</contrib>
+				<aff id="aff1">Scott Polar Research Institute, University of Cambridge, Lensfield Road, Cambridge, CB2 1ER, United Kingdom. 
+					<email xlink:href="mailto:nsa12@cam.ac.uk" xlink:type="simple">nsa12&commat;@cam.ac.uk</email></aff>
+			</contrib-group>
+			<pub-date pub-type="ppub">
+				<month>05</month>
+				<year>2005</year>
+				<string-date>200505</string-date>
+			</pub-date>
+			<volume>37</volume>
+			<issue>2</issue>
+			<fpage>139</fpage>
+			<lpage>145</lpage>
+			<history>
+				<date date-type="submitted">
+					<day>1</day>
+					<month>July</month>
+					<year>2004</year>
+					<string-date>July 1, 2004</string-date>
+				</date>
+			</history>
+			<copyright-statement>Institute of Arctic and Alpine Research (INSTAAR), University of Colorado</copyright-statement>
+			<copyright-year>2005</copyright-year>
+			<related-article related-article-type="pdf" xlink:href="1523-0430(2005)037[0139:ITSOGE]2.0.CO;2.pdf" xlink:type="simple"></related-article>
+			<abstract>
+				<title>Abstract</title>
+				<p>This paper presents the results of a distributed surface energy balance model which is used to calculate season-long patterns of melt on a small valley glacier, Haut Glacier d'Arolla, Valais, Switzerland, under different summer meteorological conditions and winter snow depth distributions. The model uses a Digital Elevation Model of the glacier and the surrounding topography, together with meteorological data collected at a site in front of the glacier to determine hourly totals of the surface energy balance components, and hence melt, over the entire glacier surface throughout a melt season, with a spatial resolution of 20 m. From these results, the spatially averaged mass-balance/elevation profile for the glacier can be calculated. A cubic relationship with elevation gives the best fit to the calculated mass-balance curve. The shape of this profile varies with the imposed change in meteorological conditions, however, becoming increasingly &ldquo;“S&rdquo;” shaped for warmer or less snowy conditions. These mass-balance profile changes are due to the complex interplay between albedo variations due to different snow depths over the glacier surface (and eventual removal of the snow cover), the variations in solar energy receipts caused by slope and aspect variation over the glacier and the changing patterns of shading by the surrounding topography. The changes in mass-balance profile lead to maximum calculated mass-balance sensitivity to imposed change occurring at intermediate elevations on the glacier; the calculated equilibrium-line altitude (ELA) occurs at the upper end of this zone, resulting in very large calculated changes in the ELA for different climatic conditions.</p>
+			</abstract>
+			<counts>
+				<page-count count="7"></page-count>
+			</counts>
+		</article-meta>
+	</front>
+	
+	
+</article>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Effect of organic production system on productive and reproductive performance of cattle</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">S.K.</namePart>
+      <namePart type="family">Shandilya</namePart>
+      <displayForm>Shandilya, S.K.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.P.</namePart>
+      <namePart type="family">Singh</namePart>
+      <displayForm>Singh, A.P.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">B.K.</namePart>
+      <namePart type="family">Ojha</namePart>
+      <displayForm>Ojha, B.K.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alok</namePart>
+      <namePart type="family">Mishra</namePart>
+      <displayForm>Mishra, Alok</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Manu</namePart>
+      <namePart type="family">Jaiswal</namePart>
+      <displayForm>Jaiswal, Manu</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sudhir Kumar</namePart>
+      <namePart type="family">Jaiswal</namePart>
+      <displayForm>Jaiswal, Sudhir Kumar</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Preeti</namePart>
+      <namePart type="family">Bisht</namePart>
+      <displayForm>Bisht, Preeti</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-03</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The present investigation was carried out with the objective to study the productive and reproductive performances of dairy cattle under organic farming systems. Total 24 medium to high yielding cattle has been selected for the study, out of which 12 were reared under organic management system and 12 under conventional management system. For cows maintained under organic management system, the animals were fed ad lib quality green fodder grown organically and limited quantity (1.5 to 2.0 kg/cows/day) of concentrate mixture. Production and reproduction performance of animals of both the groups were compared. The results revealed that the reproductive performance was better in cows maintained under organic production management system than their conventional counterparts. The study on milk quality in terms of composition revealed significantly (P&lt;0.05) higher fat % of milk, while lower (P&lt;0.05) protein % of milk for the cows maintained under organic system as compared to those under conventional system. It can be concluded that the organic management system of dairy cows can be beneficial as depicted by better reproductive efficiency of cows with higher fat % of the milk.</abstract>
+   <subject>
+      <topic>Cattle</topic>
+   </subject>
+   <subject>
+      <topic>Feeding</topic>
+   </subject>
+   <subject>
+      <topic>Organic</topic>
+   </subject>
+   <subject>
+      <topic>Production</topic>
+   </subject>
+   <subject>
+      <topic>Reproduction</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>3</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">03</text>
+         <extent unit="pages">
+            <start>384</start>
+            <end>387</end>
+            <total>4</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-3-022</identifier>
+   <identifier type="doi">10.18805/ijar.B-3803</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3803</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-3-022</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-3-022.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

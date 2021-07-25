@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJVS</journal-id>
+         <journal-title>Indian Journal of Veterinary Surgery</journal-title>
+         <issn pub-type="ppub">0254-4105</issn>
+         <issn pub-type="epub">0973-9726</issn>
+         <publisher>
+            <publisher-name>Indian Society for Veterinary Surgery</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijvs-40-2-008</article-id>
+         <title-group>
+            <article-title>Doppler studies of abdominal aorta and caudal vena cava in healthy dogs</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Omer</surname>
+                  <given-names>Khalid</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1,</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Verma</surname>
+                  <given-names>Pallavi</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Saini</surname>
+                  <given-names>N.S.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff003">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Mohindroo</surname>
+                  <given-names>J.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff004">
+                  <sup>4</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Singh</surname>
+                  <given-names>T.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff005">
+                  <sup>5</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff>
+            <instname>Guru Angad Dev Veterinary and Animal Sciences University</instname>, <instcity>Ludhiana</instcity>-<instpincode>141 001</instpincode>, (<inststate>Punjab</inststate>)</aff>
+         <aff id="aff001">
+            <sup>1</sup>MVSc Scholar, <deptname>Department of Veterinary Surgery and Radiology</deptname>, <instname>College of Veterinary Sciences</instname>
+         </aff>
+         <aff id="aff002">
+            <sup>2</sup>Assistant Professor, <deptname>Department of Veterinary Surgery and Radiology</deptname>, <instname>College of Veterinary Sciences</instname>
+         </aff>
+         <aff id="aff003">
+            <sup>3</sup>Professor (Retd.), <deptname>Department of Veterinary Surgery and Radiology</deptname>, <instname>College of Veterinary Sciences</instname>
+         </aff>
+         <aff id="aff004">
+            <sup>4</sup>Professor-cum-Head, <deptname>Department of Veterinary Surgery and Radiology</deptname>, <instname>College of Veterinary Sciences</instname>
+         </aff>
+         <aff id="aff005">
+            <sup>5</sup>Assistant Scientist, <deptname>Department of Veterinary Surgery and Radiology</deptname>, <instname>College of Veterinary Sciences</instname>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding author; E-mail: <email>omerkhalid2960@gmail.com</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 28 May, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>12</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>40</volume>
+         <issue>2</issue>
+         <fpage>112</fpage>
+         <lpage>115</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>In this study, Duplex Doppler waveforms of the major abdominal vessels [abdominal aorta (AA) and caudal vena cava (CVC)] were examined by Doppler ultrasound and Doppler indices were established in normal dogs using pulse wave Doppler ultrasound. Fifteen dogs (10 males, 5 females) considered healthy by physical examination, haematobiochemical profile, urinalysis, and ultrasonography were included. AA and CVC were scanned by pulsed Doppler ultrasonography to calculate Resistive Index (RI) and Pulsatility Index (PI). The mean±SE value of RI for AA was 0.94±0.16 and for CVC was 0.39±0.05. The mean±SE value of PI for AA was 4.95±0.80 and for CVC was 1.61±0.62.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Blood vessel</kwd>
+            <kwd>Dog</kwd>
+            <kwd>Doppler</kwd>
+            <kwd>Pulsatility Index</kwd>
+            <kwd>Resistive Index</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="4"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

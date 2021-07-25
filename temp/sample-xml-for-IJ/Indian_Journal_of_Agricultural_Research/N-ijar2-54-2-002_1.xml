@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Induced Genetic Variability for Quantitative Traits in Pigeonpea</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">S.M.</namePart>
+      <namePart type="family">Sangle</namePart>
+      <displayForm>Sangle, S.M.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>Seeds of two pigeonpea varieties namely BDN 708 and BSMR 853 were treated with Gamma rays, ethyl methane sulphonate (EMS) and Sodium azide (SA). The treated as well as control plant populations were screened to study the induced variability for quantitative characters. Positive shift in mean values for number of primary branches per plant was observed except 0.10% EMS in variety BSMR 853 and BDN 708 in M₂ generation. The effect of all the mutagenic treatments on pods per plant revealed statistically significant negative as well as positive shifts in mean values in BSMR 853 in M₂ and M₃ generations.</abstract>
+   <subject>
+      <topic>EMS</topic>
+   </subject>
+   <subject>
+      <topic>Gamma rays</topic>
+   </subject>
+   <subject>
+      <topic>Pigeonpea</topic>
+   </subject>
+   <subject>
+      <topic>Sodium azide</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Agricultural Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-8245</identifier>
+      <identifier type="issn-e">0976-058X</identifier>
+      <identifier type="issn">0976-058X</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>139</start>
+            <end>146</end>
+            <total>8</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar2-54-2-002</identifier>
+   <identifier type="doi">10.18805/IJARe.A-5210</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/IJARe.A-5210</url>
+   </location>
+   <extension>
+      <archiveFile>ijar2-54-2-002</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/ijar2-54-2-002.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Agricultural_Research/</workingDirectory>
+   </extension>
+</mods>

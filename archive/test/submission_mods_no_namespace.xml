@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods>
+
+  <titleInfo>
+    <title>Factors influencing genetic evaluations of linebred Hereford cattle in diverse environments</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Snelling, W.M.</namePart>
+    <displayForm>Snelling, W.M.</displayForm>
+  </name>
+  <name type="personal">
+    <namePart>MacNeil, M.D.</namePart>
+    <displayForm>MacNeil, M.D.</displayForm>
+  </name>
+  <name type="personal">
+    <namePart>Kress, D.D.</namePart>
+    <displayForm>Kress, D.D.</displayForm>
+  </name>
+  <name type="personal">
+    <namePart>Anderson, D.C.</namePart>
+    <displayForm>Anderson, D.C.</displayForm>
+  </name>
+  <name type="personal">
+    <namePart>Tess, M.W.</namePart>
+    <displayForm>Tess, M.W.</displayForm>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateIssued encoding="w3cdtf" keyDate="yes">1996-07</dateIssued>
+    <place>
+      <placeTerm authority="marccountry" type="code">ilu</placeTerm>
+    </place>
+    <dateIssued encoding="marc">199607</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <abstract>Data from four closely related Line 1 Hereford herds were used to estimate variance components and predict EPD for birth weight (BWT), weaning weight (WWT), and postweaning gain (PWG). Herds were located in diverse environments and differed in level of phenotypic performance. Within-herd BWT analyses considered effects of inbreeding of calf and dam, sex, age of dam (AOD), and contemporary group as fixed and direct and maternal additive genetic effects and permanent environmental effects due to dam as random. The model for WWT included these effects and age of calf. The model for PWG included inbreeding of calf, contemporary group, and direct additive genetic effects. Across-herd analyses were conducted with additional models. The first considered herd-specific inbreeding, sex, and AOD effects. A second model pooled these effects across herds, and a third included pooled sex and AOD effects but ignored inbreeding. Across-herd EPD, including and ignoring inbreeding, were predicted for WWT preadjusted with standard adjustments for Hereford cattle. Within-herd analyses indicated potential for heterogenous genetic and environmental variances across herds. Across-herd variance component estimates were consistent, regardless of the model. Estimates of genetic trends indicated potential for bias in genetic evaluations resulting from choice of model. Differences in magnitude of fixed effects between herds were observed. Genetic evaluations were different when pooled or herd-specific fixed effects were used. Allowance for individual herd differences in fixed effects in across-herd evaluations is suggested.</abstract>
+  <subject authority="atg">
+    <topic>Hereford</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>additive gene effects</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>birth weight</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>calves</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>environmental impact</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>herds</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>inbreeding</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>models</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>phenotypic variation</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>weaning</topic>
+  </subject>
+  <subject authority="atg">
+    <topic>weaning weight</topic>
+  </subject>
+  <note type="bibliography">Includes references</note>
+  <subject>
+    <topic>beef herds</topic>
+  </subject>
+  <subject>
+    <topic>variance components</topic>
+  </subject>
+  <subject>
+    <topic>maternal age</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Journal of animal science</title>
+    </titleInfo>
+    <titleInfo type="abbreviated">
+      <title>J. anim. sci</title>
+    </titleInfo>
+    <identifier type="issn">0021-8812</identifier>
+    <part>
+      <detail type="volume">
+        <number>74</number>
+        <caption>v.</caption>
+      </detail>
+      <detail type="issue">
+        <number>7</number>
+        <caption>no.</caption>
+      </detail>
+      <extent unit="pages">
+        <start>1499</start>
+        <end>1510</end>
+      </extent>
+      <text type="year">1996</text>
+      <text type="month">July</text>
+      <text type="marc">July 1996. v. 74 (7)</text>
+    </part>
+  </relatedItem>
+  <identifier type="local">agid:59090</identifier>
+  <identifier type="hdl">10113/59090</identifier>
+  <identifier type="naldc">naldc:59090</identifier>
+  <identifier type="agricola">IND20540200</identifier>
+  <location>
+    <url displayLabel="Available in the National Agricultural Library Digital Collections" usage="primary">http://handle.nal.usda.gov/10113/59090</url>
+  </location>
+  <extension>
+    <submissionSource>USDA/ARS</submissionSource>
+    <fileLocation note="ARS submission" usage="primary">http://parking.nal.usda.gov/shortterm/ind1/113717_JAS_1996_74_1499_1510.pdf</fileLocation>
+    <note type="note">USDA Scientist Submission</note>
+    <note type="status">Accept - NALDC - File Handle</note>
+    <relatedItem displayLabel="NALDC Collection" type="host">
+      <identifier type="naldc">COLL00001</identifier>
+    </relatedItem>
+    <note type="note">No DOI</note>
+    <note type="note">Batch:472 annotated on 2014-03-12T07:39:02Z</note>
+    <note type="note">Batch:472 reviewed on 2014-03-26T16:00:05Z</note>
+    <note type="note">Batch:472 reviewed on 2014-03-27T04:00:05Z</note>
+  </extension>
+  <recordInfo>
+    <recordContentSource authority="oclcorg">AGL</recordContentSource>
+    <recordCreationDate encoding="marc">961113</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20130906211145.0</recordChangeDate>
+    <recordIdentifier>3186701</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl (Revision 1.77 2012/03/23)</recordOrigin>
+  </recordInfo>
+</mods>

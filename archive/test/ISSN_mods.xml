@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:local="http://www.loc.org/namespace"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Ansgarsledaren</title>
+   </titleInfo>
+   <titleInfo type="abbreviated">
+      <title>Ansgarsledaren</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Ansgarsjuniorens ledarblad</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Ansgarsförbundet</namePart>
+   </name>
+   <name>
+      <namePart>Svenska kyrkan. Ansgarsförbundet</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">periodical</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">sw</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="code" authority="iso3166">SWE</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Solna</placeTerm>
+      </place>
+      <publisher>Ansgarsförbundet.</publisher>
+      <dateIssued encoding="marc" point="start">1958</dateIssued>
+      <dateIssued encoding="marc" point="end">1981</dateIssued>
+      <issuance>serial</issuance>
+      <frequency>Bimonthly</frequency>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">swe</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <form authority="marccategory">text</form>
+      <form authority="marcsmd">regular print</form>
+   </physicalDescription>
+   <classification authority="udc">267.6</classification>
+   <relatedItem type="succeeding">
+      <titleInfo>
+         <title>Ansgarsposten</title>
+      </titleInfo>
+      <identifier type="issn">0003-5262</identifier>
+   </relatedItem>
+   <identifier type="issn">0003-5254</identifier>
+   <identifier type="issn-l">0003-5254</identifier>
+   <extension/>
+   <recordInfo>
+      <recordCreationDate encoding="marc">910412</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20041115214900.0</recordChangeDate>
+      <recordIdentifier source="ISSN">vtls000003525</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using
+					MARC21slim2MODS3-5_XSL2-0_ISSN.xsl (Revision 2.25 2015/03/03)</recordOrigin>
+   </recordInfo>
+</mods>

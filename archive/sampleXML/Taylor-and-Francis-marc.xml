@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+   <marc:leader>     na a22        4500</marc:leader>
+   <marc:controlfield tag="008">      |           ||||||||||||||||||||| </marc:controlfield>
+   <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">AGL</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="h">[electronic resource].</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a"/>
+   </marc:datafield>
+  
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a"/>
+   </marc:datafield>
+  
+  
+  
+  
+  
+   <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">By transforming variables it is possible to introduce non-linear terms to the mathematical framework of linear regression. The purpose of this article is to stress the importance of transforming data in the context of linear regression analysis. However, often problems arise when people unfamiliar with mathematical statistics attempt to put this theory into practice for a certain application. Reasons for making transformations, probability plots and normality, transformations to simplify relationships, and weighting transformation data are covered in this paper. Special attention has also been paid to the Box-Cox method, i.e., transformation based on sample data observations, which is very easy to apply in practice despite its mathematical background. Statistical measurements are also re-expressed after data transformation, and a number of applications concerning the use of transformation and variance stabilization in analytical chemistry are given in tabular form. The analytical, pharmaceutical, biochemical, and clinical literature has been thoroughly revised. Variance analysis and applications on fitting straight lines with replicated observations by linear regression will be the subject of the later paper of the series.</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">p. .</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="773" ind1="0" ind2=" ">
+      <marc:subfield code="7">nnas</marc:subfield>
+   </marc:datafield>
+  
+   <marc:datafield tag="024" ind1="7" ind2=" ">
+      <marc:subfield code="a">10.1080/10408347.2010.523589</marc:subfield>
+      <marc:subfield code="2">doi</marc:subfield>
+   </marc:datafield>
+  
+  
+
+</marc:record>

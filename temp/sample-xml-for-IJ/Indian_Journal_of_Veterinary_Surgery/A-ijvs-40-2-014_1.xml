@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJVS</journal-id>
+         <journal-title>Indian Journal of Veterinary Surgery</journal-title>
+         <issn pub-type="ppub">0254-4105</issn>
+         <issn pub-type="epub">0973-9726</issn>
+         <publisher>
+            <publisher-name>Indian Society for Veterinary Surgery</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijvs-40-2-014</article-id>
+         <title-group>
+            <article-title>Minimally invasive percutaneous osteosynthesis for tibial fracture repair in goats</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Akalya</surname>
+                  <given-names>A.V.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1,</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Kumaresan</surname>
+                  <given-names>A.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Dharmaceelan</surname>
+                  <given-names>S.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff003">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Arulmozhi</surname>
+                  <given-names>A.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff004">
+                  <sup>4</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff>
+            <instname>Tamil Nadu University of Veterinary and Animal Sciences</instname>, <instcity>Chennai</instcity>-<instpincode>600 051</instpincode> (<inststate>TN</inststate>)</aff>
+         <aff id="aff001">
+            <sup>1</sup>PG Scholar, <deptname>Department of Veterinary Surgery and Radiology</deptname>
+         </aff>
+         <aff id="aff002">
+            <sup>2</sup>Assistant professor, <deptname>Department of Veterinary Surgery and Radiology</deptname>
+         </aff>
+         <aff id="aff003">
+            <sup>3</sup>Professor and Head, <deptname>Department of Veterinary Surgery and Radiology</deptname>
+         </aff>
+         <aff id="aff004">
+            <sup>4</sup>Assistant Professor, <deptname>Department of Veterinary Pathology</deptname>, <instname>Veterinary College and Research Institute</instname>, <instcity>Namakkal</instcity>-<instpincode>637002</instpincode> (<inststate>TN</inststate>)</aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding author; E-mail: <email>akalyavet@gmail.com</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 28 May, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>12</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>40</volume>
+         <issue>2</issue>
+         <fpage>134</fpage>
+         <lpage>135</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>Diaphyseal fractures of tibia were treated with minimally invasive plate osteosynthesis technique using Locking Compression Plate (LCP) under general anaesthesia in 3 goats. The plates used were 3.5 mm LCP with 12–18 mm screws in the goats weighing 18.3–21.4 kg. The clinical, radiological and histopathological evaluation revealed uneventful fracture healing with secondary callus formation in all the animals. The technique and implants were found adequate to provide stable fixation without any intraoperative and postoperative complications.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Diaphyseal fracture</kwd>
+            <kwd>Goat</kwd>
+            <kwd>Locking Compression Plate</kwd>
+            <kwd>MIPO</kwd>
+            <kwd>Tibia</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="2"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

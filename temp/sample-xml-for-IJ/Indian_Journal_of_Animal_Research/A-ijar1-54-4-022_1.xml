@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJAR1</journal-id>
+         <journal-title>Indian Journal of Animal Research</journal-title>
+         <issn pub-type="ppub">0367-6722</issn>
+         <issn pub-type="epub">0976-0555</issn>
+         <publisher>
+            <publisher-name>Agricultural Research Communication Centre</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijar1-54-4-022</article-id>
+         <doi-group>
+            <article-doi>
+               <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                         ext-link-type="uri"
+                         xlink:href="http://dx.doi.org/10.18805/ijar.B-3795">10.18805/ijar.B-3795</ext-link>
+            </article-doi>
+         </doi-group>
+         <article-categories>
+            <subj-group>
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Genetic polymorphism in <italic>IGF-1</italic> gene in four sheep and goat breeds and its association with biometrical traits in migratory Gaddi goat breed of western Himalayan state of Himachal Pradesh, India</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Sankhyan</surname>
+                  <given-names>Varun</given-names>
+               </name>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Thakur</surname>
+                  <given-names>Y.P.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Dogra</surname>
+                  <given-names>P.K.</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <aff>
+            <deptname>Department of Animal Genetics and Breeding</deptname>, <instname>College of Veterinary and Animal Husbandry</instname>, <instparent>CSK Himachal Pradesh Krishi Vishvavidyalaya</instparent>, <instcity>Palampur</instcity>-<instpincode>176 062</instpincode>, <inststate>Himachal Pradesh</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <aff id="aff001">
+            <sup>1</sup>
+            <deptname>Department of Livestock Production Management</deptname>, <instname>COVAS</instname>, <instparent>CSKHPKV</instparent> <instcity>Palampur</instcity>-<instpincode>176 062</instpincode>, <inststate>Himachal Pradesh</inststate>, <instcountry>India</instcountry>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding Author: Varun Sankhyan, <deptname>Department of Animal Genetics and Breeding</deptname>, <instname>College of Veterinary and Animal Husbandry</instname>, <instparent>CSK Himachal Pradesh Krishi Vishvavidyalaya</instparent>, <instcity>Palampur</instcity>-<instpincode>176 062</instpincode>, <inststate>Himachal Pradesh</inststate>, <instcountry>India</instcountry>. Email: <email>sankhyan@gmail.com</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 23 May, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>4</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>54</volume>
+         <issue>4</issue>
+         <fpage>508</fpage>
+         <lpage>512</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>Sheep and goat production is a predominant livestock activity in harsh climatic regions of the country particularly in hilly areas. The goat and sheep population in Himachal Pradesh is 1.12 and 0.81 million respectively. Gaddi and Rampur-Bushair are the two indigenous sheep breeds of the state well adapted to the prevalent migratory production system. The somatotrophic axis (GH/IGF-I axis) is considered as the key in postnatal growth and metabolism in different mammals including farm animals. The technique of PCR-RFLP was used to analyze polymorphism of IGF-1 gene in sheep and goat breeds of Himachal Pradesh and to study association with body measurements in Gaddi goats. For polymorphism studies, genomic DNA was isolated from 63, 68, 197 and 73 animals belonging to Gaddi sheep, Rampur-Bushair sheep, Gaddi goat and Chegu goats, respectively. PCR amplification of IGF-1 yielded 363 bp amplicon. The PCR-RFLP digestion of amplified products with HaeIII revealed three fragments of 363 bp, 264 bp and 99 bp after digestion. Allele frequencies for A allele were 0.66 0.59, 0.65 and 0.70 and for B allele were 0.34, 0.41, 0.35 and 0.20 in Gaddi sheep, Rampur-Bushair sheep, Gaddi goat and Chegu goat, respectively. The frequency of AA, AB and BB genotypes ranged from 0.38 to 0.55, 0.30 to 0.42 and 0.14 to 0.19 in different breeds studied. The N<sub>e</sub>, H<sub>obs</sub> and Hexp ranged from 1.80 to 1.99, 0.30 to 0.43, 0.42 to 0.48 and 0.33 to 0.37, respectively in different populations. The PIC revealed median level of polymorphism in studied breeds. Alignment of sequences also confirmed presence of C/G substitution at 264 bp. Nucleotide variability was found at 17 places between different breeds. Genetic variability was detected among all four breeds studied, however no significant association could be detected in Gaddi goats.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Genetic polymorphism</kwd>
+            <kwd>IGF-1 gene</kwd>
+            <kwd>Migratory system</kwd>
+            <kwd>Small ruminants</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="5"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

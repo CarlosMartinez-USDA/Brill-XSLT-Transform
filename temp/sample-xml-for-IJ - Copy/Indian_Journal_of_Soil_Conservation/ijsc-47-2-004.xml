@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJSC</journal-id>
+      <journal-title>Indian Journal of Soil Conservation</journal-title>
+      <issn pub-type="ppub">0970-3349</issn>
+      <issn pub-type="epub">0976-1721</issn>
+      <publisher>
+        <publisher-name>Indian Associations of Soil &amp; Water Conservationists</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijsc-47-2-004</article-id>
+      <title-group>
+        <article-title>Effect of different mulches on soil moisture conservation and yield of drip irrigated watermelon</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pawar</surname>
+            <given-names>P.S.</given-names>
+          </name>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kadale</surname>
+            <given-names>A.S.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gadade</surname>
+            <given-names>G.D.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <instname>College of Agricultural Engineering and Technology</instname>, <instparent>Vasantrao Naik Marathwada Krishi Vidyapeeth</instparent>, <instcity>Parbhani</instcity>-<instpincode>431402</instpincode>, <inststate>Maharashtra</inststate></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding author: E-mail: <email>pspawar71@gmail.com</email> (P.S. Pawar)</corresp>
+        <fn>
+          <p>
+            <bold>Online published on 9 April, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>8</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>2</issue>
+      <fpage>134</fpage>
+      <lpage>142</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>The field experiment was conducted on watermelon (Citrullus lanatus) cv. Kiran in summer season during two consecutive years viz., 2015 and 2016. The field experiment was laid out in split plot design, wherein main plots were assigned to three irrigation levels based on daily pan evaporation data (I1-drip irrigation at 60% of pan evaporation, I2-drip irrigation at 80% of pan evaporation and I 3-drip irrigation at 100% of pan evaporation) and sub plots to four mulches (BPM-Black polythene mulch, TPM-Transparent polythene mulch, SSM-Soybean straw mulch and C-Control, without mulch). Among the mulches, BPM was found to be more effective for conserving soil moisture (9.27% and 11.27%) followed by TPM (6.52% and 9.96%) and SSM (4.81% and 5.33%) over the control in 2015 and 2016, respectively. The total seasonal water use of drip-irrigated watermelon varied from 515.5 mm to 780.5 mm in 2015, and 525.8 mm to 798.8 mm in 2016. Yield of watermelon in BPM was 28.90 t ha<sup>−1</sup>, which was significantly higher (P &lt; 0.05) as compared to other mulches and no mulch. As regard to mulches, the highest B: C ratio (2.07 and 1.71) was observed in BPM treatment followed by TPM (1.81 and 1.49) and SSM (1.73 and 1.46) during 2015 and 2016, respectively. The lowest B: C ratio (1.65 and 1.28) was observed in control. In conclusion, drip irrigation in combination with plastic mulch, especially black mulch, is recommended as more effective method in improving water use efficiency (WUE) and increasing crop yield of watermelon in Marathwada region.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Drip irrigation Soil moisture Straw mulch Mulching Watermelon</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="9" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

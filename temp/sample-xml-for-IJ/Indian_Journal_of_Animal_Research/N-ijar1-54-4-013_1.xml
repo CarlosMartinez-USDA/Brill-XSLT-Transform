@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Comparative Study of Ultrasonographic Features of Abomasum in Cattle and Buffaloes Suffering from Various Gastrointestinal Tract Disorders</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Harmanpreet Singh</namePart>
+      <namePart type="family">Sodhi</namePart>
+      <displayForm>Sodhi, Harmanpreet Singh</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jitender</namePart>
+      <namePart type="family">Mohindroo</namePart>
+      <displayForm>Mohindroo, Jitender</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sashikant</namePart>
+      <namePart type="family">Mahajan</namePart>
+      <displayForm>Mahajan, Sashikant</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Pallavi</namePart>
+      <namePart type="family">Verma</namePart>
+      <displayForm>Verma, Pallavi</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Opinder</namePart>
+      <namePart type="family">Singh</namePart>
+      <displayForm>Singh, Opinder</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The present study was conducted on 40 clinical cases of bovine (10 cattle, 30 buffaloes) to ultrasonographically evaluate the position of abomasum in relation to anatomical landmarks in cattle and buffaloes suffering from various gastrointestinal tract (GIT) affections. Animals were divided into five groups viz. foreign body syndrome (n=14), faecolith (n=6), caecal im7paction (n=5), reticular abscess (n=2) and diaphragmatic hernia (n=13) as per disease condition confirmed upon ultrasonography and surgical findings. Ultrasonographically, the distance from caudal most aspect of wither at dorsal spine to dorsal most aspect of abomasum, distance from xiphoid to cranial most aspect of abomasum, distance from mid of umblicus to caudal most aspect of abomasum and distance from ventral midline to ventral most aspect of abomasum was recorded to evaluate the size of abomasum. The ultrasonographic findings were correlated with intra-operative findings. It was concluded that the size of abomasum is significantly reduced in animals suffering from caecal impaction while the size of abomasum was significantly increased in animals suffering from faecolith and was comparable in animals suffering from diaphragmatic hernia, foreign body syndrome and reticular abscess. The location of pylorus was not significantly altered in any disease condition.</abstract>
+   <subject>
+      <topic>Abomasum</topic>
+   </subject>
+   <subject>
+      <topic>Buffalo</topic>
+   </subject>
+   <subject>
+      <topic>Cattle</topic>
+   </subject>
+   <subject>
+      <topic>Gastrointestinal affection</topic>
+   </subject>
+   <subject>
+      <topic>Position</topic>
+   </subject>
+   <subject>
+      <topic>Ultrasonography</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>4</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>462</start>
+            <end>467</end>
+            <total>6</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-4-013</identifier>
+   <identifier type="doi">10.18805/ijar.B-3783</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-3783</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-4-013</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-4-013.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Synthesis and Characterization of Functionalized Multi-walled Carbon
+         Nanotubes/Exfoliated Layered Double Hydroxide Nanosheets Hybrids via Electrostatic
+         Force</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart type="given">Zhi</namePart>
+    <namePart type="family">Qiao</namePart>
+    <affiliation>College of Chemistry and Material Science, Shandong Agricultural
+               University, Taian, 271018, Shandong, People’s Republic of China, </affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Chunfeng</namePart>
+    <namePart type="family">Gao</namePart>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Bing</namePart>
+    <namePart type="family">Sun</namePart>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Shiyun</namePart>
+    <namePart type="family">Ai</namePart>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre>article</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>In this paper, functionalized multi-walled carbon nanotubes (F-MWCNTs) were prepared
+         through grafting melamine and 4, 4′-diphenylether dicarboxylic acid in proper sequence. The
+         F-MWCNTs were combined with exfoliated Zn–Al layered double hydroxide (LDH) nanosheets via
+         electrostatic force to form three-dimensional (3D) hybrids. The structural characteristics
+         of the 3D hybrid composites were investigated by X-ray diffraction, transmission electron
+         microscopy, Fourier transform infrared spectroscopy and thermogravimetric analysis (TGA).
+         It was found that F-MWCNTs were successfully combined with exfoliated LDH. TGA results
+         demonstrated that the thermal stability of F-MWCNTs/exfoliated LDH nanosheets hybrids was
+         decreased but the 3D hybrids produced a large amount of char.</abstract>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>J Inorg Organomet Polym</title>
+    </titleInfo>
+    <originInfo>
+      <publisher>Springer-Verlag</publisher>
+    </originInfo>
+    <identifier type="issn">1574-1443</identifier>
+    <part>
+      <detail type="volume">
+        <number>23</number>
+        <caption>v.</caption>
+      </detail>
+      <detail type="issue">
+        <number>4</number>
+        <caption>no.</caption>
+      </detail>
+      <extent unit="pages">
+        <start>871</start>
+        <end>876</end>
+      </extent>
+      <text type="year">2013</text>
+      <text type="month">7</text>
+    </part>
+  </relatedItem>
+  <identifier type="doi">10.1007/s10904-013-9854-5</identifier>
+  <location>
+    <url>http://dx.doi.org/10.1007/s10904-013-9854-5</url>
+  </location>
+  <extension>
+    <vendorName/>
+    <archiveFile>../sampleXML/Springer_pubmed.xml</archiveFile>
+  </extension>
+</mods>

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher">IJAR1</journal-id>
+      <journal-title>Indian Journal of Animal Research</journal-title>
+      <issn pub-type="ppub">0367-6722</issn>
+      <issn pub-type="epub">0976-0555</issn>
+      <publisher>
+        <publisher-name>Agricultural Research Communication Centre</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">ijar1-54-3-003</article-id>
+      <doi-group>
+        <article-doi>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.18805/ijar.B-3767">10.18805/ijar.B-3767</ext-link>
+        </article-doi>
+      </doi-group>
+      <article-categories>
+        <subj-group>
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Novel SNP identified in HSBP1 gene and its association with thermal tolerance traits in Murrah buffalo</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Saikia</surname>
+            <given-names>J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff001">
+            <sup>1,</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor001">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Verma</surname>
+            <given-names>A.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gupta</surname>
+            <given-names>I.D.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hazarika</surname>
+            <given-names>D.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff002">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Deshmukh</surname>
+            <given-names>B.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff003">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Das</surname>
+            <given-names>R.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff004">
+            <sup>4</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <deptname>Dairy Cattle Breeding Division</deptname>, <instname>ICAR-National Dairy Research Institute</instname>, <instcity>Karnal</instcity>-<instpincode>132 001</instpincode>, <inststate>Haryana</inststate>, <instcountry>India</instcountry></aff>
+      <aff id="aff001">
+        <sup>1</sup>
+        <instname>College of Veterinary Science</instname>, <instparent>Assam Agricultural University</instparent>, <instcity>Guwahati</instcity>-<instpincode>781 022</instpincode>, <inststate>Assam</inststate>, <instcountry>India</instcountry></aff>
+      <aff id="aff002">
+        <sup>2</sup>
+        <instname>Krishi Vigyan Kendra</instname>, <instaddress>Lower Dibang Valley</instaddress>, <instcity>Roing</instcity>-<instpincode>792 110</instpincode>, <inststate>Arunachal Pradesh</inststate>, <instcountry>India</instcountry></aff>
+      <aff id="aff003">
+        <sup>3</sup>
+        <instname>Guru Anand Dev Veterinary and Animal Science University</instname>, <instcity>Ludhiana</instcity>-<instpincode>141 012</instpincode>, <inststate>Punjab</inststate>, <instcountry>India</instcountry></aff>
+      <aff id="aff004">
+        <sup>4</sup>
+        <deptname>Animal Resource Development Department</deptname>, <instcity>West Tripura</instcity>-<instpincode>799 006</instpincode>, <inststate>Tripura</inststate>, <instcountry>India</instcountry></aff>
+      <author-notes>
+        <corresp id="cor001">*Corresponding Author: J. Saikia, <instname>College of Veterinary Science</instname>, <instparent>Assam Agricultural University</instparent>, <instcity>Guwahati</instcity>-<instpincode>781 022</instpincode>, <inststate>Assam</inststate>, <instcountry>India</instcountry>. Email: <email>gsaikia123@gmail.com</email></corresp>
+        <fn>
+          <p>
+            <bold>Online published on 8 April, 2020</bold>.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>3</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>54</volume>
+      <issue>3</issue>
+      <fpage>282</fpage>
+      <lpage>285</lpage>
+      <abstract>
+        <title>Abstract</title>
+        <p>Heat shock response (HSR) is a universal mechanism in all organisms upon heat shock (HS) to prevent stress damages. It is under tight regulation by heat shock factors (HSFs) and heat shock proteins (HSPs). On the attenuation of HSR, Heat Shock Factor Binding Protein1 (HSBP1) interacts with HSF1 and thus converting the active trimer form of HSF1 to inert monomer state. Thus, play an important role in regulating heat shock genes. The present study aimed to explore single nucleotide polymorphism (SNP) in HSBP1 and their association with the thermo tolerance traits (respiration rate, rectal temperature and heat tolerance coefficient) for identification of most thermal adapted Murrah buffaloes. Two hundred female Murrah buffaloes were genotyped using custom sequencing to identify SNP. Only one novel SNPs in exon 3 at position g.1892C&gt;T and two nucleotide variation g.1327C&gt;G and g.1202C&gt;T were identified through direct DNA sequence scanning. Homozygous wild type genotypes (CC) were found in higher frequency (0.84, n=168) than homozygous recessive (0.10, n=20) and heterozygous (0.06, n=12) mutant genotypes at SNP locus g.1892C&gt;T. The association among the different genotype of this SNP locus with thermo tolerance was analyzed using Generalized Linear Model procedure in Statistical Analysis System. However, no significant difference was detected among the genotypes in terms of thermo tolerance traits in the study.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>Heat shock</kwd>
+        <kwd>HSBP1</kwd>
+        <kwd>Milk yield</kwd>
+        <kwd>SNP</kwd>
+        <kwd>Thermo tolerance traits</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="4" />
+      </counts>
+    </article-meta>
+  </front>
+  <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>

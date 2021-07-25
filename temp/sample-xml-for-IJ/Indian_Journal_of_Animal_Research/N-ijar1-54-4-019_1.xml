@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.7"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <titleInfo>
+      <title>Locomotor activity analysis based on habitat, season and time of the day in Polish Konik horses from reserve breeding using the Global Positioning System (GPS)</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">R.</namePart>
+      <namePart type="family">Pikula</namePart>
+      <displayForm>Pikula, R.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">D.</namePart>
+      <namePart type="family">Zaborski</namePart>
+      <displayForm>Zaborski, D.</displayForm>
+      <affiliation>Department of Ruminants Science, West Pomeranian University of Technology, Szczecin-71270, Poland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">W.</namePart>
+      <namePart type="family">Grzesiak</namePart>
+      <displayForm>Grzesiak, W.</displayForm>
+      <affiliation>Department of Ruminants Science, West Pomeranian University of Technology, Szczecin-71270, Poland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.</namePart>
+      <namePart type="family">Smugala</namePart>
+      <displayForm>Smugala, M.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre>article</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="text">English</languageTerm>
+   </language>
+   <abstract>The aim of the present study was to analyze the locomotor activity of horses living under near-natural conditions using the Global Positioning System (GPS). The study was conducted on the pack of 15 Polish Konik horses in 2018. Three habitats (forest, meadows and hay), two seasons (winter and spring) and four times of the day were distinguished. Significant effects of habitat (p&gt;0.0000) and time of the day (p&gt;0.0000) on locomotor activity were found. In addition, a significant influence of the interactions between habitat and season as well as habitat and time of the day was observed. It can be concluded that the basic factor affecting the locomotor activity of Polish Konik horses kept under the reserve system was the availability of the feed base.</abstract>
+   <subject>
+      <topic>GPS</topic>
+   </subject>
+   <subject>
+      <topic>Habitat</topic>
+   </subject>
+   <subject>
+      <topic>Horses</topic>
+   </subject>
+   <subject>
+      <topic>Locomotor activity</topic>
+   </subject>
+   <subject>
+      <topic>Season</topic>
+   </subject>
+   <subject>
+      <topic>Time</topic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Indian Journal of Animal Research</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Agricultural Research Communication Centre</publisher>
+      </originInfo>
+      <identifier type="issn-p">0367-6722</identifier>
+      <identifier type="issn-e">0976-0555</identifier>
+      <identifier type="issn">0976-0555</identifier>
+      <part>
+         <detail type="volume">
+            <number>54</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>4</number>
+            <caption>no.</caption>
+         </detail>
+         <text type="year">2020</text>
+         <text type="month">04</text>
+         <extent unit="pages">
+            <start>494</start>
+            <end>498</end>
+            <total>5</total>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="indian-journals">ijar1-54-4-019</identifier>
+   <identifier type="doi">10.18805/ijar.B-1072</identifier>
+   <location>
+      <url>http://dx.doi.org/10.18805/ijar.B-1072</url>
+   </location>
+   <extension>
+      <archiveFile>ijar1-54-4-019</archiveFile>
+      <originalFile>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/ijar1-54-4-019.xml</originalFile>
+      <workingDirectory>file:/U:/ISD-APPS-PubData/AMB-Metadata-Team-master/temp/sample-xml-for-IJ/Indian_Journal_of_Animal_Research/</workingDirectory>
+   </extension>
+</mods>

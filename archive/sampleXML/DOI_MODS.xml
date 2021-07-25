@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+  <titleInfo>
+    <title>Making sense of coproduction</title>
+    <subTitle>What is it good for</subTitle>
+  </titleInfo>
+  <name usage="primary" type="personal">
+    <namePart type="given">Gabrielle</namePart>
+    <namePart type="family">Roesch-McNally</namePart>
+    <displayForm>Roesch-McNally, Gabrielle</displayForm>
+    <affiliation>Northwest Climate Hub</affiliation>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Holly R.</namePart>
+    <namePart type="family">Prendeville</namePart>
+    <displayForm>Prendeville, Holly R.</displayForm>
+    <affiliation>Northwest Climate Hub</affiliation>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre>report paper</genre>
+  <originInfo>
+    <publisher>US Forest Service, Pacific Northwest Research Station</publisher>
+    <place>
+      <placeTerm type="code" authority="marccountry">us</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">United States</placeTerm>
+    </place>
+    <dateIssued encoding="w3cdtf">2017-10</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <identifier type="doi">10.32747/2017.6592657.ch</identifier>
+  <location>
+    <url>https://www.climatehubs.oce.usda.gov/sites/default/files/PNW-HT-001.pdf</url>
+  </location>
+  <extension>
+    <note type="note">Climate Hubs</note>
+  </extension>
+  <physicalDescription>
+    <extent>4 pages</extent>
+  </physicalDescription>
+</mods>

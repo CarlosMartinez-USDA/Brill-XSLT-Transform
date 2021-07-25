@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Major Structural Differences and Novel Potential Virulence Mechanisms from the Genomes of Multiple Campylobacter Species</title>
+    <title type="alternative">Sequencing of Four Campylobacter Species</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart type="given">Derrick E</namePart>
+    <namePart type="family">Fouts</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Emmanuel F</namePart>
+    <namePart type="family">Mongodin</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Robert E</namePart>
+    <namePart type="family">Mandrell</namePart>
+    <affiliation>Produce Safety and Microbiology Research Unit, Agricultural Research Service,
+          United States Department of Agriculture, Albany, California, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">William G</namePart>
+    <namePart type="family">Miller</namePart>
+    <affiliation>Produce Safety and Microbiology Research Unit, Agricultural Research Service,
+          United States Department of Agriculture, Albany, California, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">David A</namePart>
+    <namePart type="family">Rasko</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Jacques</namePart>
+    <namePart type="family">Ravel</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Lauren M</namePart>
+    <namePart type="family">Brinkac</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Robert T</namePart>
+    <namePart type="family">DeBoy</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Craig T</namePart>
+    <namePart type="family">Parker</namePart>
+    <affiliation>Produce Safety and Microbiology Research Unit, Agricultural Research Service,
+          United States Department of Agriculture, Albany, California, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Sean C</namePart>
+    <namePart type="family">Daugherty</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Robert J</namePart>
+    <namePart type="family">Dodson</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">A. Scott</namePart>
+    <namePart type="family">Durkin</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Ramana</namePart>
+    <namePart type="family">Madupu</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Steven A</namePart>
+    <namePart type="family">Sullivan</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Jyoti U</namePart>
+    <namePart type="family">Shetty</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Mobolanle A</namePart>
+    <namePart type="family">Ayodeji</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Alla</namePart>
+    <namePart type="family">Shvartsbeyn</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Michael C</namePart>
+    <namePart type="family">Schatz</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Jonathan H</namePart>
+    <namePart type="family">Badger</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Claire M</namePart>
+    <namePart type="family">Fraser</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Karen E</namePart>
+    <namePart type="family">Nelson</namePart>
+    <affiliation>The Institute for Genomic Research, Rockville, Maryland, United States of
+          America</affiliation>
+    <role>
+      <roleTerm type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">David A.</namePart>
+    <namePart type="family">Relman</namePart>
+    <affiliation>Stanford University, United States of America</affiliation>
+    <role>
+      <roleTerm type="text">Academic Editor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre>article</genre>
+  <originInfo>
+    <dateIssued encoding="w3cdtf" keyDate="yes">2005-01-04</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <abstract>Sequencing and comparative genome analysis of four strains of Campylobacter including C. lari RM2100, C. upsaliensis RM3195, and C. coli RM2228 has revealed major structural differences that are associated with the insertion of phage- and plasmid-like genomic islands, as well as major variations in the lipooligosaccharide complex. Poly G tracts are longer, are greater in number, and show greater variability in C. upsaliensis than in the other species. Many genes involved in host colonization, including racR/S, cadF, cdt, ciaB, and flagellin genes, are conserved across the species, but variations that appear to be species specific are evident for a lipooligosaccharide locus, a capsular (extracellular) polysaccharide locus, and a novel Campylobacter putative licABCD virulence locus. The strains also vary in their metabolic profiles, as well as their resistance profiles to a range of antibiotics. It is evident that the newly identified hypothetical and conserved hypothetical proteins, as well as uncharacterized two-component regulatory systems and membrane proteins, may hold additional significant information on the major differences in virulence among the species, as well as the specificity of the strains for particular hosts.</abstract>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>PLoS Biology</title>
+    </titleInfo>
+    <originInfo>
+      <publisher>Public Library of Science</publisher>
+    </originInfo>
+    <identifier type="issn-p">1544-9173</identifier>
+    <identifier type="issn-e">1545-7885</identifier>
+    <identifier type="issn">1545-7885</identifier>
+    <identifier type="vendor">plos</identifier>
+    <part>
+      <detail type="volume">
+        <number>3</number>
+        <caption>v.</caption>
+      </detail>
+      <detail type="issue">
+        <number>1</number>
+        <caption>no.</caption>
+      </detail>
+      <text type="year">2005</text>
+      <text type="month">1</text>
+    </part>
+  </relatedItem>
+  <identifier type="doi">10.1371/journal.pbio.0030015</identifier>
+  <location>
+    <url>http://dx.doi.org/10.1371/journal.pbio.0030015</url>
+  </location>
+  <identifier type="elocation-id">e15</identifier>
+  <extension>
+    <vendorName>PLOS</vendorName>
+    <archiveFile>sample.zip</archiveFile>
+  </extension>
+</mods>

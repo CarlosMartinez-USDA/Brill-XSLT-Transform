@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v1.1 20031101//EN" "https://dtd.nlm.nih.gov/archiving/1.1/archivearticle.dtd">
+<article>
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher">IJAR2</journal-id>
+         <journal-title>Indian Journal of Agricultural Research</journal-title>
+         <issn pub-type="ppub">0367-8245</issn>
+         <issn pub-type="epub">0976-058X</issn>
+         <publisher>
+            <publisher-name>Agricultural Research Communication Centre</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="other">ijar2-54-2-001</article-id>
+         <doi-group>
+            <article-doi>
+               <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                         ext-link-type="uri"
+                         xlink:href="http://dx.doi.org/10.18805/IJARe.A-487">10.18805/IJARe.A-487</ext-link>
+            </article-doi>
+         </doi-group>
+         <article-categories>
+            <subj-group>
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Genetic Diversity Analysis in Chickpea (<italic>Cicer arietinum</italic> L) Genotypes Grown in Northwestern Algeria using Microsatellite Markers (SSR)</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Amina</surname>
+                  <given-names>Bouri</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1,</sup>
+               </xref>
+               <xref ref-type="aff" rid="aff002">
+                  <sup>2,</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor001">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Rida</surname>
+                  <given-names>Mediouni Mohammed</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1,</sup>
+               </xref>
+               <xref ref-type="aff" rid="aff003">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Abdelkader</surname>
+                  <given-names>Ameur Ameur</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1,</sup>
+               </xref>
+               <xref ref-type="aff" rid="aff003">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Sripada</surname>
+                  <given-names>Udupa</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff004">
+                  <sup>4</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Semir</surname>
+                  <given-names>Gaouar Souheil Bechir</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff001">
+                  <sup>1,</sup>
+               </xref>
+               <xref ref-type="aff" rid="aff003">
+                  <sup>3,</sup>
+               </xref>
+               <xref ref-type="aff" rid="aff005">
+                  <sup>5</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff001">
+            <sup>1</sup>
+            <deptname>Laboratory of Physiology, Physiopathology and Biochemistry of Nutrition (PPABIONUT), Faculty of Natural and Life Sciences, Earth and Universe</deptname>, <instname>Abou-Bekr Belkaid University</instname>. <instaddress>22, Rue Abi Ayad Abdelkrim, Fg Pasteur B.P 119</instaddress>, <instcity>Tlemcen</instcity>, <instpincode>13000</instpincode>, <instcountry>Algeria</instcountry>
+         </aff>
+         <aff id="aff002">
+            <sup>2</sup>
+            <deptname>Department of Agronomy, Faculty of of Natural and Life Sciences, Earth and Universe</deptname>, <instname>Abou-Bekr Belkaid University</instname>. <instcity>Tlemcen</instcity>, <instpincode>13000</instpincode>, <instcountry>Algeria</instcountry>
+         </aff>
+         <aff id="aff003">
+            <sup>3</sup>
+            <deptname>Department of Biology, Faculty of Natural and Life Sciences, Earth and Universe</deptname>, <instname>Abou-Bekr Belkaid University</instname>, <instcity>Tlemcen</instcity>, <instpincode>13000</instpincode>, <instcountry>Algeria</instcountry>
+         </aff>
+         <aff id="aff004">
+            <sup>4</sup>
+            <instname>International centers for Agricultural Research in the Dry Areas (ICARDA)</instname>, <instcountry>Morocco</instcountry>
+         </aff>
+         <aff id="aff005">
+            <sup>5</sup>
+            <deptname>Faculty of Science</deptname>, <instname>Oran University of Science and Technology Mohamed Boudiaf (USTO)</instname>, <instaddress>El Mnaouar, BP 1505</instaddress>, <instcity>Bir El Djir</instcity>, <instpincode>31000</instpincode>, <inststate>Oran</inststate>, <instcountry>Algeria</instcountry>
+         </aff>
+         <author-notes>
+            <corresp id="cor001">*Corresponding Author: Bouri Amina, <deptname>Laboratory of Physiology, Physiopathology and Biochemistry of Nutrition (PPABIONUT), Department of Agronomy, Faculty of Natural and Life Sciences, Earth and Universe</deptname>, <instname>Abou-Bekr Belkaid University</instname>, <instcountry>Algeria</instcountry>. Email: <email>bouri.amina@ymail.com</email>
+            </corresp>
+            <fn>
+               <p>
+                  <bold>Online published on 23 May, 2020</bold>.</p>
+            </fn>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <month>4</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>54</volume>
+         <issue>2</issue>
+         <fpage>129</fpage>
+         <lpage>138</lpage>
+         <abstract>
+            <title>Abstract</title>
+            <p>The present study aimed to characterize a subset of 10 selected chickpea accessions (<italic>Cicer arietinum</italic> L.) using SSR. The result indicated a presence of a total of 59 alleles. The genetic diversity at the 15 microsatellites loci was varied from 0, 32 for TA22 to 0.78 for TA72 and TA117 with an average of 0.66. Polymorphic information content (PIC) values ranged from 0.27 to 0.74. This study also detected a high significant (P &gt; 0.01) positive correlation between alleles per locus, gene diversity (H) and polymorphism information content (PIC). In the dendrogram and on the PCoA bi-plots, chickpea genotypes were adjoined according to their geographic origin, type of chickpea (Kabuli/Desi). Nevertheless, the distribution of the different grouping through the factorial correspondence analysis (AFC) is due to the genetic variability.</p>
+         </abstract>
+         <kwd-group>
+            <title>Keywords</title>
+            <kwd>Chickpea</kwd>
+            <kwd>
+               <italic>Cicer arietinum</italic> L</kwd>
+            <kwd>Genetic diversity</kwd>
+            <kwd>North West of Algeria</kwd>
+            <kwd>SSR</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="10"/>
+         </counts>
+      </article-meta>
+   </front>
+   <!--
+<back>
+<ref-list><title>References</title>
+</ref-list>
+</back>
+-->
+</article>
