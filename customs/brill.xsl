@@ -245,24 +245,25 @@
             <xsl:apply-templates
                 select="/article/front/article-meta/volume[not(@content-type = 'year')]"/>
             <xsl:apply-templates select="/article/front/article-meta/issue"/>
-<!--            <xsl:if test="/article/front/article-meta/pub-date[@publication-format = 'online' and @pub-type='article', not('issued')]">-->
-            <xsl:apply-templates select="/article/front/article-meta/pub-date[@date-type!='issue']"
-                    mode="brill_part"/>
+<!--            <xsl:if test="/article/front/article-meta/pub-date[((@publication-format = 'online' and @pub-type='article', not('issued')]">-->
+            <xsl:apply-templates select="/article/front/article-meta/pub-date[@date-type = 'article'][1] | /article/front/article-meta/pub-date[@publication-format='online'] | /article/front/article-meta/pub-date[@date-type != 'issued']" 
+                mode="brill_part"/>
             <!--</xsl:if>-->
             <xsl:if test="/article/front/article-meta/fpage or /article/front/article-meta/elocation-id or /article/front[1]/article-meta[1]/counts[1]/page-count[1]/@count">
                 <xsl:call-template name="modsPages"/>
             </xsl:if>
         </part>
     </xsl:template>
+    
     <xd:doc>
         <xd:desc>
             <xd:p>The date contained within pub-date[@date-type='article'] is parsed into three
                 metatags representing the month day and year</xd:p>
         </xd:desc>
     </xd:doc>
-    <xsl:template match="/article/front/article-meta/pub-date[@date-type!='issue']"
+    <xsl:template match="/article/front/article-meta/pub-date[@date-type = 'article'][1] | /article/front/article-meta/pub-date[@publication-format='online'] | /article/front/article-meta/pub-date[@date-type != 'issued']" 
         mode="brill_part">
-        <xsl:for-each select="year, month, day, season, string-date">
+         <xsl:for-each select="year, month, day, season, string-date">
             <xsl:choose>
                 <xsl:when test="name() = 'month'">
                     <text type="month">
