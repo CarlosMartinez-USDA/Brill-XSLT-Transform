@@ -8,6 +8,7 @@ A custom stylesheet was created to render valid archival copies of the source do
 
   
 ## Summary of Customizations
+#### New output statement
 1. Added a new output statement directly within the *[brill.xsl](https://github.com/CarlosMtz3/Brill-XSLT-Transform/blob/master/customs/brill.xsl)* in order to correct the both the public and system doctypes. Prior to this correction the metadata provided by Brill was invalid because it was unable to locate MathML. 
 
 > **a. Corrected output statement**
@@ -22,6 +23,8 @@ A custom stylesheet was created to render valid archival copies of the source do
 > '(.`*`/)(.`*`)(\.xml)', '$2')}_{position()}.xml"
 >                 format="archive-original">
 
+
+#### dateIssued tag issues
 2. Originally the `<mods:originInfo/mods:dateIsssued>` template was complex and used apply-templates and modes to achieve a desired result.  From the example files provided this template may be simplified by not capturing metadata from a pub-date element containing an attribute set to "issued".  
 The processing-instruction is set to copy any pub-date element that does not have a date-type attribute set to "issued", (see the example below)   
 
@@ -56,9 +59,19 @@ The processing-instruction is set to copy any pub-date element that does not hav
     	<dateIssued keyDate="yes" encoding="w3cdtf">2020-08-06</dateIssued>
     </originInfo>
 
-3. Similarly, a simplification of the `<mods:part>` element again instructs to not copy metadata from a pub-date element having an date-type attributed set to "issud"   (e.g., **pub-date[@date-type **!=** 'issue'])**
+##### What caused the issue with dateIssued Tags?
+The original template matched pub-date more than once and renders invalid MODS XML due to the inclusion of the @keydate attribute and thus was simplified to match any attribute that did not contain issue as the @date-type attribute (see example below) 
 
-	Thus, allowing any other pub-date elements to be copied and in this case parsed into one of the following **5** metadata tags: **month, day, year, season, and string-date**. 
+
+		e.g., pub-date[@date-type != 'issue']
+
+Unfortunately, the results files did not all contain dateIssued MODS tags, therefore three templates and named template (i.e., "brill_originInfo")  use apply-templates to render dateIssued tags where @publication-format='online' and/or @date-type = article. 
+
+A few Brill files contained only one date having the publication-format='online' and the @date-type='issue' . These files render a dateOther MODS tag.
+
+####	Transforming pub-date to modsPart
+
+4. Thus, allowing any other pub-date elements to be copied and in this case parsed into one of the following **5** metadata tags: **month, day, year, season, and string-date**. 
 
 #### An Example of the `<mods:part>` tag:
 >      <part>
@@ -82,15 +95,14 @@ The processing-instruction is set to copy any pub-date element that does not hav
 
 
 ### Matching Author to Affiliation
-4. This has been a longstanding issue with any JATS to MODS transformation, because each author is given an "aff[@id]" containing a value to match an affiliation's "ref[@rid]  listed below. 
+5. This has been a longstanding issue with any JATS to MODS transformation, because each author is given an "aff[@id]" containing a value to match an affiliation's "ref[@rid]  listed below. 
  
 	 The JATS_to_MODS_30.xsl handles this using many variables and conditions. It can be simplified by using the following XPath expression. 
 
 	**//aff[@id = current()/xref/@rid]**
-
-> **Explained:** The affiliation id (i.e., "*aff[@id]*") is set to correspond and/or match the to affiliation reference listed below (i.e."*xref[@rid]*"), this is achieved by using the *current() function*
-
+> **XPath Explained:** The **affiliation id** (i.e., "*aff[@id]*") is set to correspond and/or match the to affiliation reference listed below (i.e."*xref[@rid]*"). This can be achieved by adding the current( ) function after bracketing the @id attribute as seen here:
+> ** aff[@id=current( )]  **
 5. Similarly if we want to get the corresponding author's email included within  the affiliation, we can employ similar methodology. 
 
 	**//fn[@id = current()/xref/@rid]**
-> **Explained:** In this case “_fn[@id]_” corresponds to “_xref[@rid]_”.
+> **XPath Explained:** In this case “_fn[@id]_” corresponds to “_xref[@rid]_”.
