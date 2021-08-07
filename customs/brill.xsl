@@ -247,7 +247,8 @@
     
     <!--date-type="issue" and @publication-format='online'-->
     <xd:doc scope="component" id="dateOther">
-        <xd:desc/>
+        <xd:desc>Electronic publication date for dateOther element is matched when
+        @publication-format='online' and @date=type='issued' </xd:desc>
     </xd:doc>
     <xsl:template match="pub-date[@date-type='issue' and @publication-format='online']"
         mode="brill_other">
@@ -259,16 +260,15 @@
 <!--Brill modsPart-->
     <xd:doc scope="component" id="brill_modsPart">
         <xd:desc>
-            <xd:p>This template is simplified to use apply-templates from the template that matched
-                date-type="article"</xd:p>
-            <xd:p> invalid MODS sample data produced before modification </xd:p>
+            <xd:p>This template is simplified to use apply-templates from the template that matched @date-type="article"</xd:p>
+            <xd:p></xd:p>
         </xd:desc>
     </xd:doc>
     <xsl:template name="brill_modsPart">
         <part>
             <xsl:apply-templates select="/article/front/article-meta/volume[not(@content-type = 'year')]"/>
             <xsl:apply-templates select="/article/front/article-meta/issue"/>
-            <xsl:apply-templates select="/article/front/article-meta/pub-date[(@date-type = 'article' and @publication-format='online')] | /article/front/article-meta/pub-date[@publication-format='online'] |/article/front/article-meta/pub-date[(@date-type='issue' and @publication-format='online')]"
+            <xsl:apply-templates select="/article/front/article-meta/pub-date[(@date-type = 'article' and @publication-format='online')] | /article/front/article-meta/pub-date[@publication-format='online'] | /article/front/article-meta/pub-date[(@date-type='issue' and @publication-format='online')]"
                 mode="brill_modsPart"/>
             <xsl:if test="/article/front/article-meta/fpage or /article/front/article-meta/elocation-id or /article/front[1]/article-meta[1]/counts[1]/page-count[1]/@count">
                 <xsl:call-template name="modsPages"/>
@@ -277,8 +277,7 @@
     </xsl:template>
     <xd:doc>
         <xd:desc>
-            <xd:p>The date contained within pub-date[@date-type='article'] is parsed into three
-                metatags representing the month day and year</xd:p>
+            <xd:p>The date contained within pub-date[@date-type='article'] is parsed into three to five metatags representing the month day year season or era.xd:p>
         </xd:desc>
     </xd:doc>
     <xsl:template match="//pub-date[(@date-type = 'article' and @publication-format='online')] | //pub-date[@publication-format='online'] | //pub-date[@date-type='issue' and @publication-format='online']"
@@ -301,7 +300,7 @@
     
 
     <xd:doc>
-        <xd:desc/>
+        <xd:desc></xd:desc>
     </xd:doc>
     <xsl:template match="article-id[@pub-id-type='doi']">
         <identifier type="doi">
