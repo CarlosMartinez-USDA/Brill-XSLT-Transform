@@ -15,8 +15,7 @@
     <xsl:import href="../jats_to_mods_30.xsl"/>
     <xsl:output version="1.0" encoding="UTF-8" name="archive-original" method="xml" indent="yes"
         doctype-public="-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN"
-        doctype-system="http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1-mathml3.dtd"
-      />
+        doctype-system="http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1-mathml3.dtd"/>
 
     <xd:doc scope="stylesheet" id="brill">
         <xd:desc>
@@ -143,7 +142,8 @@
         <!-- Get author's ORCID -->
         <xsl:apply-templates select="contrib-id[@contrib-id-type = 'orcid']"/>
         <!-- Using xpath uses the author's id with the current() function to match affiliation to its rid  -->
-        <xsl:for-each select="/article/front/article-meta/contrib-group/aff[@id = current()/xref/@rid]">
+        <xsl:for-each
+            select="/article/front/article-meta/contrib-group/aff[@id = current()/xref/@rid]">
             <xsl:variable name="this">
                 <xsl:apply-templates mode="affiliation"/>
             </xsl:variable>
@@ -152,7 +152,8 @@
             </affiliation>
         </xsl:for-each>
         <!--corresponding author's email-->
-        <xsl:for-each select="/article/front/article-meta/author-notes/fn[@id = current()/xref/@rid]">
+        <xsl:for-each
+            select="/article/front/article-meta/author-notes/fn[@id = current()/xref/@rid]">
             <affiliation>
                 <xsl:apply-templates mode="affiliation"/>
             </affiliation>
@@ -161,126 +162,147 @@
             <roleTerm type="text">author</roleTerm>
         </role>
     </xsl:template>
-    
-    
-    
+
+
+
     <xd:doc scope="component" id="dateIssued">
         <xd:desc>
-            <xd:p><xd:b>Issue:</xd:b>Transforming JATS pub-date to MODS dateIssued elements, thus providing two
-                dateIssued tags with different values, while both containing the keyDate attribute set
-                to "yes"</xd:p>
-            <xd:p><xd:b>Example of issue:</xd:b>The following two dateIssued elements are actual results before customization:</xd:p>
+            <xd:p><xd:b>Issue:</xd:b>Transforming JATS pub-date to MODS dateIssued elements, thus
+                providing two dateIssued tags with different values, while both containing the
+                keyDate attribute set to "yes"</xd:p>
+            <xd:p><xd:b>Example of issue:</xd:b>The following two dateIssued elements are actual
+                results before customization:</xd:p>
             <xd:p>
                 <![CDATA[]
                 <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-30</dateIssued>
                 <dateIssued encoding="w3cdtf" keyDate="yes>2021-07-12</dateIssued>
              ]]>
             </xd:p>
-            <xd:p><xd:b>Customization:</xd:b>Thus new conditional criteria had to be implemented to match only one pub-date element
-                within the source metadata. 
-            </xd:p>
-        </xd:desc>       
+            <xd:p><xd:b>Customization:</xd:b>Thus new conditional criteria had to be implemented to
+                match only one pub-date element within the source metadata. </xd:p>
+        </xd:desc>
     </xd:doc>
-    <xsl:template name="brill_originInfo">       
+    <xsl:template name="brill_originInfo">
         <originInfo>
             <xsl:for-each select="/article/front/article-meta">
                 <xsl:choose>
-                    <xsl:when test="pub-date[(@publication-format = 'online' and @date-type = 'article')]">
-                        <xsl:apply-templates select="pub-date[(@publication-format = 'online' and @date-type = 'article' )] [* except @date-type- = 'issue']"
-                            mode="origin"/>
-                   
-                    </xsl:when> 
-                    <xsl:when test="pub-date[@publication-format='online' and not(@date-type=('issue','article'))]">
-                        <xsl:apply-templates select="pub-date[@publication-format='online']"
-                            mode="e-origin"/>
-                        
+                    <xsl:when
+                        test="pub-date[@publication-format = 'online' and @date-type = 'article']">
+                        <xsl:apply-templates
+                            select="pub-date[@publication-format = 'online' and @date-type = 'article']"
+                            mode="brill_origin"/>
+
                     </xsl:when>
-                    <xsl:when test="pub-date[@date-type='issue' and @publication-format='online']">                   
-                        <xsl:apply-templates select="pub-date[@date-type='issue' and @publication-format='online']"
+                    <xsl:when
+                        test="pub-date[@publication-format = 'online' and not(@date-type = ('issue', 'article'))]">
+                        <xsl:apply-templates
+                            select="pub-date[@publication-format = 'online' and not(@date-type = ('issue', 'article'))]"
+                            mode="e-origin"/>
+
+                    </xsl:when>
+                    <xsl:when
+                        test="pub-date[@date-type = 'issue' and @publication-format = 'online']">
+                        <xsl:apply-templates
+                            select="pub-date[@date-type = 'issue' and @publication-format = 'online']"
                             mode="brill_other"/>
                     </xsl:when>
                     <xsl:otherwise>
                         <dateOther encoding="w3cdtf">
                             <xsl:attribute name="type">
                                 <xsl:choose>
-                                    <xsl:when test="pub-date[@publication-fomrat='print']">
+                                    <xsl:when test="pub-date[@publication-fomrat = 'print']">
                                         <xsl:value-of select="'print'"/>
                                     </xsl:when>
-                                    <xsl:when test="pub-date[@publication-fomrat='online']">
+                                    <xsl:when test="pub-date[@publication-fomrat = 'online']">
                                         <xsl:value-of select="'electronic'"/>
                                     </xsl:when>
                                 </xsl:choose>
                             </xsl:attribute>
-                            <xsl:value-of select="pub-date[string-join((year, f:checkMonthType(month[not(. = '')]), format-number(day[not(. = '')], '00'))[. != 'NaN'], '-')]"/>
+                            <xsl:value-of
+                                select="pub-date[string-join((year, f:checkMonthType(month[not(. = '')]), format-number(day[not(. = '')], '00'))[. != 'NaN'], '-')]"
+                            />
                         </dateOther>
                     </xsl:otherwise>
                 </xsl:choose>
             </xsl:for-each>
         </originInfo>
     </xsl:template>
-    
+
     <!--@publication-format = 'online' and @date-type = 'article'-->
     <xd:doc scope="component" id="dateIssued_origin">
         <xd:desc>
-            <xd:p>Online publication date added as 'dateIssued.' Brill's print publication date contains only the year, as such the online publication is preferred. </xd:p>
-            <xd:p>Checks that 'day' is not 'NaN'. Month function checks that 'month' is present andnot 'null.'</xd:p>
+            <xd:p>Online publication date added as 'dateIssued.' Brill's print publication date
+                contains only the year, as such the online publication is preferred. </xd:p>
+            <xd:p>Checks that 'day' is not 'NaN'. Month function checks that 'month' is present
+                andnot 'null.'</xd:p>
         </xd:desc>
     </xd:doc>
-    <xsl:template
-        match="pub-date[(@publication-format = 'online' and @date-type = 'article' )] [* except @date-type- = 'issue']"
-        mode="origin">
+    <xsl:template match="pub-date[@publication-format = 'online' and @date-type = 'article']"
+        mode="brill_origin">
         <dateIssued encoding="w3cdtf" keyDate="yes">
-            <xsl:value-of select="string-join((year, f:checkMonthType(month[not(. = '')]), format-number(day[not(. = '')], '00'))[. != 'NaN'], '-')"/>
+            <xsl:value-of
+                select="string-join((year, f:checkMonthType(month[not(. = '')]), format-number(day[not(. = '')], '00'))[. != 'NaN'], '-')"
+            />
         </dateIssued>
     </xsl:template>
-    
+
     <!--evaluates true if @publication-format='online'-->
     <xd:doc scope="component" id="dateIssued_e-origin">
         <xd:desc>Electronic publication date as "dateIssued." </xd:desc>
     </xd:doc>
-    <xsl:template match="pub-date[@publication-format='online' and not(@date-type=('issue', 'article'))]"
+    <xsl:template
+        match="pub-date[@publication-format = 'online' and not(@date-type = ('issue', 'article'))]"
         mode="e-origin">
-        <dateOther encoding="w3cdtf" keyDate="yes">
-            <xsl:value-of select="string-join((year, f:checkMonthType(month)[not(. = '')], format-number(day[not(. = '')], '00'))[. != 'NaN'], '-')"/>
-        </dateOther>
+        <dateIssued encoding="w3cdtf" keyDate="yes">
+            <xsl:value-of
+                select="string-join((year, f:checkMonthType(month)[not(. = '')], format-number(day[not(. = '')], '00'))[. != 'NaN'], '-')"
+            />
+        </dateIssued>
     </xsl:template>
-    
+
     <!--date-type="issue" and @publication-format='online'-->
     <xd:doc scope="component" id="dateOther">
         <xd:desc>Electronic publication date for dateOther element is matched when
-        @publication-format='online' and @date=type='issued' </xd:desc>
+            @publication-format='online' and @date=type='issued' </xd:desc>
     </xd:doc>
-    <xsl:template match="pub-date[@date-type='issue' and @publication-format='online']"
+    <xsl:template match="pub-date[@date-type = 'issue' and @publication-format = 'online']"
         mode="brill_other">
         <dateOther encoding="w3cdtf" type="electronic">
-            <xsl:value-of select="string-join((year, f:checkMonthType(month)[not(. = '')], format-number(day[not(. = '')], '00'))[. != 'NaN'], '-')"/>
+            <xsl:value-of
+                select="string-join((year, f:checkMonthType(month)[not(. = '')], format-number(day[not(. = '')], '00'))[. != 'NaN'], '-')"
+            />
         </dateOther>
     </xsl:template>
-    
-<!--Brill modsPart-->
+
+    <!--Brill modsPart-->
     <xd:doc scope="component" id="brill_modsPart">
         <xd:desc>
-            <xd:p>This template is simplified to use apply-templates from the template that matched @date-type="article"</xd:p>
-            <xd:p></xd:p>
+            <xd:p>This template is simplified to use apply-templates from the template that matched
+                @date-type="article"</xd:p>
+            <xd:p/>
         </xd:desc>
     </xd:doc>
     <xsl:template name="brill_modsPart">
         <part>
-            <xsl:apply-templates select="/article/front/article-meta/volume[not(@content-type = 'year')]"/>
+            <xsl:apply-templates
+                select="/article/front/article-meta/volume[not(@content-type = 'year')]"/>
             <xsl:apply-templates select="/article/front/article-meta/issue"/>
-            <xsl:apply-templates select="/article/front/article-meta/pub-date[(@date-type = 'article' and @publication-format='online')] | /article/front/article-meta/pub-date[@publication-format='online'] | /article/front/article-meta/pub-date[(@date-type='issue' and @publication-format='online')]"
-                mode="brill_modsPart"/>
-            <xsl:if test="/article/front/article-meta/fpage or /article/front/article-meta/elocation-id or /article/front[1]/article-meta[1]/counts[1]/page-count[1]/@count">
+            <xsl:apply-templates
+                select="/article/front/article-meta/pub-date[@publication-format = 'online' or @date-type = ('issue', 'article')][1]" mode="brill_modsPart"/>
+            <xsl:if
+                test="/article/front/article-meta/fpage or /article/front/article-meta/elocation-id or /article/front[1]/article-meta[1]/counts[1]/page-count[1]/@count">
                 <xsl:call-template name="modsPages"/>
             </xsl:if>
         </part>
     </xsl:template>
     <xd:doc>
         <xd:desc>
-            <xd:p>The date contained within pub-date[@date-type='article'] is parsed into three to five metatags representing the month day year season or era.xd:p>
+            <xd:p>The date contained within pub-date[@date-type='article'] is parsed into three to
+                five metatags representing the month day year season or era.</xd:p>
         </xd:desc>
     </xd:doc>
-    <xsl:template match="//pub-date[(@date-type = 'article' and @publication-format='online')] | //pub-date[@publication-format='online'] | //pub-date[@date-type='issue' and @publication-format='online']"
+    <xsl:template
+        match="//pub-date[@publication-format = 'online' or @date-type = ('issue', 'article')][1]"
         mode="brill_modsPart">
         <xsl:for-each select="year, month, day, season, string-date">
             <xsl:choose>
@@ -296,13 +318,13 @@
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:for-each>
-    </xsl:template>    
-    
+    </xsl:template>
+
 
     <xd:doc>
-        <xd:desc></xd:desc>
+        <xd:desc/>
     </xd:doc>
-    <xsl:template match="article-id[@pub-id-type='doi']">
+    <xsl:template match="article-id[@pub-id-type = 'doi']">
         <identifier type="doi">
             <xsl:value-of select="."/>
         </identifier>
