@@ -1,11 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE transform [
-         <!ENTITY % htmlmathml-f PUBLIC
-         "-//W3C//ENTITIES HTML MathML Set//EN//XML"
-         "http://www.w3.org/2003/entities/2007/htmlmathml-f.ent"
-       >
-       %htmlmathml-f;
-]>
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
@@ -13,9 +6,7 @@
     xmlns:saxon="http://saxon.sf.net/" xmlns:ali="http://www.niso.org/schemas/ali/1.0/"
     xmlns="http://www.loc.gov/mods/v3" exclude-result-prefixes="xd xs f saxon xlink xsi xml ali">
     <xsl:import href="../jats_to_mods_30.xsl"/>
-    <xsl:output version="1.0" encoding="UTF-8" name="archive-original" method="xml" indent="yes"
-        doctype-public="-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN"
-        doctype-system="http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1-mathml3.dtd"/>
+    
 
     <xd:doc scope="stylesheet" id="brill">
         <xd:desc>
@@ -23,18 +14,18 @@
             <xd:p><xd:b>Authored by:</xd:b> Carlos Martinez</xd:p>
             <xd:p><xd:b>Edited on:</xd:b>Aug 7, 2021</xd:p>  
             <xd:p><xd:b>Edited by:</xd:b>Carlos Martinez</xd:p>
-            <xd:ul>
-                <xd:p>Invalid XML due to usage of wrong document type definition</xd:p>
-                <xd:li>The the following document type definition provided for Brill's metadata renders invalid XML.
-                    <![CDATA[<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">]]></xd:li>
-                <xd:li>Thus the output changes the public and system-id values to <![CDATA[<!DOCTYPE article PUBLIC"-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with MathML3 v1.1 20151215//EN" "JATS-journalpublishing1-mathml3.dtd"]]> to render valid XML
-                    documents.</xd:li>
-            </xd:ul>
-
-            <xd:p>Brill has two pub-dates which render an invalid mods document </xd:p>
-            <xd:p>This stylesheet selects the attribute @date-type="article" </xd:p>
-            <xd:p>Modified modsPart to include date</xd:p>
-            <xd:p>Revised author's name info template to match id path </xd:p>
+     
+            <xd:p>Issue: Brill's metadata rendered two mods originInfo tags</xd:p>
+            <xd:p>Both contained the attribute "keyDate" with the value set to "yes" (e.g., keyDate="yes")</xd:p>
+            <xd:p>Solution: This stylesheet uses the named template
+                <xd:a docid="brill-authors-name-info">"brill-authors-name-info"</xd:a>
+            to choose only one date based on the conditions contained therein.</xd:p>
+            <xd:p>Issue: Similarly 
+                <xd:a  docid="brill_modsPart">the modsPart template</xd:a> XPath expression 
+                matches only one pub-date element </xd:p>
+            <xd:p>The <xd:a docid="brill-authors-name-info">author's name info</xd:a> 
+                template is modified and included below.
+                The changes simplify the author to affiliation pairing</xd:p>
         </xd:desc>
     </xd:doc>
     <xsl:template match="/">
@@ -43,9 +34,10 @@
             format="archive-original">
             <xsl:copy-of select="."/>
         </xsl:result-document>
-        <xsl:result-document method="xml" encoding="UTF-8" indent="yes"
-            href="file:///{$workingDir}N-{replace($originalFilename,'(.*/)(.*)(\.xml)', '$2')}_{position()}.xml">
-            <mods version="3.7">
+        <!-- uncomment lines 47-49 if no N-file is produced
+           <xsl:result-document method="xml" encoding="UTF-8" indent="yes"
+            href="file:///{$workingDir}N-{replace($originalFilename, '(.*/)(.*)(\.xml)', '$2')}_{position()}.xml">-->
+       <mods version="3.7">
                 <xsl:namespace name="xsi">http://www.w3.org/2001/XMLSchema-instance</xsl:namespace>
                 <xsl:attribute name="xsi:schemaLocation"
                     select="normalize-space('http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd')"/>
@@ -94,7 +86,8 @@
                 <xsl:call-template name="extension"/>
 
             </mods>
-        </xsl:result-document>
+        <!--uncomment this lines 99-100 and remove text outside of the tag
+            </xsl:result-document>-->
     </xsl:template>
 
     <xd:doc scope="component" id="contrib">
@@ -279,7 +272,7 @@
         </part>
     </xsl:template>
   
-    <xd:doc scope="component" id="brill_modsPart_">
+    <xd:doc scope="component" id="brill_modsPart">
         <xd:desc>
             <xd:p>The date contained within pub-date[@date-type='article'] is parsed into three to
                 five metatags representing the month day year season or era.</xd:p>
