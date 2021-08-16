@@ -7,6 +7,7 @@
     xmlns="http://www.loc.gov/mods/v3" exclude-result-prefixes="xd xs f saxon xlink xsi xml ali">
     <xsl:import href="../jats_to_mods_30.xsl"/>
 
+
     <xsl:output method="xml" encoding="UTF-8" name="archive-original" version="1.0"
         doctype-public="-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN"
         doctype-system="https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd"/>
@@ -18,26 +19,20 @@
             <xd:p><xd:b>Authored by:</xd:b> Carlos Martinez</xd:p>
             <xd:p><xd:b>Edited on:</xd:b>Aug 7, 2021</xd:p>
             <xd:p><xd:b>Edited by:</xd:b>Carlos Martinez</xd:p>
-            <xd:ul>
-                <xd:p><xd:b>Issues:</xd:b>Required to create valid metadata</xd:p>
-                <xd:li>
-                    <xd:p><xd:b>Issue #1</xd:b>: Brill's metadata uses the <xd:a
-                            href="https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
-                            <xd:i>NISO JATS DTD version 1.1</xd:i></xd:a>. The jats_to_mods.xsl
-                        archive-original result document produces A-file metadata with the incorrect
-                        DTD thus causing the archival copy of the source metadata to render
-                        invalid</xd:p>
-                    <xd:p><xd:b>Solution</xd:b>: Added an output statement containing the system and
+            <xd:ul><xd:p><xd:b>Issues:</xd:b>Required to create valid metadata</xd:p>
+                <xd:li><xd:p><xd:b>Issue #1</xd:b>: Brill's metadata uses the <xd:a href="https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+                <xd:i>NISO JATS DTD version 1.1</xd:i></xd:a>. The jats_to_mods.xsl archive-original result document produces A-file metadata with the incorrect
+                        DTD thus causing the archival copy of the source metadata to render invalid</xd:p>
+          <xd:p><xd:b>Solution</xd:b>: Added an output statement containing the system and
                         public ids to the correct version of the JATS publishing DTD to render valid
                         archival metadata</xd:p>
                 </xd:li>
                 <xd:li>
                     <xd:p><xd:b>Issue #2</xd:b>: Brill's metadata rendered two mods
                             <xd:i>originInfo</xd:i> tags. They both contained the attribute
-                            <xd:i>keyDate</xd:i>" with the value set to "yes" (e.g.,
-                            <xd:i>keyDate</xd:i>="yes")</xd:p>
+                            <xd:i>keyDate</xd:i>" with the value set to "yes" (e.g., <xd:i>keyDate</xd:i>="yes")</xd:p>
                     <xd:p><xd:b>Solution</xd:b>: This stylesheet uses the named template <xd:a
-                            docid="brill_origin">"brill_origin"</xd:a> to choose only one date based
+                            docid="brill_originInfo">"brill_originInfo"</xd:a> to choose only one date based
                         on the conditions contained therein.</xd:p>
                 </xd:li>
                 <xd:li>
@@ -58,18 +53,20 @@
                     an XPath expression to match aff[@id] to xref/@rid using the current() function.
                             <xd:p><xd:i>XPath expression</xd:i>: (e.g.,
                         aff[@id=current()/xref/@rid]) </xd:p></xd:li><xd:li>
-                    <xd:p><xd:b>Enhancement #2</xd:b>: Conditional added to get corresponding author's email if it exists.</xd:p>
+                    <xd:p><xd:b>Enhancement #2</xd:b>: Conditional added to get corresponding
+                        author's email if it exists.</xd:p>
                     <xd:p>Purpose: To provide readers with information needed to correspond with the
                         author. <xd:a docid="brill-authors-name-info"
-                        >"brill-authors-name-info"</xd:a> an similar enhancement was added to
+                            >"brill-authors-name-info"</xd:a> an similar enhancement was added to
                         include the corresponding author's email if it exists. </xd:p>
                     <xd:p><xd:i>XPath Expression:</xd:i> (e.g., fn[@id=current()/xref/@rid]) </xd:p>
                 </xd:li></xd:ul>
         </xd:desc>
     </xd:doc>
     <xsl:template match="/">
-        <xsl:result-document method="xml" encoding="UTF-8" indent="yes" format="archive-original"
-            href="file:///{$workingDir}A-{replace($originalFilename,'(.*/)(.*)(\.xml)', '$2')}_{position()}.xml">
+        <xsl:result-document method="xml" encoding="UTF-8" indent="yes"
+            href="file:///{$workingDir}A-{replace($originalFilename,'(.*/)(.*)(\.xml)', '$2')}_{position()}.xml"
+            format="archive-original">
             <xsl:copy-of select="."/>
         </xsl:result-document>
         <!-- uncomment lines 79-80 if no N-file is produce-->
@@ -90,7 +87,7 @@
                 <typeOfResource>text</typeOfResource>
                 <genre>article</genre>
 
-                <xsl:call-template name="brill_origin"/>
+                <xsl:call-template name="brill_originInfo"/>
 
                 <!-- Default language -->
                 <language>
@@ -131,7 +128,7 @@
     <xd:doc scope="component" id="contrib">
         <xd:desc>If the contributor is a collaborator rather than an individual, format output
             accordingly. If processing the first author in the group, assign an attribute of
-                <xs:b>usage</xs:b> with a value of "primary."</xd:desc>
+                <xd:b>usage</xd:b> with a value of "primary."</xd:desc>
     </xd:doc>
     <xsl:template match="contrib">
         <xsl:choose>
@@ -214,7 +211,7 @@
 
 
 
-    <xd:doc scope="component" id="brill_origin">
+    <xd:doc scope="component" id="brill_originInfo">
         <xd:desc>
             <xd:p><xd:b>Issue:</xd:b>Transforming JATS pub-date to MODS dateIssued elements, thus
                 providing two dateIssued tags with different values, while both containing the
@@ -231,7 +228,7 @@
                 match only one pub-date element within the source metadata. </xd:p>
         </xd:desc>
     </xd:doc>
-    <xsl:template name="brill_origin">
+    <xsl:template name="brill_originInfo">
         <originInfo>
             <xsl:for-each select="/article/front/article-meta">
                 <!--condition 1-->
@@ -240,50 +237,47 @@
                         test="pub-date[@publication-format = 'online' and @date-type = 'article']">
                         <xsl:apply-templates
                             select="pub-date[@publication-format = 'online' and @date-type = 'article']"
-                            mode="brill_origin"/>
+                            mode="dateIssued"/>
                     </xsl:when>
                     <!--condition 2-->
                     <xsl:when
                         test="pub-date[@publication-format = 'online' and not(@date-type = ('issue', 'article'))]">
                         <xsl:apply-templates
                             select="pub-date[@publication-format = 'online' and not(@date-type = ('issue', 'article'))]"
-                            mode="brill_origin"/>
+                            mode="dateIssued"/>
                     </xsl:when>
                     <!--condition 3-->
                     <xsl:when
                         test="pub-date[@date-type = 'issue' and @publication-format = 'online']">
                         <xsl:apply-templates
                             select="pub-date[@date-type = 'issue' and @publication-format = 'online']"
-                            mode="brill_other"/>
+                            mode="dateOther"/>
                     </xsl:when>
                     <!--condition 4-->
                     <xsl:when test="not(pub-date)">
                         <xsl:apply-templates select="history/date[@date-type = 'accepted']"
-                            mode="brill_origin"/>
+                            mode="dateIssued"/>
                         <!--condition 5-->
                         <xsl:if test="not(//history/date[@date-type = 'accepted'])">
                             <xsl:apply-templates select="permissions/copyright-year"
-                                mode="brill_origin"/>
+                                mode="dateIssued"/>
                         </xsl:if>
                     </xsl:when>
                     <xsl:otherwise>
-                        <dateOther encoding="w3cdtf">
-                            <xsl:attribute name="type">
-                                <xsl:choose>
-                                    <xsl:when test="pub-date[@publication-format = 'print']">
-                                        <xsl:value-of
-                                            select="pub-date[@publication-format = 'print']"/>
-                                    </xsl:when>
-                                    <xsl:when test="pub-date[@publication-format = 'online']">
-                                        <xsl:value-of
-                                            select="pub-date[@publication-format = 'online']"/>
-                                    </xsl:when>
-                                </xsl:choose>
-                            </xsl:attribute>
-                            <xsl:value-of
-                                select="pub-date[string-join((year, f:checkMonthType(month[not(. = '')]), format-number(day[not(. = '')], '00'))[. != 'NaN'], '-')]"
-                            />
-                        </dateOther>
+                        <xsl:element name="dateOther">
+                            <xsl:attribute name="encoding" select="'w3cdtf'"/>
+                            <xsl:choose>
+                                <xsl:when test="pub-date[@publication-format = 'print']">
+                                    <xsl:value-of
+                                        select="pub-date[@publication-format = 'print']"/>
+                                </xsl:when>
+                                <xsl:when test="pub-date[@publication-format = 'online']">
+                                    <xsl:value-of
+                                        select="pub-date[@publication-format = 'online']"/>
+                                </xsl:when>
+                            </xsl:choose>
+                                <xsl:value-of select="string-join((year, f:checkMonthType(month[not(. = '')]), format-number(day[not(. = '')], '00'))[. != 'NaN'], '-')"/>
+                        </xsl:element>                      
                     </xsl:otherwise>
                 </xsl:choose>
             </xsl:for-each>
@@ -291,7 +285,7 @@
     </xsl:template>
 
     <!--@publication-format = 'online' and @date-type = 'article'-->
-    <xd:doc scope="component" id="dateIssued_origin">
+    <xd:doc scope="component" id="date_templates">
         <xd:desc>
             <xd:p>Online publication date added as 'dateIssued.' Brill's print publication date
                 contains only the year, as such the online publication is preferred. </xd:p>
@@ -300,7 +294,7 @@
         </xd:desc>
     </xd:doc>
     <xsl:template match="pub-date[@publication-format = 'online' and @date-type = 'article']"
-        mode="brill_origin">
+        mode="dateIssued">
         <dateIssued encoding="w3cdtf" keyDate="yes">
             <xsl:value-of
                 select="string-join((year, f:checkMonthType(month[not(. = '')]), format-number(day[not(. = '')], '00'))[. != 'NaN'], '-')"
@@ -308,13 +302,13 @@
         </dateIssued>
     </xsl:template>
 
-    <!--evaluates true if @publication-format='online'-->
-    <xd:doc scope="component" id="dateIssued_e-origin">
+    <!--evaluates true if @publication-format='online' and does not have @date-type='issue, article-->
+    <xd:doc scope="component" id="dateIssued">
         <xd:desc>Electronic publication date as "dateIssued." </xd:desc>
     </xd:doc>
     <xsl:template
         match="pub-date[@publication-format = 'online' and not(@date-type = ('issue', 'article'))] | history/date[@date-type = 'accepted']"
-        mode="brill_origin">
+        mode="dateIssued">
         <dateIssued encoding="w3cdtf" keyDate="yes">
             <xsl:value-of
                 select="string-join((year, f:checkMonthType(month)[not(. = '')], format-number(day[not(. = '')], '00'))[. != 'NaN'], '-')"
@@ -329,7 +323,7 @@
             @publication-format='online' and @date=type='issued' </xd:desc>
     </xd:doc>
     <xsl:template match="pub-date[@date-type = 'issue' and @publication-format = 'online']"
-        mode="brill_other">
+        mode="dateOther">
         <dateOther encoding="w3cdtf" type="electronic">
             <xsl:value-of
                 select="string-join((year, f:checkMonthType(month)[not(. = '')], format-number(day[not(. = '')], '00'))[. != 'NaN'], '-')"
@@ -343,12 +337,12 @@
     <xd:doc>
         <xd:desc> Uses copyright date as the date of publication. </xd:desc>
     </xd:doc>
-    <xsl:template match="//copyright-year" mode="brill_origin">
+    <xsl:template match="//copyright-year" mode="dateIssued">
         <dateIssued encoding="w3cdtf" keyDate="yes">
             <xsl:value-of select="."/>
         </dateIssued>
     </xsl:template>
-
+<!-- end Brill originInfo -->
 
     <!--Brill modsPart-->
     <xd:doc scope="component" id="brill_modsPart">
@@ -374,11 +368,11 @@
                         mode="brill_modsPart"/>
                 </xsl:when>
                 <!--conditoins 4-->                
-                <xsl:when test="not(pub-date)">
+                <xsl:when test="not(/article/front/article-meta/pub-date)">
                     <xsl:apply-templates select="//history/date[@date-type = 'accepted'][1]"
                         mode="brill_modsPart"/>
                     <!--conditon 5-->
-                    <xsl:if test="not(pub-date) and not(history/date[@date-type = 'accepted'])">
+                    <xsl:if test="not(//pub-date) and not(//history/date[@date-type = 'accepted'])">
                         <xsl:apply-templates select="//permissions/copyright-year"
                             mode="brill_modsPart"/>
                     </xsl:if>
