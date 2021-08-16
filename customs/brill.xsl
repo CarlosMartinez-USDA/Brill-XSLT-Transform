@@ -22,7 +22,7 @@
                 <xd:p><xd:b>Issues:</xd:b>Required to create valid metadata</xd:p>
                 <xd:li>
                     <xd:p><xd:b>Issue #1</xd:b>: Brill's metadata uses the <xd:a
-                            href="ttps://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+                            href="https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
                             <xd:i>NISO JATS DTD version 1.1</xd:i></xd:a>. The jats_to_mods.xsl
                         archive-original result document produces A-file metadata with the incorrect
                         DTD thus causing the archival copy of the source metadata to render
@@ -58,20 +58,18 @@
                     an XPath expression to match aff[@id] to xref/@rid using the current() function.
                             <xd:p><xd:i>XPath expression</xd:i>: (e.g.,
                         aff[@id=current()/xref/@rid]) </xd:p></xd:li><xd:li>
-                    <xd:p><xd:b>Enhancement #2</xd:b>: Conditional added to get corresponding
-                        author's email if it exists.</xd:p>
+                    <xd:p><xd:b>Enhancement #2</xd:b>: Conditional added to get corresponding author's email if it exists.</xd:p>
                     <xd:p>Purpose: To provide readers with information needed to correspond with the
                         author. <xd:a docid="brill-authors-name-info"
-                            >"brill-authors-name-info"</xd:a> an similar enhancement was added to
+                        >"brill-authors-name-info"</xd:a> an similar enhancement was added to
                         include the corresponding author's email if it exists. </xd:p>
                     <xd:p><xd:i>XPath Expression:</xd:i> (e.g., fn[@id=current()/xref/@rid]) </xd:p>
                 </xd:li></xd:ul>
         </xd:desc>
     </xd:doc>
     <xsl:template match="/">
-        <xsl:result-document method="xml" encoding="UTF-8" indent="yes"
-            href="file:///{$workingDir}A-{replace($originalFilename,'(.*/)(.*)(\.xml)', '$2')}_{position()}.xml"
-            format="archive-original">
+        <xsl:result-document method="xml" encoding="UTF-8" indent="yes" format="archive-original"
+            href="file:///{$workingDir}A-{replace($originalFilename,'(.*/)(.*)(\.xml)', '$2')}_{position()}.xml">
             <xsl:copy-of select="."/>
         </xsl:result-document>
         <!-- uncomment lines 79-80 if no N-file is produce-->
