@@ -215,9 +215,6 @@
                                 mode="dateIssued"/>
                         </xsl:if>
                     </xsl:when>
-                    <!--<xsl:otherwise>
-                        <xsl:apply-templates mode="matchDate"/>
-                    </xsl:otherwise>-->
                 </xsl:choose>
             </xsl:for-each>
         </originInfo>
@@ -276,29 +273,7 @@
             <xsl:value-of select="."/>
         </dateIssued>
     </xsl:template>
-   
-  <!--  <xd:doc>
-        <xd:desc>Otherwise get any date from "volume", history/date[@date-type='pub'] except when any of the aforementioned conditions apply</xd:desc>
-    </xd:doc>
-    <xsl:template
-        match="//volume[@content-type = 'year'] | //history/date[@date-type = 'pub'][* except //pub-date[@publication-date or @date-type] | //history/date[@date-type = 'accepted'] | //copyright-year]"
-        mode="matchDate">
-        <dateOther>
-            <xsl:attribute name="encoding" select="'w3cdtf'"/>
-            <xsl:choose>
-                <xsl:when test="pub-date[@publication-format = 'print']">
-                    <xsl:value-of select="//pub-date[@publication-format = 'print']"/>
-                </xsl:when>
-                <xsl:when test="pub-date[@publication-format = 'online']">
-                    <xsl:value-of select="pub-date[@publication-format = 'online']"/>
-                </xsl:when>
-            </xsl:choose>
-            <xsl:value-of
-                select="string-join((year, f:checkMonthType(month[not(. = '')]), format-number(day[not(. = '')], '00'))[. != 'NaN'], '-')"
-            />
-        </dateOther>
-    </xsl:template>
-  -->  
+
     <!-- end Brill originInfo -->
 
     <!--Brill modsPart-->
